@@ -1,0 +1,22 @@
+NOTA TÉCNICA — Norma de citação (ABNT NBR 10520:2023) e referências (ABNT NBR 6023:2025)
+
+CITAÇÕES NO TEXTO (autor-data), NBR 10520:2023:
+- Autor citado FORA dos parênteses: apenas a inicial maiúscula (caixa alta e baixa),
+  ex.: "Segundo Silva e Hasenclever (2019)...", "Mendes e Dias (1991) afirmam...".
+- Autor citado DENTRO dos parênteses: SOBRENOME EM MAIÚSCULAS (caixa alta),
+  ex.: "(SILVA; HASENCLEVER, 2019)", "(MENDES; DIAS, 1991)", "(ANTUNES, 2018)".
+  Esta é a chamada "caixa alternada": maiúsculas só nas citações entre parênteses.
+- Dois autores: separados por ponto e vírgula dentro dos parênteses.
+- Três ou mais autores: primeiro sobrenome + "et al." (et al. em ITÁLICO por ser expressão latina),
+  ex.: "(VEDOVATO et al., 2021)".
+- Entidade/sigla consagrada: mantém-se a sigla, ex.: "(IBGE, 2026)", "(BRASIL, 2026a)".
+
+REFERÊNCIAS, NBR 6023:2025:
+- Título do livro OU do periódico em NEGRITO; subtítulo sem negrito.
+- Autoria: SOBRENOME em maiúsculas, seguido do prenome abreviado.
+- Documentos on-line: acrescentar "Disponível em: <URL>. Acesso em: <data>.".
+- Preferência por DOI quando existente (forma https://doi.org/...).
+
+APLICAÇÃO NESTE ARTIGO: implementada em scripts/pipeline/09_artigo_docx.py.
+Verificado: todas as citações entre parênteses usam sobrenome em maiúsculas; as narrativas,
+caixa alta e baixa; "et al." em itálico; referências com periódico em negrito e Disponível/Acesso.

@@ -181,40 +181,74 @@ try:
 except Exception as e:
     print("parquet indisponível:", e)
 
-# ---- figuras ----
-plt.rcParams.update({"font.size": 8.5, "font.family": "DejaVu Sans"})
-# F1 — barras empilhadas por ano e grande categoria
+# ---- figuras (estilo Cell Press: Arial, eixos finos, ticks externos, sem moldura,
+#      sem linhas de grade, paleta contida, rotulagem direta, 600 dpi) ----
+plt.rcParams.update({
+    "font.family": ["Arial", "Helvetica", "DejaVu Sans"], "font.size": 7.0,
+    "axes.linewidth": 0.6, "axes.edgecolor": "black", "axes.labelsize": 7.5,
+    "xtick.direction": "out", "ytick.direction": "out",
+    "xtick.major.size": 2.6, "ytick.major.size": 2.6,
+    "xtick.major.width": 0.6, "ytick.major.width": 0.6,
+    "legend.frameon": False, "svg.fonttype": "none",
+})
+CORES = ["#2166AC", "#92C5DE", "#F4A582", "#B2182B", "#BDBDBD"]  # paleta divergente contida
+
+# F1: barras empilhadas por ano e grande categoria (rótulos sem travessão)
 ordem = ["Enfermagem – técnicos e auxiliares", "Enfermagem – enfermeiros",
          "Diagnóstico e laboratório – técnicos e auxiliares", "Medicina", "Demais profissões da saúde"]
-cores = ["#26547C", "#5B8DB8", "#EF8354", "#7A1F86", "#9AA5B1"]
+rotulos = ["Téc. e aux. de enfermagem", "Enfermeiros", "Diagnóstico e laboratório",
+           "Medicina", "Demais profissões"]
 p = saude.pivot_table(index="ano", columns="grupo4", values="id_linha", aggfunc="count", fill_value=0)[ordem]
-fig, ax = plt.subplots(figsize=(6.6, 2.9), dpi=300)
+anos_lbl = [str(a) + ("*" if a in (2018, 2022, 2024, 2025) else "") for a in p.index]
+fig, ax = plt.subplots(figsize=(6.6, 2.55), dpi=600)
 bot = np.zeros(len(p))
-for c, cor in zip(ordem, cores):
-    ax.bar([str(a) + ("*" if a in (2018, 2022, 2024, 2025) else "") for a in p.index], p[c], bottom=bot, label=c.replace("–", "-"), color=cor, width=0.72)
+for c, cor, rot in zip(ordem, CORES, rotulos):
+    ax.bar(anos_lbl, p[c], bottom=bot, label=rot, color=cor, width=0.62,
+           edgecolor="white", linewidth=0.4)
     bot += p[c].values
-ax.set_ylabel("CATs registradas (n)")
-ax.legend(fontsize=6.2, ncol=2, frameon=False, loc="upper right")
+for xi, tot in enumerate(p.sum(axis=1).values):          # rotulagem direta dos totais
+    ax.annotate(f"{tot}", (xi, tot), xytext=(0, 2.5), textcoords="offset points",
+                ha="center", va="bottom", fontsize=6.4, color="#4D4D4D")
+ax.set_ylabel("CATs (n)")
+ax.set_ylim(0, float(p.sum(axis=1).max()) * 1.16)
 ax.spines[["top", "right"]].set_visible(False)
-fig.tight_layout()
-fig.savefig("saidas/figuras/F1_cat_ano_categorias.png", bbox_inches="tight")
+ax.tick_params(axis="x", length=0)
+ax.legend(ncol=3, fontsize=6.2, loc="upper left", bbox_to_anchor=(0, 1.02),
+          handlelength=1.0, handleheight=1.0, columnspacing=0.9, labelspacing=0.35,
+          borderaxespad=0)
+fig.tight_layout(pad=0.4)
+fig.savefig("saidas/figuras/F1_cat_ano_categorias.png", bbox_inches="tight", facecolor="white")
+fig.savefig("saidas/figuras/F1_cat_ano_categorias.svg", bbox_inches="tight", facecolor="white")
 plt.close(fig)
 
-# F2 — série mensal saúde com faixa pandêmica
+# F2: série mensal com faixa do período crítico e médias por período (rotulagem direta)
 s = saude.groupby("mes").size()
 idx = pd.period_range("2018-01", "2025-12", freq="M").astype(str)
 s = s.reindex(idx, fill_value=0)
-fig, ax = plt.subplots(figsize=(6.6, 2.4), dpi=300)
+lidx = list(idx)
+i0, i1 = lidx.index("2020-03"), lidx.index("2021-12")
+fig, ax = plt.subplots(figsize=(6.6, 2.15), dpi=600)
+ymax = float(s.max()) * 1.14
+ax.axvspan(i0 - 0.5, i1 + 0.5, color="#F5E1D3", alpha=0.55, lw=0, zorder=0)
+ax.annotate("período crítico da covid-19", ((i0 + i1) / 2, ymax * 0.95),
+            ha="center", fontsize=6.2, color="#8C5A3A")
 x = np.arange(len(s))
-ax.axvspan(list(idx).index("2020-03"), list(idx).index("2021-12"), color="#F2D7D5", alpha=.6, label="período crítico COVID-19")
-ax.plot(x, s.values, lw=1.0, color="#26547C")
-ax.set_xticks([list(idx).index(f"{a}-01") for a in range(2018, 2026)])
+ax.plot(x, s.values, lw=1.1, color="#2166AC", solid_capstyle="round", zorder=3)
+# médias por período (segmentos tracejados com rótulo direto)
+periodos = [(0, i0 - 1, 10.7), (i0, i1, 14.5), (i1 + 1, lidx.index("2025-10"), 11.9)]
+for a, b, m in periodos:
+    ax.hlines(m, a, b, colors="#B2182B", linestyles=(0, (4, 2)), lw=0.9, zorder=4)
+    ax.annotate(f"média {str(m).replace('.', ',')}", ((a + b) / 2, m), xytext=(0, 3),
+                textcoords="offset points", ha="center", fontsize=6.0, color="#B2182B")
+ax.set_xticks([lidx.index(f"{a}-01") for a in range(2018, 2026)])
 ax.set_xticklabels([str(a) for a in range(2018, 2026)])
-ax.set_ylabel("CATs/mês (saúde)")
-ax.legend(fontsize=6.5, frameon=False)
+ax.set_xlim(-1, len(s))
+ax.set_ylim(0, ymax)
+ax.set_ylabel("CATs por mês (n)")
 ax.spines[["top", "right"]].set_visible(False)
-fig.tight_layout()
-fig.savefig("saidas/figuras/F2_serie_mensal_saude.png", bbox_inches="tight")
+fig.tight_layout(pad=0.4)
+fig.savefig("saidas/figuras/F2_serie_mensal_saude.png", bbox_inches="tight", facecolor="white")
+fig.savefig("saidas/figuras/F2_serie_mensal_saude.svg", bbox_inches="tight", facecolor="white")
 plt.close(fig)
 
 print("tabelas:", len(T), "| saúde:", len(saude), "| multi:", len(multi), "| nclass:", len(nclass))
