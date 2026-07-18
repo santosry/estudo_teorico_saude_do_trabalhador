@@ -82,7 +82,7 @@ corpo = [
  "weberiana de classe e estamento (LEMOS, 2012).",
 
  "Método. Estudo teórico-conceitual e documental com apoio de dados secundários. A base empírica foi reconstruída integralmente a partir "
- "dos 58 arquivos brutos dos dados abertos da CAT/INSS (competências de jul./2018 a dez./2025; 3.902.905 linhas) (BRASIL, 2026), importados por "
+ "dos 58 arquivos brutos dos dados abertos da CAT/INSS (competências de jul./2018 a dez./2025; 3.902.905 linhas) (BRASIL, 2026a), importados por "
  "posição ante quatro esquemas estruturais com cabeçalhos duplicados (CBO, CID-10, CNAE, “Data Acidente”), codificação detectada por arquivo e "
  "distinção estrita entre o mês de referência (coluna 2) e a data completa do acidente, usada nas análises temporais. O filtro municipal exigiu, "
  "simultaneamente, código do município do empregador igual a 330100 (extraído antes do hífen) e UF do empregador Rio de Janeiro, excluindo-se "
@@ -93,9 +93,12 @@ corpo = [
  "laboratório, agentes comunitários e afins, instrumentação cirúrgica); profissões multiprofissionais intersetoriais (psicologia, serviço "
  "social, educação física, biologia), analisadas à parte com sensibilidade restrita a empregadores de CNAE 86/87; e trabalhadores de apoio em "
  "estabelecimentos de saúde, jamais somados às profissões da saúde. Registros sem CBO válido (184; 3,6%) foram mantidos em categoria própria. "
- "Sem denominadores ocupacionais disponíveis (RAIS/CNES), apresentam-se apenas frequências e proporções dentro do conjunto de CATs; células "
- "com n<5 foram agregadas. Os totais foram reproduzidos por rotina independente, com convergência integral; análises de sensibilidade "
- "abrangeram exclusão de 2025 (parcial, até out.), meses equivalentes, exclusão de trajeto e universo restrito a CNAE saúde.",
+ "Denominadores de força de trabalho foram extraídos do CNES/DataSUS — profissionais (indivíduos) por ocupação, em dezembro de "
+ "cada ano, no município (BRASIL, 2026b) —, mas, por incluírem vínculos estatutários, autônomos e de pessoa jurídica não cobertos "
+ "pela CAT, sustentam apenas razões exploratórias de densidade de comunicação, e não incidência; no mais, apresentam-se "
+ "frequências e proporções dentro do conjunto de CATs, com agregação de células n<5. Os totais foram reproduzidos por rotina "
+ "independente, com convergência integral; análises de sensibilidade abrangeram exclusão de 2025 (parcial, até out.), meses "
+ "equivalentes, exclusão de trajeto, somente típicos e universo restrito a CNAE 86/87.",
 
  "Das 5.066 CATs de empregadores de Campos, 1.144 (22,6%) referem-se ao universo principal das profissões da saúde — proporção que, "
  "por si, indica o peso do polo assistencial no emprego formal celetista local. A distribuição interna (Tabela 2) é fortemente assimétrica: a "
@@ -123,8 +126,15 @@ corpo = [
  "Os dados permitem afirmar a estrutura interna das comunicações registradas — quem aparece, com quais lesões, em quais vínculos e "
  "estabelecimentos —, e não permitem estimar incidência, prevalência ou risco ocupacional: diferenças entre categorias podem refletir tamanho "
  "das forças de trabalho, composição e formalização dos vínculos, terceirização, cobertura previdenciária, cultura institucional e "
- "subnotificação diferencial. Denominadores adequados (vínculos formais por CBO, município e ano, na RAIS/eSocial; profissionais do CNES) são o "
- "caminho para indicadores padronizados, condicionados à verificação de compatibilidade entre numerador e denominador.",
+ "subnotificação diferencial. A robustez interna é alta: a predominância da enfermagem e a hierarquia das categorias mantêm-se em todas "
+ "as análises de sensibilidade — exclusão de 2025, meses jan.–out., exclusão de trajeto, somente típicos e restrição a CNAE 86/87 "
+ "(participação da enfermagem entre 84,4% e 86,3%). Denominadores reais do CNES/DataSUS — profissionais por ocupação em dezembro de "
+ "cada ano, de 9.803 (2018) a 13.275 (2025) no município (BRASIL, 2026b) — permitem uma razão exploratória de densidade de comunicação, "
+ "jamais de incidência, pois o CNES inclui vínculos estatutários, autônomos e de pessoa jurídica, fora da cobertura da CAT: nos anos de "
+ "cobertura integral (2019–2021 e 2023), houve 29,5 a 43,5 CATs por 1.000 técnicos e auxiliares de enfermagem ao ano, 19,4 a 32,7 por "
+ "1.000 enfermeiros e, na medicina, no máximo 3,6 (2019; demais anos suprimidos por n<5) — gradiente que reforça a leitura de proteção "
+ "e notificação desiguais entre as categorias. Vínculos formais da RAIS/eSocial por CBO, município e ano permanecem como denominador "
+ "prioritário para indicadores padronizados, condicionados à verificação de compatibilidade entre numerador e denominador.",
 
  "Considerações finais. Para a Vigilância em Saúde do Trabalhador e a gestão municipal, os resultados indicam prioridades concretas: "
  "proteger a base técnica da enfermagem — núcleo do cuidado e dos registros —, com ênfase em perfurocortantes e exposição biológica; enfrentar a "
@@ -132,7 +142,8 @@ corpo = [
  "e as notificações do SUS; qualificar o preenchimento (3,6% dos registros sem CBO válido, concentrados em 2021-2023); e planejar a rede — cuja "
  "sustentação financeira oscila com as rendas petrolíferas (MARTINS; HASENCLEVER; MIRANDA, 2024) — reconhecendo que a proteção dos que cuidam é "
  "condição do cuidado. Limitações: a CAT capta comunicações, não a totalidade dos acidentes; cobre essencialmente o emprego formal celetista, "
- "excluindo informais, autônomos e estatutários; não há denominadores ocupacionais; a cobertura da fonte é parcial em 2018 (competências desde "
+ "excluindo informais, autônomos e estatutários; não há denominadores compatíveis para incidência — as razões com o CNES são "
+ "exploratórias, pois o denominador inclui vínculos não celetistas —; a cobertura da fonte é parcial em 2018 (competências desde "
  "jul.), irregular em 2022, atípica em set.-dez./2024 e incompleta em 2025 (até out.), o que restringe comparações anuais; registros sem CBO "
  "podem subestimar profissões da saúde em 2021-2023; e o desenho descritivo-documental não permite inferência causal.",
 ]
@@ -163,9 +174,17 @@ p_txt("Fonte: elaboração própria a partir de IBGE (2026); valores correntes, 
 pf = d.add_paragraph(); pf.alignment = WD_ALIGN_PARAGRAPH.CENTER
 pf.add_run().add_picture("saidas/figuras/F1_cat_ano_categorias.png", width=Cm(14.5))
 p_txt("Figura 1 – CATs de profissões da saúde (universo principal, n = 1.144) vinculadas a empregadores de Campos dos Goytacazes (RJ), por ano "
-      "do acidente e categoria profissional, 2018–2025. Unidade: registros. Fonte: elaboração própria a partir de BRASIL (2026). "
+      "do acidente e categoria profissional, 2018–2025. Unidade: registros. Fonte: elaboração própria a partir de BRASIL (2026a). "
       "*Cobertura parcial/irregular da fonte (2018: competências desde jul.; 2022: carga irregular; 2024: set.–dez. atípicos; 2025: até out.). "
       "Frequências de comunicação, não taxas de acidente.", indent=False, size=8.5, after=4)
+
+# ---------- Figura 2 ----------
+pf2 = d.add_paragraph(); pf2.alignment = WD_ALIGN_PARAGRAPH.CENTER
+pf2.add_run().add_picture("saidas/figuras/F2_serie_mensal_saude.png", width=Cm(14.5))
+p_txt("Figura 2 – Distribuição mensal das CATs de profissões da saúde (universo principal, n = 1.144), empregadores de Campos dos "
+      "Goytacazes (RJ), jan./2018–dez./2025, com destaque para o período crítico da covid-19 (mar./2020–dez./2021). Unidade: registros/mês. "
+      "Fonte: elaboração própria a partir de BRASIL (2026a). As oscilações também refletem a cobertura da fonte (ver notas da Figura 1); "
+      "médias mensais: 10,7 (pré-pandemia), 14,5 (período crítico) e 11,9 (pós-crítico).", indent=False, size=8.5, after=4)
 
 # ---------- Tabela 2 ----------
 p_txt("Tabela 2 – Características das CATs das profissões da saúde, empregadores de Campos dos Goytacazes (RJ), 2018–2025 (n = 1.144)",
@@ -195,7 +214,7 @@ for i, row in enumerate(t2):
         cells[j].text = v
         for r_ in cells[j].paragraphs[0].runs:
             r_.font.size = Pt(8.5); r_.bold = (i == 0)
-p_txt("Fonte: elaboração própria a partir de BRASIL (2026). Idade mediana: 36 anos. Percentuais sobre o total de registros do universo "
+p_txt("Fonte: elaboração própria a partir de BRASIL (2026a). Idade mediana: 36 anos. Percentuais sobre o total de registros do universo "
       "principal; sexo ignorado em 4 registros; um óbito registrado.", indent=False, size=8.5, after=6)
 
 # ---------- Referências ----------
@@ -203,7 +222,9 @@ p_txt("Referências", indent=False, bold=True, size=10.5, before=2, after=2)
 refs = [
  "ANTUNES, R. O privilégio da servidão: o novo proletariado de serviços na era digital. São Paulo: Boitempo, 2018.",
  "BRASIL. Instituto Nacional do Seguro Social. Comunicações de Acidente de Trabalho – CAT: dados abertos, competências jul. 2018–dez. 2025. "
- "Brasília, DF: INSS, 2026. Disponível em: https://dados.gov.br/dados/conjuntos-dados/inss-comunicacao-de-acidente-de-trabalho-cat. Acesso em: 18 jul. 2026.",
+ "Brasília, DF: INSS, 2026a. Disponível em: https://dados.gov.br/dados/conjuntos-dados/inss-comunicacao-de-acidente-de-trabalho-cat. Acesso em: 18 jul. 2026.",
+ "BRASIL. Ministério da Saúde. DATASUS. CNES – Recursos Humanos – Profissionais – Indivíduos – segundo CBO 2002 – Rio de Janeiro. "
+ "Brasília, DF: Ministério da Saúde, 2026b. TabNet. Disponível em: http://tabnet.datasus.gov.br. Acesso em: 18 jul. 2026.",
  "CECILIO, L. C. O.; LACAZ, F. A. C. O trabalho em saúde. Rio de Janeiro: Cebes, 2012.",
  "IBGE. Sistema IBGE de Recuperação Automática – SIDRA: Censo Demográfico 2022 (tabela 4714); Produto Interno Bruto dos Municípios (tabela 5938); "
  "Produção Agrícola Municipal (tabela 1612). Rio de Janeiro: IBGE, 2026. Acesso em: 18 jul. 2026.",
@@ -228,10 +249,16 @@ for r_ in refs:
 os.makedirs("documentos", exist_ok=True)
 d.save("documentos/artigo.docx")
 
-# ---------- verificação de páginas ----------
-soffice = r"C:\Program Files\LibreOffice\program\soffice.exe"
-subprocess.run([soffice, "--headless", "--convert-to", "pdf", "--outdir", "documentos", "documentos/artigo.docx"],
-               capture_output=True, timeout=300)
-from pypdf import PdfReader
-npag = len(PdfReader("documentos/artigo.pdf").pages)
-print(f"artigo.docx gerado — PDF de verificação com {npag} página(s).")
+# ---------- verificação de páginas (multiplataforma) ----------
+import shutil
+soffice = shutil.which("soffice") or r"C:\Program Files\LibreOffice\program\soffice.exe"
+if os.path.exists(soffice):
+    subprocess.run([soffice, "--headless", "--convert-to", "pdf", "--outdir", "documentos", "documentos/artigo.docx"],
+                   capture_output=True, timeout=300)
+    from pypdf import PdfReader
+    npag = len(PdfReader("documentos/artigo.pdf").pages)
+    print(f"artigo.docx gerado — PDF de verificação com {npag} página(s).")
+    if npag > 5:
+        raise SystemExit("LIMITE EXCEDIDO: artigo com mais de 5 páginas — revisar conteúdo.")
+else:
+    print("AVISO: LibreOffice ausente — número de páginas NÃO verificado nesta máquina.")

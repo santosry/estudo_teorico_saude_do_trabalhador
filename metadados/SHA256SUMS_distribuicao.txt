@@ -1,0 +1,7 @@
+# ZIPs de distribuição dos brutos CAT/INSS — gerados em 2026-07-18
+# Conferência dos CSVs individuais: dados/manifesto/manifesto_arquivos.csv (SHA-256)
+acf5e1d9d495329bb634eb12506f868eeb214bd1f32ebdfbd3370a0d0da8a327  cat-inss-2018-2020.zip  (10 arquivos, 58.3 MB)
+915c032f87177296a62d55f11ef41a7ac771937b5ab3e2f6ae5fda240c6f1df5  cat-inss-2021-2022.zip  (12 arquivos, 78.3 MB)
+89609e2b4419069f417bb3ca8b283a6c5e1fd1c40fd726cdd14b3784c9a6d958  cat-inss-2023.zip  (12 arquivos, 36.7 MB)
+1fd2ee0c935404391d4055908cc026577be32eda4bc40dc177670260a7b9d014  cat-inss-2024.zip  (12 arquivos, 32.2 MB)
+78d2a0dfae5d8f460f02b421d888ed5196eef57b4f6c9b58d9fe2ff7902b19c4  cat-inss-2025.zip  (12 arquivos, 39.3 MB)

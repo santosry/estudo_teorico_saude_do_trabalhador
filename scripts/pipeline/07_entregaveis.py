@@ -152,7 +152,7 @@ aud = [
  ("smartlab", "Nenhum arquivo SmartLab presente na pasta; etapa excluída por decisão metodológica", "informativo", "manifesto_arquivos.csv", "—", "—"),
  ("legado", "Resultados da análise anterior (medicina x enfermagem) não localizados na pasta (RESULTADOS/ ausente); não reproduzíveis e não reutilizados", "informativo", "inspeção de diretórios", "análise integralmente refeita desde os brutos", "—"),
 ]
-pd.DataFrame(aud, columns=["origem", "problema_evidencia", "gravidade", "fonte_evidencia", "correcao_decisao", "limitacao_remanescente"]).to_csv("logs/log_auditoria.csv", sep=";", index=False, encoding="utf-8-sig")
+pd.DataFrame(aud, columns=["origem", "problema_evidencia", "gravidade", "fonte_evidencia", "correcao_decisao", "limitacao_remanescente"]).to_csv("logs/log_auditoria.csv", sep=";", index=False, encoding="utf-8-sig", lineterminator="\n")
 
 alt = [
  ("CAT - INSS/script.R", "classificar_profissao()", "Classificação parcialmente textual: str_detect('enferm') incluiria CBO 519305 (auxiliar de veterinário, sinônimo 'enfermeiro veterinário' na fonte); 'medic' sem exclusões suficientes", "alto", "1 registro na base Campos seria classificado como Enfermagem", "Nova classificação exclusivamente por código CBO/família com dicionário auditado", "Enfermagem incluiria registro veterinário", "519305 excluído do universo principal"),
@@ -167,22 +167,22 @@ alt = [
  ("CARACTERIZAÇÃO - CAMPOS/script.R", "tabela 4709", "Arquivo nomeado 'pib_per_capita.csv' contém tabela 4709 (população residente/taxa de crescimento), não PIB per capita", "moderado", "Risco de citação errada de indicador", "PIB per capita calculado explicitamente (PIB 5938 ÷ população 6579)", "rótulo incorreto", "indicador correto e documentado"),
  ("CARACTERIZAÇÃO - CAMPOS/script.R", "log_download", "8 de 21 tabelas SIDRA falharam (5939, 9518, 9519, 9520, 9607, 9609, 9610)", "informativo", "Caracterização incompleta (sem VA setorial em série própria, rendimento, esgotamento)", "Uso das tabelas disponíveis; lacunas declaradas", "—", "—"),
 ]
-pd.DataFrame(alt, columns=["script", "linha_bloco", "problema", "gravidade", "impacto", "correcao", "resultado_anterior", "resultado_corrigido"]).to_csv("logs/log_alteracoes_scripts.csv", sep=";", index=False, encoding="utf-8-sig")
+pd.DataFrame(alt, columns=["script", "linha_bloco", "problema", "gravidade", "impacto", "correcao", "resultado_anterior", "resultado_corrigido"]).to_csv("logs/log_alteracoes_scripts.csv", sep=";", index=False, encoding="utf-8-sig", lineterminator="\n")
 
 # log_qualidade_dados
 comp = pd.read_csv("saidas/tabelas/T15_completude_pct.csv", sep=";", encoding="utf-8-sig")
-comp.to_csv("logs/log_qualidade_dados.csv", sep=";", index=False, encoding="utf-8-sig")
+comp.to_csv("logs/log_qualidade_dados.csv", sep=";", index=False, encoding="utf-8-sig", lineterminator="\n")
 
 # 8) versões e README ------------------------------------------------------------
 import importlib.metadata as im
-pacotes = ["pandas", "numpy", "matplotlib", "openpyxl", "pypdf", "pyarrow", "python-docx"]
+pacotes = ["pandas", "numpy", "matplotlib", "openpyxl", "pypdf", "pyarrow", "python-docx", "pytest"]
 with open("metadados/versoes_programas_pacotes.txt", "w", encoding="utf-8") as f:
     f.write(f"Python {platform.python_version()} | {platform.platform()}\nLibreOffice 26.2.3.2 (conversão DOCX->PDF p/ contagem de páginas)\n")
     for p in pacotes:
         try: f.write(f"{p}=={im.version(p)}\n")
         except Exception: pass
 with open("metadados/requirements.txt", "w", encoding="utf-8") as f:
-    for p in ["pandas", "numpy", "matplotlib", "openpyxl", "pypdf", "pyarrow", "python-docx"]:
+    for p in ["pandas", "numpy", "matplotlib", "openpyxl", "pypdf", "pyarrow", "python-docx", "pytest"]:
         try: f.write(f"{p}=={im.version(p)}\n")
         except Exception: pass
 
@@ -231,10 +231,33 @@ python scripts/pipeline/06_validacao_independente.py   # exit 1 se totais diverg
 python scripts/pipeline/07_entregaveis.py
 python scripts/pipeline/08_relatorios_docx.py
 python scripts/pipeline/09_artigo_docx.py              # requer LibreOffice p/ conferir páginas
+python scripts/pipeline/10_denominadores_cnes.py       # denominadores reais CNES/TabNet (rede)
 ```
 Caminhos relativos à raiz; sem procedimentos aleatórios; logs em `logs/`.
 Os dados brutos da CAT devem ser obtidos conforme `dados/brutos/cat-inss/README.md` e conferidos
 pelos hashes de `dados/manifesto/manifesto_arquivos.csv`.
+
+## Testes e integração contínua
+`python -m pytest tests -q` — 38+ testes sobre os DADOS REAIS versionados (filtro municipal,
+deduplicação, classificação CBO, tabelas, supressão, denominadores, limite de páginas do artigo).
+Testes que exigem os brutos (não versionados) são pulados automaticamente — nunca simulados.
+O workflow `.github/workflows/ci.yml` roda os testes, reprocessa os estágios deriváveis e exige
+que os CSVs regenerados sejam idênticos aos versionados (determinismo).
+
+## Denominadores (CNES) e razões exploratórias
+`10_denominadores_cnes.py` baixa do TabNet/DataSUS os profissionais (indivíduos) por ocupação
+CBO 2002 em Campos (330100), dez/2018–dez/2025, com verificação dupla de totais e brutos em
+`dados/brutos/cnes-rh/`. As razões CAT/1.000 profissionais (T22) são EXPLORATÓRIAS: o CNES
+inclui vínculos estatutários/autônomos/PJ, fora da cobertura da CAT — não são incidência.
+RAIS/eSocial permanece como denominador prioritário (bloqueio documentado em
+`logs/log_10_denominadores.json`).
+
+## Distribuição dos dados brutos
+`python scripts/ferramentas/empacotar_dados_brutos.py` gera ZIPs por ano em `distribuicao/`
+(+ SHA-256 em `metadados/SHA256SUMS_distribuicao.txt`) para anexar a uma release do GitHub
+(`gh release create v1.0.0 distribuicao/*.zip`) ou depósito Zenodo.
+`python scripts/ferramentas/restaurar_dados_brutos.py` extrai os ZIPs e confere cada CSV
+contra o manifesto antes de liberar a reprodução.
 
 ## Advertência interpretativa
 CAT = comunicações registradas (emprego formal celetista), não a totalidade dos acidentes; sem

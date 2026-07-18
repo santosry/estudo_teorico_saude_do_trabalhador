@@ -1,0 +1,12 @@
+Índice municipal resolvido e verificado: 18 -> 330100 CAMPOS DOS GOYTACAZES (9803 profissionais em dez/2018)
+2018: 9803 profissionais (indivíduos) CNES em Campos; 176 ocupações
+2019: 10166 profissionais (indivíduos) CNES em Campos; 183 ocupações
+2020: 10723 profissionais (indivíduos) CNES em Campos; 186 ocupações
+2021: 10849 profissionais (indivíduos) CNES em Campos; 185 ocupações
+2022: 11233 profissionais (indivíduos) CNES em Campos; 184 ocupações
+2023: 12238 profissionais (indivíduos) CNES em Campos; 190 ocupações
+2024: 13129 profissionais (indivíduos) CNES em Campos; 192 ocupações
+2025: 13275 profissionais (indivíduos) CNES em Campos; 205 ocupações
+
+Proveniência e verificações em logs/log_10_denominadores.json
+T21 (denominadores) e T22 (razões exploratórias) gravadas em saidas/tabelas/

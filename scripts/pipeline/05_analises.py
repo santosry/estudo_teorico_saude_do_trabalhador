@@ -171,11 +171,11 @@ with pd.ExcelWriter("saidas/tabelas/tabelas_completas_cat_saude_campos.xlsx") as
     for nome, tab in T.items():
         tab.to_excel(xw, sheet_name=nome[:31], index=False)
 for nome, tab in T.items():
-    tab.to_csv(f"saidas/tabelas/{nome}.csv", sep=";", index=False, encoding="utf-8-sig")
+    tab.to_csv(f"saidas/tabelas/{nome}.csv", sep=";", index=False, encoding="utf-8-sig", lineterminator="\n")
 
 # base final processada (recorte saúde + multi + não classificado)
 final = pd.concat([saude, multi, nclass]).drop(columns=["grupo4", "periodo_pandemia", "faixa_etaria"], errors="ignore")
-final.to_csv("dados/processados/base_cat_campos_profissoes_saude_processada.csv", sep=";", index=False, encoding="utf-8-sig")
+final.to_csv("dados/processados/base_cat_campos_profissoes_saude_processada.csv", sep=";", index=False, encoding="utf-8-sig", lineterminator="\n")
 try:
     final.to_parquet("dados/processados/base_cat_campos_profissoes_saude_processada.parquet", index=False)
 except Exception as e:

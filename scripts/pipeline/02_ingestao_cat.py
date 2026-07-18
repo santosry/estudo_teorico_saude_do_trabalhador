@@ -82,82 +82,88 @@ def mes_de_data(d):  # dd/mm/aaaa -> aaaa-mm
     m = re.match(r"^(\d{2})/(\d{2})/(\d{4})$", d or "")
     return f"{m.group(3)}-{m.group(2)}" if m else None
 
-arquivos = sorted(f for f in os.listdir(DIR_DADOS) if f.lower().endswith(".csv"))
-stats_arquivos, candidatos, controle_campos = [], [], Counter()
-hash_linhas = defaultdict(list)  # hash -> [(arquivo, n_linha)]
-esquemas_por_arquivo = {}
 
-for nome in arquivos:
-    path = os.path.join(DIR_DADOS, nome)
-    enc = detecta_encoding(path)
-    with open(path, encoding=enc, errors="replace", newline="") as f:
-        rd = csv.reader(f, delimiter=";", quoting=csv.QUOTE_NONE)
-        header = next(rd)
-        esq, mapa = esquema_do_arquivo(header)
-        esquemas_por_arquivo[nome] = {"esquema": esq, "n_colunas": len(header), "codificacao": enc,
-                                      "cabecalho": header}
-        n_lin = n_malformada = 0
-        meses_emissao, meses_acidente = Counter(), Counter()
-        for i, row in enumerate(rd, start=2):
-            n_lin += 1
-            if len(row) != len(header):
-                n_malformada += 1
-                continue
-            reg = {c: "" for c in CAMPOS_CANONICOS}
-            for pos, campo in mapa.items():
-                if not campo.startswith("__"):
-                    reg[campo] = row[pos].strip()
-            if esq in ("S24B", "S27"):  # posição 2 traz a data completa do acidente (dupla checagem)
-                if not reg["data_acidente_bruta"]:
-                    reg["data_acidente_bruta"] = row[1].strip()
-            me = mes_de_data(reg["data_emissao_cat_bruta"]); ma = mes_de_data(reg["data_acidente_bruta"])
-            if me: meses_emissao[me] += 1
-            if ma: meses_acidente[ma] += 1
-            mun = reg["municipio_empregador_bruto"]
-            mun_norm = normaliza(mun)
-            eh_cod = mun[:6] == "330100"
-            tem_campos = "campo" in mun_norm
-            if tem_campos:
-                controle_campos[mun] += 1
-            if eh_cod or "campos" in mun_norm:
-                linha_bruta = ";".join(row)
-                h = hashlib.sha256((esq + "|" + linha_bruta).encode("utf-8")).hexdigest()
-                hash_linhas[h].append((nome, i))
-                reg.update({"arquivo_origem": nome, "esquema": esq, "id_linha": f"{nome}:{i}",
-                            "hash_registro": h})
-                candidatos.append(reg)
-        stats_arquivos.append({"arquivo": nome, "esquema": esq, "codificacao": enc,
-            "n_colunas": len(header), "linhas_dados": n_lin, "linhas_malformadas": n_malformada,
-            "meses_emissao": json.dumps(dict(sorted(meses_emissao.items())), ensure_ascii=False),
-            "meses_acidente_top": json.dumps(dict(sorted(meses_acidente.items())[-40:]), ensure_ascii=False)})
-        print(f"{nome}: {esq} {n_lin} linhas, malformadas={n_malformada}")
+def main():
+    arquivos = sorted(f for f in os.listdir(DIR_DADOS) if f.lower().endswith(".csv"))
+    stats_arquivos, candidatos, controle_campos = [], [], Counter()
+    hash_linhas = defaultdict(list)  # hash -> [(arquivo, n_linha)]
+    esquemas_por_arquivo = {}
 
-# --- saídas -------------------------------------------------------------
-cols_saida = ["arquivo_origem", "esquema", "id_linha", "hash_registro"] + CAMPOS_CANONICOS
-with open(os.path.join(DIR_OUT, "candidatos_campos_bruto.csv"), "w", newline="", encoding="utf-8-sig") as f:
-    w = csv.DictWriter(f, fieldnames=cols_saida, delimiter=";")
-    w.writeheader(); w.writerows(candidatos)
+    for nome in arquivos:
+        path = os.path.join(DIR_DADOS, nome)
+        enc = detecta_encoding(path)
+        with open(path, encoding=enc, errors="replace", newline="") as f:
+            rd = csv.reader(f, delimiter=";", quoting=csv.QUOTE_NONE)
+            header = next(rd)
+            esq, mapa = esquema_do_arquivo(header)
+            esquemas_por_arquivo[nome] = {"esquema": esq, "n_colunas": len(header), "codificacao": enc,
+                                          "cabecalho": header}
+            n_lin = n_malformada = 0
+            meses_emissao, meses_acidente = Counter(), Counter()
+            for i, row in enumerate(rd, start=2):
+                n_lin += 1
+                if len(row) != len(header):
+                    n_malformada += 1
+                    continue
+                reg = {c: "" for c in CAMPOS_CANONICOS}
+                for pos, campo in mapa.items():
+                    if not campo.startswith("__"):
+                        reg[campo] = row[pos].strip()
+                if esq in ("S24B", "S27"):  # posição 2 traz a data completa do acidente (dupla checagem)
+                    if not reg["data_acidente_bruta"]:
+                        reg["data_acidente_bruta"] = row[1].strip()
+                me = mes_de_data(reg["data_emissao_cat_bruta"]); ma = mes_de_data(reg["data_acidente_bruta"])
+                if me: meses_emissao[me] += 1
+                if ma: meses_acidente[ma] += 1
+                mun = reg["municipio_empregador_bruto"]
+                mun_norm = normaliza(mun)
+                eh_cod = mun[:6] == "330100"
+                tem_campos = "campo" in mun_norm
+                if tem_campos:
+                    controle_campos[mun] += 1
+                if eh_cod or "campos" in mun_norm:
+                    linha_bruta = ";".join(row)
+                    h = hashlib.sha256((esq + "|" + linha_bruta).encode("utf-8")).hexdigest()
+                    hash_linhas[h].append((nome, i))
+                    reg.update({"arquivo_origem": nome, "esquema": esq, "id_linha": f"{nome}:{i}",
+                                "hash_registro": h})
+                    candidatos.append(reg)
+            stats_arquivos.append({"arquivo": nome, "esquema": esq, "codificacao": enc,
+                "n_colunas": len(header), "linhas_dados": n_lin, "linhas_malformadas": n_malformada,
+                "meses_emissao": json.dumps(dict(sorted(meses_emissao.items())), ensure_ascii=False),
+                "meses_acidente_top": json.dumps(dict(sorted(meses_acidente.items())[-40:]), ensure_ascii=False)})
+            print(f"{nome}: {esq} {n_lin} linhas, malformadas={n_malformada}")
 
-with open(os.path.join(DIR_OUT, "estatisticas_por_arquivo.csv"), "w", newline="", encoding="utf-8-sig") as f:
-    w = csv.DictWriter(f, fieldnames=list(stats_arquivos[0].keys()), delimiter=";")
-    w.writeheader(); w.writerows(stats_arquivos)
+    # --- saídas -------------------------------------------------------------
+    cols_saida = ["arquivo_origem", "esquema", "id_linha", "hash_registro"] + CAMPOS_CANONICOS
+    with open(os.path.join(DIR_OUT, "candidatos_campos_bruto.csv"), "w", newline="", encoding="utf-8-sig") as f:
+        w = csv.DictWriter(f, fieldnames=cols_saida, delimiter=";")
+        w.writeheader(); w.writerows(candidatos)
 
-with open(os.path.join(DIR_OUT, "controle_localidades_campo.csv"), "w", newline="", encoding="utf-8-sig") as f:
-    w = csv.writer(f, delimiter=";")
-    w.writerow(["municipio_empregador_bruto", "n_registros"])
-    for k, v in controle_campos.most_common():
-        w.writerow([k, v])
+    with open(os.path.join(DIR_OUT, "estatisticas_por_arquivo.csv"), "w", newline="", encoding="utf-8-sig") as f:
+        w = csv.DictWriter(f, fieldnames=list(stats_arquivos[0].keys()), delimiter=";")
+        w.writeheader(); w.writerows(stats_arquivos)
 
-dups = {h: locs for h, locs in hash_linhas.items() if len(locs) > 1}
-with open(os.path.join(DIR_OUT, "duplicidades_linha_bruta.csv"), "w", newline="", encoding="utf-8-sig") as f:
-    w = csv.writer(f, delimiter=";")
-    w.writerow(["hash_registro", "ocorrencias", "localizacoes"])
-    for h, locs in dups.items():
-        w.writerow([h, len(locs), " | ".join(f"{a}:{l}" for a, l in locs)])
+    with open(os.path.join(DIR_OUT, "controle_localidades_campo.csv"), "w", newline="", encoding="utf-8-sig") as f:
+        w = csv.writer(f, delimiter=";")
+        w.writerow(["municipio_empregador_bruto", "n_registros"])
+        for k, v in controle_campos.most_common():
+            w.writerow([k, v])
 
-with open(os.path.join(DIR_LOG, "esquemas_por_arquivo.json"), "w", encoding="utf-8") as f:
-    json.dump(esquemas_por_arquivo, f, ensure_ascii=False, indent=1)
+    dups = {h: locs for h, locs in hash_linhas.items() if len(locs) > 1}
+    with open(os.path.join(DIR_OUT, "duplicidades_linha_bruta.csv"), "w", newline="", encoding="utf-8-sig") as f:
+        w = csv.writer(f, delimiter=";")
+        w.writerow(["hash_registro", "ocorrencias", "localizacoes"])
+        for h, locs in dups.items():
+            w.writerow([h, len(locs), " | ".join(f"{a}:{l}" for a, l in locs)])
 
-tot = sum(s["linhas_dados"] for s in stats_arquivos)
-print(f"\nTotal linhas lidas: {tot} | candidatos 'campos/330100': {len(candidatos)} | "
-      f"hashes duplicados (subset candidatos): {len(dups)}")
+    with open(os.path.join(DIR_LOG, "esquemas_por_arquivo.json"), "w", encoding="utf-8") as f:
+        json.dump(esquemas_por_arquivo, f, ensure_ascii=False, indent=1)
+
+    tot = sum(s["linhas_dados"] for s in stats_arquivos)
+    print(f"\nTotal linhas lidas: {tot} | candidatos 'campos/330100': {len(candidatos)} | "
+          f"hashes duplicados (subset candidatos): {len(dups)}")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,1828 @@
+﻿ano;competencia;nivel;ocupacao_cnes;universo;categoria_estudo;n_profissionais
+2018;2018-12;secao;PESSOAL DE SAÚDE - NÍVEL SUPERIOR;;;3796
+2018;2018-12;secao;ANESTESISTA;;;45
+2018;2018-12;ocupacao;Médico Anestesiologista;principal;Medicina;45
+2018;2018-12;secao;ASSISTENTE SOCIAL;;;173
+2018;2018-12;ocupacao;Assistente Social;multiprofissional;Serviço social;173
+2018;2018-12;secao;BIOQUÍMICO/FARMACÊUTICO;;;98
+2018;2018-12;ocupacao;Farmacêutico;principal;Farmácia;98
+2018;2018-12;secao;CIRURGIÃO GERAL;;;36
+2018;2018-12;ocupacao;Médico Cirurgião Geral;principal;Medicina;36
+2018;2018-12;secao;CLÍNICO GERAL;;;376
+2018;2018-12;ocupacao;Médico Clínico;principal;Medicina;376
+2018;2018-12;secao;ENFERMEIRO;;;788
+2018;2018-12;ocupacao;Outros enfermeiros;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);5
+2018;2018-12;ocupacao;Enfermeiro;principal;Enfermagem – enfermeiros;734
+2018;2018-12;ocupacao;Enfermeiro auditor;principal;Enfermagem – enfermeiros;6
+2018;2018-12;ocupacao;Enfermeiro da estratégia de saúde da família;principal;Enfermagem – enfermeiros;19
+2018;2018-12;ocupacao;Enfermeiro de centro cir£rgico;principal;Enfermagem – enfermeiros;1
+2018;2018-12;ocupacao;Enfermeiro de terapia intensiva;principal;Enfermagem – enfermeiros;1
+2018;2018-12;ocupacao;Enfermeiro do trabalho;principal;Enfermagem – enfermeiros;9
+2018;2018-12;ocupacao;Enfermeiro nefrologista;principal;Enfermagem – enfermeiros;4
+2018;2018-12;ocupacao;Enfermeiro obstétrico;principal;Enfermagem – enfermeiros;6
+2018;2018-12;ocupacao;Enfermeiro psiquiátrico;principal;Enfermagem – enfermeiros;2
+2018;2018-12;ocupacao;Enfermeiro sanitarista;principal;Enfermagem – enfermeiros;1
+2018;2018-12;secao;FISIOTERAPEUTA;;;414
+2018;2018-12;ocupacao;Fisioterapeuta geral;principal;Fisioterapia;413
+2018;2018-12;ocupacao;Fisioterapeuta neurofuncional;principal;Fisioterapia;1
+2018;2018-12;secao;FONOAUDIÓLOGO;;;72
+2018;2018-12;ocupacao;Fonoaudiólogo;principal;Fonoaudiologia;72
+2018;2018-12;secao;GINECO OBSTETRA;;;113
+2018;2018-12;ocupacao;Médico Ginecologista Obstetra;principal;Medicina;113
+2018;2018-12;secao;MÉDICO DE FAMÍLIA;;;12
+2018;2018-12;ocupacao;Médico da estratégia de Saúde da Família;principal;Medicina;12
+2018;2018-12;secao;NUTRICIONISTA;;;73
+2018;2018-12;ocupacao;Nutricionista;principal;Nutrição;73
+2018;2018-12;secao;ODONTÓLOGO;;;562
+2018;2018-12;ocupacao;Cirurgião dentista - auditor;principal;Odontologia e saúde bucal;1
+2018;2018-12;ocupacao;Cirurgião dentista - clínico geral;principal;Odontologia e saúde bucal;449
+2018;2018-12;ocupacao;Cirurgião dentista - endodontista;principal;Odontologia e saúde bucal;23
+2018;2018-12;ocupacao;Cirurgião dentista - estomatologista;principal;Odontologia e saúde bucal;2
+2018;2018-12;ocupacao;Cirurgião dentista - odontogeriatra;principal;Odontologia e saúde bucal;1
+2018;2018-12;ocupacao;Cirurgião dentista - odontologia para pacientes co;principal;Odontologia e saúde bucal;1
+2018;2018-12;ocupacao;Cirurgião dentista - odontopediatra;principal;Odontologia e saúde bucal;14
+2018;2018-12;ocupacao;Cirurgião dentista - ortopedista e ortodontista;principal;Odontologia e saúde bucal;18
+2018;2018-12;ocupacao;Cirurgião dentista - periodontista;principal;Odontologia e saúde bucal;6
+2018;2018-12;ocupacao;Cirurgião dentista - protesista;principal;Odontologia e saúde bucal;12
+2018;2018-12;ocupacao;Cirurgião dentista - protesiólogo bucomaxilofacial;principal;Odontologia e saúde bucal;1
+2018;2018-12;ocupacao;Cirurgião dentista - radiologista;principal;Odontologia e saúde bucal;6
+2018;2018-12;ocupacao;Cirurgião dentista - traumatologista bucomaxilofac;principal;Odontologia e saúde bucal;16
+2018;2018-12;ocupacao;Cirurgião-dentista da estratégia de saúde da famíl;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);12
+2018;2018-12;secao;PEDIATRA;;;211
+2018;2018-12;ocupacao;Médico Pediatra;principal;Medicina;211
+2018;2018-12;secao;PSICÓLOGO;;;181
+2018;2018-12;ocupacao;Psicólogo Clínico;multiprofissional;Psicologia;173
+2018;2018-12;ocupacao;Psicólogo do Trabalho;multiprofissional;Psicologia;1
+2018;2018-12;ocupacao;Psicólogo Educacional;multiprofissional;Psicologia;2
+2018;2018-12;ocupacao;Psicólogo Hospitalar;multiprofissional;Psicologia;5
+2018;2018-12;secao;PSIQUIATRA;;;16
+2018;2018-12;ocupacao;Médico psiquiatra;principal;Medicina;16
+2018;2018-12;secao;RADIOLOGISTA;;;41
+2018;2018-12;ocupacao;Médico em radiologia e diagnóstico por imagem;principal;Medicina;41
+2018;2018-12;secao;SANITARISTA;;;2
+2018;2018-12;ocupacao;Médico sanitarista;principal;Medicina;2
+2018;2018-12;secao;OUTRAS ESPECIALIDADES MÉDICAS;;;494
+2018;2018-12;ocupacao;Médico acupunturista;principal;Medicina;1
+2018;2018-12;ocupacao;Médico alergista e imunologista;principal;Medicina;12
+2018;2018-12;ocupacao;Médico anatomopatologista;principal;Medicina;5
+2018;2018-12;ocupacao;Médico angiologista;principal;Medicina;15
+2018;2018-12;ocupacao;Médico Cardiologista Intervencionista;principal;Medicina;1
+2018;2018-12;ocupacao;Médico cardiologista;principal;Medicina;90
+2018;2018-12;ocupacao;Médico cirurgião cardiovascular;principal;Medicina;1
+2018;2018-12;ocupacao;Médico cirurgião de cabeça e pescoço;principal;Medicina;4
+2018;2018-12;ocupacao;Médico cirurgião do aparelho digestivo;principal;Medicina;3
+2018;2018-12;ocupacao;Médico cirurgião pediátrico;principal;Medicina;1
+2018;2018-12;ocupacao;Médico cirurgião plástico;principal;Medicina;6
+2018;2018-12;ocupacao;Médico cirurgião torácico;principal;Medicina;1
+2018;2018-12;ocupacao;Médico coloproctologista;principal;Medicina;2
+2018;2018-12;ocupacao;Médico dermatologista;principal;Medicina;25
+2018;2018-12;ocupacao;Médico do trabalho;principal;Medicina;12
+2018;2018-12;ocupacao;Médico em cirurgia vascular;principal;Medicina;2
+2018;2018-12;ocupacao;Médico em medicina intensiva;principal;Medicina;20
+2018;2018-12;ocupacao;Médico em medicina nuclear;principal;Medicina;3
+2018;2018-12;ocupacao;Médico endocrinologista e metabologista;principal;Medicina;11
+2018;2018-12;ocupacao;Médico fisiatra;principal;Medicina;3
+2018;2018-12;ocupacao;Médico gastroenterologista;principal;Medicina;16
+2018;2018-12;ocupacao;Médico geriatra;principal;Medicina;7
+2018;2018-12;ocupacao;Médico hematologista;principal;Medicina;2
+2018;2018-12;ocupacao;Médico infectologista;principal;Medicina;13
+2018;2018-12;ocupacao;Médico mastologista;principal;Medicina;3
+2018;2018-12;ocupacao;Médico nefrologista;principal;Medicina;24
+2018;2018-12;ocupacao;Médico neurocirurgião;principal;Medicina;7
+2018;2018-12;ocupacao;Médico neurologista;principal;Medicina;30
+2018;2018-12;ocupacao;Médico nutrologista;principal;Medicina;2
+2018;2018-12;ocupacao;Médico oftalmologista;principal;Medicina;45
+2018;2018-12;ocupacao;Médico oncologista clínico;principal;Medicina;21
+2018;2018-12;ocupacao;Médico ortopedista e traumatologista;principal;Medicina;42
+2018;2018-12;ocupacao;Médico otorrinolaringologista;principal;Medicina;21
+2018;2018-12;ocupacao;Médico patologista;principal;Medicina;1
+2018;2018-12;ocupacao;Médico patologista clínico / medicina laboratorial;principal;Medicina;1
+2018;2018-12;ocupacao;Médico pneumologista;principal;Medicina;8
+2018;2018-12;ocupacao;Médico radioterapeuta;principal;Medicina;3
+2018;2018-12;ocupacao;Médico residente;principal;Medicina;9
+2018;2018-12;ocupacao;Médico reumatologista;principal;Medicina;9
+2018;2018-12;ocupacao;Médico urologista;principal;Medicina;12
+2018;2018-12;secao;OUTRAS OCUPAÇÕES DE NÍVEL SUPERIOR RELAC À SAÚDE;;;89
+2018;2018-12;ocupacao;Médico veterinário;principal;Medicina;14
+2018;2018-12;ocupacao;Biólogo;multiprofissional;Biologia;36
+2018;2018-12;ocupacao;BioMédico;principal;Biomedicina;1
+2018;2018-12;ocupacao;Coordenador Pedagógico;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2018;2018-12;ocupacao;Físico (medicina);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2018;2018-12;ocupacao;Físico (nuclear e reatores);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2018;2018-12;ocupacao;Neuropsicólogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2018;2018-12;ocupacao;Pedagogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2018;2018-12;ocupacao;Pesquisador em Biologia Ambiental Ecologi;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2018;2018-12;ocupacao;Preparador Físico;multiprofissional;Educação física;1
+2018;2018-12;ocupacao;Professor de Educação Fisica Ensino Superior;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2018;2018-12;ocupacao;Professor de Educação Fisica Ensino Médio;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2018;2018-12;ocupacao;Psicopedagogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2018;2018-12;ocupacao;Terapeuta ocupacional;principal;Terapia ocupacional e afins;15
+2018;2018-12;secao;PESSOAL DE SAÚDE - NÍVEL TÉCNICO TÉCNICO/AUXILIAR;;;3533
+2018;2018-12;secao;AUXILIAR DE ENFERMAGEM;;;858
+2018;2018-12;ocupacao;Auxiliar de Enfermagem;principal;Enfermagem – técnicos e auxiliares;857
+2018;2018-12;ocupacao;Auxiliar de Enfermagem do Trabalho;principal;Enfermagem – técnicos e auxiliares;1
+2018;2018-12;secao;FISCAL SANITÁRIO;;;4
+2018;2018-12;ocupacao;Visitador Sanitário;principal;Agentes comunitários de saúde e afins;4
+2018;2018-12;secao;TÉCNICO DE ENFERMAGEM;;;2119
+2018;2018-12;ocupacao;Técnico de enfermagem;principal;Enfermagem – técnicos e auxiliares;2073
+2018;2018-12;ocupacao;Técnico de enfermagem de saúde da família;principal;Enfermagem – técnicos e auxiliares;28
+2018;2018-12;ocupacao;Técnico de enfermagem de terapia intensiva;principal;Enfermagem – técnicos e auxiliares;4
+2018;2018-12;ocupacao;Socorrista (exceto médicos e enfermeiros) habilita;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);14
+2018;2018-12;secao;TÉCNICO E AUXILIAR DE FARMÁCIA;;;109
+2018;2018-12;ocupacao;Auxiliar de Farmácia de Manipulação;principal;Farmácia – técnicos e auxiliares;12
+2018;2018-12;ocupacao;Auxiliar técnico em laboratório de farmácia;principal;Farmácia – técnicos e auxiliares;6
+2018;2018-12;ocupacao;Técnico em Farmácia;principal;Farmácia – técnicos e auxiliares;91
+2018;2018-12;secao;TÉCNICO E AUXILIAR DE LABORATÓRIO;;;225
+2018;2018-12;ocupacao;Auxiliar de Laboratório de Análises Clínicas;principal;Diagnóstico e laboratório – técnicos e auxiliares;15
+2018;2018-12;ocupacao;Auxiliar Técnico em Patologia Clínica;principal;Diagnóstico e laboratório – técnicos e auxiliares;6
+2018;2018-12;ocupacao;Técnico de laboratório de análises físico-químicas;principal;Diagnóstico e laboratório – técnicos e auxiliares;6
+2018;2018-12;ocupacao;Técnico em Laboratório de Farmácia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);5
+2018;2018-12;ocupacao;Técnico em patologia clínica;principal;Diagnóstico e laboratório – técnicos e auxiliares;193
+2018;2018-12;secao;TÉCNICO E AUXILIAR EM FISIOTERAPIA E REABILITAÇÃO;;;10
+2018;2018-12;ocupacao;Técnico de imobilização ortopédica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);10
+2018;2018-12;secao;TÉCNICO E AUXILIAR EM SAÚDE ORAL;;;10
+2018;2018-12;ocupacao;Técnico em saúde bucal;principal;Odontologia e saúde bucal;10
+2018;2018-12;secao;TÉCNICO E AUXILIAR EM VIG SANITÁRIA E AMBIENTAL;;;2
+2018;2018-12;ocupacao;Agente de defesa ambiental;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2018;2018-12;secao;TÉCNICO E AUXILIAR EM RADIOLOGIA MÉDICA;;;171
+2018;2018-12;ocupacao;Auxiliar de Radiologia (Revelação Fotográfica);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2018;2018-12;ocupacao;Técnico em radiologia e imagenologia;principal;Diagnóstico e laboratório – técnicos e auxiliares;169
+2018;2018-12;secao;OUTRAS OCUPAÇÕES NÍVEL TÉCNICO E AUXILIAR EM SAÚD;;;25
+2018;2018-12;ocupacao;Instrumentador Cirúrgico;principal;Instrumentação cirúrgica;25
+2018;2018-12;secao;PESSOAL DE SAÚDE - QUALIFICAÇÃO ELEMENTAR;;;2474
+2018;2018-12;secao;AGENTE COMUNITÁRIO DE SAÚDE;;;213
+2018;2018-12;ocupacao;Agente comunitário de saúde;principal;Agentes comunitários de saúde e afins;213
+2018;2018-12;secao;AGENTE DE SAÚDE PÚBLICA;;;17
+2018;2018-12;ocupacao;Agente de saúde pública agente de saneam;principal;Agentes de combate às endemias;17
+2018;2018-12;secao;ATENDENTE DE ENFERMAGEM/AUX OPER SERV DIV E ASSEM;;;128
+2018;2018-12;ocupacao;Atendente de consultório dentario;principal;Odontologia e saúde bucal;102
+2018;2018-12;ocupacao;Atendente de enfermagem atend berçario;principal;Agentes comunitários de saúde e afins;8
+2018;2018-12;ocupacao;Atendente de farmácia balconista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);18
+2018;2018-12;secao;OUTRAS OCUPAÇÕES NÍVEL ELEMENTAR EM SAÚDE;;;2116
+2018;2018-12;secao;PESSOAL ADMINISTRATIVO;;;2116
+2018;2018-12;secao;ADMINISTRAÇÃO;;;1225
+2018;2018-12;ocupacao;Administrador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);19
+2018;2018-12;ocupacao;Advogado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2018;2018-12;ocupacao;Almoxarife;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2018;2018-12;ocupacao;Arquiteto de edificacoes;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2018;2018-12;ocupacao;Arquivista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2018;2018-12;ocupacao;Arquivista de documentos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2018;2018-12;ocupacao;Assistente tecnico administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);343
+2018;2018-12;ocupacao;Atendente de ambulatorio ou clínica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);139
+2018;2018-12;ocupacao;Auxiliar de contabilidade;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2018;2018-12;ocupacao;Auxiliar de escritorio em geral auxiliar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);261
+2018;2018-12;ocupacao;Auxiliar de faturamento;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);27
+2018;2018-12;ocupacao;Comprador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2018;2018-12;ocupacao;Contador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2018;2018-12;ocupacao;Digitador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);40
+2018;2018-12;ocupacao;Diretor administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);11
+2018;2018-12;ocupacao;Diretor de manutenção;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2018;2018-12;ocupacao;Diretor de recursos humanos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2018;2018-12;ocupacao;Diretor de serviços de informatica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2018;2018-12;ocupacao;Diretor de serviços de saude diretor cli;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);27
+2018;2018-12;ocupacao;Engenheiro de seguranca do trabalho;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2018;2018-12;ocupacao;Gerente administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);11
+2018;2018-12;ocupacao;Gerente de almoxarifado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2018;2018-12;ocupacao;Gerente de departamento pessoal;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2018;2018-12;ocupacao;Gerente de recursos humanos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2018;2018-12;ocupacao;Gerente de serviços de saude administrado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);113
+2018;2018-12;ocupacao;Gerente de suporte tecnico de tecnologia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2018;2018-12;ocupacao;Gerente financeiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2018;2018-12;ocupacao;Operador de computador inclusive microcom;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2018;2018-12;ocupacao;Operador de radiochamada;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2018;2018-12;ocupacao;Programador de sistemas de informacao;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2018;2018-12;ocupacao;Recepcionista em geral;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);86
+2018;2018-12;ocupacao;Secretaria executiva;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);10
+2018;2018-12;ocupacao;Supervisor administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);16
+2018;2018-12;ocupacao;Supervisor de controle patrimonial;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2018;2018-12;ocupacao;Supervisor de tesouraria;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2018;2018-12;ocupacao;Tecnico de apoio usuário inform helpdesk;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);5
+2018;2018-12;ocupacao;Tecnico de contabilidade;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2018;2018-12;ocupacao;Tecnico em manutenção de equip informátic;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);5
+2018;2018-12;ocupacao;Tecnico em segurança no trabalho;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);19
+2018;2018-12;ocupacao;Telefonista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);50
+2018;2018-12;secao;SERVIÇO DE LIMPEZA/CONSERVAÇÃO;;;5
+2018;2018-12;ocupacao;de higiene e segurança;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2018;2018-12;ocupacao;Auxiliar de lavanderia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2018;2018-12;ocupacao;Eletricista de instalações;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2018;2018-12;ocupacao;Operador de caldeira;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2018;2018-12;secao;SEGURANÇA;;;11
+2018;2018-12;ocupacao;Agente de segurança;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);10
+2018;2018-12;ocupacao;Vigilante;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2018;2018-12;secao;OUTRAS OCUPAÇÕES ADMINISTRATIVAS;;;875
+2018;2018-12;ocupacao;Copeiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2018;2018-12;ocupacao;Copeiro de hospital;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);9
+2018;2018-12;ocupacao;Cozinheiro de hospital;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2018;2018-12;ocupacao;Motorista de carro de passeio;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);8
+2018;2018-12;ocupacao;Motorista de furgão ou veículo similar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2018;2018-12;ocupacao;Trabalhador de serviços de manutenção;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);850
+2019;2019-12;secao;PESSOAL DE SAÚDE - NÍVEL SUPERIOR;;;3951
+2019;2019-12;secao;ANESTESISTA;;;47
+2019;2019-12;ocupacao;Médico Anestesiologista;principal;Medicina;47
+2019;2019-12;secao;ASSISTENTE SOCIAL;;;184
+2019;2019-12;ocupacao;Assistente Social;multiprofissional;Serviço social;184
+2019;2019-12;secao;BIOQUÍMICO/FARMACÊUTICO;;;101
+2019;2019-12;ocupacao;Farmacêutico;principal;Farmácia;101
+2019;2019-12;secao;CIRURGIÃO GERAL;;;37
+2019;2019-12;ocupacao;Médico Cirurgião Geral;principal;Medicina;37
+2019;2019-12;secao;CLÍNICO GERAL;;;372
+2019;2019-12;ocupacao;Médico Clínico;principal;Medicina;372
+2019;2019-12;secao;ENFERMEIRO;;;815
+2019;2019-12;ocupacao;Outros enfermeiros;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);5
+2019;2019-12;ocupacao;Enfermeiro;principal;Enfermagem – enfermeiros;733
+2019;2019-12;ocupacao;Enfermeiro auditor;principal;Enfermagem – enfermeiros;8
+2019;2019-12;ocupacao;Enfermeiro da estratégia de saúde da família;principal;Enfermagem – enfermeiros;20
+2019;2019-12;ocupacao;Enfermeiro de centro cir£rgico;principal;Enfermagem – enfermeiros;1
+2019;2019-12;ocupacao;Enfermeiro de terapia intensiva;principal;Enfermagem – enfermeiros;25
+2019;2019-12;ocupacao;Enfermeiro do trabalho;principal;Enfermagem – enfermeiros;10
+2019;2019-12;ocupacao;Enfermeiro nefrologista;principal;Enfermagem – enfermeiros;4
+2019;2019-12;ocupacao;Enfermeiro obstétrico;principal;Enfermagem – enfermeiros;6
+2019;2019-12;ocupacao;Enfermeiro psiquiátrico;principal;Enfermagem – enfermeiros;2
+2019;2019-12;ocupacao;Enfermeiro sanitarista;principal;Enfermagem – enfermeiros;1
+2019;2019-12;secao;FISIOTERAPEUTA;;;441
+2019;2019-12;ocupacao;Fisioterapeuta geral;principal;Fisioterapia;440
+2019;2019-12;ocupacao;Fisioterapeuta neurofuncional;principal;Fisioterapia;1
+2019;2019-12;secao;FONOAUDIÓLOGO;;;74
+2019;2019-12;ocupacao;Fonoaudiólogo;principal;Fonoaudiologia;74
+2019;2019-12;secao;GINECO OBSTETRA;;;117
+2019;2019-12;ocupacao;Médico Ginecologista Obstetra;principal;Medicina;117
+2019;2019-12;secao;MÉDICO DE FAMÍLIA;;;10
+2019;2019-12;ocupacao;Médico da estratégia de Saúde da Família;principal;Medicina;10
+2019;2019-12;secao;NUTRICIONISTA;;;91
+2019;2019-12;ocupacao;Nutricionista;principal;Nutrição;91
+2019;2019-12;secao;ODONTÓLOGO;;;563
+2019;2019-12;ocupacao;Cirurgião dentista - auditor;principal;Odontologia e saúde bucal;1
+2019;2019-12;ocupacao;Cirurgião dentista - clínico geral;principal;Odontologia e saúde bucal;448
+2019;2019-12;ocupacao;Cirurgião dentista - endodontista;principal;Odontologia e saúde bucal;24
+2019;2019-12;ocupacao;Cirurgião dentista - estomatologista;principal;Odontologia e saúde bucal;2
+2019;2019-12;ocupacao;Cirurgião dentista - odontologia para pacientes co;principal;Odontologia e saúde bucal;1
+2019;2019-12;ocupacao;Cirurgião dentista - odontopediatra;principal;Odontologia e saúde bucal;15
+2019;2019-12;ocupacao;Cirurgião dentista - ortopedista e ortodontista;principal;Odontologia e saúde bucal;18
+2019;2019-12;ocupacao;Cirurgião dentista - periodontista;principal;Odontologia e saúde bucal;7
+2019;2019-12;ocupacao;Cirurgião dentista - protesista;principal;Odontologia e saúde bucal;10
+2019;2019-12;ocupacao;Cirurgião dentista - radiologista;principal;Odontologia e saúde bucal;5
+2019;2019-12;ocupacao;Cirurgião dentista - traumatologista bucomaxilofac;principal;Odontologia e saúde bucal;19
+2019;2019-12;ocupacao;Cirurgião-dentista da estratégia de saúde da famíl;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);13
+2019;2019-12;secao;PEDIATRA;;;218
+2019;2019-12;ocupacao;Médico Pediatra;principal;Medicina;218
+2019;2019-12;secao;PSICÓLOGO;;;204
+2019;2019-12;ocupacao;Psicólogo Clínico;multiprofissional;Psicologia;195
+2019;2019-12;ocupacao;Psicólogo do Trabalho;multiprofissional;Psicologia;1
+2019;2019-12;ocupacao;Psicólogo Social;multiprofissional;Psicologia;1
+2019;2019-12;ocupacao;Psicólogo Educacional;multiprofissional;Psicologia;2
+2019;2019-12;ocupacao;Psicólogo Hospitalar;multiprofissional;Psicologia;5
+2019;2019-12;secao;PSIQUIATRA;;;18
+2019;2019-12;ocupacao;Médico psiquiatra;principal;Medicina;18
+2019;2019-12;secao;RADIOLOGISTA;;;41
+2019;2019-12;ocupacao;Médico em radiologia e diagnóstico por imagem;principal;Medicina;41
+2019;2019-12;secao;SANITARISTA;;;2
+2019;2019-12;ocupacao;Médico sanitarista;principal;Medicina;2
+2019;2019-12;secao;OUTRAS ESPECIALIDADES MÉDICAS;;;524
+2019;2019-12;ocupacao;Médico acupunturista;principal;Medicina;1
+2019;2019-12;ocupacao;Médico alergista e imunologista;principal;Medicina;12
+2019;2019-12;ocupacao;Médico anatomopatologista;principal;Medicina;5
+2019;2019-12;ocupacao;Médico angiologista;principal;Medicina;14
+2019;2019-12;ocupacao;Médico Cardiologista Intervencionista;principal;Medicina;1
+2019;2019-12;ocupacao;Médico cancerologista cirúrgico;principal;Medicina;1
+2019;2019-12;ocupacao;Médico cardiologista;principal;Medicina;90
+2019;2019-12;ocupacao;Médico cirurgião cardiovascular;principal;Medicina;1
+2019;2019-12;ocupacao;Médico cirurgião de cabeça e pescoço;principal;Medicina;4
+2019;2019-12;ocupacao;Médico cirurgião do aparelho digestivo;principal;Medicina;3
+2019;2019-12;ocupacao;Médico cirurgião pediátrico;principal;Medicina;1
+2019;2019-12;ocupacao;Médico cirurgião plástico;principal;Medicina;5
+2019;2019-12;ocupacao;Médico cirurgião torácico;principal;Medicina;2
+2019;2019-12;ocupacao;Médico coloproctologista;principal;Medicina;3
+2019;2019-12;ocupacao;Médico dermatologista;principal;Medicina;25
+2019;2019-12;ocupacao;Médico do trabalho;principal;Medicina;15
+2019;2019-12;ocupacao;Médico em cirurgia vascular;principal;Medicina;2
+2019;2019-12;ocupacao;Médico em endoscopia;principal;Medicina;1
+2019;2019-12;ocupacao;Médico em medicina intensiva;principal;Medicina;24
+2019;2019-12;ocupacao;Médico em medicina nuclear;principal;Medicina;3
+2019;2019-12;ocupacao;Médico endocrinologista e metabologista;principal;Medicina;13
+2019;2019-12;ocupacao;Médico fisiatra;principal;Medicina;4
+2019;2019-12;ocupacao;Médico gastroenterologista;principal;Medicina;16
+2019;2019-12;ocupacao;Médico geneticista;principal;Medicina;1
+2019;2019-12;ocupacao;Médico geriatra;principal;Medicina;7
+2019;2019-12;ocupacao;Médico hematologista;principal;Medicina;2
+2019;2019-12;ocupacao;Médico infectologista;principal;Medicina;13
+2019;2019-12;ocupacao;Médico mastologista;principal;Medicina;3
+2019;2019-12;ocupacao;Médico nefrologista;principal;Medicina;24
+2019;2019-12;ocupacao;Médico neurocirurgião;principal;Medicina;6
+2019;2019-12;ocupacao;Médico neurologista;principal;Medicina;33
+2019;2019-12;ocupacao;Médico nutrologista;principal;Medicina;3
+2019;2019-12;ocupacao;Médico oftalmologista;principal;Medicina;45
+2019;2019-12;ocupacao;Médico oncologista clínico;principal;Medicina;21
+2019;2019-12;ocupacao;Médico ortopedista e traumatologista;principal;Medicina;41
+2019;2019-12;ocupacao;Médico otorrinolaringologista;principal;Medicina;23
+2019;2019-12;ocupacao;Médico patologista;principal;Medicina;1
+2019;2019-12;ocupacao;Médico patologista clínico / medicina laboratorial;principal;Medicina;1
+2019;2019-12;ocupacao;Médico pneumologista;principal;Medicina;7
+2019;2019-12;ocupacao;Médico radioterapeuta;principal;Medicina;2
+2019;2019-12;ocupacao;Médico residente;principal;Medicina;23
+2019;2019-12;ocupacao;Médico reumatologista;principal;Medicina;11
+2019;2019-12;ocupacao;Médico urologista;principal;Medicina;11
+2019;2019-12;secao;OUTRAS OCUPAÇÕES DE NÍVEL SUPERIOR RELAC À SAÚDE;;;92
+2019;2019-12;ocupacao;Médico veterinário;principal;Medicina;14
+2019;2019-12;ocupacao;Biólogo;multiprofissional;Biologia;37
+2019;2019-12;ocupacao;BioMédico;principal;Biomedicina;1
+2019;2019-12;ocupacao;Coordenador Pedagógico;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2019;2019-12;ocupacao;Físico (medicina);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2019;2019-12;ocupacao;Físico (nuclear e reatores);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;ocupacao;Neuropsicólogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2019;2019-12;ocupacao;Pedagogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2019;2019-12;ocupacao;Pesquisador em Biologia Ambiental Ecologi;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2019;2019-12;ocupacao;Preparador Físico;multiprofissional;Educação física;2
+2019;2019-12;ocupacao;Professor de Educação Fisica Ensino Superior;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;ocupacao;Professor de Educação Fisica Ensino Médio;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;ocupacao;Psicopedagogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);6
+2019;2019-12;ocupacao;Terapeuta ocupacional;principal;Terapia ocupacional e afins;16
+2019;2019-12;secao;PESSOAL DE SAÚDE - NÍVEL TÉCNICO TÉCNICO/AUXILIAR;;;3570
+2019;2019-12;secao;AUXILIAR DE ENFERMAGEM;;;822
+2019;2019-12;ocupacao;Auxiliar de Enfermagem;principal;Enfermagem – técnicos e auxiliares;821
+2019;2019-12;ocupacao;Auxiliar de Enfermagem do Trabalho;principal;Enfermagem – técnicos e auxiliares;1
+2019;2019-12;secao;FISCAL SANITÁRIO;;;2
+2019;2019-12;ocupacao;Visitador Sanitário;principal;Agentes comunitários de saúde e afins;2
+2019;2019-12;secao;TÉCNICO DE ENFERMAGEM;;;2138
+2019;2019-12;ocupacao;Técnico de enfermagem;principal;Enfermagem – técnicos e auxiliares;2094
+2019;2019-12;ocupacao;Técnico de enfermagem de saúde da família;principal;Enfermagem – técnicos e auxiliares;26
+2019;2019-12;ocupacao;Técnico de enfermagem de terapia intensiva;principal;Enfermagem – técnicos e auxiliares;4
+2019;2019-12;ocupacao;Socorrista (exceto médicos e enfermeiros) habilita;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);14
+2019;2019-12;secao;TÉCNICO E AUXILIAR DE FARMÁCIA;;;122
+2019;2019-12;ocupacao;Auxiliar de Farmácia de Manipulação;principal;Farmácia – técnicos e auxiliares;11
+2019;2019-12;ocupacao;Auxiliar técnico em laboratório de farmácia;principal;Farmácia – técnicos e auxiliares;9
+2019;2019-12;ocupacao;Técnico em Farmácia;principal;Farmácia – técnicos e auxiliares;102
+2019;2019-12;secao;TÉCNICO E AUXILIAR DE LABORATÓRIO;;;255
+2019;2019-12;ocupacao;Auxiliar de Laboratório de Análises Clínicas;principal;Diagnóstico e laboratório – técnicos e auxiliares;16
+2019;2019-12;ocupacao;Auxiliar Técnico em Patologia Clínica;principal;Diagnóstico e laboratório – técnicos e auxiliares;6
+2019;2019-12;ocupacao;Técnico de laboratório de análises físico-químicas;principal;Diagnóstico e laboratório – técnicos e auxiliares;5
+2019;2019-12;ocupacao;Técnico em Laboratório de Farmácia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);5
+2019;2019-12;ocupacao;Técnico em patologia clínica;principal;Diagnóstico e laboratório – técnicos e auxiliares;223
+2019;2019-12;secao;TÉCNICO E AUXILIAR EM FISIOTERAPIA E REABILITAÇÃO;;;8
+2019;2019-12;ocupacao;Técnico de imobilização ortopédica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);8
+2019;2019-12;secao;TÉCNICO E AUXILIAR EM SAÚDE ORAL;;;10
+2019;2019-12;ocupacao;Técnico em saúde bucal;principal;Odontologia e saúde bucal;10
+2019;2019-12;secao;TÉCNICO E AUXILIAR EM VIG SANITÁRIA E AMBIENTAL;;;2
+2019;2019-12;ocupacao;Agente de defesa ambiental;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2019;2019-12;secao;TÉCNICO E AUXILIAR EM RADIOLOGIA MÉDICA;;;177
+2019;2019-12;ocupacao;Auxiliar de Radiologia (Revelação Fotográfica);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2019;2019-12;ocupacao;Técnico em radiologia e imagenologia;principal;Diagnóstico e laboratório – técnicos e auxiliares;175
+2019;2019-12;secao;OUTRAS OCUPAÇÕES NÍVEL TÉCNICO E AUXILIAR EM SAÚD;;;34
+2019;2019-12;ocupacao;Instrumentador Cirúrgico;principal;Instrumentação cirúrgica;31
+2019;2019-12;ocupacao;Técnico de Alimentos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2019;2019-12;secao;PESSOAL DE SAÚDE - QUALIFICAÇÃO ELEMENTAR;;;2645
+2019;2019-12;secao;AGENTE COMUNITÁRIO DE SAÚDE;;;220
+2019;2019-12;ocupacao;Agente comunitário de saúde;principal;Agentes comunitários de saúde e afins;220
+2019;2019-12;secao;AGENTE DE SAÚDE PÚBLICA;;;17
+2019;2019-12;ocupacao;Agente de saúde pública agente de saneam;principal;Agentes de combate às endemias;17
+2019;2019-12;secao;ATENDENTE DE ENFERMAGEM/AUX OPER SERV DIV E ASSEM;;;141
+2019;2019-12;ocupacao;Atendente de consultório dentario;principal;Odontologia e saúde bucal;109
+2019;2019-12;ocupacao;Atendente de enfermagem atend berçario;principal;Agentes comunitários de saúde e afins;10
+2019;2019-12;ocupacao;Atendente de farmácia balconista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);22
+2019;2019-12;secao;OUTRAS OCUPAÇÕES NÍVEL ELEMENTAR EM SAÚDE;;;2267
+2019;2019-12;secao;PESSOAL ADMINISTRATIVO;;;2267
+2019;2019-12;secao;ADMINISTRAÇÃO;;;1295
+2019;2019-12;ocupacao;Administrador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);18
+2019;2019-12;ocupacao;Advogado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;ocupacao;Almoxarife;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2019;2019-12;ocupacao;Analista de suporte computacional;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;ocupacao;Arquiteto de edificacoes;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;ocupacao;Arquivista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2019;2019-12;ocupacao;Arquivista de documentos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2019;2019-12;ocupacao;Assistente tecnico administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);365
+2019;2019-12;ocupacao;Atendente de ambulatorio ou clínica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);152
+2019;2019-12;ocupacao;Auxiliar de contabilidade;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2019;2019-12;ocupacao;Auxiliar de escritorio em geral auxiliar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);259
+2019;2019-12;ocupacao;Auxiliar de faturamento;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);34
+2019;2019-12;ocupacao;Auxiliar de pessoal;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2019;2019-12;ocupacao;Comprador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;ocupacao;Contador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2019;2019-12;ocupacao;Continuo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;ocupacao;Digitador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);39
+2019;2019-12;ocupacao;Diretor administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);12
+2019;2019-12;ocupacao;Diretor de manutenção;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;ocupacao;Diretor de recursos humanos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;ocupacao;Diretor de serviços de informatica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2019;2019-12;ocupacao;Diretor de serviços de saude diretor cli;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);28
+2019;2019-12;ocupacao;Engenheiro de seguranca do trabalho;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2019;2019-12;ocupacao;Gerente administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);10
+2019;2019-12;ocupacao;Gerente de almoxarifado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2019;2019-12;ocupacao;Gerente de departamento pessoal;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2019;2019-12;ocupacao;Gerente de projetos de tecnologia da info;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;ocupacao;Gerente de recursos humanos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;ocupacao;Gerente de serviços de saude administrado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);120
+2019;2019-12;ocupacao;Gerente de suporte tecnico de tecnologia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;ocupacao;Gerente financeiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;ocupacao;Operador de computador inclusive microcom;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2019;2019-12;ocupacao;Operador de radiochamada;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2019;2019-12;ocupacao;Programador de sistemas de informacao;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;ocupacao;Recepcionista em geral;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);102
+2019;2019-12;ocupacao;Secretaria executiva;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);9
+2019;2019-12;ocupacao;Supervisor administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);16
+2019;2019-12;ocupacao;Supervisor de controle patrimonial;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2019;2019-12;ocupacao;Supervisor de tesouraria;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2019;2019-12;ocupacao;Tecnico de apoio usuário inform helpdesk;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);5
+2019;2019-12;ocupacao;Tecnico de contabilidade;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;ocupacao;Tecnico em manutenção de equip informátic;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);5
+2019;2019-12;ocupacao;Tecnico em segurança no trabalho;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);19
+2019;2019-12;ocupacao;Telefonista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);49
+2019;2019-12;secao;SERVIÇO DE LIMPEZA/CONSERVAÇÃO;;;8
+2019;2019-12;ocupacao;de higiene e segurança;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;ocupacao;Auxiliar de lavanderia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);5
+2019;2019-12;ocupacao;Eletricista de instalações;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;ocupacao;Operador de caldeira;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2019;2019-12;secao;SEGURANÇA;;;13
+2019;2019-12;ocupacao;Agente de segurança;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);10
+2019;2019-12;ocupacao;Vigilante;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2019;2019-12;secao;OUTRAS OCUPAÇÕES ADMINISTRATIVAS;;;951
+2019;2019-12;ocupacao;Copeiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2019;2019-12;ocupacao;Copeiro de hospital;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);8
+2019;2019-12;ocupacao;Cozinheiro de hospital;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2019;2019-12;ocupacao;Motorista de carro de passeio;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);13
+2019;2019-12;ocupacao;Motorista de furgão ou veículo similar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2019;2019-12;ocupacao;Trabalhador de serviços de manutenção;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);922
+2020;2020-12;secao;PESSOAL DE SAÚDE - NÍVEL SUPERIOR;;;4082
+2020;2020-12;secao;ANESTESISTA;;;47
+2020;2020-12;ocupacao;Médico Anestesiologista;principal;Medicina;47
+2020;2020-12;secao;ASSISTENTE SOCIAL;;;188
+2020;2020-12;ocupacao;Assistente Social;multiprofissional;Serviço social;188
+2020;2020-12;secao;BIOQUÍMICO/FARMACÊUTICO;;;109
+2020;2020-12;ocupacao;Farmacêutico;principal;Farmácia;109
+2020;2020-12;secao;CIRURGIÃO GERAL;;;36
+2020;2020-12;ocupacao;Médico Cirurgião Geral;principal;Medicina;36
+2020;2020-12;secao;CLÍNICO GERAL;;;408
+2020;2020-12;ocupacao;Médico Clínico;principal;Medicina;408
+2020;2020-12;secao;ENFERMEIRO;;;831
+2020;2020-12;ocupacao;Outros enfermeiros;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);7
+2020;2020-12;ocupacao;Enfermeiro;principal;Enfermagem – enfermeiros;745
+2020;2020-12;ocupacao;Enfermeiro auditor;principal;Enfermagem – enfermeiros;9
+2020;2020-12;ocupacao;Enfermeiro da estratégia de saúde da família;principal;Enfermagem – enfermeiros;21
+2020;2020-12;ocupacao;Enfermeiro de centro cir£rgico;principal;Enfermagem – enfermeiros;1
+2020;2020-12;ocupacao;Enfermeiro de terapia intensiva;principal;Enfermagem – enfermeiros;25
+2020;2020-12;ocupacao;Enfermeiro do trabalho;principal;Enfermagem – enfermeiros;9
+2020;2020-12;ocupacao;Enfermeiro nefrologista;principal;Enfermagem – enfermeiros;3
+2020;2020-12;ocupacao;Enfermeiro obstétrico;principal;Enfermagem – enfermeiros;8
+2020;2020-12;ocupacao;Enfermeiro psiquiátrico;principal;Enfermagem – enfermeiros;2
+2020;2020-12;ocupacao;Enfermeiro sanitarista;principal;Enfermagem – enfermeiros;1
+2020;2020-12;secao;FISIOTERAPEUTA;;;474
+2020;2020-12;ocupacao;Fisioterapeuta geral;principal;Fisioterapia;473
+2020;2020-12;ocupacao;Fisioterapeuta neurofuncional;principal;Fisioterapia;1
+2020;2020-12;secao;FONOAUDIÓLOGO;;;86
+2020;2020-12;ocupacao;Fonoaudiólogo;principal;Fonoaudiologia;86
+2020;2020-12;secao;GINECO OBSTETRA;;;119
+2020;2020-12;ocupacao;Médico Ginecologista Obstetra;principal;Medicina;119
+2020;2020-12;secao;MÉDICO DE FAMÍLIA;;;11
+2020;2020-12;ocupacao;Médico da estratégia de Saúde da Família;principal;Medicina;10
+2020;2020-12;ocupacao;Médico de família e comunidade;principal;Medicina;1
+2020;2020-12;secao;NUTRICIONISTA;;;95
+2020;2020-12;ocupacao;Nutricionista;principal;Nutrição;95
+2020;2020-12;secao;ODONTÓLOGO;;;560
+2020;2020-12;ocupacao;Cirurgião dentista - auditor;principal;Odontologia e saúde bucal;1
+2020;2020-12;ocupacao;Cirurgião dentista - clínico geral;principal;Odontologia e saúde bucal;450
+2020;2020-12;ocupacao;Cirurgião dentista - endodontista;principal;Odontologia e saúde bucal;25
+2020;2020-12;ocupacao;Cirurgião dentista - estomatologista;principal;Odontologia e saúde bucal;2
+2020;2020-12;ocupacao;Cirurgião dentista - odontologia para pacientes co;principal;Odontologia e saúde bucal;1
+2020;2020-12;ocupacao;Cirurgião dentista - odontopediatra;principal;Odontologia e saúde bucal;14
+2020;2020-12;ocupacao;Cirurgião dentista - ortopedista e ortodontista;principal;Odontologia e saúde bucal;15
+2020;2020-12;ocupacao;Cirurgião dentista - periodontista;principal;Odontologia e saúde bucal;7
+2020;2020-12;ocupacao;Cirurgião dentista - protesista;principal;Odontologia e saúde bucal;9
+2020;2020-12;ocupacao;Cirurgião dentista - radiologista;principal;Odontologia e saúde bucal;5
+2020;2020-12;ocupacao;Cirurgião dentista - traumatologista bucomaxilofac;principal;Odontologia e saúde bucal;17
+2020;2020-12;ocupacao;Cirurgião-dentista da estratégia de saúde da famíl;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);14
+2020;2020-12;secao;PEDIATRA;;;218
+2020;2020-12;ocupacao;Médico Pediatra;principal;Medicina;218
+2020;2020-12;secao;PSICÓLOGO;;;211
+2020;2020-12;ocupacao;Psicólogo Clínico;multiprofissional;Psicologia;201
+2020;2020-12;ocupacao;Psicólogo do Trabalho;multiprofissional;Psicologia;1
+2020;2020-12;ocupacao;Psicólogo Social;multiprofissional;Psicologia;1
+2020;2020-12;ocupacao;Psicólogo Educacional;multiprofissional;Psicologia;2
+2020;2020-12;ocupacao;Psicólogo Hospitalar;multiprofissional;Psicologia;6
+2020;2020-12;secao;PSIQUIATRA;;;18
+2020;2020-12;ocupacao;Médico psiquiatra;principal;Medicina;18
+2020;2020-12;secao;RADIOLOGISTA;;;43
+2020;2020-12;ocupacao;Médico em radiologia e diagnóstico por imagem;principal;Medicina;43
+2020;2020-12;secao;SANITARISTA;;;1
+2020;2020-12;ocupacao;Médico sanitarista;principal;Medicina;1
+2020;2020-12;secao;OUTRAS ESPECIALIDADES MÉDICAS;;;524
+2020;2020-12;ocupacao;Médico acupunturista;principal;Medicina;1
+2020;2020-12;ocupacao;Médico alergista e imunologista;principal;Medicina;12
+2020;2020-12;ocupacao;Médico anatomopatologista;principal;Medicina;4
+2020;2020-12;ocupacao;Médico angiologista;principal;Medicina;14
+2020;2020-12;ocupacao;Médico Cardiologista Intervencionista;principal;Medicina;1
+2020;2020-12;ocupacao;Médico cardiologista;principal;Medicina;88
+2020;2020-12;ocupacao;Médico cirurgião cardiovascular;principal;Medicina;1
+2020;2020-12;ocupacao;Médico cirurgião de cabeça e pescoço;principal;Medicina;3
+2020;2020-12;ocupacao;Médico cirurgião do aparelho digestivo;principal;Medicina;3
+2020;2020-12;ocupacao;Médico cirurgião pediátrico;principal;Medicina;1
+2020;2020-12;ocupacao;Médico cirurgião plástico;principal;Medicina;5
+2020;2020-12;ocupacao;Médico cirurgião torácico;principal;Medicina;2
+2020;2020-12;ocupacao;Médico coloproctologista;principal;Medicina;3
+2020;2020-12;ocupacao;Médico dermatologista;principal;Medicina;23
+2020;2020-12;ocupacao;Médico do trabalho;principal;Medicina;15
+2020;2020-12;ocupacao;Médico em cirurgia vascular;principal;Medicina;3
+2020;2020-12;ocupacao;Médico em endoscopia;principal;Medicina;2
+2020;2020-12;ocupacao;Médico em medicina intensiva;principal;Medicina;26
+2020;2020-12;ocupacao;Médico em medicina nuclear;principal;Medicina;3
+2020;2020-12;ocupacao;Médico endocrinologista e metabologista;principal;Medicina;12
+2020;2020-12;ocupacao;Médico fisiatra;principal;Medicina;4
+2020;2020-12;ocupacao;Médico gastroenterologista;principal;Medicina;16
+2020;2020-12;ocupacao;Médico geneticista;principal;Medicina;1
+2020;2020-12;ocupacao;Médico geriatra;principal;Medicina;5
+2020;2020-12;ocupacao;Médico hematologista;principal;Medicina;2
+2020;2020-12;ocupacao;Médico infectologista;principal;Medicina;13
+2020;2020-12;ocupacao;Médico mastologista;principal;Medicina;2
+2020;2020-12;ocupacao;Médico nefrologista;principal;Medicina;23
+2020;2020-12;ocupacao;Médico neurocirurgião;principal;Medicina;6
+2020;2020-12;ocupacao;Médico neurologista;principal;Medicina;33
+2020;2020-12;ocupacao;Médico nutrologista;principal;Medicina;3
+2020;2020-12;ocupacao;Médico oftalmologista;principal;Medicina;49
+2020;2020-12;ocupacao;Médico oncologista clínico;principal;Medicina;25
+2020;2020-12;ocupacao;Médico ortopedista e traumatologista;principal;Medicina;41
+2020;2020-12;ocupacao;Médico otorrinolaringologista;principal;Medicina;23
+2020;2020-12;ocupacao;Médico patologista;principal;Medicina;1
+2020;2020-12;ocupacao;Médico patologista clínico / medicina laboratorial;principal;Medicina;1
+2020;2020-12;ocupacao;Médico pneumologista;principal;Medicina;6
+2020;2020-12;ocupacao;Médico radioterapeuta;principal;Medicina;3
+2020;2020-12;ocupacao;Médico residente;principal;Medicina;26
+2020;2020-12;ocupacao;Médico reumatologista;principal;Medicina;10
+2020;2020-12;ocupacao;Médico urologista;principal;Medicina;9
+2020;2020-12;secao;OUTRAS OCUPAÇÕES DE NÍVEL SUPERIOR RELAC À SAÚDE;;;103
+2020;2020-12;ocupacao;Médico veterinário;principal;Medicina;13
+2020;2020-12;ocupacao;Biólogo;multiprofissional;Biologia;45
+2020;2020-12;ocupacao;BioMédico;principal;Biomedicina;2
+2020;2020-12;ocupacao;Coordenador Pedagógico;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Físico (medicina);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2020;2020-12;ocupacao;Físico (nuclear e reatores);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;ocupacao;Neuropsicólogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Pedagogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2020;2020-12;ocupacao;Pesquisador em Biologia Ambiental Ecologi;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Preparador Físico;multiprofissional;Educação física;2
+2020;2020-12;ocupacao;Professor de Educação Fisica Ensino Médio;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;ocupacao;Psicopedagogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);8
+2020;2020-12;ocupacao;Terapeuta ocupacional;principal;Terapia ocupacional e afins;18
+2020;2020-12;secao;PESSOAL DE SAÚDE - NÍVEL TÉCNICO TÉCNICO/AUXILIAR;;;3978
+2020;2020-12;secao;AUXILIAR DE ENFERMAGEM;;;815
+2020;2020-12;ocupacao;Auxiliar de Enfermagem;principal;Enfermagem – técnicos e auxiliares;814
+2020;2020-12;ocupacao;Auxiliar de Enfermagem do Trabalho;principal;Enfermagem – técnicos e auxiliares;1
+2020;2020-12;secao;FISCAL SANITÁRIO;;;2
+2020;2020-12;ocupacao;Visitador Sanitário;principal;Agentes comunitários de saúde e afins;2
+2020;2020-12;secao;TÉCNICO DE ENFERMAGEM;;;2553
+2020;2020-12;ocupacao;Técnico de enfermagem;principal;Enfermagem – técnicos e auxiliares;2506
+2020;2020-12;ocupacao;Técnico de enfermagem de saúde da família;principal;Enfermagem – técnicos e auxiliares;29
+2020;2020-12;ocupacao;Técnico de enfermagem de terapia intensiva;principal;Enfermagem – técnicos e auxiliares;4
+2020;2020-12;ocupacao;Socorrista (exceto médicos e enfermeiros) habilita;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);14
+2020;2020-12;secao;TÉCNICO E AUXILIAR DE FARMÁCIA;;;122
+2020;2020-12;ocupacao;Auxiliar de Farmácia de Manipulação;principal;Farmácia – técnicos e auxiliares;10
+2020;2020-12;ocupacao;Auxiliar técnico em laboratório de farmácia;principal;Farmácia – técnicos e auxiliares;7
+2020;2020-12;ocupacao;Técnico em Farmácia;principal;Farmácia – técnicos e auxiliares;105
+2020;2020-12;secao;TÉCNICO E AUXILIAR DE LABORATÓRIO;;;261
+2020;2020-12;ocupacao;Auxiliar de Laboratório de Análises Clínicas;principal;Diagnóstico e laboratório – técnicos e auxiliares;16
+2020;2020-12;ocupacao;Auxiliar Técnico em Patologia Clínica;principal;Diagnóstico e laboratório – técnicos e auxiliares;16
+2020;2020-12;ocupacao;Técnico de laboratório de análises físico-químicas;principal;Diagnóstico e laboratório – técnicos e auxiliares;4
+2020;2020-12;ocupacao;Técnico em Laboratório de Farmácia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2020;2020-12;ocupacao;Técnico em patologia clínica;principal;Diagnóstico e laboratório – técnicos e auxiliares;221
+2020;2020-12;secao;TÉCNICO E AUXILIAR EM FISIOTERAPIA E REABILITAÇÃO;;;8
+2020;2020-12;ocupacao;Técnico de imobilização ortopédica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);8
+2020;2020-12;secao;TÉCNICO E AUXILIAR EM SAÚDE ORAL;;;9
+2020;2020-12;ocupacao;Técnico em saúde bucal;principal;Odontologia e saúde bucal;9
+2020;2020-12;secao;TÉCNICO E AUXILIAR EM VIG SANITÁRIA E AMBIENTAL;;;1
+2020;2020-12;ocupacao;Agente de defesa ambiental;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;secao;TÉCNICO E AUXILIAR EM RADIOLOGIA MÉDICA;;;172
+2020;2020-12;ocupacao;Auxiliar de Radiologia (Revelação Fotográfica);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Técnico em radiologia e imagenologia;principal;Diagnóstico e laboratório – técnicos e auxiliares;170
+2020;2020-12;secao;OUTRAS OCUPAÇÕES NÍVEL TÉCNICO E AUXILIAR EM SAÚD;;;35
+2020;2020-12;ocupacao;Instrumentador Cirúrgico;principal;Instrumentação cirúrgica;32
+2020;2020-12;ocupacao;Técnico de Alimentos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2020;2020-12;secao;PESSOAL DE SAÚDE - QUALIFICAÇÃO ELEMENTAR;;;2663
+2020;2020-12;secao;AGENTE COMUNITÁRIO DE SAÚDE;;;222
+2020;2020-12;ocupacao;Agente comunitário de saúde;principal;Agentes comunitários de saúde e afins;222
+2020;2020-12;secao;AGENTE DE SAÚDE PÚBLICA;;;16
+2020;2020-12;ocupacao;Agente de saúde pública agente de saneam;principal;Agentes de combate às endemias;16
+2020;2020-12;secao;ATENDENTE DE ENFERMAGEM/AUX OPER SERV DIV E ASSEM;;;143
+2020;2020-12;ocupacao;Atendente de consultório dentario;principal;Odontologia e saúde bucal;109
+2020;2020-12;ocupacao;Atendente de enfermagem atend berçario;principal;Agentes comunitários de saúde e afins;8
+2020;2020-12;ocupacao;Atendente de farmácia balconista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);26
+2020;2020-12;secao;OUTRAS OCUPAÇÕES NÍVEL ELEMENTAR EM SAÚDE;;;2282
+2020;2020-12;secao;PESSOAL ADMINISTRATIVO;;;2282
+2020;2020-12;secao;ADMINISTRAÇÃO;;;1379
+2020;2020-12;ocupacao;Administrador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);20
+2020;2020-12;ocupacao;Advogado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;ocupacao;Almoxarife;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Analista de suporte computacional;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;ocupacao;Arquiteto de edificacoes;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;ocupacao;Arquivista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Arquivista de documentos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Assistente tecnico administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);407
+2020;2020-12;ocupacao;Atendente de ambulatorio ou clínica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);144
+2020;2020-12;ocupacao;Auditor contadores e afins;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;ocupacao;Auxiliar de contabilidade;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);7
+2020;2020-12;ocupacao;Auxiliar de escritorio em geral auxiliar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);255
+2020;2020-12;ocupacao;Auxiliar de faturamento;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);41
+2020;2020-12;ocupacao;Auxiliar de pessoal;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Comprador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;ocupacao;Contador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2020;2020-12;ocupacao;Continuo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Digitador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);34
+2020;2020-12;ocupacao;Diretor administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);11
+2020;2020-12;ocupacao;Diretor de manutenção;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;ocupacao;Diretor de serviços de informatica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2020;2020-12;ocupacao;Diretor de serviços de saude diretor cli;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);28
+2020;2020-12;ocupacao;Diretor financeiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;ocupacao;Engenheiro de seguranca do trabalho;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Gerente administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);12
+2020;2020-12;ocupacao;Gerente de almoxarifado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Gerente de departamento pessoal;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Gerente de projetos de tecnologia da info;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;ocupacao;Gerente de recursos humanos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;ocupacao;Gerente de serviços de saude administrado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);123
+2020;2020-12;ocupacao;Gerente financeiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;ocupacao;Operador de computador inclusive microcom;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Operador de radiochamada;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2020;2020-12;ocupacao;Programador de sistemas de informacao;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;ocupacao;Recepcionista em geral;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);146
+2020;2020-12;ocupacao;Secretaria executiva;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);9
+2020;2020-12;ocupacao;Supervisor administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);17
+2020;2020-12;ocupacao;Supervisor de compras;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Supervisor de contas a pagar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;ocupacao;Supervisor de controle patrimonial;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Supervisor de recepcionistas;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;ocupacao;Supervisor de tesouraria;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2020;2020-12;ocupacao;Tecnico de apoio usuário inform helpdesk;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Tecnico de contabilidade;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Tecnico em manutenção de equip informátic;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);6
+2020;2020-12;ocupacao;Tecnico em segurança no trabalho;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);18
+2020;2020-12;ocupacao;Telefonista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);48
+2020;2020-12;secao;SERVIÇO DE LIMPEZA/CONSERVAÇÃO;;;7
+2020;2020-12;ocupacao;de higiene e segurança;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;ocupacao;Auxiliar de lavanderia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2020;2020-12;ocupacao;Eletricista de instalações;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;ocupacao;Operador de caldeira;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2020;2020-12;secao;SEGURANÇA;;;29
+2020;2020-12;ocupacao;Agente de segurança;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);13
+2020;2020-12;ocupacao;Vigia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);13
+2020;2020-12;ocupacao;Vigilante;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2020;2020-12;secao;OUTRAS OCUPAÇÕES ADMINISTRATIVAS;;;867
+2020;2020-12;ocupacao;Copeiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Copeiro de hospital;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);8
+2020;2020-12;ocupacao;Cozinheiro de hospital;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2020;2020-12;ocupacao;Motorista de carro de passeio;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);18
+2020;2020-12;ocupacao;Motorista de furgão ou veículo similar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2020;2020-12;ocupacao;Trabalhador de serviços de manutenção;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);833
+2021;2021-12;secao;PESSOAL DE SAÚDE - NÍVEL SUPERIOR;;;4131
+2021;2021-12;secao;ANESTESISTA;;;42
+2021;2021-12;ocupacao;Médico Anestesiologista;principal;Medicina;42
+2021;2021-12;secao;ASSISTENTE SOCIAL;;;191
+2021;2021-12;ocupacao;Assistente Social;multiprofissional;Serviço social;191
+2021;2021-12;secao;BIOQUÍMICO/FARMACÊUTICO;;;123
+2021;2021-12;ocupacao;Farmacêutico;principal;Farmácia;123
+2021;2021-12;secao;CIRURGIÃO GERAL;;;34
+2021;2021-12;ocupacao;Médico Cirurgião Geral;principal;Medicina;34
+2021;2021-12;secao;CLÍNICO GERAL;;;434
+2021;2021-12;ocupacao;Médico Clínico;principal;Medicina;434
+2021;2021-12;secao;ENFERMEIRO;;;834
+2021;2021-12;ocupacao;Outros enfermeiros;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);8
+2021;2021-12;ocupacao;Enfermeiro;principal;Enfermagem – enfermeiros;736
+2021;2021-12;ocupacao;Enfermeiro auditor;principal;Enfermagem – enfermeiros;8
+2021;2021-12;ocupacao;Enfermeiro da estratégia de saúde da família;principal;Enfermagem – enfermeiros;32
+2021;2021-12;ocupacao;Enfermeiro de centro cir£rgico;principal;Enfermagem – enfermeiros;1
+2021;2021-12;ocupacao;Enfermeiro de terapia intensiva;principal;Enfermagem – enfermeiros;25
+2021;2021-12;ocupacao;Enfermeiro do trabalho;principal;Enfermagem – enfermeiros;9
+2021;2021-12;ocupacao;Enfermeiro nefrologista;principal;Enfermagem – enfermeiros;3
+2021;2021-12;ocupacao;Enfermeiro obstétrico;principal;Enfermagem – enfermeiros;8
+2021;2021-12;ocupacao;Enfermeiro psiquiátrico;principal;Enfermagem – enfermeiros;3
+2021;2021-12;ocupacao;Enfermeiro sanitarista;principal;Enfermagem – enfermeiros;1
+2021;2021-12;secao;FISIOTERAPEUTA;;;477
+2021;2021-12;ocupacao;Fisioterapeuta geral;principal;Fisioterapia;476
+2021;2021-12;ocupacao;Fisioterapeuta neurofuncional;principal;Fisioterapia;1
+2021;2021-12;secao;FONOAUDIÓLOGO;;;89
+2021;2021-12;ocupacao;Fonoaudiólogo;principal;Fonoaudiologia;89
+2021;2021-12;secao;GINECO OBSTETRA;;;106
+2021;2021-12;ocupacao;Médico Ginecologista Obstetra;principal;Medicina;106
+2021;2021-12;secao;MÉDICO DE FAMÍLIA;;;15
+2021;2021-12;ocupacao;Médico da estratégia de Saúde da Família;principal;Medicina;14
+2021;2021-12;ocupacao;Médico de família e comunidade;principal;Medicina;1
+2021;2021-12;secao;NUTRICIONISTA;;;102
+2021;2021-12;ocupacao;Nutricionista;principal;Nutrição;102
+2021;2021-12;secao;ODONTÓLOGO;;;562
+2021;2021-12;ocupacao;Cirurgião dentista - auditor;principal;Odontologia e saúde bucal;1
+2021;2021-12;ocupacao;Cirurgião dentista - clínico geral;principal;Odontologia e saúde bucal;454
+2021;2021-12;ocupacao;Cirurgião dentista - dentística;principal;Odontologia e saúde bucal;1
+2021;2021-12;ocupacao;Cirurgião dentista - endodontista;principal;Odontologia e saúde bucal;24
+2021;2021-12;ocupacao;Cirurgião dentista - estomatologista;principal;Odontologia e saúde bucal;1
+2021;2021-12;ocupacao;Cirurgião dentista - odontologia para pacientes co;principal;Odontologia e saúde bucal;1
+2021;2021-12;ocupacao;Cirurgião dentista - odontopediatra;principal;Odontologia e saúde bucal;13
+2021;2021-12;ocupacao;Cirurgião dentista - ortopedista e ortodontista;principal;Odontologia e saúde bucal;15
+2021;2021-12;ocupacao;Cirurgião dentista - periodontista;principal;Odontologia e saúde bucal;7
+2021;2021-12;ocupacao;Cirurgião dentista - protesista;principal;Odontologia e saúde bucal;9
+2021;2021-12;ocupacao;Cirurgião dentista - radiologista;principal;Odontologia e saúde bucal;6
+2021;2021-12;ocupacao;Cirurgião dentista - traumatologista bucomaxilofac;principal;Odontologia e saúde bucal;18
+2021;2021-12;ocupacao;Cirurgião-dentista da estratégia de saúde da famíl;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);12
+2021;2021-12;secao;PEDIATRA;;;215
+2021;2021-12;ocupacao;Médico Pediatra;principal;Medicina;215
+2021;2021-12;secao;PSICÓLOGO;;;228
+2021;2021-12;ocupacao;Psicólogo Clínico;multiprofissional;Psicologia;218
+2021;2021-12;ocupacao;Psicólogo do Trabalho;multiprofissional;Psicologia;1
+2021;2021-12;ocupacao;Psicólogo Social;multiprofissional;Psicologia;1
+2021;2021-12;ocupacao;Psicólogo Educacional;multiprofissional;Psicologia;2
+2021;2021-12;ocupacao;Psicólogo Hospitalar;multiprofissional;Psicologia;6
+2021;2021-12;secao;PSIQUIATRA;;;20
+2021;2021-12;ocupacao;Médico psiquiatra;principal;Medicina;20
+2021;2021-12;secao;RADIOLOGISTA;;;45
+2021;2021-12;ocupacao;Médico em radiologia e diagnóstico por imagem;principal;Medicina;45
+2021;2021-12;secao;SANITARISTA;;;1
+2021;2021-12;ocupacao;Médico sanitarista;principal;Medicina;1
+2021;2021-12;secao;OUTRAS ESPECIALIDADES MÉDICAS;;;510
+2021;2021-12;ocupacao;Médico acupunturista;principal;Medicina;1
+2021;2021-12;ocupacao;Médico alergista e imunologista;principal;Medicina;10
+2021;2021-12;ocupacao;Médico anatomopatologista;principal;Medicina;5
+2021;2021-12;ocupacao;Médico angiologista;principal;Medicina;16
+2021;2021-12;ocupacao;Médico Cardiologista Intervencionista;principal;Medicina;1
+2021;2021-12;ocupacao;Médico cardiologista;principal;Medicina;85
+2021;2021-12;ocupacao;Médico cirurgião de cabeça e pescoço;principal;Medicina;3
+2021;2021-12;ocupacao;Médico cirurgião do aparelho digestivo;principal;Medicina;4
+2021;2021-12;ocupacao;Médico cirurgião pediátrico;principal;Medicina;1
+2021;2021-12;ocupacao;Médico cirurgião plástico;principal;Medicina;3
+2021;2021-12;ocupacao;Médico cirurgião torácico;principal;Medicina;2
+2021;2021-12;ocupacao;Médico coloproctologista;principal;Medicina;4
+2021;2021-12;ocupacao;Médico dermatologista;principal;Medicina;27
+2021;2021-12;ocupacao;Médico do trabalho;principal;Medicina;14
+2021;2021-12;ocupacao;Médico em cirurgia vascular;principal;Medicina;1
+2021;2021-12;ocupacao;Médico em endoscopia;principal;Medicina;2
+2021;2021-12;ocupacao;Médico em medicina intensiva;principal;Medicina;19
+2021;2021-12;ocupacao;Médico em medicina nuclear;principal;Medicina;3
+2021;2021-12;ocupacao;Médico endocrinologista e metabologista;principal;Medicina;11
+2021;2021-12;ocupacao;Médico fisiatra;principal;Medicina;3
+2021;2021-12;ocupacao;Médico gastroenterologista;principal;Medicina;15
+2021;2021-12;ocupacao;Médico geneticista;principal;Medicina;1
+2021;2021-12;ocupacao;Médico geriatra;principal;Medicina;4
+2021;2021-12;ocupacao;Médico hematologista;principal;Medicina;3
+2021;2021-12;ocupacao;Médico infectologista;principal;Medicina;12
+2021;2021-12;ocupacao;Médico mastologista;principal;Medicina;3
+2021;2021-12;ocupacao;Médico nefrologista;principal;Medicina;22
+2021;2021-12;ocupacao;Médico neurocirurgião;principal;Medicina;6
+2021;2021-12;ocupacao;Médico neurologista;principal;Medicina;36
+2021;2021-12;ocupacao;Médico nutrologista;principal;Medicina;3
+2021;2021-12;ocupacao;Médico oftalmologista;principal;Medicina;46
+2021;2021-12;ocupacao;Médico oncologista clínico;principal;Medicina;23
+2021;2021-12;ocupacao;Médico ortopedista e traumatologista;principal;Medicina;42
+2021;2021-12;ocupacao;Médico otorrinolaringologista;principal;Medicina;23
+2021;2021-12;ocupacao;Médico patologista;principal;Medicina;1
+2021;2021-12;ocupacao;Médico pneumologista;principal;Medicina;7
+2021;2021-12;ocupacao;Médico radioterapeuta;principal;Medicina;3
+2021;2021-12;ocupacao;Médico residente;principal;Medicina;25
+2021;2021-12;ocupacao;Médico reumatologista;principal;Medicina;9
+2021;2021-12;ocupacao;Médico urologista;principal;Medicina;11
+2021;2021-12;secao;OUTRAS OCUPAÇÕES DE NÍVEL SUPERIOR RELAC À SAÚDE;;;103
+2021;2021-12;ocupacao;Médico veterinário;principal;Medicina;12
+2021;2021-12;ocupacao;Biólogo;multiprofissional;Biologia;50
+2021;2021-12;ocupacao;BioMédico;principal;Biomedicina;2
+2021;2021-12;ocupacao;Coordenador Pedagógico;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2021;2021-12;ocupacao;Físico (medicina);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2021;2021-12;ocupacao;Físico (nuclear e reatores);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Neuropsicólogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2021;2021-12;ocupacao;Pedagogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);6
+2021;2021-12;ocupacao;Pesquisador em Biologia Ambiental Ecologi;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Preparador Físico;multiprofissional;Educação física;2
+2021;2021-12;ocupacao;Professor de Educação Fisica Ensino Médio;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Psicopedagogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);6
+2021;2021-12;ocupacao;Terapeuta ocupacional;principal;Terapia ocupacional e afins;16
+2021;2021-12;secao;PESSOAL DE SAÚDE - NÍVEL TÉCNICO TÉCNICO/AUXILIAR;;;3909
+2021;2021-12;secao;AUXILIAR DE ENFERMAGEM;;;813
+2021;2021-12;ocupacao;Auxiliar de Enfermagem;principal;Enfermagem – técnicos e auxiliares;812
+2021;2021-12;ocupacao;Auxiliar de Enfermagem do Trabalho;principal;Enfermagem – técnicos e auxiliares;1
+2021;2021-12;secao;FISCAL SANITÁRIO;;;1
+2021;2021-12;ocupacao;Visitador Sanitário;principal;Agentes comunitários de saúde e afins;1
+2021;2021-12;secao;TÉCNICO DE ENFERMAGEM;;;2463
+2021;2021-12;ocupacao;Técnico de enfermagem;principal;Enfermagem – técnicos e auxiliares;2413
+2021;2021-12;ocupacao;Técnico de enfermagem de saúde da família;principal;Enfermagem – técnicos e auxiliares;32
+2021;2021-12;ocupacao;Técnico de enfermagem de terapia intensiva;principal;Enfermagem – técnicos e auxiliares;4
+2021;2021-12;ocupacao;Socorrista (exceto médicos e enfermeiros) habilita;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);14
+2021;2021-12;secao;TÉCNICO E AUXILIAR DE FARMÁCIA;;;127
+2021;2021-12;ocupacao;Auxiliar de Farmácia de Manipulação;principal;Farmácia – técnicos e auxiliares;10
+2021;2021-12;ocupacao;Auxiliar técnico em laboratório de farmácia;principal;Farmácia – técnicos e auxiliares;7
+2021;2021-12;ocupacao;Técnico em Farmácia;principal;Farmácia – técnicos e auxiliares;110
+2021;2021-12;secao;TÉCNICO E AUXILIAR DE LABORATÓRIO;;;281
+2021;2021-12;ocupacao;Auxiliar de Laboratório de Análises Clínicas;principal;Diagnóstico e laboratório – técnicos e auxiliares;27
+2021;2021-12;ocupacao;Auxiliar Técnico em Patologia Clínica;principal;Diagnóstico e laboratório – técnicos e auxiliares;17
+2021;2021-12;ocupacao;Técnico de laboratório de análises físico-químicas;principal;Diagnóstico e laboratório – técnicos e auxiliares;4
+2021;2021-12;ocupacao;Técnico em Laboratório de Farmácia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2021;2021-12;ocupacao;Técnico em patologia clínica;principal;Diagnóstico e laboratório – técnicos e auxiliares;231
+2021;2021-12;secao;TÉCNICO E AUXILIAR EM FISIOTERAPIA E REABILITAÇÃO;;;8
+2021;2021-12;ocupacao;Técnico de imobilização ortopédica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);8
+2021;2021-12;secao;TÉCNICO E AUXILIAR EM SAÚDE ORAL;;;11
+2021;2021-12;ocupacao;Técnico em saúde bucal;principal;Odontologia e saúde bucal;11
+2021;2021-12;secao;TÉCNICO E AUXILIAR EM VIG SANITÁRIA E AMBIENTAL;;;1
+2021;2021-12;ocupacao;Agente de defesa ambiental;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;secao;TÉCNICO E AUXILIAR EM RADIOLOGIA MÉDICA;;;165
+2021;2021-12;ocupacao;Auxiliar de Radiologia (Revelação Fotográfica);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Técnico em radiologia e imagenologia;principal;Diagnóstico e laboratório – técnicos e auxiliares;164
+2021;2021-12;secao;OUTRAS OCUPAÇÕES NÍVEL TÉCNICO E AUXILIAR EM SAÚD;;;39
+2021;2021-12;ocupacao;Instrumentador Cirúrgico;principal;Instrumentação cirúrgica;35
+2021;2021-12;ocupacao;Técnico de Alimentos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2021;2021-12;ocupacao;Técnico em Métodos Gráficos em Cardiologi;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;secao;PESSOAL DE SAÚDE - QUALIFICAÇÃO ELEMENTAR;;;2809
+2021;2021-12;secao;AGENTE COMUNITÁRIO DE SAÚDE;;;225
+2021;2021-12;ocupacao;Agente comunitário de saúde;principal;Agentes comunitários de saúde e afins;225
+2021;2021-12;secao;AGENTE DE SAÚDE PÚBLICA;;;2
+2021;2021-12;ocupacao;Agente de saúde pública agente de saneam;principal;Agentes de combate às endemias;2
+2021;2021-12;secao;ATENDENTE DE ENFERMAGEM/AUX OPER SERV DIV E ASSEM;;;164
+2021;2021-12;ocupacao;Atendente de consultório dentario;principal;Odontologia e saúde bucal;107
+2021;2021-12;ocupacao;Atendente de enfermagem atend berçario;principal;Agentes comunitários de saúde e afins;21
+2021;2021-12;ocupacao;Atendente de farmácia balconista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);36
+2021;2021-12;secao;OUTRAS OCUPAÇÕES NÍVEL ELEMENTAR EM SAÚDE;;;2418
+2021;2021-12;secao;PESSOAL ADMINISTRATIVO;;;2418
+2021;2021-12;secao;ADMINISTRAÇÃO;;;1458
+2021;2021-12;ocupacao;Administrador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);19
+2021;2021-12;ocupacao;Almoxarife;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2021;2021-12;ocupacao;Analista de redes e de comunicacao dados;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Analista de suporte computacional;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Arquiteto de edificacoes;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Arquivista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Arquivista de documentos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2021;2021-12;ocupacao;Assistente tecnico administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);426
+2021;2021-12;ocupacao;Atendente de ambulatorio ou clínica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);145
+2021;2021-12;ocupacao;Auditor contadores e afins;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Auxiliar de contabilidade;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);7
+2021;2021-12;ocupacao;Auxiliar de escritorio em geral auxiliar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);250
+2021;2021-12;ocupacao;Auxiliar de faturamento;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);46
+2021;2021-12;ocupacao;Auxiliar de pessoal;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2021;2021-12;ocupacao;Contador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2021;2021-12;ocupacao;Continuo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2021;2021-12;ocupacao;Digitador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);33
+2021;2021-12;ocupacao;Diretor administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);11
+2021;2021-12;ocupacao;Diretor de manutenção;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Diretor de serviços de informatica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2021;2021-12;ocupacao;Diretor de serviços de saude diretor cli;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);27
+2021;2021-12;ocupacao;Diretor financeiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Engenheiro de seguranca do trabalho;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2021;2021-12;ocupacao;Gerente administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);14
+2021;2021-12;ocupacao;Gerente de almoxarifado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2021;2021-12;ocupacao;Gerente de departamento pessoal;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2021;2021-12;ocupacao;Gerente de recursos humanos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2021;2021-12;ocupacao;Gerente de serviços de saude administrado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);118
+2021;2021-12;ocupacao;Gerente financeiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Operador de computador inclusive microcom;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2021;2021-12;ocupacao;Operador de radiochamada;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);5
+2021;2021-12;ocupacao;Programador de sistemas de informacao;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Recepcionista em geral;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);201
+2021;2021-12;ocupacao;Secretaria executiva;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);10
+2021;2021-12;ocupacao;Supervisor administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);27
+2021;2021-12;ocupacao;Supervisor de compras;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2021;2021-12;ocupacao;Supervisor de contas a pagar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Supervisor de controle patrimonial;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2021;2021-12;ocupacao;Supervisor de recepcionistas;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Supervisor de tesouraria;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2021;2021-12;ocupacao;Tecnico de apoio usuário inform helpdesk;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2021;2021-12;ocupacao;Tecnico de contabilidade;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2021;2021-12;ocupacao;Tecnico em manutenção de equip informátic;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2021;2021-12;ocupacao;Tecnico em segurança no trabalho;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);17
+2021;2021-12;ocupacao;Telefonista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);47
+2021;2021-12;secao;SERVIÇO DE LIMPEZA/CONSERVAÇÃO;;;10
+2021;2021-12;ocupacao;de higiene e segurança;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Auxiliar de lavanderia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2021;2021-12;ocupacao;Eletricista de instalações;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2021;2021-12;ocupacao;Operador de caldeira;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Servente de obras;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;secao;SEGURANÇA;;;58
+2021;2021-12;ocupacao;Agente de segurança;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);9
+2021;2021-12;ocupacao;Porteiro de edifícios;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2021;2021-12;ocupacao;Vigia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);42
+2021;2021-12;ocupacao;Vigilante;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2021;2021-12;secao;OUTRAS OCUPAÇÕES ADMINISTRATIVAS;;;892
+2021;2021-12;ocupacao;Copeiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Copeiro de hospital;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);5
+2021;2021-12;ocupacao;Cozinheiro de hospital;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2021;2021-12;ocupacao;Motorista de carro de passeio;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);21
+2021;2021-12;ocupacao;Trabalhador de serviços de manutenção;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);864
+2022;2022-12;secao;PESSOAL DE SAÚDE - NÍVEL SUPERIOR;;;4317
+2022;2022-12;secao;ANESTESISTA;;;47
+2022;2022-12;ocupacao;Médico Anestesiologista;principal;Medicina;47
+2022;2022-12;secao;ASSISTENTE SOCIAL;;;207
+2022;2022-12;ocupacao;Assistente Social;multiprofissional;Serviço social;207
+2022;2022-12;secao;BIOQUÍMICO/FARMACÊUTICO;;;130
+2022;2022-12;ocupacao;Farmacêutico;principal;Farmácia;130
+2022;2022-12;secao;CIRURGIÃO GERAL;;;39
+2022;2022-12;ocupacao;Médico Cirurgião Geral;principal;Medicina;39
+2022;2022-12;secao;CLÍNICO GERAL;;;445
+2022;2022-12;ocupacao;Médico Clínico;principal;Medicina;445
+2022;2022-12;secao;ENFERMEIRO;;;866
+2022;2022-12;ocupacao;Outros enfermeiros;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);8
+2022;2022-12;ocupacao;Enfermeiro;principal;Enfermagem – enfermeiros;764
+2022;2022-12;ocupacao;Enfermeiro auditor;principal;Enfermagem – enfermeiros;8
+2022;2022-12;ocupacao;Enfermeiro da estratégia de saúde da família;principal;Enfermagem – enfermeiros;41
+2022;2022-12;ocupacao;Enfermeiro de centro cir£rgico;principal;Enfermagem – enfermeiros;1
+2022;2022-12;ocupacao;Enfermeiro de terapia intensiva;principal;Enfermagem – enfermeiros;25
+2022;2022-12;ocupacao;Enfermeiro do trabalho;principal;Enfermagem – enfermeiros;9
+2022;2022-12;ocupacao;Enfermeiro nefrologista;principal;Enfermagem – enfermeiros;3
+2022;2022-12;ocupacao;Enfermeiro obstétrico;principal;Enfermagem – enfermeiros;6
+2022;2022-12;ocupacao;Enfermeiro sanitarista;principal;Enfermagem – enfermeiros;1
+2022;2022-12;secao;FISIOTERAPEUTA;;;497
+2022;2022-12;ocupacao;Fisioterapeuta geral;principal;Fisioterapia;496
+2022;2022-12;ocupacao;Fisioterapeuta neurofuncional;principal;Fisioterapia;1
+2022;2022-12;secao;FONOAUDIÓLOGO;;;88
+2022;2022-12;ocupacao;Fonoaudiólogo;principal;Fonoaudiologia;88
+2022;2022-12;secao;GINECO OBSTETRA;;;115
+2022;2022-12;ocupacao;Médico Ginecologista Obstetra;principal;Medicina;115
+2022;2022-12;secao;MÉDICO DE FAMÍLIA;;;16
+2022;2022-12;ocupacao;Médico da estratégia de Saúde da Família;principal;Medicina;14
+2022;2022-12;ocupacao;Médico de família e comunidade;principal;Medicina;2
+2022;2022-12;secao;NUTRICIONISTA;;;112
+2022;2022-12;ocupacao;Nutricionista;principal;Nutrição;112
+2022;2022-12;secao;ODONTÓLOGO;;;588
+2022;2022-12;ocupacao;Cirurgião dentista - auditor;principal;Odontologia e saúde bucal;1
+2022;2022-12;ocupacao;Cirurgião dentista - clínico geral;principal;Odontologia e saúde bucal;471
+2022;2022-12;ocupacao;Cirurgião dentista - endodontista;principal;Odontologia e saúde bucal;26
+2022;2022-12;ocupacao;Cirurgião dentista - estomatologista;principal;Odontologia e saúde bucal;1
+2022;2022-12;ocupacao;Cirurgião dentista - odontologia para pacientes co;principal;Odontologia e saúde bucal;6
+2022;2022-12;ocupacao;Cirurgião dentista - odontopediatra;principal;Odontologia e saúde bucal;15
+2022;2022-12;ocupacao;Cirurgião dentista - ortopedista e ortodontista;principal;Odontologia e saúde bucal;14
+2022;2022-12;ocupacao;Cirurgião dentista - periodontista;principal;Odontologia e saúde bucal;6
+2022;2022-12;ocupacao;Cirurgião dentista - protesista;principal;Odontologia e saúde bucal;12
+2022;2022-12;ocupacao;Cirurgião dentista - protesiólogo bucomaxilofacial;principal;Odontologia e saúde bucal;1
+2022;2022-12;ocupacao;Cirurgião dentista - radiologista;principal;Odontologia e saúde bucal;6
+2022;2022-12;ocupacao;Cirurgião dentista - traumatologista bucomaxilofac;principal;Odontologia e saúde bucal;17
+2022;2022-12;ocupacao;Cirurgião-dentista da estratégia de saúde da famíl;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);12
+2022;2022-12;secao;PEDIATRA;;;216
+2022;2022-12;ocupacao;Médico Pediatra;principal;Medicina;216
+2022;2022-12;secao;PSICÓLOGO;;;242
+2022;2022-12;ocupacao;Psicólogo Clínico;multiprofissional;Psicologia;234
+2022;2022-12;ocupacao;Psicólogo do Trabalho;multiprofissional;Psicologia;2
+2022;2022-12;ocupacao;Psicólogo Social;multiprofissional;Psicologia;1
+2022;2022-12;ocupacao;Psicólogo Educacional;multiprofissional;Psicologia;3
+2022;2022-12;ocupacao;Psicólogo Hospitalar;multiprofissional;Psicologia;2
+2022;2022-12;secao;PSIQUIATRA;;;22
+2022;2022-12;ocupacao;Médico psiquiatra;principal;Medicina;22
+2022;2022-12;secao;RADIOLOGISTA;;;45
+2022;2022-12;ocupacao;Médico em radiologia e diagnóstico por imagem;principal;Medicina;45
+2022;2022-12;secao;SANITARISTA;;;1
+2022;2022-12;ocupacao;Médico sanitarista;principal;Medicina;1
+2022;2022-12;secao;OUTRAS ESPECIALIDADES MÉDICAS;;;526
+2022;2022-12;ocupacao;Médico acupunturista;principal;Medicina;1
+2022;2022-12;ocupacao;Médico alergista e imunologista;principal;Medicina;10
+2022;2022-12;ocupacao;Médico anatomopatologista;principal;Medicina;6
+2022;2022-12;ocupacao;Médico angiologista;principal;Medicina;17
+2022;2022-12;ocupacao;Médico Cardiologista Intervencionista;principal;Medicina;1
+2022;2022-12;ocupacao;Médico cardiologista;principal;Medicina;87
+2022;2022-12;ocupacao;Médico cirurgião de cabeça e pescoço;principal;Medicina;3
+2022;2022-12;ocupacao;Médico cirurgião do aparelho digestivo;principal;Medicina;5
+2022;2022-12;ocupacao;Médico cirurgião pediátrico;principal;Medicina;1
+2022;2022-12;ocupacao;Médico cirurgião plástico;principal;Medicina;3
+2022;2022-12;ocupacao;Médico cirurgião torácico;principal;Medicina;1
+2022;2022-12;ocupacao;Médico coloproctologista;principal;Medicina;4
+2022;2022-12;ocupacao;Médico dermatologista;principal;Medicina;27
+2022;2022-12;ocupacao;Médico do trabalho;principal;Medicina;14
+2022;2022-12;ocupacao;Médico em cirurgia vascular;principal;Medicina;2
+2022;2022-12;ocupacao;Médico em endoscopia;principal;Medicina;2
+2022;2022-12;ocupacao;Médico em medicina intensiva;principal;Medicina;23
+2022;2022-12;ocupacao;Médico em medicina nuclear;principal;Medicina;3
+2022;2022-12;ocupacao;Médico endocrinologista e metabologista;principal;Medicina;11
+2022;2022-12;ocupacao;Médico fisiatra;principal;Medicina;2
+2022;2022-12;ocupacao;Médico gastroenterologista;principal;Medicina;12
+2022;2022-12;ocupacao;Médico geneticista;principal;Medicina;1
+2022;2022-12;ocupacao;Médico geriatra;principal;Medicina;4
+2022;2022-12;ocupacao;Médico hematologista;principal;Medicina;3
+2022;2022-12;ocupacao;Médico infectologista;principal;Medicina;12
+2022;2022-12;ocupacao;Médico mastologista;principal;Medicina;3
+2022;2022-12;ocupacao;Médico nefrologista;principal;Medicina;23
+2022;2022-12;ocupacao;Médico neurocirurgião;principal;Medicina;7
+2022;2022-12;ocupacao;Médico neurologista;principal;Medicina;34
+2022;2022-12;ocupacao;Médico nutrologista;principal;Medicina;4
+2022;2022-12;ocupacao;Médico oftalmologista;principal;Medicina;47
+2022;2022-12;ocupacao;Médico oncologista clínico;principal;Medicina;24
+2022;2022-12;ocupacao;Médico ortopedista e traumatologista;principal;Medicina;40
+2022;2022-12;ocupacao;Médico otorrinolaringologista;principal;Medicina;23
+2022;2022-12;ocupacao;Médico patologista;principal;Medicina;1
+2022;2022-12;ocupacao;Médico pneumologista;principal;Medicina;8
+2022;2022-12;ocupacao;Médico radioterapeuta;principal;Medicina;3
+2022;2022-12;ocupacao;Médico residente;principal;Medicina;33
+2022;2022-12;ocupacao;Médico reumatologista;principal;Medicina;9
+2022;2022-12;ocupacao;Médico urologista;principal;Medicina;12
+2022;2022-12;secao;OUTRAS OCUPAÇÕES DE NÍVEL SUPERIOR RELAC À SAÚDE;;;115
+2022;2022-12;ocupacao;Médico veterinário;principal;Medicina;17
+2022;2022-12;ocupacao;Biólogo;multiprofissional;Biologia;53
+2022;2022-12;ocupacao;BioMédico;principal;Biomedicina;2
+2022;2022-12;ocupacao;Coordenador Pedagógico;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2022;2022-12;ocupacao;Físico (medicina);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2022;2022-12;ocupacao;Físico (nuclear e reatores);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2022;2022-12;ocupacao;Neuropsicólogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2022;2022-12;ocupacao;Pedagogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);8
+2022;2022-12;ocupacao;Pesquisador em Biologia Ambiental Ecologi;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2022;2022-12;ocupacao;Preparador Físico;multiprofissional;Educação física;2
+2022;2022-12;ocupacao;Professor de Educação Fisica Ensino Médio;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2022;2022-12;ocupacao;Psicopedagogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);6
+2022;2022-12;ocupacao;Terapeuta ocupacional;principal;Terapia ocupacional e afins;16
+2022;2022-12;secao;PESSOAL DE SAÚDE - NÍVEL TÉCNICO TÉCNICO/AUXILIAR;;;3923
+2022;2022-12;secao;AUXILIAR DE ENFERMAGEM;;;779
+2022;2022-12;ocupacao;Auxiliar de Enfermagem;principal;Enfermagem – técnicos e auxiliares;778
+2022;2022-12;ocupacao;Auxiliar de Enfermagem do Trabalho;principal;Enfermagem – técnicos e auxiliares;1
+2022;2022-12;secao;FISCAL SANITÁRIO;;;1
+2022;2022-12;ocupacao;Visitador Sanitário;principal;Agentes comunitários de saúde e afins;1
+2022;2022-12;secao;TÉCNICO DE ENFERMAGEM;;;2503
+2022;2022-12;ocupacao;Técnico de enfermagem;principal;Enfermagem – técnicos e auxiliares;2443
+2022;2022-12;ocupacao;Técnico de enfermagem de saúde da família;principal;Enfermagem – técnicos e auxiliares;42
+2022;2022-12;ocupacao;Técnico de enfermagem de terapia intensiva;principal;Enfermagem – técnicos e auxiliares;3
+2022;2022-12;ocupacao;Técnico de enfermagem do trabalho;principal;Enfermagem – técnicos e auxiliares;1
+2022;2022-12;ocupacao;Socorrista (exceto médicos e enfermeiros) habilita;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);14
+2022;2022-12;secao;TÉCNICO E AUXILIAR DE FARMÁCIA;;;136
+2022;2022-12;ocupacao;Auxiliar de Farmácia de Manipulação;principal;Farmácia – técnicos e auxiliares;8
+2022;2022-12;ocupacao;Auxiliar técnico em laboratório de farmácia;principal;Farmácia – técnicos e auxiliares;7
+2022;2022-12;ocupacao;Técnico em Farmácia;principal;Farmácia – técnicos e auxiliares;121
+2022;2022-12;secao;TÉCNICO E AUXILIAR DE LABORATÓRIO;;;279
+2022;2022-12;ocupacao;Auxiliar de Laboratório de Análises Clínicas;principal;Diagnóstico e laboratório – técnicos e auxiliares;47
+2022;2022-12;ocupacao;Auxiliar de laboratório de análises físico-química;principal;Diagnóstico e laboratório – técnicos e auxiliares;1
+2022;2022-12;ocupacao;Técnico de laboratório de análises físico-químicas;principal;Diagnóstico e laboratório – técnicos e auxiliares;4
+2022;2022-12;ocupacao;Técnico em Laboratório de Farmácia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2022;2022-12;ocupacao;Técnico em patologia clínica;principal;Diagnóstico e laboratório – técnicos e auxiliares;225
+2022;2022-12;secao;TÉCNICO E AUXILIAR EM FISIOTERAPIA E REABILITAÇÃO;;;6
+2022;2022-12;ocupacao;Técnico de imobilização ortopédica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);6
+2022;2022-12;secao;TÉCNICO E AUXILIAR EM SAÚDE ORAL;;;11
+2022;2022-12;ocupacao;Técnico em saúde bucal;principal;Odontologia e saúde bucal;11
+2022;2022-12;secao;TÉCNICO E AUXILIAR EM RADIOLOGIA MÉDICA;;;162
+2022;2022-12;ocupacao;Auxiliar de Radiologia (Revelação Fotográfica);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2022;2022-12;ocupacao;Técnico em radiologia e imagenologia;principal;Diagnóstico e laboratório – técnicos e auxiliares;161
+2022;2022-12;secao;OUTRAS OCUPAÇÕES NÍVEL TÉCNICO E AUXILIAR EM SAÚD;;;46
+2022;2022-12;ocupacao;Instrumentador Cirúrgico;principal;Instrumentação cirúrgica;42
+2022;2022-12;ocupacao;Instrutor de Cursos Livres;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2022;2022-12;ocupacao;Técnico de Alimentos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2022;2022-12;secao;PESSOAL DE SAÚDE - QUALIFICAÇÃO ELEMENTAR;;;2993
+2022;2022-12;secao;AGENTE COMUNITÁRIO DE SAÚDE;;;219
+2022;2022-12;ocupacao;Agente comunitário de saúde;principal;Agentes comunitários de saúde e afins;219
+2022;2022-12;secao;AGENTE DE SAÚDE PÚBLICA;;;2
+2022;2022-12;ocupacao;Agente de saúde pública agente de saneam;principal;Agentes de combate às endemias;2
+2022;2022-12;secao;ATENDENTE DE ENFERMAGEM/AUX OPER SERV DIV E ASSEM;;;163
+2022;2022-12;ocupacao;Atendente de consultório dentario;principal;Odontologia e saúde bucal;107
+2022;2022-12;ocupacao;Atendente de enfermagem atend berçario;principal;Agentes comunitários de saúde e afins;21
+2022;2022-12;ocupacao;Atendente de farmácia balconista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);35
+2022;2022-12;secao;OUTRAS OCUPAÇÕES NÍVEL ELEMENTAR EM SAÚDE;;;2609
+2022;2022-12;secao;PESSOAL ADMINISTRATIVO;;;2609
+2022;2022-12;secao;ADMINISTRAÇÃO;;;1608
+2022;2022-12;ocupacao;Administrador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);23
+2022;2022-12;ocupacao;Almoxarife;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2022;2022-12;ocupacao;Analista de redes e de comunicacao dados;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2022;2022-12;ocupacao;Analista de suporte computacional;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2022;2022-12;ocupacao;Arquiteto de edificacoes;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2022;2022-12;ocupacao;Arquivista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2022;2022-12;ocupacao;Arquivista de documentos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2022;2022-12;ocupacao;Assistente tecnico administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);522
+2022;2022-12;ocupacao;Atendente de ambulatorio ou clínica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);142
+2022;2022-12;ocupacao;Auxiliar de contabilidade;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);6
+2022;2022-12;ocupacao;Auxiliar de escritorio em geral auxiliar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);273
+2022;2022-12;ocupacao;Auxiliar de faturamento;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);42
+2022;2022-12;ocupacao;Auxiliar de pessoal;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2022;2022-12;ocupacao;Contador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2022;2022-12;ocupacao;Continuo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2022;2022-12;ocupacao;Digitador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);38
+2022;2022-12;ocupacao;Diretor administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);12
+2022;2022-12;ocupacao;Diretor de manutenção;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2022;2022-12;ocupacao;Diretor de serviços de informatica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2022;2022-12;ocupacao;Diretor de serviços de saude diretor cli;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);31
+2022;2022-12;ocupacao;Diretor financeiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2022;2022-12;ocupacao;Engenheiro de seguranca do trabalho;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2022;2022-12;ocupacao;Gerente administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);14
+2022;2022-12;ocupacao;Gerente de almoxarifado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2022;2022-12;ocupacao;Gerente de departamento pessoal;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2022;2022-12;ocupacao;Gerente de projetos de tecnologia da info;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2022;2022-12;ocupacao;Gerente de recursos humanos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2022;2022-12;ocupacao;Gerente de serviços de saude administrado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);126
+2022;2022-12;ocupacao;Operador de computador inclusive microcom;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2022;2022-12;ocupacao;Operador de radiochamada;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);5
+2022;2022-12;ocupacao;Programador de sistemas de informacao;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2022;2022-12;ocupacao;Recepcionista em geral;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);214
+2022;2022-12;ocupacao;Secretaria executiva;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);7
+2022;2022-12;ocupacao;Supervisor administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);30
+2022;2022-12;ocupacao;Supervisor de almoxarifado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2022;2022-12;ocupacao;Supervisor de compras;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2022;2022-12;ocupacao;Supervisor de contas a pagar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2022;2022-12;ocupacao;Supervisor de controle patrimonial;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2022;2022-12;ocupacao;Supervisor de recepcionistas;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2022;2022-12;ocupacao;Supervisor de tesouraria;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2022;2022-12;ocupacao;Tecnico de apoio usuário inform helpdesk;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2022;2022-12;ocupacao;Tecnico de contabilidade;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2022;2022-12;ocupacao;Tecnico em manutenção de equip informátic;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);8
+2022;2022-12;ocupacao;Tecnico em segurança no trabalho;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);16
+2022;2022-12;ocupacao;Telefonista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);47
+2022;2022-12;secao;SERVIÇO DE LIMPEZA/CONSERVAÇÃO;;;10
+2022;2022-12;ocupacao;de higiene e segurança;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2022;2022-12;ocupacao;Auxiliar de lavanderia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2022;2022-12;ocupacao;Eletricista de instalações;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2022;2022-12;ocupacao;Operador de caldeira;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2022;2022-12;ocupacao;Servente de obras;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2022;2022-12;secao;SEGURANÇA;;;83
+2022;2022-12;ocupacao;Agente de segurança;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2022;2022-12;ocupacao;Porteiro de edifícios;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);7
+2022;2022-12;ocupacao;Vigia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);67
+2022;2022-12;ocupacao;Vigilante;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);7
+2022;2022-12;secao;OUTRAS OCUPAÇÕES ADMINISTRATIVAS;;;908
+2022;2022-12;ocupacao;Copeiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2022;2022-12;ocupacao;Copeiro de hospital;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2022;2022-12;ocupacao;Cozinheiro de hospital;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2022;2022-12;ocupacao;Motorista de carro de passeio;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);19
+2022;2022-12;ocupacao;Trabalhador de serviços de manutenção;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);881
+2023;2023-12;secao;PESSOAL DE SAÚDE - NÍVEL SUPERIOR;;;4707
+2023;2023-12;secao;ANESTESISTA;;;47
+2023;2023-12;ocupacao;Médico Anestesiologista;principal;Medicina;47
+2023;2023-12;secao;ASSISTENTE SOCIAL;;;206
+2023;2023-12;ocupacao;Assistente Social;multiprofissional;Serviço social;206
+2023;2023-12;secao;BIOQUÍMICO/FARMACÊUTICO;;;152
+2023;2023-12;ocupacao;Farmacêutico;principal;Farmácia;152
+2023;2023-12;secao;CIRURGIÃO GERAL;;;38
+2023;2023-12;ocupacao;Médico Cirurgião Geral;principal;Medicina;38
+2023;2023-12;secao;CLÍNICO GERAL;;;426
+2023;2023-12;ocupacao;Médico Clínico;principal;Medicina;426
+2023;2023-12;secao;ENFERMEIRO;;;1056
+2023;2023-12;ocupacao;Outros enfermeiros;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);6
+2023;2023-12;ocupacao;Enfermeiro;principal;Enfermagem – enfermeiros;956
+2023;2023-12;ocupacao;Enfermeiro auditor;principal;Enfermagem – enfermeiros;5
+2023;2023-12;ocupacao;Enfermeiro da estratégia de saúde da família;principal;Enfermagem – enfermeiros;43
+2023;2023-12;ocupacao;Enfermeiro de terapia intensiva;principal;Enfermagem – enfermeiros;26
+2023;2023-12;ocupacao;Enfermeiro do trabalho;principal;Enfermagem – enfermeiros;10
+2023;2023-12;ocupacao;Enfermeiro nefrologista;principal;Enfermagem – enfermeiros;3
+2023;2023-12;ocupacao;Enfermeiro obstétrico;principal;Enfermagem – enfermeiros;7
+2023;2023-12;secao;FISIOTERAPEUTA;;;540
+2023;2023-12;ocupacao;Fisioterapeuta geral;principal;Fisioterapia;539
+2023;2023-12;ocupacao;Fisioterapeuta neurofuncional;principal;Fisioterapia;1
+2023;2023-12;secao;FONOAUDIÓLOGO;;;90
+2023;2023-12;ocupacao;Fonoaudiólogo;principal;Fonoaudiologia;90
+2023;2023-12;secao;GINECO OBSTETRA;;;115
+2023;2023-12;ocupacao;Médico Ginecologista Obstetra;principal;Medicina;115
+2023;2023-12;secao;MÉDICO DE FAMÍLIA;;;51
+2023;2023-12;ocupacao;Médico da estratégia de Saúde da Família;principal;Medicina;48
+2023;2023-12;ocupacao;Médico de família e comunidade;principal;Medicina;3
+2023;2023-12;secao;NUTRICIONISTA;;;131
+2023;2023-12;ocupacao;Nutricionista;principal;Nutrição;131
+2023;2023-12;secao;ODONTÓLOGO;;;590
+2023;2023-12;ocupacao;Cirurgião dentista - auditor;principal;Odontologia e saúde bucal;1
+2023;2023-12;ocupacao;Cirurgião dentista - clínico geral;principal;Odontologia e saúde bucal;467
+2023;2023-12;ocupacao;Cirurgião dentista - dentística;principal;Odontologia e saúde bucal;4
+2023;2023-12;ocupacao;Cirurgião dentista - endodontista;principal;Odontologia e saúde bucal;26
+2023;2023-12;ocupacao;Cirurgião dentista - estomatologista;principal;Odontologia e saúde bucal;1
+2023;2023-12;ocupacao;Cirurgião dentista - odontologia para pacientes co;principal;Odontologia e saúde bucal;8
+2023;2023-12;ocupacao;Cirurgião dentista - odontopediatra;principal;Odontologia e saúde bucal;14
+2023;2023-12;ocupacao;Cirurgião dentista - ortopedista e ortodontista;principal;Odontologia e saúde bucal;15
+2023;2023-12;ocupacao;Cirurgião dentista - periodontista;principal;Odontologia e saúde bucal;7
+2023;2023-12;ocupacao;Cirurgião dentista - protesista;principal;Odontologia e saúde bucal;12
+2023;2023-12;ocupacao;Cirurgião dentista - protesiólogo bucomaxilofacial;principal;Odontologia e saúde bucal;1
+2023;2023-12;ocupacao;Cirurgião dentista - radiologista;principal;Odontologia e saúde bucal;6
+2023;2023-12;ocupacao;Cirurgião dentista - traumatologista bucomaxilofac;principal;Odontologia e saúde bucal;16
+2023;2023-12;ocupacao;Cirurgião-dentista da estratégia de saúde da famíl;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);12
+2023;2023-12;secao;PEDIATRA;;;219
+2023;2023-12;ocupacao;Médico Pediatra;principal;Medicina;219
+2023;2023-12;secao;PSICÓLOGO;;;265
+2023;2023-12;ocupacao;Psicólogo Clínico;multiprofissional;Psicologia;257
+2023;2023-12;ocupacao;Psicólogo do Trabalho;multiprofissional;Psicologia;2
+2023;2023-12;ocupacao;Psicólogo Social;multiprofissional;Psicologia;1
+2023;2023-12;ocupacao;Psicólogo Educacional;multiprofissional;Psicologia;3
+2023;2023-12;ocupacao;Psicólogo Hospitalar;multiprofissional;Psicologia;2
+2023;2023-12;secao;PSIQUIATRA;;;25
+2023;2023-12;ocupacao;Médico psiquiatra;principal;Medicina;25
+2023;2023-12;secao;RADIOLOGISTA;;;48
+2023;2023-12;ocupacao;Médico em radiologia e diagnóstico por imagem;principal;Medicina;48
+2023;2023-12;secao;SANITARISTA;;;1
+2023;2023-12;ocupacao;Médico sanitarista;principal;Medicina;1
+2023;2023-12;secao;OUTRAS ESPECIALIDADES MÉDICAS;;;581
+2023;2023-12;ocupacao;Médico acupunturista;principal;Medicina;1
+2023;2023-12;ocupacao;Médico alergista e imunologista;principal;Medicina;12
+2023;2023-12;ocupacao;Médico anatomopatologista;principal;Medicina;7
+2023;2023-12;ocupacao;Médico angiologista;principal;Medicina;19
+2023;2023-12;ocupacao;Médico Cardiologista Intervencionista;principal;Medicina;1
+2023;2023-12;ocupacao;Médico cardiologista;principal;Medicina;87
+2023;2023-12;ocupacao;Médico cirurgião cardiovascular;principal;Medicina;1
+2023;2023-12;ocupacao;Médico cirurgião de cabeça e pescoço;principal;Medicina;4
+2023;2023-12;ocupacao;Médico cirurgião do aparelho digestivo;principal;Medicina;5
+2023;2023-12;ocupacao;Médico cirurgião pediátrico;principal;Medicina;2
+2023;2023-12;ocupacao;Médico cirurgião plástico;principal;Medicina;3
+2023;2023-12;ocupacao;Médico cirurgião torácico;principal;Medicina;1
+2023;2023-12;ocupacao;Médico coloproctologista;principal;Medicina;5
+2023;2023-12;ocupacao;Médico dermatologista;principal;Medicina;27
+2023;2023-12;ocupacao;Médico do trabalho;principal;Medicina;13
+2023;2023-12;ocupacao;Médico em cirurgia vascular;principal;Medicina;2
+2023;2023-12;ocupacao;Médico em endoscopia;principal;Medicina;2
+2023;2023-12;ocupacao;Médico em medicina intensiva;principal;Medicina;22
+2023;2023-12;ocupacao;Médico em medicina nuclear;principal;Medicina;3
+2023;2023-12;ocupacao;Médico endocrinologista e metabologista;principal;Medicina;15
+2023;2023-12;ocupacao;Médico fisiatra;principal;Medicina;2
+2023;2023-12;ocupacao;Médico gastroenterologista;principal;Medicina;13
+2023;2023-12;ocupacao;Médico geneticista;principal;Medicina;1
+2023;2023-12;ocupacao;Médico geriatra;principal;Medicina;4
+2023;2023-12;ocupacao;Médico hematologista;principal;Medicina;4
+2023;2023-12;ocupacao;Médico infectologista;principal;Medicina;11
+2023;2023-12;ocupacao;Médico mastologista;principal;Medicina;3
+2023;2023-12;ocupacao;Médico nefrologista;principal;Medicina;21
+2023;2023-12;ocupacao;Médico neurocirurgião;principal;Medicina;7
+2023;2023-12;ocupacao;Médico neurologista;principal;Medicina;36
+2023;2023-12;ocupacao;Médico nutrologista;principal;Medicina;5
+2023;2023-12;ocupacao;Médico oftalmologista;principal;Medicina;49
+2023;2023-12;ocupacao;Médico oncologista clínico;principal;Medicina;24
+2023;2023-12;ocupacao;Médico ortopedista e traumatologista;principal;Medicina;42
+2023;2023-12;ocupacao;Médico otorrinolaringologista;principal;Medicina;23
+2023;2023-12;ocupacao;Médico patologista;principal;Medicina;1
+2023;2023-12;ocupacao;Médico pneumologista;principal;Medicina;9
+2023;2023-12;ocupacao;Médico radioterapeuta;principal;Medicina;3
+2023;2023-12;ocupacao;Médico residente;principal;Medicina;69
+2023;2023-12;ocupacao;Médico reumatologista;principal;Medicina;9
+2023;2023-12;ocupacao;Médico urologista;principal;Medicina;13
+2023;2023-12;secao;OUTRAS OCUPAÇÕES DE NÍVEL SUPERIOR RELAC À SAÚDE;;;126
+2023;2023-12;ocupacao;Médico veterinário;principal;Medicina;23
+2023;2023-12;ocupacao;Biólogo;multiprofissional;Biologia;55
+2023;2023-12;ocupacao;BioMédico;principal;Biomedicina;1
+2023;2023-12;ocupacao;Coordenador Pedagógico;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2023;2023-12;ocupacao;Físico (medicina);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2023;2023-12;ocupacao;Físico (nuclear e reatores);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2023;2023-12;ocupacao;Neuropsicólogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2023;2023-12;ocupacao;Orientador Educacional;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Ortoptista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Pedagogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);8
+2023;2023-12;ocupacao;Pesquisador em Biologia Ambiental Ecologi;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Preparador Físico;multiprofissional;Educação física;2
+2023;2023-12;ocupacao;Professor de Educação Fisica Ensino Médio;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Psicopedagogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);5
+2023;2023-12;ocupacao;Terapeuta ocupacional;principal;Terapia ocupacional e afins;17
+2023;2023-12;secao;PESSOAL DE SAÚDE - NÍVEL TÉCNICO TÉCNICO/AUXILIAR;;;4228
+2023;2023-12;secao;AUXILIAR DE ENFERMAGEM;;;706
+2023;2023-12;ocupacao;Auxiliar de Enfermagem;principal;Enfermagem – técnicos e auxiliares;705
+2023;2023-12;ocupacao;Auxiliar de Enfermagem do Trabalho;principal;Enfermagem – técnicos e auxiliares;1
+2023;2023-12;secao;FISCAL SANITÁRIO;;;1
+2023;2023-12;ocupacao;Visitador Sanitário;principal;Agentes comunitários de saúde e afins;1
+2023;2023-12;secao;TÉCNICO DE ENFERMAGEM;;;2886
+2023;2023-12;ocupacao;Técnico de enfermagem;principal;Enfermagem – técnicos e auxiliares;2843
+2023;2023-12;ocupacao;Técnico de enfermagem de saúde da família;principal;Enfermagem – técnicos e auxiliares;40
+2023;2023-12;ocupacao;Técnico de enfermagem de terapia intensiva;principal;Enfermagem – técnicos e auxiliares;2
+2023;2023-12;ocupacao;Técnico de enfermagem do trabalho;principal;Enfermagem – técnicos e auxiliares;1
+2023;2023-12;secao;TÉCNICO E AUXILIAR DE FARMÁCIA;;;139
+2023;2023-12;ocupacao;Auxiliar de Farmácia de Manipulação;principal;Farmácia – técnicos e auxiliares;3
+2023;2023-12;ocupacao;Auxiliar técnico em laboratório de farmácia;principal;Farmácia – técnicos e auxiliares;6
+2023;2023-12;ocupacao;Técnico em Farmácia;principal;Farmácia – técnicos e auxiliares;130
+2023;2023-12;secao;TÉCNICO E AUXILIAR DE LABORATÓRIO;;;268
+2023;2023-12;ocupacao;Auxiliar de Laboratório de Análises Clínicas;principal;Diagnóstico e laboratório – técnicos e auxiliares;44
+2023;2023-12;ocupacao;Auxiliar de laboratório de análises físico-química;principal;Diagnóstico e laboratório – técnicos e auxiliares;1
+2023;2023-12;ocupacao;Técnico de laboratório de análises físico-químicas;principal;Diagnóstico e laboratório – técnicos e auxiliares;4
+2023;2023-12;ocupacao;Técnico em Laboratório de Farmácia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Técnico em patologia clínica;principal;Diagnóstico e laboratório – técnicos e auxiliares;218
+2023;2023-12;secao;TÉCNICO E AUXILIAR EM FISIOTERAPIA E REABILITAÇÃO;;;7
+2023;2023-12;ocupacao;Técnico de imobilização ortopédica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);7
+2023;2023-12;secao;TÉCNICO E AUXILIAR EM SAÚDE ORAL;;;10
+2023;2023-12;ocupacao;Técnico em saúde bucal;principal;Odontologia e saúde bucal;10
+2023;2023-12;secao;TÉCNICO E AUXILIAR EM RADIOLOGIA MÉDICA;;;167
+2023;2023-12;ocupacao;Auxiliar de Radiologia (Revelação Fotográfica);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Técnico em radiologia e imagenologia;principal;Diagnóstico e laboratório – técnicos e auxiliares;166
+2023;2023-12;secao;OUTRAS OCUPAÇÕES NÍVEL TÉCNICO E AUXILIAR EM SAÚD;;;44
+2023;2023-12;ocupacao;Instrumentador Cirúrgico;principal;Instrumentação cirúrgica;40
+2023;2023-12;ocupacao;Instrutor de Cursos Livres;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Técnico de Alimentos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2023;2023-12;secao;PESSOAL DE SAÚDE - QUALIFICAÇÃO ELEMENTAR;;;3303
+2023;2023-12;secao;AGENTE COMUNITÁRIO DE SAÚDE;;;216
+2023;2023-12;ocupacao;Agente comunitário de saúde;principal;Agentes comunitários de saúde e afins;216
+2023;2023-12;secao;AGENTE DE SAÚDE PÚBLICA;;;2
+2023;2023-12;ocupacao;Agente de saúde pública agente de saneam;principal;Agentes de combate às endemias;2
+2023;2023-12;secao;ATENDENTE DE ENFERMAGEM/AUX OPER SERV DIV E ASSEM;;;170
+2023;2023-12;ocupacao;Atendente de consultório dentario;principal;Odontologia e saúde bucal;110
+2023;2023-12;ocupacao;Atendente de enfermagem atend berçario;principal;Agentes comunitários de saúde e afins;25
+2023;2023-12;ocupacao;Atendente de farmácia balconista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);35
+2023;2023-12;secao;OUTRAS OCUPAÇÕES NÍVEL ELEMENTAR EM SAÚDE;;;2915
+2023;2023-12;secao;PESSOAL ADMINISTRATIVO;;;2915
+2023;2023-12;secao;ADMINISTRAÇÃO;;;1673
+2023;2023-12;ocupacao;Administrador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);26
+2023;2023-12;ocupacao;Almoxarife;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);10
+2023;2023-12;ocupacao;Analista de redes e de comunicacao dados;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Analista de suporte computacional;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Arquiteto de edificacoes;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Arquivista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Arquivista de documentos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2023;2023-12;ocupacao;Assistente tecnico administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);616
+2023;2023-12;ocupacao;Atendente de ambulatorio ou clínica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);129
+2023;2023-12;ocupacao;Auditor contadores e afins;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Auxiliar de contabilidade;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);6
+2023;2023-12;ocupacao;Auxiliar de escritorio em geral auxiliar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);267
+2023;2023-12;ocupacao;Auxiliar de faturamento;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);46
+2023;2023-12;ocupacao;Auxiliar de pessoal;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2023;2023-12;ocupacao;Contador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2023;2023-12;ocupacao;Continuo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2023;2023-12;ocupacao;Digitador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);35
+2023;2023-12;ocupacao;Diretor administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);12
+2023;2023-12;ocupacao;Diretor de manutenção;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Diretor de serviços de informatica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2023;2023-12;ocupacao;Diretor de serviços de saude diretor cli;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);33
+2023;2023-12;ocupacao;Diretor financeiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Engenheiro de seguranca do trabalho;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2023;2023-12;ocupacao;Gerente administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);12
+2023;2023-12;ocupacao;Gerente de almoxarifado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2023;2023-12;ocupacao;Gerente de departamento pessoal;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2023;2023-12;ocupacao;Gerente de projetos de tecnologia da info;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Gerente de recursos humanos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Gerente de rede;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Gerente de serviços de saude administrado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);136
+2023;2023-12;ocupacao;Operador de computador inclusive microcom;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2023;2023-12;ocupacao;Operador de radiochamada;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2023;2023-12;ocupacao;Programador de sistemas de informacao;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2023;2023-12;ocupacao;Recepcionista em geral;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);205
+2023;2023-12;ocupacao;Secretaria executiva;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);9
+2023;2023-12;ocupacao;Supervisor administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);33
+2023;2023-12;ocupacao;Supervisor de almoxarifado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2023;2023-12;ocupacao;Supervisor de compras;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2023;2023-12;ocupacao;Supervisor de contas a pagar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Supervisor de controle patrimonial;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2023;2023-12;ocupacao;Supervisor de tesouraria;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2023;2023-12;ocupacao;Supervisor de transportes;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Tecnico de apoio usuário inform helpdesk;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Tecnico de contabilidade;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2023;2023-12;ocupacao;Tecnico em manutenção de equip informátic;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);7
+2023;2023-12;ocupacao;Tecnico em secretariado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Tecnico em segurança no trabalho;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);16
+2023;2023-12;ocupacao;Telefonista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);20
+2023;2023-12;secao;SERVIÇO DE LIMPEZA/CONSERVAÇÃO;;;17
+2023;2023-12;ocupacao;de higiene e segurança;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Auxiliar de lavanderia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);7
+2023;2023-12;ocupacao;Eletricista de instalações;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2023;2023-12;ocupacao;Operador de caldeira;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2023;2023-12;ocupacao;Pedreiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2023;2023-12;ocupacao;Servente de obras;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2023;2023-12;secao;SEGURANÇA;;;131
+2023;2023-12;ocupacao;Porteiro de edifícios;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);18
+2023;2023-12;ocupacao;Vigia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);105
+2023;2023-12;ocupacao;Vigilante;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);8
+2023;2023-12;secao;OUTRAS OCUPAÇÕES ADMINISTRATIVAS;;;1094
+2023;2023-12;ocupacao;Copeiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2023;2023-12;ocupacao;Copeiro de hospital;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);20
+2023;2023-12;ocupacao;Cozinheiro de hospital;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);9
+2023;2023-12;ocupacao;Cozinheiro geral;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2023;2023-12;ocupacao;Motorista de carro de passeio;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);35
+2023;2023-12;ocupacao;Motorista de furgão ou veículo similar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2023;2023-12;ocupacao;Trabalhador de serviços de manutenção;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1022
+2024;2024-12;secao;PESSOAL DE SAÚDE - NÍVEL SUPERIOR;;;4990
+2024;2024-12;secao;ANESTESISTA;;;47
+2024;2024-12;ocupacao;Médico Anestesiologista;principal;Medicina;47
+2024;2024-12;secao;ASSISTENTE SOCIAL;;;211
+2024;2024-12;ocupacao;Assistente Social;multiprofissional;Serviço social;211
+2024;2024-12;secao;BIOQUÍMICO/FARMACÊUTICO;;;160
+2024;2024-12;ocupacao;Farmacêutico;principal;Farmácia;160
+2024;2024-12;secao;CIRURGIÃO GERAL;;;39
+2024;2024-12;ocupacao;Médico Cirurgião Geral;principal;Medicina;39
+2024;2024-12;secao;CLÍNICO GERAL;;;460
+2024;2024-12;ocupacao;Médico Clínico;principal;Medicina;459
+2024;2024-12;ocupacao;Médico Generalista Alopata;principal;Medicina;1
+2024;2024-12;secao;ENFERMEIRO;;;1141
+2024;2024-12;ocupacao;Outros enfermeiros;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);8
+2024;2024-12;ocupacao;Enfermeiro;principal;Enfermagem – enfermeiros;1037
+2024;2024-12;ocupacao;Enfermeiro auditor;principal;Enfermagem – enfermeiros;8
+2024;2024-12;ocupacao;Enfermeiro da estratégia de saúde da família;principal;Enfermagem – enfermeiros;62
+2024;2024-12;ocupacao;Enfermeiro de terapia intensiva;principal;Enfermagem – enfermeiros;7
+2024;2024-12;ocupacao;Enfermeiro do trabalho;principal;Enfermagem – enfermeiros;9
+2024;2024-12;ocupacao;Enfermeiro nefrologista;principal;Enfermagem – enfermeiros;4
+2024;2024-12;ocupacao;Enfermeiro obstétrico;principal;Enfermagem – enfermeiros;6
+2024;2024-12;secao;FISIOTERAPEUTA;;;568
+2024;2024-12;ocupacao;Fisioterapeuta geral;principal;Fisioterapia;567
+2024;2024-12;ocupacao;Fisioterapeuta neurofuncional;principal;Fisioterapia;1
+2024;2024-12;secao;FONOAUDIÓLOGO;;;103
+2024;2024-12;ocupacao;Fonoaudiólogo;principal;Fonoaudiologia;103
+2024;2024-12;secao;GINECO OBSTETRA;;;112
+2024;2024-12;ocupacao;Médico Ginecologista Obstetra;principal;Medicina;112
+2024;2024-12;secao;MÉDICO DE FAMÍLIA;;;51
+2024;2024-12;ocupacao;Médico da estratégia de Saúde da Família;principal;Medicina;44
+2024;2024-12;ocupacao;Médico de família e comunidade;principal;Medicina;7
+2024;2024-12;secao;NUTRICIONISTA;;;151
+2024;2024-12;ocupacao;Nutricionista;principal;Nutrição;151
+2024;2024-12;secao;ODONTÓLOGO;;;606
+2024;2024-12;ocupacao;Cirurgião dentista - auditor;principal;Odontologia e saúde bucal;1
+2024;2024-12;ocupacao;Cirurgião dentista - clínico geral;principal;Odontologia e saúde bucal;484
+2024;2024-12;ocupacao;Cirurgião dentista - dentística;principal;Odontologia e saúde bucal;3
+2024;2024-12;ocupacao;Cirurgião dentista - endodontista;principal;Odontologia e saúde bucal;27
+2024;2024-12;ocupacao;Cirurgião dentista - estomatologista;principal;Odontologia e saúde bucal;1
+2024;2024-12;ocupacao;Cirurgião dentista - odontologia para pacientes co;principal;Odontologia e saúde bucal;7
+2024;2024-12;ocupacao;Cirurgião dentista - odontopediatra;principal;Odontologia e saúde bucal;14
+2024;2024-12;ocupacao;Cirurgião dentista - ortopedista e ortodontista;principal;Odontologia e saúde bucal;15
+2024;2024-12;ocupacao;Cirurgião dentista - periodontista;principal;Odontologia e saúde bucal;7
+2024;2024-12;ocupacao;Cirurgião dentista - protesista;principal;Odontologia e saúde bucal;12
+2024;2024-12;ocupacao;Cirurgião dentista - protesiólogo bucomaxilofacial;principal;Odontologia e saúde bucal;1
+2024;2024-12;ocupacao;Cirurgião dentista - radiologista;principal;Odontologia e saúde bucal;6
+2024;2024-12;ocupacao;Cirurgião dentista - traumatologista bucomaxilofac;principal;Odontologia e saúde bucal;16
+2024;2024-12;ocupacao;Cirurgião-dentista da estratégia de saúde da famíl;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);12
+2024;2024-12;secao;PEDIATRA;;;229
+2024;2024-12;ocupacao;Médico Pediatra;principal;Medicina;229
+2024;2024-12;secao;PSICÓLOGO;;;291
+2024;2024-12;ocupacao;Psicólogo Clínico;multiprofissional;Psicologia;285
+2024;2024-12;ocupacao;Psicólogo do Trabalho;multiprofissional;Psicologia;1
+2024;2024-12;ocupacao;Psicólogo Social;multiprofissional;Psicologia;1
+2024;2024-12;ocupacao;Psicólogo Educacional;multiprofissional;Psicologia;3
+2024;2024-12;ocupacao;Psicólogo Hospitalar;multiprofissional;Psicologia;1
+2024;2024-12;secao;PSIQUIATRA;;;29
+2024;2024-12;ocupacao;Médico psiquiatra;principal;Medicina;29
+2024;2024-12;secao;RADIOLOGISTA;;;53
+2024;2024-12;ocupacao;Médico em radiologia e diagnóstico por imagem;principal;Medicina;53
+2024;2024-12;secao;SANITARISTA;;;1
+2024;2024-12;ocupacao;Médico sanitarista;principal;Medicina;1
+2024;2024-12;secao;OUTRAS ESPECIALIDADES MÉDICAS;;;602
+2024;2024-12;ocupacao;Médico acupunturista;principal;Medicina;1
+2024;2024-12;ocupacao;Médico alergista e imunologista;principal;Medicina;13
+2024;2024-12;ocupacao;Médico anatomopatologista;principal;Medicina;8
+2024;2024-12;ocupacao;Médico angiologista;principal;Medicina;20
+2024;2024-12;ocupacao;Médico Cardiologista Intervencionista;principal;Medicina;1
+2024;2024-12;ocupacao;Médico cardiologista;principal;Medicina;88
+2024;2024-12;ocupacao;Médico cirurgião de cabeça e pescoço;principal;Medicina;4
+2024;2024-12;ocupacao;Médico cirurgião do aparelho digestivo;principal;Medicina;5
+2024;2024-12;ocupacao;Médico cirurgião pediátrico;principal;Medicina;2
+2024;2024-12;ocupacao;Médico cirurgião plástico;principal;Medicina;4
+2024;2024-12;ocupacao;Médico cirurgião torácico;principal;Medicina;3
+2024;2024-12;ocupacao;Médico coloproctologista;principal;Medicina;4
+2024;2024-12;ocupacao;Médico dermatologista;principal;Medicina;28
+2024;2024-12;ocupacao;Médico do trabalho;principal;Medicina;15
+2024;2024-12;ocupacao;Médico em endoscopia;principal;Medicina;2
+2024;2024-12;ocupacao;Médico em medicina intensiva;principal;Medicina;18
+2024;2024-12;ocupacao;Médico em medicina nuclear;principal;Medicina;4
+2024;2024-12;ocupacao;Médico endocrinologista e metabologista;principal;Medicina;17
+2024;2024-12;ocupacao;Médico fisiatra;principal;Medicina;2
+2024;2024-12;ocupacao;Médico gastroenterologista;principal;Medicina;13
+2024;2024-12;ocupacao;Médico geneticista;principal;Medicina;1
+2024;2024-12;ocupacao;Médico geriatra;principal;Medicina;4
+2024;2024-12;ocupacao;Médico hematologista;principal;Medicina;5
+2024;2024-12;ocupacao;Médico infectologista;principal;Medicina;10
+2024;2024-12;ocupacao;Médico mastologista;principal;Medicina;3
+2024;2024-12;ocupacao;Médico nefrologista;principal;Medicina;22
+2024;2024-12;ocupacao;Médico neurocirurgião;principal;Medicina;7
+2024;2024-12;ocupacao;Médico neurologista;principal;Medicina;34
+2024;2024-12;ocupacao;Médico nutrologista;principal;Medicina;5
+2024;2024-12;ocupacao;Médico oftalmologista;principal;Medicina;51
+2024;2024-12;ocupacao;Médico oncologista clínico;principal;Medicina;25
+2024;2024-12;ocupacao;Médico ortopedista e traumatologista;principal;Medicina;45
+2024;2024-12;ocupacao;Médico otorrinolaringologista;principal;Medicina;23
+2024;2024-12;ocupacao;Médico patologista;principal;Medicina;1
+2024;2024-12;ocupacao;Médico pneumologista;principal;Medicina;8
+2024;2024-12;ocupacao;Médico radioterapeuta;principal;Medicina;2
+2024;2024-12;ocupacao;Médico residente;principal;Medicina;83
+2024;2024-12;ocupacao;Médico reumatologista;principal;Medicina;8
+2024;2024-12;ocupacao;Médico urologista;principal;Medicina;13
+2024;2024-12;secao;OUTRAS OCUPAÇÕES DE NÍVEL SUPERIOR RELAC À SAÚDE;;;136
+2024;2024-12;ocupacao;Médico veterinário;principal;Medicina;25
+2024;2024-12;ocupacao;Biólogo;multiprofissional;Biologia;60
+2024;2024-12;ocupacao;BioMédico;principal;Biomedicina;2
+2024;2024-12;ocupacao;Coordenador Pedagógico;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2024;2024-12;ocupacao;Físico (medicina);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2024;2024-12;ocupacao;Físico (nuclear e reatores);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2024;2024-12;ocupacao;Neuropsicólogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2024;2024-12;ocupacao;Orientador Educacional;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Ortoptista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Pedagogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);7
+2024;2024-12;ocupacao;Pesquisador em Biologia Ambiental Ecologi;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Preparador Físico;multiprofissional;Educação física;1
+2024;2024-12;ocupacao;Professor de Educação Fisica Ensino Médio;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Psicopedagogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);6
+2024;2024-12;ocupacao;Terapeuta ocupacional;principal;Terapia ocupacional e afins;19
+2024;2024-12;secao;PESSOAL DE SAÚDE - NÍVEL TÉCNICO TÉCNICO/AUXILIAR;;;4514
+2024;2024-12;secao;AUXILIAR DE ENFERMAGEM;;;690
+2024;2024-12;ocupacao;Auxiliar de Enfermagem;principal;Enfermagem – técnicos e auxiliares;688
+2024;2024-12;ocupacao;Auxiliar de Enfermagem do Trabalho;principal;Enfermagem – técnicos e auxiliares;2
+2024;2024-12;secao;FISCAL SANITÁRIO;;;2
+2024;2024-12;ocupacao;Visitador Sanitário;principal;Agentes comunitários de saúde e afins;2
+2024;2024-12;secao;TÉCNICO DE ENFERMAGEM;;;3096
+2024;2024-12;ocupacao;Técnico de enfermagem;principal;Enfermagem – técnicos e auxiliares;3031
+2024;2024-12;ocupacao;Técnico de enfermagem de saúde da família;principal;Enfermagem – técnicos e auxiliares;63
+2024;2024-12;ocupacao;Técnico de enfermagem de terapia intensiva;principal;Enfermagem – técnicos e auxiliares;1
+2024;2024-12;ocupacao;Técnico de enfermagem do trabalho;principal;Enfermagem – técnicos e auxiliares;1
+2024;2024-12;secao;TÉCNICO E AUXILIAR DE FARMÁCIA;;;173
+2024;2024-12;ocupacao;Auxiliar de Farmácia de Manipulação;principal;Farmácia – técnicos e auxiliares;3
+2024;2024-12;ocupacao;Auxiliar técnico em laboratório de farmácia;principal;Farmácia – técnicos e auxiliares;19
+2024;2024-12;ocupacao;Técnico em Farmácia;principal;Farmácia – técnicos e auxiliares;151
+2024;2024-12;secao;TÉCNICO E AUXILIAR DE LABORATÓRIO;;;321
+2024;2024-12;ocupacao;Auxiliar de Laboratório de Análises Clínicas;principal;Diagnóstico e laboratório – técnicos e auxiliares;64
+2024;2024-12;ocupacao;Auxiliar de laboratório de análises físico-química;principal;Diagnóstico e laboratório – técnicos e auxiliares;1
+2024;2024-12;ocupacao;Técnico de laboratório de análises físico-químicas;principal;Diagnóstico e laboratório – técnicos e auxiliares;3
+2024;2024-12;ocupacao;Técnico em Laboratório de Farmácia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2024;2024-12;ocupacao;Técnico em patologia clínica;principal;Diagnóstico e laboratório – técnicos e auxiliares;250
+2024;2024-12;secao;TÉCNICO E AUXILIAR EM FISIOTERAPIA E REABILITAÇÃO;;;9
+2024;2024-12;ocupacao;Técnico de imobilização ortopédica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);9
+2024;2024-12;secao;TÉCNICO E AUXILIAR EM SAÚDE ORAL;;;7
+2024;2024-12;ocupacao;Técnico em saúde bucal;principal;Odontologia e saúde bucal;7
+2024;2024-12;secao;TÉCNICO E AUXILIAR EM RADIOLOGIA MÉDICA;;;169
+2024;2024-12;ocupacao;Auxiliar de Radiologia (Revelação Fotográfica);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Técnico em radiologia e imagenologia;principal;Diagnóstico e laboratório – técnicos e auxiliares;168
+2024;2024-12;secao;OUTRAS OCUPAÇÕES NÍVEL TÉCNICO E AUXILIAR EM SAÚD;;;47
+2024;2024-12;ocupacao;Instrumentador Cirúrgico;principal;Instrumentação cirúrgica;42
+2024;2024-12;ocupacao;Instrutor de Cursos Livres;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Professor de Nível Médio Na Educação Inf;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Técnico de Alimentos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2024;2024-12;secao;PESSOAL DE SAÚDE - QUALIFICAÇÃO ELEMENTAR;;;3625
+2024;2024-12;secao;AGENTE COMUNITÁRIO DE SAÚDE;;;35
+2024;2024-12;ocupacao;Agente comunitário de saúde;principal;Agentes comunitários de saúde e afins;35
+2024;2024-12;secao;AGENTE DE SAÚDE PÚBLICA;;;2
+2024;2024-12;ocupacao;Agente de saúde pública agente de saneam;principal;Agentes de combate às endemias;2
+2024;2024-12;secao;ATENDENTE DE ENFERMAGEM/AUX OPER SERV DIV E ASSEM;;;157
+2024;2024-12;ocupacao;Atendente de consultório dentario;principal;Odontologia e saúde bucal;111
+2024;2024-12;ocupacao;Atendente de enfermagem atend berçario;principal;Agentes comunitários de saúde e afins;22
+2024;2024-12;ocupacao;Atendente de farmácia balconista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);24
+2024;2024-12;secao;OUTRAS OCUPAÇÕES NÍVEL ELEMENTAR EM SAÚDE;;;3431
+2024;2024-12;secao;PESSOAL ADMINISTRATIVO;;;3431
+2024;2024-12;secao;ADMINISTRAÇÃO;;;1796
+2024;2024-12;ocupacao;Administrador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);27
+2024;2024-12;ocupacao;Almoxarife;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);11
+2024;2024-12;ocupacao;Analista de redes e de comunicacao dados;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Analista de suporte computacional;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2024;2024-12;ocupacao;Arquiteto de edificacoes;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Arquivista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Arquivista de documentos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2024;2024-12;ocupacao;Assistente tecnico administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);649
+2024;2024-12;ocupacao;Atendente de ambulatorio ou clínica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);119
+2024;2024-12;ocupacao;Auditor contadores e afins;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Auxiliar de contabilidade;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);8
+2024;2024-12;ocupacao;Auxiliar de escritorio em geral auxiliar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);303
+2024;2024-12;ocupacao;Auxiliar de faturamento;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);45
+2024;2024-12;ocupacao;Auxiliar de pessoal;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2024;2024-12;ocupacao;Comprador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Contador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2024;2024-12;ocupacao;Continuo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2024;2024-12;ocupacao;Digitador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);32
+2024;2024-12;ocupacao;Diretor administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);11
+2024;2024-12;ocupacao;Diretor comercial;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Diretor de serviços de informatica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2024;2024-12;ocupacao;Diretor de serviços de saude diretor cli;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);32
+2024;2024-12;ocupacao;Diretor de suprimentos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Diretor financeiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Engenheiro de seguranca do trabalho;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);5
+2024;2024-12;ocupacao;Gerente administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);15
+2024;2024-12;ocupacao;Gerente comercial;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Gerente de almoxarifado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2024;2024-12;ocupacao;Gerente de departamento pessoal;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2024;2024-12;ocupacao;Gerente de recursos humanos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Gerente de rede;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Gerente de serviços de saude administrado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);143
+2024;2024-12;ocupacao;Operador de computador inclusive microcom;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2024;2024-12;ocupacao;Operador de radiochamada;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2024;2024-12;ocupacao;Programador de sistemas de informacao;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2024;2024-12;ocupacao;Recepcionista em geral;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);243
+2024;2024-12;ocupacao;Secretaria executiva;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);10
+2024;2024-12;ocupacao;Supervisor administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);37
+2024;2024-12;ocupacao;Supervisor de almoxarifado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Supervisor de compras;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2024;2024-12;ocupacao;Supervisor de contas a pagar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Supervisor de controle patrimonial;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2024;2024-12;ocupacao;Supervisor de tesouraria;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2024;2024-12;ocupacao;Supervisor de transportes;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Tecnico de apoio usuário inform helpdesk;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Tecnico de contabilidade;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2024;2024-12;ocupacao;Tecnico em manutenção de equip informátic;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);6
+2024;2024-12;ocupacao;Tecnico em secretariado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2024;2024-12;ocupacao;Tecnico em segurança no trabalho;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);19
+2024;2024-12;ocupacao;Telefonista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);21
+2024;2024-12;secao;SERVIÇO DE LIMPEZA/CONSERVAÇÃO;;;18
+2024;2024-12;ocupacao;Auxiliar de lavanderia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);8
+2024;2024-12;ocupacao;Eletricista de instalações;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2024;2024-12;ocupacao;Operador de caldeira;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Pedreiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2024;2024-12;ocupacao;Servente de obras;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2024;2024-12;ocupacao;Zelador de edificio;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;secao;SEGURANÇA;;;143
+2024;2024-12;ocupacao;Porteiro de edifícios;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);12
+2024;2024-12;ocupacao;Vigia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);125
+2024;2024-12;ocupacao;Vigilante;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);6
+2024;2024-12;secao;OUTRAS OCUPAÇÕES ADMINISTRATIVAS;;;1474
+2024;2024-12;ocupacao;Copeiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2024;2024-12;ocupacao;Copeiro de hospital;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);28
+2024;2024-12;ocupacao;Cozinheiro de hospital;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);8
+2024;2024-12;ocupacao;Cozinheiro geral;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2024;2024-12;ocupacao;Motorista de carro de passeio;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);40
+2024;2024-12;ocupacao;Motorista de furgão ou veículo similar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2024;2024-12;ocupacao;Trabalhador de serviços de manutenção;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1390
+2025;2025-12;secao;PESSOAL DE SAÚDE - NÍVEL SUPERIOR;;;5092
+2025;2025-12;secao;ANESTESISTA;;;46
+2025;2025-12;ocupacao;Médico Anestesiologista;principal;Medicina;46
+2025;2025-12;secao;ASSISTENTE SOCIAL;;;200
+2025;2025-12;ocupacao;Assistente Social;multiprofissional;Serviço social;200
+2025;2025-12;secao;BIOQUÍMICO/FARMACÊUTICO;;;176
+2025;2025-12;ocupacao;Farmacêutico;principal;Farmácia;176
+2025;2025-12;secao;CIRURGIÃO GERAL;;;37
+2025;2025-12;ocupacao;Médico Cirurgião Geral;principal;Medicina;37
+2025;2025-12;secao;CLÍNICO GERAL;;;509
+2025;2025-12;ocupacao;Médico Clínico;principal;Medicina;508
+2025;2025-12;ocupacao;Médico Generalista Alopata;principal;Medicina;1
+2025;2025-12;secao;ENFERMEIRO;;;1119
+2025;2025-12;ocupacao;Outros enfermeiros;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);8
+2025;2025-12;ocupacao;Enfermeiro;principal;Enfermagem – enfermeiros;1018
+2025;2025-12;ocupacao;Enfermeiro auditor;principal;Enfermagem – enfermeiros;7
+2025;2025-12;ocupacao;Enfermeiro da estratégia de saúde da família;principal;Enfermagem – enfermeiros;64
+2025;2025-12;ocupacao;Enfermeiro de terapia intensiva;principal;Enfermagem – enfermeiros;6
+2025;2025-12;ocupacao;Enfermeiro do trabalho;principal;Enfermagem – enfermeiros;8
+2025;2025-12;ocupacao;Enfermeiro nefrologista;principal;Enfermagem – enfermeiros;4
+2025;2025-12;ocupacao;Enfermeiro obstétrico;principal;Enfermagem – enfermeiros;4
+2025;2025-12;secao;FISIOTERAPEUTA;;;583
+2025;2025-12;ocupacao;Fisioterapeuta geral;principal;Fisioterapia;582
+2025;2025-12;ocupacao;Fisioterapeuta neurofuncional;principal;Fisioterapia;1
+2025;2025-12;secao;FONOAUDIÓLOGO;;;111
+2025;2025-12;ocupacao;Fonoaudiólogo;principal;Fonoaudiologia;111
+2025;2025-12;secao;GINECO OBSTETRA;;;119
+2025;2025-12;ocupacao;Médico Ginecologista Obstetra;principal;Medicina;119
+2025;2025-12;secao;MÉDICO DE FAMÍLIA;;;47
+2025;2025-12;ocupacao;Médico da estratégia de Saúde da Família;principal;Medicina;43
+2025;2025-12;ocupacao;Médico de família e comunidade;principal;Medicina;4
+2025;2025-12;secao;NUTRICIONISTA;;;155
+2025;2025-12;ocupacao;Nutricionista;principal;Nutrição;155
+2025;2025-12;secao;ODONTÓLOGO;;;593
+2025;2025-12;ocupacao;Cirurgião dentista - auditor;principal;Odontologia e saúde bucal;1
+2025;2025-12;ocupacao;Cirurgião dentista - clínico geral;principal;Odontologia e saúde bucal;477
+2025;2025-12;ocupacao;Cirurgião dentista - dentística;principal;Odontologia e saúde bucal;3
+2025;2025-12;ocupacao;Cirurgião dentista - endodontista;principal;Odontologia e saúde bucal;28
+2025;2025-12;ocupacao;Cirurgião dentista - estomatologista;principal;Odontologia e saúde bucal;1
+2025;2025-12;ocupacao;Cirurgião dentista - odontologia para pacientes co;principal;Odontologia e saúde bucal;5
+2025;2025-12;ocupacao;Cirurgião dentista - odontopediatra;principal;Odontologia e saúde bucal;14
+2025;2025-12;ocupacao;Cirurgião dentista - ortopedista e ortodontista;principal;Odontologia e saúde bucal;14
+2025;2025-12;ocupacao;Cirurgião dentista - periodontista;principal;Odontologia e saúde bucal;5
+2025;2025-12;ocupacao;Cirurgião dentista - protesista;principal;Odontologia e saúde bucal;11
+2025;2025-12;ocupacao;Cirurgião dentista - protesiólogo bucomaxilofacial;principal;Odontologia e saúde bucal;1
+2025;2025-12;ocupacao;Cirurgião dentista - radiologista;principal;Odontologia e saúde bucal;6
+2025;2025-12;ocupacao;Cirurgião dentista - traumatologista bucomaxilofac;principal;Odontologia e saúde bucal;15
+2025;2025-12;ocupacao;Cirurgião-dentista da estratégia de saúde da famíl;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);12
+2025;2025-12;secao;PEDIATRA;;;241
+2025;2025-12;ocupacao;Médico Pediatra;principal;Medicina;241
+2025;2025-12;secao;PSICÓLOGO;;;318
+2025;2025-12;ocupacao;Psicólogo Clínico;multiprofissional;Psicologia;304
+2025;2025-12;ocupacao;Psicólogo do Trabalho;multiprofissional;Psicologia;3
+2025;2025-12;ocupacao;Psicólogo Social;multiprofissional;Psicologia;1
+2025;2025-12;ocupacao;Psicólogo Educacional;multiprofissional;Psicologia;3
+2025;2025-12;ocupacao;Psicólogo Hospitalar;multiprofissional;Psicologia;5
+2025;2025-12;ocupacao;Psicólogo do trânsito;multiprofissional;Psicologia;1
+2025;2025-12;ocupacao;Psicólogo acupunturista;multiprofissional;Psicologia;1
+2025;2025-12;secao;PSIQUIATRA;;;31
+2025;2025-12;ocupacao;Médico psiquiatra;principal;Medicina;31
+2025;2025-12;secao;RADIOLOGISTA;;;55
+2025;2025-12;ocupacao;Médico em radiologia e diagnóstico por imagem;principal;Medicina;55
+2025;2025-12;secao;SANITARISTA;;;1
+2025;2025-12;ocupacao;Médico sanitarista;principal;Medicina;1
+2025;2025-12;secao;OUTRAS ESPECIALIDADES MÉDICAS;;;591
+2025;2025-12;ocupacao;Médico acupunturista;principal;Medicina;1
+2025;2025-12;ocupacao;Médico alergista e imunologista;principal;Medicina;13
+2025;2025-12;ocupacao;Médico anatomopatologista;principal;Medicina;8
+2025;2025-12;ocupacao;Médico angiologista;principal;Medicina;20
+2025;2025-12;ocupacao;Médico Cardiologista Intervencionista;principal;Medicina;1
+2025;2025-12;ocupacao;Médico cardiologista;principal;Medicina;87
+2025;2025-12;ocupacao;Médico cirurgião de cabeça e pescoço;principal;Medicina;4
+2025;2025-12;ocupacao;Médico cirurgião do aparelho digestivo;principal;Medicina;6
+2025;2025-12;ocupacao;Médico cirurgião pediátrico;principal;Medicina;2
+2025;2025-12;ocupacao;Médico cirurgião plástico;principal;Medicina;4
+2025;2025-12;ocupacao;Médico cirurgião torácico;principal;Medicina;3
+2025;2025-12;ocupacao;Médico coloproctologista;principal;Medicina;3
+2025;2025-12;ocupacao;Médico dermatologista;principal;Medicina;29
+2025;2025-12;ocupacao;Médico do trabalho;principal;Medicina;17
+2025;2025-12;ocupacao;Médico em cirurgia vascular;principal;Medicina;1
+2025;2025-12;ocupacao;Médico em endoscopia;principal;Medicina;2
+2025;2025-12;ocupacao;Médico em medicina intensiva;principal;Medicina;22
+2025;2025-12;ocupacao;Médico em medicina nuclear;principal;Medicina;4
+2025;2025-12;ocupacao;Médico endocrinologista e metabologista;principal;Medicina;19
+2025;2025-12;ocupacao;Médico fisiatra;principal;Medicina;2
+2025;2025-12;ocupacao;Médico gastroenterologista;principal;Medicina;16
+2025;2025-12;ocupacao;Médico geneticista;principal;Medicina;1
+2025;2025-12;ocupacao;Médico geriatra;principal;Medicina;4
+2025;2025-12;ocupacao;Médico hematologista;principal;Medicina;4
+2025;2025-12;ocupacao;Médico infectologista;principal;Medicina;10
+2025;2025-12;ocupacao;Médico mastologista;principal;Medicina;2
+2025;2025-12;ocupacao;Médico nefrologista;principal;Medicina;22
+2025;2025-12;ocupacao;Médico neurocirurgião;principal;Medicina;7
+2025;2025-12;ocupacao;Médico neurologista;principal;Medicina;35
+2025;2025-12;ocupacao;Médico nutrologista;principal;Medicina;5
+2025;2025-12;ocupacao;Médico oftalmologista;principal;Medicina;52
+2025;2025-12;ocupacao;Médico oncologista clínico;principal;Medicina;24
+2025;2025-12;ocupacao;Médico ortopedista e traumatologista;principal;Medicina;40
+2025;2025-12;ocupacao;Médico otorrinolaringologista;principal;Medicina;25
+2025;2025-12;ocupacao;Médico patologista;principal;Medicina;1
+2025;2025-12;ocupacao;Médico pneumologista;principal;Medicina;8
+2025;2025-12;ocupacao;Médico radioterapeuta;principal;Medicina;2
+2025;2025-12;ocupacao;Médico residente;principal;Medicina;62
+2025;2025-12;ocupacao;Médico reumatologista;principal;Medicina;9
+2025;2025-12;ocupacao;Médico urologista;principal;Medicina;14
+2025;2025-12;secao;OUTRAS OCUPAÇÕES DE NÍVEL SUPERIOR RELAC À SAÚDE;;;160
+2025;2025-12;ocupacao;Médico veterinário;principal;Medicina;25
+2025;2025-12;ocupacao;Biólogo;multiprofissional;Biologia;61
+2025;2025-12;ocupacao;BioMédico;principal;Biomedicina;4
+2025;2025-12;ocupacao;Coordenador Pedagógico;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Físico (medicina);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2025;2025-12;ocupacao;Físico (nuclear e reatores);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2025;2025-12;ocupacao;Neuropsicólogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);5
+2025;2025-12;ocupacao;Orientador Educacional;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Ortoptista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Pedagogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);6
+2025;2025-12;ocupacao;Pesquisador em Biologia Ambiental Ecologi;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Preparador Físico;multiprofissional;Educação física;2
+2025;2025-12;ocupacao;Professor de Educação Fisica Ensino Médio;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Psicopedagogo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);17
+2025;2025-12;ocupacao;Terapeuta ocupacional;principal;Terapia ocupacional e afins;29
+2025;2025-12;secao;PESSOAL DE SAÚDE - NÍVEL TÉCNICO TÉCNICO/AUXILIAR;;;4467
+2025;2025-12;secao;AUXILIAR DE ENFERMAGEM;;;665
+2025;2025-12;ocupacao;Auxiliar de Enfermagem;principal;Enfermagem – técnicos e auxiliares;663
+2025;2025-12;ocupacao;Auxiliar de Enfermagem do Trabalho;principal;Enfermagem – técnicos e auxiliares;2
+2025;2025-12;secao;FISCAL SANITÁRIO;;;1
+2025;2025-12;ocupacao;Visitador Sanitário;principal;Agentes comunitários de saúde e afins;1
+2025;2025-12;secao;TÉCNICO DE ENFERMAGEM;;;3040
+2025;2025-12;ocupacao;Técnico de enfermagem;principal;Enfermagem – técnicos e auxiliares;2969
+2025;2025-12;ocupacao;Técnico de enfermagem de saúde da família;principal;Enfermagem – técnicos e auxiliares;69
+2025;2025-12;ocupacao;Técnico de enfermagem de terapia intensiva;principal;Enfermagem – técnicos e auxiliares;1
+2025;2025-12;ocupacao;Técnico de enfermagem do trabalho;principal;Enfermagem – técnicos e auxiliares;1
+2025;2025-12;secao;TÉCNICO E AUXILIAR DE FARMÁCIA;;;192
+2025;2025-12;ocupacao;Auxiliar de Farmácia de Manipulação;principal;Farmácia – técnicos e auxiliares;3
+2025;2025-12;ocupacao;Auxiliar técnico em laboratório de farmácia;principal;Farmácia – técnicos e auxiliares;26
+2025;2025-12;ocupacao;Técnico em Farmácia;principal;Farmácia – técnicos e auxiliares;163
+2025;2025-12;secao;TÉCNICO E AUXILIAR DE LABORATÓRIO;;;323
+2025;2025-12;ocupacao;Auxiliar de Laboratório de Análises Clínicas;principal;Diagnóstico e laboratório – técnicos e auxiliares;63
+2025;2025-12;ocupacao;Auxiliar de laboratório de análises físico-química;principal;Diagnóstico e laboratório – técnicos e auxiliares;1
+2025;2025-12;ocupacao;Técnico de laboratório de análises físico-químicas;principal;Diagnóstico e laboratório – técnicos e auxiliares;3
+2025;2025-12;ocupacao;Técnico em Laboratório de Farmácia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2025;2025-12;ocupacao;Técnico em patologia clínica;principal;Diagnóstico e laboratório – técnicos e auxiliares;253
+2025;2025-12;secao;TÉCNICO E AUXILIAR EM NUTRIÇÃO E DIETÉTICA;;;1
+2025;2025-12;ocupacao;Dietista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;secao;TÉCNICO E AUXILIAR EM FISIOTERAPIA E REABILITAÇÃO;;;7
+2025;2025-12;ocupacao;Técnico de imobilização ortopédica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);7
+2025;2025-12;secao;TÉCNICO E AUXILIAR EM SAÚDE ORAL;;;7
+2025;2025-12;ocupacao;Técnico em saúde bucal;principal;Odontologia e saúde bucal;7
+2025;2025-12;secao;TÉCNICO E AUXILIAR EM RADIOLOGIA MÉDICA;;;179
+2025;2025-12;ocupacao;Auxiliar de Radiologia (Revelação Fotográfica);nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Técnico em radiologia e imagenologia;principal;Diagnóstico e laboratório – técnicos e auxiliares;178
+2025;2025-12;secao;TÉCNICO E AUXILIAR EM HEMATOLOGIA/HEMOTERAPIA;;;1
+2025;2025-12;ocupacao;Auxiliar de banco de sangue;principal;Diagnóstico e laboratório – técnicos e auxiliares;1
+2025;2025-12;secao;OUTRAS OCUPAÇÕES NÍVEL TÉCNICO E AUXILIAR EM SAÚD;;;51
+2025;2025-12;ocupacao;Instrumentador Cirúrgico;principal;Instrumentação cirúrgica;46
+2025;2025-12;ocupacao;Instrutor de Cursos Livres;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Professor de Nível Médio Na Educação Inf;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Recreador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Técnico de Alimentos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Técnico em Óptica e Optometria Contatólog;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;secao;PESSOAL DE SAÚDE - QUALIFICAÇÃO ELEMENTAR;;;3716
+2025;2025-12;secao;AGENTE COMUNITÁRIO DE SAÚDE;;;126
+2025;2025-12;ocupacao;Agente comunitário de saúde;principal;Agentes comunitários de saúde e afins;126
+2025;2025-12;secao;AGENTE DE SAÚDE PÚBLICA;;;2
+2025;2025-12;ocupacao;Agente de saúde pública agente de saneam;principal;Agentes de combate às endemias;2
+2025;2025-12;secao;ATENDENTE DE ENFERMAGEM/AUX OPER SERV DIV E ASSEM;;;154
+2025;2025-12;ocupacao;Atendente de consultório dentario;principal;Odontologia e saúde bucal;102
+2025;2025-12;ocupacao;Atendente de enfermagem atend berçario;principal;Agentes comunitários de saúde e afins;24
+2025;2025-12;ocupacao;Atendente de farmácia balconista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);28
+2025;2025-12;secao;OUTRAS OCUPAÇÕES NÍVEL ELEMENTAR EM SAÚDE;;;3434
+2025;2025-12;secao;PESSOAL ADMINISTRATIVO;;;3434
+2025;2025-12;secao;ADMINISTRAÇÃO;;;1887
+2025;2025-12;ocupacao;Administrador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);28
+2025;2025-12;ocupacao;Almoxarife;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);10
+2025;2025-12;ocupacao;Analista de redes e de comunicacao dados;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Analista de suporte computacional;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2025;2025-12;ocupacao;Arquiteto de edificacoes;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Arquivista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Arquivista de documentos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2025;2025-12;ocupacao;Assistente tecnico administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);612
+2025;2025-12;ocupacao;Atendente de ambulatorio ou clínica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);117
+2025;2025-12;ocupacao;Auditor contadores e afins;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Auxiliar de contabilidade;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);13
+2025;2025-12;ocupacao;Auxiliar de escritorio em geral auxiliar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);320
+2025;2025-12;ocupacao;Auxiliar de faturamento;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);55
+2025;2025-12;ocupacao;Auxiliar de pessoal;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);7
+2025;2025-12;ocupacao;Comprador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Contador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2025;2025-12;ocupacao;Continuo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Digitador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);29
+2025;2025-12;ocupacao;Diretor administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);11
+2025;2025-12;ocupacao;Diretor comercial;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Diretor de serviços de informatica;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2025;2025-12;ocupacao;Diretor de serviços de saude diretor cli;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);38
+2025;2025-12;ocupacao;Diretor de suprimentos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2025;2025-12;ocupacao;Diretor financeiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Engenheiro de seguranca do trabalho;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);6
+2025;2025-12;ocupacao;Gerente administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);17
+2025;2025-12;ocupacao;Gerente comercial;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Gerente de almoxarifado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2025;2025-12;ocupacao;Gerente de departamento pessoal;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2025;2025-12;ocupacao;Gerente de projetos e serviços de manuten;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Gerente de recursos humanos;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2025;2025-12;ocupacao;Gerente de rede;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Gerente de serviços de saude administrado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);162
+2025;2025-12;ocupacao;Operador de computador inclusive microcom;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2025;2025-12;ocupacao;Operador de radiochamada;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Programador de sistemas de informacao;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2025;2025-12;ocupacao;Recepcionista em geral;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);299
+2025;2025-12;ocupacao;Secretaria executiva;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);10
+2025;2025-12;ocupacao;Supervisor administrativo;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);44
+2025;2025-12;ocupacao;Supervisor de almoxarifado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Supervisor de andar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Supervisor de compras;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2025;2025-12;ocupacao;Supervisor de contas a pagar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2025;2025-12;ocupacao;Supervisor de controle patrimonial;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2025;2025-12;ocupacao;Supervisor de tesouraria;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2025;2025-12;ocupacao;Supervisor de transportes;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Tecnico de apoio usuário inform helpdesk;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2025;2025-12;ocupacao;Tecnico de contabilidade;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2025;2025-12;ocupacao;Tecnico de manutenção de sistemas e instr;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Tecnico eletrônico;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Tecnico em manutenção de equip informátic;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);5
+2025;2025-12;ocupacao;Tecnico em secretariado;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Tecnico em segurança no trabalho;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);18
+2025;2025-12;ocupacao;Telefonista;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);24
+2025;2025-12;secao;SERVIÇO DE LIMPEZA/CONSERVAÇÃO;;;27
+2025;2025-12;ocupacao;Auxiliar de lavanderia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);15
+2025;2025-12;ocupacao;Eletricista de instalações;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2025;2025-12;ocupacao;Encanador;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Operador de caldeira;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Pedreiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);2
+2025;2025-12;ocupacao;Servente de obras;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);3
+2025;2025-12;ocupacao;Zelador de edificio;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;secao;SEGURANÇA;;;149
+2025;2025-12;ocupacao;Porteiro de edifícios;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);10
+2025;2025-12;ocupacao;Vigia;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);134
+2025;2025-12;ocupacao;Vigilante;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);5
+2025;2025-12;secao;OUTRAS OCUPAÇÕES ADMINISTRATIVAS;;;1371
+2025;2025-12;ocupacao;Copeiro;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);7
+2025;2025-12;ocupacao;Copeiro de hospital;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);29
+2025;2025-12;ocupacao;Costureiro na confecção em serie;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1
+2025;2025-12;ocupacao;Cozinheiro de hospital;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);11
+2025;2025-12;ocupacao;Cozinheiro geral;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);4
+2025;2025-12;ocupacao;Motorista de carro de passeio;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);37
+2025;2025-12;ocupacao;Motorista de furgão ou veículo similar;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);5
+2025;2025-12;ocupacao;Trabalhador de serviços de manutenção;nao_mapeada;Outras ocupações CNES (não mapeadas ao estudo);1277

@@ -1,0 +1,61 @@
+{
+ "fonte": "TabNet/DataSUS CNES-RH prid02rj.def",
+ "url": "http://tabnet.datasus.gov.br/cgi/tabcgi.exe?cnes/cnv/prid02rj.def",
+ "consulta_em": "2026-07-18T12:49:37",
+ "competencias": {
+  "2018": "pfrj1812.dbf",
+  "2019": "pfrj1912.dbf",
+  "2020": "pfrj2012.dbf",
+  "2021": "pfrj2112.dbf",
+  "2022": "pfrj2212.dbf",
+  "2023": "pfrj2312.dbf",
+  "2024": "pfrj2412.dbf",
+  "2025": "pfrj2512.dbf"
+ },
+ "verificacoes": {
+  "controle_2018": "330100 CAMPOS DOS GOYTACAZES = 9803",
+  "2018": {
+   "total_controle": 9803,
+   "total_ocupacoes": 9803,
+   "consistente": true
+  },
+  "2019": {
+   "total_controle": 10166,
+   "total_ocupacoes": 10166,
+   "consistente": true
+  },
+  "2020": {
+   "total_controle": 10723,
+   "total_ocupacoes": 10723,
+   "consistente": true
+  },
+  "2021": {
+   "total_controle": 10849,
+   "total_ocupacoes": 10849,
+   "consistente": true
+  },
+  "2022": {
+   "total_controle": 11233,
+   "total_ocupacoes": 11233,
+   "consistente": true
+  },
+  "2023": {
+   "total_controle": 12238,
+   "total_ocupacoes": 12238,
+   "consistente": true
+  },
+  "2024": {
+   "total_controle": 13129,
+   "total_ocupacoes": 13129,
+   "consistente": true
+  },
+  "2025": {
+   "total_controle": 13275,
+   "total_ocupacoes": 13275,
+   "consistente": true
+  }
+ },
+ "bloqueios": [],
+ "indice_municipio_tabnet": 18,
+ "nota_rais": "RAIS/eSocial (vínculos formais por CBO x município x ano): microdados disponíveis apenas via ftp.mtps.gov.br/pdet/microdados (arquivos de vários GB por UF/ano, formato 7z) ou BigQuery com credenciais — inviável nesta execução; BLOQUEIO registrado, sem qualquer imputação. Prioridade para trabalho futuro."
+}

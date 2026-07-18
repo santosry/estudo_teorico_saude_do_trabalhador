@@ -84,54 +84,60 @@ def classifica(cbo):
         return ("multiprofissional", c, nf, j)
     return ("apoio_ou_outra", "Outras ocupações (fora do campo da saúde)", "", "Família CBO fora do campo da saúde")
 
-ENTRADA = "dados/processados/base_cat_campos_todas_ocupacoes.csv"
-regs = list(csv.DictReader(open(ENTRADA, encoding="utf-8-sig"), delimiter=";"))
 
-dic = {}
-for r in regs:
-    cbo = r["cbo_codigo"]
-    u, cat, nf, just = classifica(cbo)
-    r["universo"] = u
-    r["categoria_profissional"] = cat
-    r["nivel_formacao"] = nf
-    r["cbo_titulo_oficial"] = OFICIAL.get(cbo, "")
-    r["cnae_saude"] = "sim" if r["cnae_classe"][:2] in ("86", "87") else ("nao" if r["cnae_classe"] else "sem_cnae")
-    ch = (cbo, r["cbo_descricao_original"])
-    if ch not in dic:
-        dic[ch] = {"cbo_codigo": cbo or "(vazio)", "descricao_original_fonte": r["cbo_descricao_original"],
-                   "titulo_oficial_cbo2002": OFICIAL.get(cbo, "(não consta na tabela vigente)" if cbo else ""),
-                   "grande_grupo": cbo[:1] if cbo else "", "familia_ocupacional": cbo[:4] if cbo else "",
-                   "categoria_profissional_agregada": cat, "nivel_formacao": nf, "universo": u,
-                   "incluido_universo_principal": "sim" if u == "principal" else "não",
-                   "justificativa": just,
-                   "fonte_normativa": "CBO 2002 (MTE) – tabela 'CBO2002-Ocupação' (espelho público; ver referencias/fonte_cbo.txt)",
-                   "observacao_ambiguidade": "", "n_registros": 0}
-    dic[ch]["n_registros"] += 1
+def main():
+    ENTRADA = "dados/processados/base_cat_campos_todas_ocupacoes.csv"
+    regs = list(csv.DictReader(open(ENTRADA, encoding="utf-8-sig"), delimiter=";"))
 
-# observações de ambiguidade
-for ch, d in dic.items():
-    if d["titulo_oficial_cbo2002"] == "(não consta na tabela vigente)":
-        d["observacao_ambiguidade"] = "Código ausente da tabela vigente (família reestruturada); validado pela descrição da fonte"
-    if d["descricao_original_fonte"] and d["titulo_oficial_cbo2002"] not in ("", "(não consta na tabela vigente)"):
-        a = d["descricao_original_fonte"].lower()[:10]
-        b = d["titulo_oficial_cbo2002"].lower()[:10]
-        if a and b and a[:6] not in b and b[:6] not in a:
-            d["observacao_ambiguidade"] = (d["observacao_ambiguidade"] + " | " if d["observacao_ambiguidade"] else "") + \
-                "Descrição da fonte diverge do título oficial (verificada manualmente)"
+    dic = {}
+    for r in regs:
+        cbo = r["cbo_codigo"]
+        u, cat, nf, just = classifica(cbo)
+        r["universo"] = u
+        r["categoria_profissional"] = cat
+        r["nivel_formacao"] = nf
+        r["cbo_titulo_oficial"] = OFICIAL.get(cbo, "")
+        r["cnae_saude"] = "sim" if r["cnae_classe"][:2] in ("86", "87") else ("nao" if r["cnae_classe"] else "sem_cnae")
+        ch = (cbo, r["cbo_descricao_original"])
+        if ch not in dic:
+            dic[ch] = {"cbo_codigo": cbo or "(vazio)", "descricao_original_fonte": r["cbo_descricao_original"],
+                       "titulo_oficial_cbo2002": OFICIAL.get(cbo, "(não consta na tabela vigente)" if cbo else ""),
+                       "grande_grupo": cbo[:1] if cbo else "", "familia_ocupacional": cbo[:4] if cbo else "",
+                       "categoria_profissional_agregada": cat, "nivel_formacao": nf, "universo": u,
+                       "incluido_universo_principal": "sim" if u == "principal" else "não",
+                       "justificativa": just,
+                       "fonte_normativa": "CBO 2002 (MTE) – tabela 'CBO2002-Ocupação' (espelho público; ver referencias/fonte_cbo.txt)",
+                       "observacao_ambiguidade": "", "n_registros": 0}
+        dic[ch]["n_registros"] += 1
 
-with open("dados/processados/base_cat_campos_classificada.csv", "w", newline="", encoding="utf-8-sig") as f:
-    w = csv.DictWriter(f, fieldnames=list(regs[0].keys()), delimiter=";")
-    w.writeheader(); w.writerows(regs)
+    # observações de ambiguidade
+    for ch, d in dic.items():
+        if d["titulo_oficial_cbo2002"] == "(não consta na tabela vigente)":
+            d["observacao_ambiguidade"] = "Código ausente da tabela vigente (família reestruturada); validado pela descrição da fonte"
+        if d["descricao_original_fonte"] and d["titulo_oficial_cbo2002"] not in ("", "(não consta na tabela vigente)"):
+            a = d["descricao_original_fonte"].lower()[:10]
+            b = d["titulo_oficial_cbo2002"].lower()[:10]
+            if a and b and a[:6] not in b and b[:6] not in a:
+                d["observacao_ambiguidade"] = (d["observacao_ambiguidade"] + " | " if d["observacao_ambiguidade"] else "") + \
+                    "Descrição da fonte diverge do título oficial (verificada manualmente)"
 
-with open("dados/processados/dicionario_cbo_observado.csv", "w", newline="", encoding="utf-8-sig") as f:
-    ks = ["cbo_codigo","descricao_original_fonte","titulo_oficial_cbo2002","grande_grupo","familia_ocupacional",
-          "categoria_profissional_agregada","nivel_formacao","universo","incluido_universo_principal",
-          "justificativa","fonte_normativa","observacao_ambiguidade","n_registros"]
-    w = csv.DictWriter(f, fieldnames=ks, delimiter=";")
-    w.writeheader()
-    for ch in sorted(dic, key=lambda x: (x[0] or "zzz", x[1])):
-        w.writerow(dic[ch])
+    with open("dados/processados/base_cat_campos_classificada.csv", "w", newline="", encoding="utf-8-sig") as f:
+        w = csv.DictWriter(f, fieldnames=list(regs[0].keys()), delimiter=";")
+        w.writeheader(); w.writerows(regs)
 
-res = Counter((r["universo"], r["categoria_profissional"]) for r in regs)
-print(json.dumps({f"{u}|{c}": n for (u, c), n in sorted(res.items())}, ensure_ascii=False, indent=1))
-print("universos:", Counter(r["universo"] for r in regs))
+    with open("dados/processados/dicionario_cbo_observado.csv", "w", newline="", encoding="utf-8-sig") as f:
+        ks = ["cbo_codigo","descricao_original_fonte","titulo_oficial_cbo2002","grande_grupo","familia_ocupacional",
+              "categoria_profissional_agregada","nivel_formacao","universo","incluido_universo_principal",
+              "justificativa","fonte_normativa","observacao_ambiguidade","n_registros"]
+        w = csv.DictWriter(f, fieldnames=ks, delimiter=";")
+        w.writeheader()
+        for ch in sorted(dic, key=lambda x: (x[0] or "zzz", x[1])):
+            w.writerow(dic[ch])
+
+    res = Counter((r["universo"], r["categoria_profissional"]) for r in regs)
+    print(json.dumps({f"{u}|{c}": n for (u, c), n in sorted(res.items())}, ensure_ascii=False, indent=1))
+    print("universos:", Counter(r["universo"] for r in regs))
+
+
+if __name__ == "__main__":
+    main()

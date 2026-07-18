@@ -36,10 +36,33 @@ python scripts/pipeline/06_validacao_independente.py   # exit 1 se totais diverg
 python scripts/pipeline/07_entregaveis.py
 python scripts/pipeline/08_relatorios_docx.py
 python scripts/pipeline/09_artigo_docx.py              # requer LibreOffice p/ conferir páginas
+python scripts/pipeline/10_denominadores_cnes.py       # denominadores reais CNES/TabNet (rede)
 ```
 Caminhos relativos à raiz; sem procedimentos aleatórios; logs em `logs/`.
 Os dados brutos da CAT devem ser obtidos conforme `dados/brutos/cat-inss/README.md` e conferidos
 pelos hashes de `dados/manifesto/manifesto_arquivos.csv`.
+
+## Testes e integração contínua
+`python -m pytest tests -q` — 38+ testes sobre os DADOS REAIS versionados (filtro municipal,
+deduplicação, classificação CBO, tabelas, supressão, denominadores, limite de páginas do artigo).
+Testes que exigem os brutos (não versionados) são pulados automaticamente — nunca simulados.
+O workflow `.github/workflows/ci.yml` roda os testes, reprocessa os estágios deriváveis e exige
+que os CSVs regenerados sejam idênticos aos versionados (determinismo).
+
+## Denominadores (CNES) e razões exploratórias
+`10_denominadores_cnes.py` baixa do TabNet/DataSUS os profissionais (indivíduos) por ocupação
+CBO 2002 em Campos (330100), dez/2018–dez/2025, com verificação dupla de totais e brutos em
+`dados/brutos/cnes-rh/`. As razões CAT/1.000 profissionais (T22) são EXPLORATÓRIAS: o CNES
+inclui vínculos estatutários/autônomos/PJ, fora da cobertura da CAT — não são incidência.
+RAIS/eSocial permanece como denominador prioritário (bloqueio documentado em
+`logs/log_10_denominadores.json`).
+
+## Distribuição dos dados brutos
+`python scripts/ferramentas/empacotar_dados_brutos.py` gera ZIPs por ano em `distribuicao/`
+(+ SHA-256 em `metadados/SHA256SUMS_distribuicao.txt`) para anexar a uma release do GitHub
+(`gh release create v1.0.0 distribuicao/*.zip`) ou depósito Zenodo.
+`python scripts/ferramentas/restaurar_dados_brutos.py` extrai os ZIPs e confere cada CSV
+contra o manifesto antes de liberar a reprodução.
 
 ## Advertência interpretativa
 CAT = comunicações registradas (emprego formal celetista), não a totalidade dos acidentes; sem

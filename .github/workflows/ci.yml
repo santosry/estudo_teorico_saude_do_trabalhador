@@ -1,0 +1,48 @@
+name: ci
+
+# Auditoria contínua SEM dados sintéticos: os testes usam exclusivamente os dados REAIS
+# versionados no repositório (bases processadas, tabelas, logs de proveniência).
+# Etapas que exigem os brutos CAT (1,8 GB, não versionados) ou rede (TabNet/CNES)
+# são puladas automaticamente pelos próprios testes (skipif) e NÃO são simuladas.
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  auditoria:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: Instalar dependências fixadas
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r metadados/requirements.txt
+
+      - name: LibreOffice (verificação do limite de 5 páginas do artigo)
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq --no-install-recommends libreoffice-writer fonts-liberation
+
+      - name: Testes (dados reais versionados; brutos ausentes => testes pulados, nunca simulados)
+        run: python -m pytest tests -q
+
+      - name: Reprocessar estágios deriváveis a partir dos dados reais versionados
+        run: |
+          python scripts/pipeline/04_dicionario_cbo_classificacao.py
+          python scripts/pipeline/05_analises.py
+          python scripts/pipeline/07_entregaveis.py
+          python scripts/pipeline/08_relatorios_docx.py
+          python scripts/pipeline/09_artigo_docx.py
+
+      - name: Determinismo — CSVs regenerados devem ser idênticos aos versionados
+        run: git diff --exit-code -- "*.csv"
+
+      - name: Retestar após regeneração (tabelas/artigo coerentes com a base)
+        run: python -m pytest tests -q

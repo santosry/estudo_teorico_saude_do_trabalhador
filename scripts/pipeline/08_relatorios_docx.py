@@ -92,11 +92,18 @@ para(d, "Classificação prioritariamente pelo código de seis dígitos, com dic
         "foram mantidos em categoria própria. O código 519305 ('enfermeiro veterinário' como sinônimo de auxiliar de veterinário) foi "
         "excluído do campo da saúde humana — erro que a rotina legada, baseada em texto, cometeria.")
 h(d, "6. Denominadores e interpretação")
-para(d, "A pasta CARACTERIZAÇÃO - CAMPOS não contém vínculos formais por ocupação e ano; portanto, nenhum indicador de "
-        "incidência, prevalência, risco ou taxa foi calculado — apenas frequências e proporções dentro do conjunto de CATs. "
-        "Denominadores adequados podem ser obtidos futuramente na RAIS/eSocial (vínculos formais por CBO, município e ano, via "
-        "PDET/MTE) e no CNES (profissionais e estabelecimentos de saúde por município), verificando-se compatibilidade de cobertura, "
-        "duplicidade de vínculos e período de referência antes de qualquer padronização.")
+para(d, "As pastas do projeto não continham vínculos formais por ocupação e ano; nenhum indicador de incidência, prevalência, "
+        "risco ou taxa foi calculado a partir da CAT isoladamente. Denominadores REAIS de força de trabalho foram baixados do "
+        "CNES/DataSUS (TabNet, def cnes/cnv/prid02rj.def): profissionais (indivíduos) por ocupação CBO 2002, município de Campos "
+        "(330100), competência dezembro de 2018 a 2025 (9.803 a 13.275 profissionais), com resolução dinâmica e verificada do "
+        "filtro municipal, dupla checagem de totais por consulta de controle, brutos preservados em dados/brutos/cnes-rh/ e "
+        "proveniência em logs/log_10_denominadores.json. Como o CNES abrange TODOS os tipos de vínculo (estatutário, celetista, "
+        "autônomo, PJ; SUS e não SUS) e a CAT cobre essencialmente celetistas, a compatibilidade numerador-denominador NÃO é "
+        "demonstrável; as razões CAT por 1.000 profissionais CNES (saidas/tabelas/T22_razao_cat_1000_cnes.csv) são apresentadas "
+        "exclusivamente como densidade EXPLORATÓRIA de comunicação (supressão quando numerador<5 ou denominador<30), jamais como "
+        "incidência ou risco. A RAIS/eSocial (vínculos formais por CBO x município x ano, via PDET/MTE) permanece como denominador "
+        "prioritário para trabalho futuro: os microdados exigem download de arquivos de vários GB por UF/ano — bloqueio registrado, "
+        "sem qualquer imputação.")
 h(d, "7. Cobertura temporal e sensibilidade")
 para(d, "A série da fonte inicia na competência jul/2018 (2018 parcial). Em 2022 a carga da fonte é irregular; as competências "
         "set–dez/2024 têm volume nacional atípico (3–10 mil linhas/mês contra 40–60 mil típicas) e nov–dez/2025 estão quase vazias "
@@ -130,7 +137,8 @@ para(d, "CONFIÁVEIS: fluxo de seleção; distribuição por categoria profissio
         "CONFIÁVEIS COM RESSALVAS: comparações anuais envolvendo 2018, 2022, 2024 e 2025 (cobertura parcial ou irregular da fonte); "
         "idade (7 registros sem nascimento); tempo acidente–emissão (ausente em parte de 2023); categorias com n<5 (suprimidas/agregadas). "
         "EXPLORATÓRIOS: comparação de médias mensais entre períodos pré/critico/pós-pandemia; proporção de agente infeccioso por ano; "
-        "recorte de trabalhadores de apoio em CNAE saúde. NÃO UTILIZÁVEIS: quaisquer resultados da análise legada (universo restrito, "
+        "recorte de trabalhadores de apoio em CNAE saúde; razões CAT/1.000 profissionais CNES (T21/T22 — denominador inclui vínculos "
+        "não celetistas; densidade de comunicação, não incidência). NÃO UTILIZÁVEIS: quaisquer resultados da análise legada (universo restrito, "
         "duplicidades não tratadas, classificação textual; saídas antigas não localizadas na pasta — irreprodutíveis).")
 d.save("documentos/relatorio_auditoria_dados.docx")
 
