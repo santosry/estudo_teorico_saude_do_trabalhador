@@ -1,1 +1,16 @@
+# Preservar bytes originais dos dados (integridade dos hashes SHA-256 do manifesto)
+*.csv -text
+*.parquet -text
+*.xlsx -text
+*.docx -text
+*.pdf -text
+*.png -text
+*.rds -text
+# Código e texto com normalização padrão
+*.py text
+*.R text
+*.md text
+*.txt text
+*.json text
+*.cff text
 banco[[:space:]]de[[:space:]]dados/sim/*.csv filter=lfs diff=lfs merge=lfs -text
