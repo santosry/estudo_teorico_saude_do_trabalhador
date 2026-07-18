@@ -1,0 +1,22 @@
+nome_saida,tabela,periodo,status,linhas,colunas,erro
+populacao_area_densidade_censo_2022,4714,2022,baixado,3,11,NA
+estimativas_populacionais,6579,all,baixado,21,11,NA
+populacao_residente_censo_2022,9605,2022,baixado,6,13,NA
+populacao_por_sexo_idade_2022,9514,2022,baixado,1206,17,NA
+pib_municipal,5938,all,baixado,1012,11,NA
+valor_adicionado_setores,5939,all,erro,0,0,Parâmetro N6 (Nível territorial) incompatível com a tabela
+pib_per_capita,4709,all,baixado,3,11,NA
+producao_agricola_lavoura_temporaria,1612,all,baixado,8670,13,NA
+producao_agricola_lavoura_permanente,1613,all,baixado,9945,13,NA
+pecuaria_municipal_rebanhos,3939,all,baixado,510,13,NA
+producao_origem_animal,74,all,baixado,714,13,NA
+extracao_vegetal_silvicultura,289,all,baixado,4212,13,NA
+alfabetizacao_censo_2022,9518,2022,erro,0,0,This table does not exists.
+instrucao_censo_2022,9543,2022,baixado,1080,17,NA
+rendimento_censo_2022,9519,2022,erro,0,0,Parâmetro N6 (Nível territorial) incompatível com a tabela
+trabalho_censo_2022,9520,2022,erro,0,0,Parâmetro N6 (Nível territorial) incompatível com a tabela
+domicilios_censo_2022,9607,2022,erro,0,0,This table does not exists.
+abastecimento_agua_censo_2022,9608,2022,baixado,66,15,NA
+esgotamento_sanitario_censo_2022,9609,2022,erro,0,0,Parâmetro N6 (Nível territorial) incompatível com a tabela
+destino_lixo_censo_2022,9610,2022,erro,0,0,This table does not exists.
+populacao_cor_raca_censo_2022,9606,2022,baixado,2412,17,NA

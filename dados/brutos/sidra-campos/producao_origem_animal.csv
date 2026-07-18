@@ -1,0 +1,715 @@
+nivel_territorial_codigo,nivel_territorial,unidade_de_medida_codigo,unidade_de_medida,valor,municipio_codigo,municipio,ano_codigo,ano,variavel_codigo,variavel,tipo_de_produto_de_origem_animal_codigo,tipo_de_produto_de_origem_animal
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1974,1974,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,14227,3301009,Campos dos Goytacazes (RJ),1974,1974,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,526,3301009,Campos dos Goytacazes (RJ),1974,1974,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),1974,1974,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,390,3301009,Campos dos Goytacazes (RJ),1974,1974,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1974,1974,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1974,1974,106,Produção de origem animal,2684,Lã
+6,Município,1012,Mil Cruzeiros,14204,3301009,Campos dos Goytacazes (RJ),1974,1974,215,Valor da produção,0,Total
+6,Município,1012,Mil Cruzeiros,12093,3301009,Campos dos Goytacazes (RJ),1974,1974,215,Valor da produção,2682,Leite
+6,Município,1012,Mil Cruzeiros,2106,3301009,Campos dos Goytacazes (RJ),1974,1974,215,Valor da produção,2685,Ovos de galinha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1974,1974,215,Valor da produção,2686,Ovos de codorna
+6,Município,1012,Mil Cruzeiros,5,3301009,Campos dos Goytacazes (RJ),1974,1974,215,Valor da produção,2687,Mel de abelha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1974,1974,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1974,1974,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1975,1975,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,16073,3301009,Campos dos Goytacazes (RJ),1975,1975,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,576,3301009,Campos dos Goytacazes (RJ),1975,1975,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),1975,1975,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,360,3301009,Campos dos Goytacazes (RJ),1975,1975,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1975,1975,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1975,1975,106,Produção de origem animal,2684,Lã
+6,Município,1012,Mil Cruzeiros,22850,3301009,Campos dos Goytacazes (RJ),1975,1975,215,Valor da produção,0,Total
+6,Município,1012,Mil Cruzeiros,20252,3301009,Campos dos Goytacazes (RJ),1975,1975,215,Valor da produção,2682,Leite
+6,Município,1012,Mil Cruzeiros,2593,3301009,Campos dos Goytacazes (RJ),1975,1975,215,Valor da produção,2685,Ovos de galinha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1975,1975,215,Valor da produção,2686,Ovos de codorna
+6,Município,1012,Mil Cruzeiros,5,3301009,Campos dos Goytacazes (RJ),1975,1975,215,Valor da produção,2687,Mel de abelha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1975,1975,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1975,1975,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1976,1976,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,16371,3301009,Campos dos Goytacazes (RJ),1976,1976,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,629,3301009,Campos dos Goytacazes (RJ),1976,1976,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),1976,1976,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,340,3301009,Campos dos Goytacazes (RJ),1976,1976,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1976,1976,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1976,1976,106,Produção de origem animal,2684,Lã
+6,Município,1012,Mil Cruzeiros,29346,3301009,Campos dos Goytacazes (RJ),1976,1976,215,Valor da produção,0,Total
+6,Município,1012,Mil Cruzeiros,26193,3301009,Campos dos Goytacazes (RJ),1976,1976,215,Valor da produção,2682,Leite
+6,Município,1012,Mil Cruzeiros,3146,3301009,Campos dos Goytacazes (RJ),1976,1976,215,Valor da produção,2685,Ovos de galinha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1976,1976,215,Valor da produção,2686,Ovos de codorna
+6,Município,1012,Mil Cruzeiros,7,3301009,Campos dos Goytacazes (RJ),1976,1976,215,Valor da produção,2687,Mel de abelha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1976,1976,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1976,1976,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1977,1977,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,20142,3301009,Campos dos Goytacazes (RJ),1977,1977,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,573,3301009,Campos dos Goytacazes (RJ),1977,1977,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),1977,1977,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,326,3301009,Campos dos Goytacazes (RJ),1977,1977,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1977,1977,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1977,1977,106,Produção de origem animal,2684,Lã
+6,Município,1012,Mil Cruzeiros,60703,3301009,Campos dos Goytacazes (RJ),1977,1977,215,Valor da produção,0,Total
+6,Município,1012,Mil Cruzeiros,56396,3301009,Campos dos Goytacazes (RJ),1977,1977,215,Valor da produção,2682,Leite
+6,Município,1012,Mil Cruzeiros,4299,3301009,Campos dos Goytacazes (RJ),1977,1977,215,Valor da produção,2685,Ovos de galinha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1977,1977,215,Valor da produção,2686,Ovos de codorna
+6,Município,1012,Mil Cruzeiros,8,3301009,Campos dos Goytacazes (RJ),1977,1977,215,Valor da produção,2687,Mel de abelha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1977,1977,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1977,1977,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1978,1978,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,23000,3301009,Campos dos Goytacazes (RJ),1978,1978,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,579,3301009,Campos dos Goytacazes (RJ),1978,1978,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),1978,1978,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1978,1978,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1978,1978,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1978,1978,106,Produção de origem animal,2684,Lã
+6,Município,1012,Mil Cruzeiros,95026,3301009,Campos dos Goytacazes (RJ),1978,1978,215,Valor da produção,0,Total
+6,Município,1012,Mil Cruzeiros,89240,3301009,Campos dos Goytacazes (RJ),1978,1978,215,Valor da produção,2682,Leite
+6,Município,1012,Mil Cruzeiros,5786,3301009,Campos dos Goytacazes (RJ),1978,1978,215,Valor da produção,2685,Ovos de galinha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1978,1978,215,Valor da produção,2686,Ovos de codorna
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1978,1978,215,Valor da produção,2687,Mel de abelha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1978,1978,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1978,1978,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1979,1979,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,22600,3301009,Campos dos Goytacazes (RJ),1979,1979,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,577,3301009,Campos dos Goytacazes (RJ),1979,1979,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),1979,1979,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1979,1979,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1979,1979,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1979,1979,106,Produção de origem animal,2684,Lã
+6,Município,1012,Mil Cruzeiros,123384,3301009,Campos dos Goytacazes (RJ),1979,1979,215,Valor da produção,0,Total
+6,Município,1012,Mil Cruzeiros,113000,3301009,Campos dos Goytacazes (RJ),1979,1979,215,Valor da produção,2682,Leite
+6,Município,1012,Mil Cruzeiros,10384,3301009,Campos dos Goytacazes (RJ),1979,1979,215,Valor da produção,2685,Ovos de galinha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1979,1979,215,Valor da produção,2686,Ovos de codorna
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1979,1979,215,Valor da produção,2687,Mel de abelha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1979,1979,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1979,1979,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1980,1980,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,16920,3301009,Campos dos Goytacazes (RJ),1980,1980,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,353,3301009,Campos dos Goytacazes (RJ),1980,1980,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),1980,1980,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1980,1980,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1980,1980,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1980,1980,106,Produção de origem animal,2684,Lã
+6,Município,1012,Mil Cruzeiros,196723,3301009,Campos dos Goytacazes (RJ),1980,1980,215,Valor da produção,0,Total
+6,Município,1012,Mil Cruzeiros,186123,3301009,Campos dos Goytacazes (RJ),1980,1980,215,Valor da produção,2682,Leite
+6,Município,1012,Mil Cruzeiros,10600,3301009,Campos dos Goytacazes (RJ),1980,1980,215,Valor da produção,2685,Ovos de galinha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1980,1980,215,Valor da produção,2686,Ovos de codorna
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1980,1980,215,Valor da produção,2687,Mel de abelha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1980,1980,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1980,1980,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1981,1981,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,22120,3301009,Campos dos Goytacazes (RJ),1981,1981,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,330,3301009,Campos dos Goytacazes (RJ),1981,1981,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),1981,1981,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1981,1981,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1981,1981,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1981,1981,106,Produção de origem animal,2684,Lã
+6,Município,1012,Mil Cruzeiros,442080,3301009,Campos dos Goytacazes (RJ),1981,1981,215,Valor da produção,0,Total
+6,Município,1012,Mil Cruzeiros,420283,3301009,Campos dos Goytacazes (RJ),1981,1981,215,Valor da produção,2682,Leite
+6,Município,1012,Mil Cruzeiros,21797,3301009,Campos dos Goytacazes (RJ),1981,1981,215,Valor da produção,2685,Ovos de galinha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1981,1981,215,Valor da produção,2686,Ovos de codorna
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1981,1981,215,Valor da produção,2687,Mel de abelha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1981,1981,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1981,1981,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1982,1982,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,21100,3301009,Campos dos Goytacazes (RJ),1982,1982,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,339,3301009,Campos dos Goytacazes (RJ),1982,1982,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),1982,1982,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1982,1982,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1982,1982,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1982,1982,106,Produção de origem animal,2684,Lã
+6,Município,1012,Mil Cruzeiros,845841,3301009,Campos dos Goytacazes (RJ),1982,1982,215,Valor da produção,0,Total
+6,Município,1012,Mil Cruzeiros,801783,3301009,Campos dos Goytacazes (RJ),1982,1982,215,Valor da produção,2682,Leite
+6,Município,1012,Mil Cruzeiros,44058,3301009,Campos dos Goytacazes (RJ),1982,1982,215,Valor da produção,2685,Ovos de galinha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1982,1982,215,Valor da produção,2686,Ovos de codorna
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1982,1982,215,Valor da produção,2687,Mel de abelha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1982,1982,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1982,1982,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1983,1983,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,21113,3301009,Campos dos Goytacazes (RJ),1983,1983,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,326,3301009,Campos dos Goytacazes (RJ),1983,1983,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,1,3301009,Campos dos Goytacazes (RJ),1983,1983,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1983,1983,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1983,1983,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1983,1983,106,Produção de origem animal,2684,Lã
+6,Município,1012,Mil Cruzeiros,1876365,3301009,Campos dos Goytacazes (RJ),1983,1983,215,Valor da produção,0,Total
+6,Município,1012,Mil Cruzeiros,1752412,3301009,Campos dos Goytacazes (RJ),1983,1983,215,Valor da produção,2682,Leite
+6,Município,1012,Mil Cruzeiros,123863,3301009,Campos dos Goytacazes (RJ),1983,1983,215,Valor da produção,2685,Ovos de galinha
+6,Município,1012,Mil Cruzeiros,90,3301009,Campos dos Goytacazes (RJ),1983,1983,215,Valor da produção,2686,Ovos de codorna
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1983,1983,215,Valor da produção,2687,Mel de abelha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1983,1983,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1983,1983,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1984,1984,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,20846,3301009,Campos dos Goytacazes (RJ),1984,1984,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,301,3301009,Campos dos Goytacazes (RJ),1984,1984,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,1,3301009,Campos dos Goytacazes (RJ),1984,1984,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1984,1984,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1984,1984,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1984,1984,106,Produção de origem animal,2684,Lã
+6,Município,1012,Mil Cruzeiros,6721765,3301009,Campos dos Goytacazes (RJ),1984,1984,215,Valor da produção,0,Total
+6,Município,1012,Mil Cruzeiros,6420665,3301009,Campos dos Goytacazes (RJ),1984,1984,215,Valor da produção,2682,Leite
+6,Município,1012,Mil Cruzeiros,300780,3301009,Campos dos Goytacazes (RJ),1984,1984,215,Valor da produção,2685,Ovos de galinha
+6,Município,1012,Mil Cruzeiros,320,3301009,Campos dos Goytacazes (RJ),1984,1984,215,Valor da produção,2686,Ovos de codorna
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1984,1984,215,Valor da produção,2687,Mel de abelha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1984,1984,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1984,1984,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1985,1985,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,20621,3301009,Campos dos Goytacazes (RJ),1985,1985,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,277,3301009,Campos dos Goytacazes (RJ),1985,1985,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,1,3301009,Campos dos Goytacazes (RJ),1985,1985,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1985,1985,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1985,1985,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1985,1985,106,Produção de origem animal,2684,Lã
+6,Município,1012,Mil Cruzeiros,15293,3301009,Campos dos Goytacazes (RJ),1985,1985,215,Valor da produção,0,Total
+6,Município,1012,Mil Cruzeiros,14600,3301009,Campos dos Goytacazes (RJ),1985,1985,215,Valor da produção,2682,Leite
+6,Município,1012,Mil Cruzeiros,692,3301009,Campos dos Goytacazes (RJ),1985,1985,215,Valor da produção,2685,Ovos de galinha
+6,Município,1012,Mil Cruzeiros,1,3301009,Campos dos Goytacazes (RJ),1985,1985,215,Valor da produção,2686,Ovos de codorna
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1985,1985,215,Valor da produção,2687,Mel de abelha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1985,1985,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1985,1985,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1986,1986,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,17523,3301009,Campos dos Goytacazes (RJ),1986,1986,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,251,3301009,Campos dos Goytacazes (RJ),1986,1986,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,1,3301009,Campos dos Goytacazes (RJ),1986,1986,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1986,1986,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1986,1986,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1986,1986,106,Produção de origem animal,2684,Lã
+6,Município,1578,Mil Cruzados,39333,3301009,Campos dos Goytacazes (RJ),1986,1986,215,Valor da produção,0,Total
+6,Município,1578,Mil Cruzados,37325,3301009,Campos dos Goytacazes (RJ),1986,1986,215,Valor da produção,2682,Leite
+6,Município,1578,Mil Cruzados,2004,3301009,Campos dos Goytacazes (RJ),1986,1986,215,Valor da produção,2685,Ovos de galinha
+6,Município,1578,Mil Cruzados,4,3301009,Campos dos Goytacazes (RJ),1986,1986,215,Valor da produção,2686,Ovos de codorna
+6,Município,1578,Mil Cruzados,NA,3301009,Campos dos Goytacazes (RJ),1986,1986,215,Valor da produção,2687,Mel de abelha
+6,Município,1578,Mil Cruzados,NA,3301009,Campos dos Goytacazes (RJ),1986,1986,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,1578,Mil Cruzados,NA,3301009,Campos dos Goytacazes (RJ),1986,1986,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1987,1987,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,18386,3301009,Campos dos Goytacazes (RJ),1987,1987,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,256,3301009,Campos dos Goytacazes (RJ),1987,1987,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,4,3301009,Campos dos Goytacazes (RJ),1987,1987,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1987,1987,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1987,1987,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1987,1987,106,Produção de origem animal,2684,Lã
+6,Município,1578,Mil Cruzados,128906,3301009,Campos dos Goytacazes (RJ),1987,1987,215,Valor da produção,0,Total
+6,Município,1578,Mil Cruzados,125028,3301009,Campos dos Goytacazes (RJ),1987,1987,215,Valor da produção,2682,Leite
+6,Município,1578,Mil Cruzados,3835,3301009,Campos dos Goytacazes (RJ),1987,1987,215,Valor da produção,2685,Ovos de galinha
+6,Município,1578,Mil Cruzados,43,3301009,Campos dos Goytacazes (RJ),1987,1987,215,Valor da produção,2686,Ovos de codorna
+6,Município,1578,Mil Cruzados,NA,3301009,Campos dos Goytacazes (RJ),1987,1987,215,Valor da produção,2687,Mel de abelha
+6,Município,1578,Mil Cruzados,NA,3301009,Campos dos Goytacazes (RJ),1987,1987,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,1578,Mil Cruzados,NA,3301009,Campos dos Goytacazes (RJ),1987,1987,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1988,1988,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,19177,3301009,Campos dos Goytacazes (RJ),1988,1988,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,265,3301009,Campos dos Goytacazes (RJ),1988,1988,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,4,3301009,Campos dos Goytacazes (RJ),1988,1988,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1988,1988,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1988,1988,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1988,1988,106,Produção de origem animal,2684,Lã
+6,Município,1578,Mil Cruzados,1287964,3301009,Campos dos Goytacazes (RJ),1988,1988,215,Valor da produção,0,Total
+6,Município,1578,Mil Cruzados,1229218,3301009,Campos dos Goytacazes (RJ),1988,1988,215,Valor da produção,2682,Leite
+6,Município,1578,Mil Cruzados,58344,3301009,Campos dos Goytacazes (RJ),1988,1988,215,Valor da produção,2685,Ovos de galinha
+6,Município,1578,Mil Cruzados,402,3301009,Campos dos Goytacazes (RJ),1988,1988,215,Valor da produção,2686,Ovos de codorna
+6,Município,1578,Mil Cruzados,NA,3301009,Campos dos Goytacazes (RJ),1988,1988,215,Valor da produção,2687,Mel de abelha
+6,Município,1578,Mil Cruzados,NA,3301009,Campos dos Goytacazes (RJ),1988,1988,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,1578,Mil Cruzados,NA,3301009,Campos dos Goytacazes (RJ),1988,1988,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1989,1989,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,17642,3301009,Campos dos Goytacazes (RJ),1989,1989,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,232,3301009,Campos dos Goytacazes (RJ),1989,1989,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,5,3301009,Campos dos Goytacazes (RJ),1989,1989,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1989,1989,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1989,1989,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1989,1989,106,Produção de origem animal,2684,Lã
+6,Município,42,Mil Cruzados Novos,12067,3301009,Campos dos Goytacazes (RJ),1989,1989,215,Valor da produção,0,Total
+6,Município,42,Mil Cruzados Novos,11644,3301009,Campos dos Goytacazes (RJ),1989,1989,215,Valor da produção,2682,Leite
+6,Município,42,Mil Cruzados Novos,415,3301009,Campos dos Goytacazes (RJ),1989,1989,215,Valor da produção,2685,Ovos de galinha
+6,Município,42,Mil Cruzados Novos,8,3301009,Campos dos Goytacazes (RJ),1989,1989,215,Valor da produção,2686,Ovos de codorna
+6,Município,42,Mil Cruzados Novos,NA,3301009,Campos dos Goytacazes (RJ),1989,1989,215,Valor da produção,2687,Mel de abelha
+6,Município,42,Mil Cruzados Novos,NA,3301009,Campos dos Goytacazes (RJ),1989,1989,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,42,Mil Cruzados Novos,NA,3301009,Campos dos Goytacazes (RJ),1989,1989,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1990,1990,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,15981,3301009,Campos dos Goytacazes (RJ),1990,1990,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,224,3301009,Campos dos Goytacazes (RJ),1990,1990,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,5,3301009,Campos dos Goytacazes (RJ),1990,1990,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1990,1990,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1990,1990,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1990,1990,106,Produção de origem animal,2684,Lã
+6,Município,1012,Mil Cruzeiros,265198,3301009,Campos dos Goytacazes (RJ),1990,1990,215,Valor da produção,0,Total
+6,Município,1012,Mil Cruzeiros,252498,3301009,Campos dos Goytacazes (RJ),1990,1990,215,Valor da produção,2682,Leite
+6,Município,1012,Mil Cruzeiros,12429,3301009,Campos dos Goytacazes (RJ),1990,1990,215,Valor da produção,2685,Ovos de galinha
+6,Município,1012,Mil Cruzeiros,271,3301009,Campos dos Goytacazes (RJ),1990,1990,215,Valor da produção,2686,Ovos de codorna
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1990,1990,215,Valor da produção,2687,Mel de abelha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1990,1990,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1990,1990,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1991,1991,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,17426,3301009,Campos dos Goytacazes (RJ),1991,1991,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,229,3301009,Campos dos Goytacazes (RJ),1991,1991,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,5,3301009,Campos dos Goytacazes (RJ),1991,1991,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1991,1991,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1991,1991,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1991,1991,106,Produção de origem animal,2684,Lã
+6,Município,1012,Mil Cruzeiros,782810,3301009,Campos dos Goytacazes (RJ),1991,1991,215,Valor da produção,0,Total
+6,Município,1012,Mil Cruzeiros,749335,3301009,Campos dos Goytacazes (RJ),1991,1991,215,Valor da produção,2682,Leite
+6,Município,1012,Mil Cruzeiros,33138,3301009,Campos dos Goytacazes (RJ),1991,1991,215,Valor da produção,2685,Ovos de galinha
+6,Município,1012,Mil Cruzeiros,337,3301009,Campos dos Goytacazes (RJ),1991,1991,215,Valor da produção,2686,Ovos de codorna
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1991,1991,215,Valor da produção,2687,Mel de abelha
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1991,1991,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,1012,Mil Cruzeiros,NA,3301009,Campos dos Goytacazes (RJ),1991,1991,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1992,1992,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,19731,3301009,Campos dos Goytacazes (RJ),1992,1992,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,223,3301009,Campos dos Goytacazes (RJ),1992,1992,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,6,3301009,Campos dos Goytacazes (RJ),1992,1992,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,4250,3301009,Campos dos Goytacazes (RJ),1992,1992,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,0,3301009,Campos dos Goytacazes (RJ),1992,1992,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,0,3301009,Campos dos Goytacazes (RJ),1992,1992,106,Produção de origem animal,2684,Lã
+6,Município,1012,Mil Cruzeiros,16516420,3301009,Campos dos Goytacazes (RJ),1992,1992,215,Valor da produção,0,Total
+6,Município,1012,Mil Cruzeiros,16049982,3301009,Campos dos Goytacazes (RJ),1992,1992,215,Valor da produção,2682,Leite
+6,Município,1012,Mil Cruzeiros,420602,3301009,Campos dos Goytacazes (RJ),1992,1992,215,Valor da produção,2685,Ovos de galinha
+6,Município,1012,Mil Cruzeiros,9626,3301009,Campos dos Goytacazes (RJ),1992,1992,215,Valor da produção,2686,Ovos de codorna
+6,Município,1012,Mil Cruzeiros,36210,3301009,Campos dos Goytacazes (RJ),1992,1992,215,Valor da produção,2687,Mel de abelha
+6,Município,1012,Mil Cruzeiros,0,3301009,Campos dos Goytacazes (RJ),1992,1992,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,1012,Mil Cruzeiros,0,3301009,Campos dos Goytacazes (RJ),1992,1992,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1993,1993,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,17442,3301009,Campos dos Goytacazes (RJ),1993,1993,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,155,3301009,Campos dos Goytacazes (RJ),1993,1993,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,7,3301009,Campos dos Goytacazes (RJ),1993,1993,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,4125,3301009,Campos dos Goytacazes (RJ),1993,1993,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,0,3301009,Campos dos Goytacazes (RJ),1993,1993,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,0,3301009,Campos dos Goytacazes (RJ),1993,1993,106,Produção de origem animal,2684,Lã
+6,Município,39,Mil Cruzeiros Reais,314896,3301009,Campos dos Goytacazes (RJ),1993,1993,215,Valor da produção,0,Total
+6,Município,39,Mil Cruzeiros Reais,307496,3301009,Campos dos Goytacazes (RJ),1993,1993,215,Valor da produção,2682,Leite
+6,Município,39,Mil Cruzeiros Reais,6362,3301009,Campos dos Goytacazes (RJ),1993,1993,215,Valor da produção,2685,Ovos de galinha
+6,Município,39,Mil Cruzeiros Reais,270,3301009,Campos dos Goytacazes (RJ),1993,1993,215,Valor da produção,2686,Ovos de codorna
+6,Município,39,Mil Cruzeiros Reais,768,3301009,Campos dos Goytacazes (RJ),1993,1993,215,Valor da produção,2687,Mel de abelha
+6,Município,39,Mil Cruzeiros Reais,0,3301009,Campos dos Goytacazes (RJ),1993,1993,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,39,Mil Cruzeiros Reais,0,3301009,Campos dos Goytacazes (RJ),1993,1993,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1994,1994,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,18126,3301009,Campos dos Goytacazes (RJ),1994,1994,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,161,3301009,Campos dos Goytacazes (RJ),1994,1994,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,7,3301009,Campos dos Goytacazes (RJ),1994,1994,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,4089,3301009,Campos dos Goytacazes (RJ),1994,1994,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,0,3301009,Campos dos Goytacazes (RJ),1994,1994,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,0,3301009,Campos dos Goytacazes (RJ),1994,1994,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,3908,3301009,Campos dos Goytacazes (RJ),1994,1994,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,3807,3301009,Campos dos Goytacazes (RJ),1994,1994,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,77,3301009,Campos dos Goytacazes (RJ),1994,1994,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,4,3301009,Campos dos Goytacazes (RJ),1994,1994,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,20,3301009,Campos dos Goytacazes (RJ),1994,1994,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,0,3301009,Campos dos Goytacazes (RJ),1994,1994,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,0,3301009,Campos dos Goytacazes (RJ),1994,1994,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1995,1995,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,18553,3301009,Campos dos Goytacazes (RJ),1995,1995,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,177,3301009,Campos dos Goytacazes (RJ),1995,1995,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,8,3301009,Campos dos Goytacazes (RJ),1995,1995,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,3977,3301009,Campos dos Goytacazes (RJ),1995,1995,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1995,1995,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1995,1995,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,3650,3301009,Campos dos Goytacazes (RJ),1995,1995,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,3525,3301009,Campos dos Goytacazes (RJ),1995,1995,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,97,3301009,Campos dos Goytacazes (RJ),1995,1995,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,5,3301009,Campos dos Goytacazes (RJ),1995,1995,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,23,3301009,Campos dos Goytacazes (RJ),1995,1995,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),1995,1995,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),1995,1995,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1996,1996,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,22003,3301009,Campos dos Goytacazes (RJ),1996,1996,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,120,3301009,Campos dos Goytacazes (RJ),1996,1996,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,7,3301009,Campos dos Goytacazes (RJ),1996,1996,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,3824,3301009,Campos dos Goytacazes (RJ),1996,1996,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1996,1996,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1996,1996,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,4937,3301009,Campos dos Goytacazes (RJ),1996,1996,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,4841,3301009,Campos dos Goytacazes (RJ),1996,1996,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,79,3301009,Campos dos Goytacazes (RJ),1996,1996,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,6,3301009,Campos dos Goytacazes (RJ),1996,1996,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,11,3301009,Campos dos Goytacazes (RJ),1996,1996,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),1996,1996,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),1996,1996,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1997,1997,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,21863,3301009,Campos dos Goytacazes (RJ),1997,1997,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,103,3301009,Campos dos Goytacazes (RJ),1997,1997,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,7,3301009,Campos dos Goytacazes (RJ),1997,1997,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,3426,3301009,Campos dos Goytacazes (RJ),1997,1997,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1997,1997,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1997,1997,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,4899,3301009,Campos dos Goytacazes (RJ),1997,1997,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,4810,3301009,Campos dos Goytacazes (RJ),1997,1997,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,65,3301009,Campos dos Goytacazes (RJ),1997,1997,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,3,3301009,Campos dos Goytacazes (RJ),1997,1997,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,21,3301009,Campos dos Goytacazes (RJ),1997,1997,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),1997,1997,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),1997,1997,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1998,1998,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,22144,3301009,Campos dos Goytacazes (RJ),1998,1998,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,107,3301009,Campos dos Goytacazes (RJ),1998,1998,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,7,3301009,Campos dos Goytacazes (RJ),1998,1998,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,3314,3301009,Campos dos Goytacazes (RJ),1998,1998,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1998,1998,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1998,1998,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,5625,3301009,Campos dos Goytacazes (RJ),1998,1998,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,5536,3301009,Campos dos Goytacazes (RJ),1998,1998,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,66,3301009,Campos dos Goytacazes (RJ),1998,1998,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,3,3301009,Campos dos Goytacazes (RJ),1998,1998,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,20,3301009,Campos dos Goytacazes (RJ),1998,1998,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),1998,1998,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),1998,1998,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),1999,1999,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,22315,3301009,Campos dos Goytacazes (RJ),1999,1999,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,112,3301009,Campos dos Goytacazes (RJ),1999,1999,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,7,3301009,Campos dos Goytacazes (RJ),1999,1999,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,3286,3301009,Campos dos Goytacazes (RJ),1999,1999,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1999,1999,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),1999,1999,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,5689,3301009,Campos dos Goytacazes (RJ),1999,1999,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,5579,3301009,Campos dos Goytacazes (RJ),1999,1999,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,74,3301009,Campos dos Goytacazes (RJ),1999,1999,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,3,3301009,Campos dos Goytacazes (RJ),1999,1999,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,33,3301009,Campos dos Goytacazes (RJ),1999,1999,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),1999,1999,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),1999,1999,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2000,2000,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,22268,3301009,Campos dos Goytacazes (RJ),2000,2000,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,114,3301009,Campos dos Goytacazes (RJ),2000,2000,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,7,3301009,Campos dos Goytacazes (RJ),2000,2000,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,3108,3301009,Campos dos Goytacazes (RJ),2000,2000,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2000,2000,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2000,2000,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,6795,3301009,Campos dos Goytacazes (RJ),2000,2000,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,6680,3301009,Campos dos Goytacazes (RJ),2000,2000,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,95,3301009,Campos dos Goytacazes (RJ),2000,2000,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,4,3301009,Campos dos Goytacazes (RJ),2000,2000,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,16,3301009,Campos dos Goytacazes (RJ),2000,2000,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2000,2000,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2000,2000,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2001,2001,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,20633,3301009,Campos dos Goytacazes (RJ),2001,2001,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,115,3301009,Campos dos Goytacazes (RJ),2001,2001,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,7,3301009,Campos dos Goytacazes (RJ),2001,2001,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,2989,3301009,Campos dos Goytacazes (RJ),2001,2001,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2001,2001,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2001,2001,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,6101,3301009,Campos dos Goytacazes (RJ),2001,2001,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,5984,3301009,Campos dos Goytacazes (RJ),2001,2001,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,94,3301009,Campos dos Goytacazes (RJ),2001,2001,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,4,3301009,Campos dos Goytacazes (RJ),2001,2001,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,19,3301009,Campos dos Goytacazes (RJ),2001,2001,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2001,2001,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2001,2001,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2002,2002,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,20143,3301009,Campos dos Goytacazes (RJ),2002,2002,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,114,3301009,Campos dos Goytacazes (RJ),2002,2002,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,7,3301009,Campos dos Goytacazes (RJ),2002,2002,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,2838,3301009,Campos dos Goytacazes (RJ),2002,2002,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2002,2002,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2002,2002,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,6367,3301009,Campos dos Goytacazes (RJ),2002,2002,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,6244,3301009,Campos dos Goytacazes (RJ),2002,2002,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,101,3301009,Campos dos Goytacazes (RJ),2002,2002,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,4,3301009,Campos dos Goytacazes (RJ),2002,2002,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,18,3301009,Campos dos Goytacazes (RJ),2002,2002,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2002,2002,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2002,2002,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2003,2003,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,20727,3301009,Campos dos Goytacazes (RJ),2003,2003,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,116,3301009,Campos dos Goytacazes (RJ),2003,2003,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,7,3301009,Campos dos Goytacazes (RJ),2003,2003,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,2971,3301009,Campos dos Goytacazes (RJ),2003,2003,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2003,2003,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2003,2003,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,8255,3301009,Campos dos Goytacazes (RJ),2003,2003,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,8083,3301009,Campos dos Goytacazes (RJ),2003,2003,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,149,3301009,Campos dos Goytacazes (RJ),2003,2003,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,4,3301009,Campos dos Goytacazes (RJ),2003,2003,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,19,3301009,Campos dos Goytacazes (RJ),2003,2003,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2003,2003,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2003,2003,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2004,2004,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,20738,3301009,Campos dos Goytacazes (RJ),2004,2004,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,116,3301009,Campos dos Goytacazes (RJ),2004,2004,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,7,3301009,Campos dos Goytacazes (RJ),2004,2004,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,2799,3301009,Campos dos Goytacazes (RJ),2004,2004,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2004,2004,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2004,2004,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,9485,3301009,Campos dos Goytacazes (RJ),2004,2004,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,9332,3301009,Campos dos Goytacazes (RJ),2004,2004,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,128,3301009,Campos dos Goytacazes (RJ),2004,2004,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,5,3301009,Campos dos Goytacazes (RJ),2004,2004,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,20,3301009,Campos dos Goytacazes (RJ),2004,2004,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2004,2004,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2004,2004,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2005,2005,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,18003,3301009,Campos dos Goytacazes (RJ),2005,2005,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,121,3301009,Campos dos Goytacazes (RJ),2005,2005,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,7,3301009,Campos dos Goytacazes (RJ),2005,2005,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,2625,3301009,Campos dos Goytacazes (RJ),2005,2005,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2005,2005,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2005,2005,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,8800,3301009,Campos dos Goytacazes (RJ),2005,2005,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,8641,3301009,Campos dos Goytacazes (RJ),2005,2005,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,131,3301009,Campos dos Goytacazes (RJ),2005,2005,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,5,3301009,Campos dos Goytacazes (RJ),2005,2005,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,23,3301009,Campos dos Goytacazes (RJ),2005,2005,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2005,2005,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2005,2005,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2006,2006,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,18543,3301009,Campos dos Goytacazes (RJ),2006,2006,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,127,3301009,Campos dos Goytacazes (RJ),2006,2006,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,7,3301009,Campos dos Goytacazes (RJ),2006,2006,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,2677,3301009,Campos dos Goytacazes (RJ),2006,2006,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2006,2006,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2006,2006,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,9256,3301009,Campos dos Goytacazes (RJ),2006,2006,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,9086,3301009,Campos dos Goytacazes (RJ),2006,2006,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,140,3301009,Campos dos Goytacazes (RJ),2006,2006,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,5,3301009,Campos dos Goytacazes (RJ),2006,2006,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,25,3301009,Campos dos Goytacazes (RJ),2006,2006,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2006,2006,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2006,2006,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2007,2007,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,21421,3301009,Campos dos Goytacazes (RJ),2007,2007,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,342,3301009,Campos dos Goytacazes (RJ),2007,2007,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,7,3301009,Campos dos Goytacazes (RJ),2007,2007,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,3000,3301009,Campos dos Goytacazes (RJ),2007,2007,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2007,2007,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2007,2007,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,11163,3301009,Campos dos Goytacazes (RJ),2007,2007,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,10711,3301009,Campos dos Goytacazes (RJ),2007,2007,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,410,3301009,Campos dos Goytacazes (RJ),2007,2007,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,6,3301009,Campos dos Goytacazes (RJ),2007,2007,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,36,3301009,Campos dos Goytacazes (RJ),2007,2007,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2007,2007,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2007,2007,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2008,2008,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,21850,3301009,Campos dos Goytacazes (RJ),2008,2008,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,352,3301009,Campos dos Goytacazes (RJ),2008,2008,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,8,3301009,Campos dos Goytacazes (RJ),2008,2008,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,3036,3301009,Campos dos Goytacazes (RJ),2008,2008,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2008,2008,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2008,2008,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,14738,3301009,Campos dos Goytacazes (RJ),2008,2008,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,14202,3301009,Campos dos Goytacazes (RJ),2008,2008,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,493,3301009,Campos dos Goytacazes (RJ),2008,2008,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,7,3301009,Campos dos Goytacazes (RJ),2008,2008,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,36,3301009,Campos dos Goytacazes (RJ),2008,2008,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2008,2008,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2008,2008,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2009,2009,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,22000,3301009,Campos dos Goytacazes (RJ),2009,2009,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,350,3301009,Campos dos Goytacazes (RJ),2009,2009,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,8,3301009,Campos dos Goytacazes (RJ),2009,2009,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,3000,3301009,Campos dos Goytacazes (RJ),2009,2009,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2009,2009,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2009,2009,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,13734,3301009,Campos dos Goytacazes (RJ),2009,2009,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,13200,3301009,Campos dos Goytacazes (RJ),2009,2009,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,490,3301009,Campos dos Goytacazes (RJ),2009,2009,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,8,3301009,Campos dos Goytacazes (RJ),2009,2009,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,36,3301009,Campos dos Goytacazes (RJ),2009,2009,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2009,2009,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2009,2009,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2010,2010,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,22352,3301009,Campos dos Goytacazes (RJ),2010,2010,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,363,3301009,Campos dos Goytacazes (RJ),2010,2010,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,8,3301009,Campos dos Goytacazes (RJ),2010,2010,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,3097,3301009,Campos dos Goytacazes (RJ),2010,2010,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2010,2010,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2010,2010,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,15774,3301009,Campos dos Goytacazes (RJ),2010,2010,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,15199,3301009,Campos dos Goytacazes (RJ),2010,2010,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,526,3301009,Campos dos Goytacazes (RJ),2010,2010,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,10,3301009,Campos dos Goytacazes (RJ),2010,2010,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,39,3301009,Campos dos Goytacazes (RJ),2010,2010,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2010,2010,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2010,2010,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2011,2011,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,22775,3301009,Campos dos Goytacazes (RJ),2011,2011,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,376,3301009,Campos dos Goytacazes (RJ),2011,2011,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,8,3301009,Campos dos Goytacazes (RJ),2011,2011,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,3495,3301009,Campos dos Goytacazes (RJ),2011,2011,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2011,2011,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2011,2011,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,18999,3301009,Campos dos Goytacazes (RJ),2011,2011,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,18220,3301009,Campos dos Goytacazes (RJ),2011,2011,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,715,3301009,Campos dos Goytacazes (RJ),2011,2011,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,12,3301009,Campos dos Goytacazes (RJ),2011,2011,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,52,3301009,Campos dos Goytacazes (RJ),2011,2011,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2011,2011,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2011,2011,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2012,2012,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,35000,3301009,Campos dos Goytacazes (RJ),2012,2012,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,343,3301009,Campos dos Goytacazes (RJ),2012,2012,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,7,3301009,Campos dos Goytacazes (RJ),2012,2012,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,1747,3301009,Campos dos Goytacazes (RJ),2012,2012,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2012,2012,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2012,2012,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,32761,3301009,Campos dos Goytacazes (RJ),2012,2012,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,31500,3301009,Campos dos Goytacazes (RJ),2012,2012,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,1199,3301009,Campos dos Goytacazes (RJ),2012,2012,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,10,3301009,Campos dos Goytacazes (RJ),2012,2012,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,52,3301009,Campos dos Goytacazes (RJ),2012,2012,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2012,2012,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2012,2012,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2013,2013,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,34101,3301009,Campos dos Goytacazes (RJ),2013,2013,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,330,3301009,Campos dos Goytacazes (RJ),2013,2013,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,5,3301009,Campos dos Goytacazes (RJ),2013,2013,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,1500,3301009,Campos dos Goytacazes (RJ),2013,2013,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2013,2013,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2013,2013,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,35295,3301009,Campos dos Goytacazes (RJ),2013,2013,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,34101,3301009,Campos dos Goytacazes (RJ),2013,2013,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,1155,3301009,Campos dos Goytacazes (RJ),2013,2013,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,16,3301009,Campos dos Goytacazes (RJ),2013,2013,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,23,3301009,Campos dos Goytacazes (RJ),2013,2013,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2013,2013,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2013,2013,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2014,2014,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,27000,3301009,Campos dos Goytacazes (RJ),2014,2014,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,250,3301009,Campos dos Goytacazes (RJ),2014,2014,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),2014,2014,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,1000,3301009,Campos dos Goytacazes (RJ),2014,2014,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2014,2014,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2014,2014,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,28265,3301009,Campos dos Goytacazes (RJ),2014,2014,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,27000,3301009,Campos dos Goytacazes (RJ),2014,2014,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,1250,3301009,Campos dos Goytacazes (RJ),2014,2014,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2014,2014,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,15,3301009,Campos dos Goytacazes (RJ),2014,2014,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2014,2014,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2014,2014,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2015,2015,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,19710,3301009,Campos dos Goytacazes (RJ),2015,2015,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,135,3301009,Campos dos Goytacazes (RJ),2015,2015,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),2015,2015,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,2000,3301009,Campos dos Goytacazes (RJ),2015,2015,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2015,2015,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2015,2015,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,22396,3301009,Campos dos Goytacazes (RJ),2015,2015,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,21681,3301009,Campos dos Goytacazes (RJ),2015,2015,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,675,3301009,Campos dos Goytacazes (RJ),2015,2015,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2015,2015,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,40,3301009,Campos dos Goytacazes (RJ),2015,2015,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2015,2015,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2015,2015,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2016,2016,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,24024,3301009,Campos dos Goytacazes (RJ),2016,2016,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,757,3301009,Campos dos Goytacazes (RJ),2016,2016,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),2016,2016,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,2000,3301009,Campos dos Goytacazes (RJ),2016,2016,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2016,2016,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2016,2016,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,33854,3301009,Campos dos Goytacazes (RJ),2016,2016,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,30030,3301009,Campos dos Goytacazes (RJ),2016,2016,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,3784,3301009,Campos dos Goytacazes (RJ),2016,2016,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2016,2016,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,40,3301009,Campos dos Goytacazes (RJ),2016,2016,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2016,2016,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2016,2016,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2017,2017,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,25876,3301009,Campos dos Goytacazes (RJ),2017,2017,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,772,3301009,Campos dos Goytacazes (RJ),2017,2017,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),2017,2017,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,2000,3301009,Campos dos Goytacazes (RJ),2017,2017,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2017,2017,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2017,2017,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,33909,3301009,Campos dos Goytacazes (RJ),2017,2017,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,29240,3301009,Campos dos Goytacazes (RJ),2017,2017,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,4629,3301009,Campos dos Goytacazes (RJ),2017,2017,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2017,2017,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,40,3301009,Campos dos Goytacazes (RJ),2017,2017,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2017,2017,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2017,2017,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2018,2018,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,33477,3301009,Campos dos Goytacazes (RJ),2018,2018,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,769,3301009,Campos dos Goytacazes (RJ),2018,2018,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),2018,2018,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,1900,3301009,Campos dos Goytacazes (RJ),2018,2018,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2018,2018,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2018,2018,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,46892,3301009,Campos dos Goytacazes (RJ),2018,2018,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,41847,3301009,Campos dos Goytacazes (RJ),2018,2018,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,4999,3301009,Campos dos Goytacazes (RJ),2018,2018,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2018,2018,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,46,3301009,Campos dos Goytacazes (RJ),2018,2018,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2018,2018,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2018,2018,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2019,2019,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,33477,3301009,Campos dos Goytacazes (RJ),2019,2019,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,769,3301009,Campos dos Goytacazes (RJ),2019,2019,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),2019,2019,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,1500,3301009,Campos dos Goytacazes (RJ),2019,2019,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2019,2019,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2019,2019,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,46884,3301009,Campos dos Goytacazes (RJ),2019,2019,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,41847,3301009,Campos dos Goytacazes (RJ),2019,2019,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,4999,3301009,Campos dos Goytacazes (RJ),2019,2019,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2019,2019,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,38,3301009,Campos dos Goytacazes (RJ),2019,2019,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2019,2019,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2019,2019,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2020,2020,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,33477,3301009,Campos dos Goytacazes (RJ),2020,2020,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,769,3301009,Campos dos Goytacazes (RJ),2020,2020,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),2020,2020,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,1500,3301009,Campos dos Goytacazes (RJ),2020,2020,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2020,2020,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2020,2020,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,46884,3301009,Campos dos Goytacazes (RJ),2020,2020,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,41847,3301009,Campos dos Goytacazes (RJ),2020,2020,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,4999,3301009,Campos dos Goytacazes (RJ),2020,2020,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2020,2020,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,38,3301009,Campos dos Goytacazes (RJ),2020,2020,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2020,2020,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2020,2020,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2021,2021,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,36453,3301009,Campos dos Goytacazes (RJ),2021,2021,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,150,3301009,Campos dos Goytacazes (RJ),2021,2021,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),2021,2021,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,1700,3301009,Campos dos Goytacazes (RJ),2021,2021,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2021,2021,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2021,2021,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,62366,3301009,Campos dos Goytacazes (RJ),2021,2021,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,60512,3301009,Campos dos Goytacazes (RJ),2021,2021,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,1800,3301009,Campos dos Goytacazes (RJ),2021,2021,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2021,2021,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,54,3301009,Campos dos Goytacazes (RJ),2021,2021,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2021,2021,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2021,2021,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2022,2022,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,30963,3301009,Campos dos Goytacazes (RJ),2022,2022,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,193,3301009,Campos dos Goytacazes (RJ),2022,2022,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),2022,2022,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,1750,3301009,Campos dos Goytacazes (RJ),2022,2022,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2022,2022,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2022,2022,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,82483,3301009,Campos dos Goytacazes (RJ),2022,2022,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,80503,3301009,Campos dos Goytacazes (RJ),2022,2022,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,1927,3301009,Campos dos Goytacazes (RJ),2022,2022,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2022,2022,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,53,3301009,Campos dos Goytacazes (RJ),2022,2022,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2022,2022,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2022,2022,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2023,2023,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,19926,3301009,Campos dos Goytacazes (RJ),2023,2023,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,203,3301009,Campos dos Goytacazes (RJ),2023,2023,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),2023,2023,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,2700,3301009,Campos dos Goytacazes (RJ),2023,2023,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2023,2023,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2023,2023,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,40405,3301009,Campos dos Goytacazes (RJ),2023,2023,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,37860,3301009,Campos dos Goytacazes (RJ),2023,2023,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,2437,3301009,Campos dos Goytacazes (RJ),2023,2023,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2023,2023,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,108,3301009,Campos dos Goytacazes (RJ),2023,2023,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2023,2023,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2023,2023,215,Valor da produção,2684,Lã
+6,Município,,,NA,3301009,Campos dos Goytacazes (RJ),2024,2024,106,Produção de origem animal,0,Total
+6,Município,25,Mil litros,14900,3301009,Campos dos Goytacazes (RJ),2024,2024,106,Produção de origem animal,2682,Leite
+6,Município,23,Mil dúzias,208,3301009,Campos dos Goytacazes (RJ),2024,2024,106,Produção de origem animal,2685,Ovos de galinha
+6,Município,23,Mil dúzias,NA,3301009,Campos dos Goytacazes (RJ),2024,2024,106,Produção de origem animal,2686,Ovos de codorna
+6,Município,1007,Quilogramas,3375,3301009,Campos dos Goytacazes (RJ),2024,2024,106,Produção de origem animal,2687,Mel de abelha
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2024,2024,106,Produção de origem animal,2683,Casulos do bicho-da-seda
+6,Município,1007,Quilogramas,NA,3301009,Campos dos Goytacazes (RJ),2024,2024,106,Produção de origem animal,2684,Lã
+6,Município,40,Mil Reais,38769,3301009,Campos dos Goytacazes (RJ),2024,2024,215,Valor da produção,0,Total
+6,Município,40,Mil Reais,35909,3301009,Campos dos Goytacazes (RJ),2024,2024,215,Valor da produção,2682,Leite
+6,Município,40,Mil Reais,2708,3301009,Campos dos Goytacazes (RJ),2024,2024,215,Valor da produção,2685,Ovos de galinha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2024,2024,215,Valor da produção,2686,Ovos de codorna
+6,Município,40,Mil Reais,152,3301009,Campos dos Goytacazes (RJ),2024,2024,215,Valor da produção,2687,Mel de abelha
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2024,2024,215,Valor da produção,2683,Casulos do bicho-da-seda
+6,Município,40,Mil Reais,NA,3301009,Campos dos Goytacazes (RJ),2024,2024,215,Valor da produção,2684,Lã

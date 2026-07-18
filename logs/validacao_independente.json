@@ -1,0 +1,75 @@
+{
+ "V1_total_linhas_lidas": {
+  "validacao": 3902905,
+  "pipeline": 3902905
+ },
+ "V2_campos_uf_rj_antes_dedup": {
+  "validacao": 5603,
+  "nota": "registros 330100+UF RJ antes da deduplicação; V2 - V3 = duplicidades removidas neste recorte"
+ },
+ "V3_apos_dedup": {
+  "validacao": 5066,
+  "pipeline": 5066
+ },
+ "V3p_periodo": {
+  "validacao": 5066,
+  "pipeline": 5066
+ },
+ "V4_saude_principal": {
+  "validacao": 1144,
+  "pipeline": 1144
+ },
+ "V5_categorias": {
+  "validacao": {
+   "Agentes comunitários de saúde e afins": 14,
+   "Diagnóstico e laboratório – técnicos e auxiliares": 78,
+   "Enfermagem – enfermeiros": 163,
+   "Enfermagem – técnicos e auxiliares": 803,
+   "Farmácia": 10,
+   "Farmácia – técnicos e auxiliares": 20,
+   "Fisioterapia": 30,
+   "Fonoaudiologia": 2,
+   "Instrumentação cirúrgica": 1,
+   "Medicina": 12,
+   "Nutrição": 7,
+   "Odontologia e saúde bucal": 4
+  },
+  "pipeline": {
+   "Agentes comunitários de saúde e afins": 14,
+   "Diagnóstico e laboratório – técnicos e auxiliares": 78,
+   "Enfermagem – enfermeiros": 163,
+   "Enfermagem – técnicos e auxiliares": 803,
+   "Farmácia": 10,
+   "Farmácia – técnicos e auxiliares": 20,
+   "Fisioterapia": 30,
+   "Fonoaudiologia": 2,
+   "Instrumentação cirúrgica": 1,
+   "Medicina": 12,
+   "Nutrição": 7,
+   "Odontologia e saúde bucal": 4
+  }
+ },
+ "V6_por_ano": {
+  "validacao": {
+   "2018": 99,
+   "2019": 162,
+   "2020": 135,
+   "2021": 199,
+   "2022": 84,
+   "2023": 178,
+   "2024": 154,
+   "2025": 133
+  },
+  "pipeline": {
+   "2018": 99,
+   "2019": 162,
+   "2020": 135,
+   "2021": 199,
+   "2022": 84,
+   "2023": 178,
+   "2024": 154,
+   "2025": 133
+  }
+ },
+ "RESULTADO": "CONVERGENTE — publicação liberada"
+}

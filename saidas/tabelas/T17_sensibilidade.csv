@@ -1,0 +1,10 @@
+﻿cenario;n_saude_principal;nota
+Base completa 2018–2025 (referência);1144;
+Excluindo 2025 (parcial);1011;
+Somente meses jan–out (todos os anos);994;
+Excluindo acidentes de trajeto;948;
+Somente acidentes típicos;937;
+Universo restrito: profissões da saúde em CNAE 86/87;1091;
+Multiprofissionais (todas);26;
+Multiprofissionais restritas a CNAE 86/87;11;
+Antes da remoção de duplicidades entre arquivos (candidatos brutos c/ código 330100);-;2546 duplicidades removidas na base geral de candidatos

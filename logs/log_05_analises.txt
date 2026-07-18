@@ -1,0 +1,78 @@
+tabelas: 27 | saúde: 1144 | multi: 26 | nclass: 184
+                           categoria_profissional   n  pct
+               Enfermagem – técnicos e auxiliares 803 70.2
+                         Enfermagem – enfermeiros 163 14.2
+Diagnóstico e laboratório – técnicos e auxiliares  78  6.8
+                                     Fisioterapia  30  2.6
+                 Farmácia – técnicos e auxiliares  20  1.7
+            Agentes comunitários de saúde e afins  14  1.2
+                                         Medicina  12  1.0
+                                         Farmácia  10  0.9
+                                         Nutrição   7  0.6
+                        Odontologia e saúde bucal   4  0.3
+                                   Fonoaudiologia   2  0.2
+                         Instrumentação cirúrgica   1  0.1
+               periodo_pandemia   n  meses_no_periodo  media_mensal  pct_agente_infeccioso
+período crítico (mar/20–dez/21) 318                22          14.5                   12.3
+   pré-pandemia (jan/18–fev/20) 277                26          10.7                   15.9
+    pós-crítico (jan/22–out/25) 549                46          11.9                   13.3
+ ano  pct_agente_infeccioso
+2018                   11.1
+2019                   17.9
+2020                   15.6
+2021                   11.1
+2022                    4.8
+2023                    7.3
+2024                   22.1
+2025                   16.5
+     sexo  Demais profissões da saúde  Diagnóstico e laboratório – técnicos e auxiliares  Enfermagem – enfermeiros  Enfermagem – técnicos e auxiliares  Medicina  Total
+ Feminino                          71                                                 57                       140                                 704         8    980
+Masculino                          17                                                 21                        21                                  97         4    160
+                              agente_causador   n  pct
+                         Agente Infeccioso ou 123 10.8
+                              (não informado) 112  9.8
+                         Produto Biologico (S 108  9.4
+                         Ferramenta Manual se 101  8.8
+      Ferramenta Manual sem Forca Motriz, Nic  52  4.5
+ Produto Biologico (Soro, Toxina, Antitoxina,  44  3.8
+                                 Veiculo, Nic  34  3.0
+Agente Infeccioso ou Parasitario - Inclui Bac  33  2.9
+                            natureza_lesao   n  pct
+                       Lesao Imediata, Nic 218 19.1
+                      Corte, Laceracao, Fe 210 18.4
+                            Lesao Imediata 182 15.9
+Corte, Laceracao, Ferida Contusa, Punctura  85  7.4
+                      Contusao, Esmagament  76  6.6
+                         Distensao, Torcao  66  5.8
+parte_corpo_atingida   n  pct
+                Dedo 502 43.9
+              Joelho  54  4.7
+Mao (Exceto Punho ou  53  4.6
+Olho (Inclusive Nerv  48  4.2
+Pe (Exceto Artelhos)  41  3.6
+Partes Multiplas - A  29  2.5
+tipo_acidente  Demais profissões da saúde  Diagnóstico e laboratório – técnicos e auxiliares  Enfermagem – enfermeiros  Enfermagem – técnicos e auxiliares  Medicina  Total
+       Doença                           0                                                  0                         0                                  11         0     11
+      Trajeto                          22                                                 15                        28                                 131         0    196
+       Típico                          66                                                 63                       135                                 661        12    937
+                                              cnae   n  pct
+                         8610 Atividades de Atendi 609 53.2
+         8610 Atividades de Atendimento Hospitalar 270 23.6
+                         8690 Atividades de Atenca  47  4.1
+8630 Atividades de Atencao Ambulatorial Executadas  42  3.7
+                         8640 Atividades de Servic  39  3.4
+                         8630 Atividades de Atenca  20  1.7
+                         8650 Atividades de Profis  19  1.7
+8640 Atividades de Servicos de Complementacao Diag  17  1.5
+ outras_ocupacoes_total  outras_ocupacoes_em_cnae_saude  nao_classificados_total  nao_classificados_em_cnae_saude  saude_principal_fora_cnae_saude  saude_principal_pct_em_cnae_saude
+                   3712                             427                      184                               35                               53                               95.4
+      n_validos  mediana  p25  p75  n_total
+ano                                        
+2018         99      1.0  0.0  3.0       99
+2019        162      1.0  0.0  2.0      162
+2020        135      1.0  0.0  4.0      135
+2021        199      1.0  0.0  3.0      199
+2022         84      3.0  1.0  5.0       84
+2023        112      2.0  1.0  5.2      178
+2024        154      1.0  1.0  3.0      154
+2025        133      1.0  1.0  3.0      133

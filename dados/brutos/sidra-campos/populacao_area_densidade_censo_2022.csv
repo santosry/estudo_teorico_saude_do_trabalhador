@@ -1,0 +1,4 @@
+nivel_territorial_codigo,nivel_territorial,unidade_de_medida_codigo,unidade_de_medida,valor,municipio_codigo,municipio,ano_codigo,ano,variavel_codigo,variavel
+6,Município,45,Pessoas,483540,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente
+6,Município,26,Quilômetros quadrados,4032.487,3301009,Campos dos Goytacazes (RJ),2022,2022,6318,Área da unidade territorial
+6,Município,28,Habitante por quilômetro quadrado,119.91,3301009,Campos dos Goytacazes (RJ),2022,2022,614,Densidade demográfica

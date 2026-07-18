@@ -1,0 +1,11 @@
+﻿etapa;n
+Linhas lidas nos 58 arquivos CAT/INSS (2018–2025);3902905
+Registros candidatos (código 330100 ou nome contendo 'campos');15932
+Duplicidades exatas entre arquivos sobrepostos removidas;2546
+Excluídos: outros municípios com 'Campo(s)' no nome;8308
+Excluídos: código 330100 com UF do empregador ≠ RJ;12
+Base Campos dos Goytacazes (330100 + UF RJ), acidentes 2018–2025;5066
+→ Profissões da saúde (universo principal);1144
+→ Profissões multiprofissionais intersetoriais;26
+→ CBO não classificado (mantidos, analisados à parte);184
+→ Demais ocupações (fora do campo da saúde);3712

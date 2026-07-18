@@ -1,0 +1,23 @@
+{
+ "apoio_ou_outra|Outras ocupações (fora do campo da saúde)": 3710,
+ "apoio_ou_outra|Produção industrial farmacêutica": 1,
+ "apoio_ou_outra|Serviços veterinários (apoio)": 1,
+ "multiprofissional|Biologia": 8,
+ "multiprofissional|Educação física": 4,
+ "multiprofissional|Psicologia": 9,
+ "multiprofissional|Serviço social": 5,
+ "nao_classificado|CBO não classificado": 184,
+ "principal|Agentes comunitários de saúde e afins": 14,
+ "principal|Diagnóstico e laboratório – técnicos e auxiliares": 78,
+ "principal|Enfermagem – enfermeiros": 163,
+ "principal|Enfermagem – técnicos e auxiliares": 803,
+ "principal|Farmácia": 10,
+ "principal|Farmácia – técnicos e auxiliares": 20,
+ "principal|Fisioterapia": 30,
+ "principal|Fonoaudiologia": 2,
+ "principal|Instrumentação cirúrgica": 1,
+ "principal|Medicina": 12,
+ "principal|Nutrição": 7,
+ "principal|Odontologia e saúde bucal": 4
+}
+universos: Counter({'apoio_ou_outra': 3712, 'principal': 1144, 'nao_classificado': 184, 'multiprofissional': 26})

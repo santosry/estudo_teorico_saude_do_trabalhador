@@ -1,0 +1,1207 @@
+nivel_territorial_codigo,nivel_territorial,unidade_de_medida_codigo,unidade_de_medida,valor,municipio_codigo,municipio,ano_codigo,ano,variavel_codigo,variavel,sexo_codigo,sexo,idade_codigo,idade,forma_de_declaracao_da_idade_codigo,forma_de_declaracao_da_idade
+6,Município,45,Pessoas,483540,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,100362,Total,113635,Total
+6,Município,45,Pessoas,333304,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,100362,Total,6555,Data de nascimento
+6,Município,45,Pessoas,150236,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,100362,Total,6556,Idade presumida
+6,Município,45,Pessoas,30196,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93070,0 a 4 anos,113635,Total
+6,Município,45,Pessoas,21508,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93070,0 a 4 anos,6555,Data de nascimento
+6,Município,45,Pessoas,8688,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93070,0 a 4 anos,6556,Idade presumida
+6,Município,45,Pessoas,5560,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6557,Menos de 1 ano,113635,Total
+6,Município,45,Pessoas,4203,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6557,Menos de 1 ano,6555,Data de nascimento
+6,Município,45,Pessoas,1357,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6557,Menos de 1 ano,6556,Idade presumida
+6,Município,45,Pessoas,405,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93071,Menos de 1 mês,113635,Total
+6,Município,45,Pessoas,373,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93071,Menos de 1 mês,6555,Data de nascimento
+6,Município,45,Pessoas,32,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93071,Menos de 1 mês,6556,Idade presumida
+6,Município,45,Pessoas,433,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93072,1 mês,113635,Total
+6,Município,45,Pessoas,319,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93072,1 mês,6555,Data de nascimento
+6,Município,45,Pessoas,114,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93072,1 mês,6556,Idade presumida
+6,Município,45,Pessoas,452,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93073,2 meses,113635,Total
+6,Município,45,Pessoas,335,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93073,2 meses,6555,Data de nascimento
+6,Município,45,Pessoas,117,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93073,2 meses,6556,Idade presumida
+6,Município,45,Pessoas,481,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93074,3 meses,113635,Total
+6,Município,45,Pessoas,356,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93074,3 meses,6555,Data de nascimento
+6,Município,45,Pessoas,125,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93074,3 meses,6556,Idade presumida
+6,Município,45,Pessoas,466,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93075,4 meses,113635,Total
+6,Município,45,Pessoas,351,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93075,4 meses,6555,Data de nascimento
+6,Município,45,Pessoas,115,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93075,4 meses,6556,Idade presumida
+6,Município,45,Pessoas,458,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93076,5 meses,113635,Total
+6,Município,45,Pessoas,327,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93076,5 meses,6555,Data de nascimento
+6,Município,45,Pessoas,131,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93076,5 meses,6556,Idade presumida
+6,Município,45,Pessoas,484,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93077,6 meses,113635,Total
+6,Município,45,Pessoas,335,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93077,6 meses,6555,Data de nascimento
+6,Município,45,Pessoas,149,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93077,6 meses,6556,Idade presumida
+6,Município,45,Pessoas,496,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93078,7 meses,113635,Total
+6,Município,45,Pessoas,374,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93078,7 meses,6555,Data de nascimento
+6,Município,45,Pessoas,122,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93078,7 meses,6556,Idade presumida
+6,Município,45,Pessoas,499,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93079,8 meses,113635,Total
+6,Município,45,Pessoas,357,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93079,8 meses,6555,Data de nascimento
+6,Município,45,Pessoas,142,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93079,8 meses,6556,Idade presumida
+6,Município,45,Pessoas,495,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93080,9 meses,113635,Total
+6,Município,45,Pessoas,366,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93080,9 meses,6555,Data de nascimento
+6,Município,45,Pessoas,129,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93080,9 meses,6556,Idade presumida
+6,Município,45,Pessoas,436,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93081,10 meses,113635,Total
+6,Município,45,Pessoas,349,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93081,10 meses,6555,Data de nascimento
+6,Município,45,Pessoas,87,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93081,10 meses,6556,Idade presumida
+6,Município,45,Pessoas,455,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93082,11 meses,113635,Total
+6,Município,45,Pessoas,361,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93082,11 meses,6555,Data de nascimento
+6,Município,45,Pessoas,94,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93082,11 meses,6556,Idade presumida
+6,Município,45,Pessoas,5474,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6558,1 ano,113635,Total
+6,Município,45,Pessoas,4130,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6558,1 ano,6555,Data de nascimento
+6,Município,45,Pessoas,1344,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6558,1 ano,6556,Idade presumida
+6,Município,45,Pessoas,6093,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6559,2 anos,113635,Total
+6,Município,45,Pessoas,4311,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6559,2 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1782,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6559,2 anos,6556,Idade presumida
+6,Município,45,Pessoas,6496,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6560,3 anos,113635,Total
+6,Município,45,Pessoas,4406,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6560,3 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2090,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6560,3 anos,6556,Idade presumida
+6,Município,45,Pessoas,6573,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6561,4 anos,113635,Total
+6,Município,45,Pessoas,4458,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6561,4 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2115,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6561,4 anos,6556,Idade presumida
+6,Município,45,Pessoas,33762,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93084,5 a 9 anos,113635,Total
+6,Município,45,Pessoas,21996,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93084,5 a 9 anos,6555,Data de nascimento
+6,Município,45,Pessoas,11766,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93084,5 a 9 anos,6556,Idade presumida
+6,Município,45,Pessoas,6512,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6562,5 anos,113635,Total
+6,Município,45,Pessoas,4239,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6562,5 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2273,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6562,5 anos,6556,Idade presumida
+6,Município,45,Pessoas,6809,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6563,6 anos,113635,Total
+6,Município,45,Pessoas,4554,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6563,6 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2255,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6563,6 anos,6556,Idade presumida
+6,Município,45,Pessoas,7079,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6564,7 anos,113635,Total
+6,Município,45,Pessoas,4675,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6564,7 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2404,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6564,7 anos,6556,Idade presumida
+6,Município,45,Pessoas,6782,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6565,8 anos,113635,Total
+6,Município,45,Pessoas,4412,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6565,8 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2370,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6565,8 anos,6556,Idade presumida
+6,Município,45,Pessoas,6580,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6566,9 anos,113635,Total
+6,Município,45,Pessoas,4116,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6566,9 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2464,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6566,9 anos,6556,Idade presumida
+6,Município,45,Pessoas,31149,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93085,10 a 14 anos,113635,Total
+6,Município,45,Pessoas,20586,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93085,10 a 14 anos,6555,Data de nascimento
+6,Município,45,Pessoas,10563,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93085,10 a 14 anos,6556,Idade presumida
+6,Município,45,Pessoas,6234,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6567,10 anos,113635,Total
+6,Município,45,Pessoas,4102,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6567,10 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2132,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6567,10 anos,6556,Idade presumida
+6,Município,45,Pessoas,6218,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6568,11 anos,113635,Total
+6,Município,45,Pessoas,4229,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6568,11 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1989,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6568,11 anos,6556,Idade presumida
+6,Município,45,Pessoas,6396,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6569,12 anos,113635,Total
+6,Município,45,Pessoas,4198,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6569,12 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2198,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6569,12 anos,6556,Idade presumida
+6,Município,45,Pessoas,6128,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6570,13 anos,113635,Total
+6,Município,45,Pessoas,4016,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6570,13 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2112,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6570,13 anos,6556,Idade presumida
+6,Município,45,Pessoas,6173,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6571,14 anos,113635,Total
+6,Município,45,Pessoas,4041,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6571,14 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2132,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6571,14 anos,6556,Idade presumida
+6,Município,45,Pessoas,33327,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93086,15 a 19 anos,113635,Total
+6,Município,45,Pessoas,21725,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93086,15 a 19 anos,6555,Data de nascimento
+6,Município,45,Pessoas,11602,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93086,15 a 19 anos,6556,Idade presumida
+6,Município,45,Pessoas,6372,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6572,15 anos,113635,Total
+6,Município,45,Pessoas,4028,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6572,15 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2344,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6572,15 anos,6556,Idade presumida
+6,Município,45,Pessoas,6649,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6573,16 anos,113635,Total
+6,Município,45,Pessoas,4291,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6573,16 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2358,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6573,16 anos,6556,Idade presumida
+6,Município,45,Pessoas,6802,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6574,17 anos,113635,Total
+6,Município,45,Pessoas,4481,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6574,17 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2321,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6574,17 anos,6556,Idade presumida
+6,Município,45,Pessoas,6909,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6575,18 anos,113635,Total
+6,Município,45,Pessoas,4444,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6575,18 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2465,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6575,18 anos,6556,Idade presumida
+6,Município,45,Pessoas,6595,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6576,19 anos,113635,Total
+6,Município,45,Pessoas,4481,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6576,19 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2114,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6576,19 anos,6556,Idade presumida
+6,Município,45,Pessoas,36775,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93087,20 a 24 anos,113635,Total
+6,Município,45,Pessoas,25067,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93087,20 a 24 anos,6555,Data de nascimento
+6,Município,45,Pessoas,11708,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93087,20 a 24 anos,6556,Idade presumida
+6,Município,45,Pessoas,7117,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6577,20 anos,113635,Total
+6,Município,45,Pessoas,4650,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6577,20 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2467,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6577,20 anos,6556,Idade presumida
+6,Município,45,Pessoas,6954,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6578,21 anos,113635,Total
+6,Município,45,Pessoas,4959,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6578,21 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1995,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6578,21 anos,6556,Idade presumida
+6,Município,45,Pessoas,7838,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6579,22 anos,113635,Total
+6,Município,45,Pessoas,5307,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6579,22 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2531,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6579,22 anos,6556,Idade presumida
+6,Município,45,Pessoas,7600,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6580,23 anos,113635,Total
+6,Município,45,Pessoas,5149,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6580,23 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2451,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6580,23 anos,6556,Idade presumida
+6,Município,45,Pessoas,7266,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6581,24 anos,113635,Total
+6,Município,45,Pessoas,5002,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6581,24 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2264,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6581,24 anos,6556,Idade presumida
+6,Município,45,Pessoas,35918,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93088,25 a 29 anos,113635,Total
+6,Município,45,Pessoas,24667,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93088,25 a 29 anos,6555,Data de nascimento
+6,Município,45,Pessoas,11251,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93088,25 a 29 anos,6556,Idade presumida
+6,Município,45,Pessoas,7520,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6582,25 anos,113635,Total
+6,Município,45,Pessoas,4880,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6582,25 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2640,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6582,25 anos,6556,Idade presumida
+6,Município,45,Pessoas,7023,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6656,26 anos,113635,Total
+6,Município,45,Pessoas,4908,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6656,26 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2115,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6656,26 anos,6556,Idade presumida
+6,Município,45,Pessoas,7241,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6657,27 anos,113635,Total
+6,Município,45,Pessoas,5187,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6657,27 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2054,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6657,27 anos,6556,Idade presumida
+6,Município,45,Pessoas,7390,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6658,28 anos,113635,Total
+6,Município,45,Pessoas,4956,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6658,28 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2434,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6658,28 anos,6556,Idade presumida
+6,Município,45,Pessoas,6744,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6659,29 anos,113635,Total
+6,Município,45,Pessoas,4736,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6659,29 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2008,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6659,29 anos,6556,Idade presumida
+6,Município,45,Pessoas,35982,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93089,30 a 34 anos,113635,Total
+6,Município,45,Pessoas,24892,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93089,30 a 34 anos,6555,Data de nascimento
+6,Município,45,Pessoas,11090,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93089,30 a 34 anos,6556,Idade presumida
+6,Município,45,Pessoas,7778,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6583,30 anos,113635,Total
+6,Município,45,Pessoas,4779,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6583,30 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2999,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6583,30 anos,6556,Idade presumida
+6,Município,45,Pessoas,6543,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6584,31 anos,113635,Total
+6,Município,45,Pessoas,4924,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6584,31 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1619,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6584,31 anos,6556,Idade presumida
+6,Município,45,Pessoas,7515,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6585,32 anos,113635,Total
+6,Município,45,Pessoas,5068,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6585,32 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2447,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6585,32 anos,6556,Idade presumida
+6,Município,45,Pessoas,7189,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6586,33 anos,113635,Total
+6,Município,45,Pessoas,5069,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6586,33 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2120,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6586,33 anos,6556,Idade presumida
+6,Município,45,Pessoas,6957,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6587,34 anos,113635,Total
+6,Município,45,Pessoas,5052,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6587,34 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1905,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6587,34 anos,6556,Idade presumida
+6,Município,45,Pessoas,36427,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93090,35 a 39 anos,113635,Total
+6,Município,45,Pessoas,24910,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93090,35 a 39 anos,6555,Data de nascimento
+6,Município,45,Pessoas,11517,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93090,35 a 39 anos,6556,Idade presumida
+6,Município,45,Pessoas,7596,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6588,35 anos,113635,Total
+6,Município,45,Pessoas,4747,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6588,35 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2849,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6588,35 anos,6556,Idade presumida
+6,Município,45,Pessoas,7170,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6589,36 anos,113635,Total
+6,Município,45,Pessoas,5117,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6589,36 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2053,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6589,36 anos,6556,Idade presumida
+6,Município,45,Pessoas,6759,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6590,37 anos,113635,Total
+6,Município,45,Pessoas,4866,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6590,37 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1893,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6590,37 anos,6556,Idade presumida
+6,Município,45,Pessoas,7542,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6591,38 anos,113635,Total
+6,Município,45,Pessoas,4926,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6591,38 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2616,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6591,38 anos,6556,Idade presumida
+6,Município,45,Pessoas,7360,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6592,39 anos,113635,Total
+6,Município,45,Pessoas,5254,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6592,39 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2106,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6592,39 anos,6556,Idade presumida
+6,Município,45,Pessoas,37270,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93091,40 a 44 anos,113635,Total
+6,Município,45,Pessoas,25891,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93091,40 a 44 anos,6555,Data de nascimento
+6,Município,45,Pessoas,11379,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93091,40 a 44 anos,6556,Idade presumida
+6,Município,45,Pessoas,8815,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6593,40 anos,113635,Total
+6,Município,45,Pessoas,5403,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6593,40 anos,6555,Data de nascimento
+6,Município,45,Pessoas,3412,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6593,40 anos,6556,Idade presumida
+6,Município,45,Pessoas,7142,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6594,41 anos,113635,Total
+6,Município,45,Pessoas,5427,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6594,41 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1715,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6594,41 anos,6556,Idade presumida
+6,Município,45,Pessoas,8132,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6595,42 anos,113635,Total
+6,Município,45,Pessoas,5452,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6595,42 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2680,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6595,42 anos,6556,Idade presumida
+6,Município,45,Pessoas,6887,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6596,43 anos,113635,Total
+6,Município,45,Pessoas,4872,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6596,43 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2015,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6596,43 anos,6556,Idade presumida
+6,Município,45,Pessoas,6294,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6597,44 anos,113635,Total
+6,Município,45,Pessoas,4737,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6597,44 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1557,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6597,44 anos,6556,Idade presumida
+6,Município,45,Pessoas,31253,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93092,45 a 49 anos,113635,Total
+6,Município,45,Pessoas,21804,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93092,45 a 49 anos,6555,Data de nascimento
+6,Município,45,Pessoas,9449,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93092,45 a 49 anos,6556,Idade presumida
+6,Município,45,Pessoas,7369,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6598,45 anos,113635,Total
+6,Município,45,Pessoas,4660,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6598,45 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2709,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6598,45 anos,6556,Idade presumida
+6,Município,45,Pessoas,6372,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6599,46 anos,113635,Total
+6,Município,45,Pessoas,4707,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6599,46 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1665,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6599,46 anos,6556,Idade presumida
+6,Município,45,Pessoas,5950,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6600,47 anos,113635,Total
+6,Município,45,Pessoas,4337,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6600,47 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1613,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6600,47 anos,6556,Idade presumida
+6,Município,45,Pessoas,5893,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6601,48 anos,113635,Total
+6,Município,45,Pessoas,3990,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6601,48 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1903,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6601,48 anos,6556,Idade presumida
+6,Município,45,Pessoas,5669,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6602,49 anos,113635,Total
+6,Município,45,Pessoas,4110,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6602,49 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1559,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6602,49 anos,6556,Idade presumida
+6,Município,45,Pessoas,29802,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93093,50 a 54 anos,113635,Total
+6,Município,45,Pessoas,20331,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93093,50 a 54 anos,6555,Data de nascimento
+6,Município,45,Pessoas,9471,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93093,50 a 54 anos,6556,Idade presumida
+6,Município,45,Pessoas,6680,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6603,50 anos,113635,Total
+6,Município,45,Pessoas,3906,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6603,50 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2774,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6603,50 anos,6556,Idade presumida
+6,Município,45,Pessoas,5567,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6604,51 anos,113635,Total
+6,Município,45,Pessoas,4158,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6604,51 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1409,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6604,51 anos,6556,Idade presumida
+6,Município,45,Pessoas,6176,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6605,52 anos,113635,Total
+6,Município,45,Pessoas,4194,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6605,52 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1982,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6605,52 anos,6556,Idade presumida
+6,Município,45,Pessoas,5674,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6606,53 anos,113635,Total
+6,Município,45,Pessoas,4026,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6606,53 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1648,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6606,53 anos,6556,Idade presumida
+6,Município,45,Pessoas,5705,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6607,54 anos,113635,Total
+6,Município,45,Pessoas,4047,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6607,54 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1658,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6607,54 anos,6556,Idade presumida
+6,Município,45,Pessoas,29113,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93094,55 a 59 anos,113635,Total
+6,Município,45,Pessoas,21069,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93094,55 a 59 anos,6555,Data de nascimento
+6,Município,45,Pessoas,8044,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93094,55 a 59 anos,6556,Idade presumida
+6,Município,45,Pessoas,5938,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6608,55 anos,113635,Total
+6,Município,45,Pessoas,3897,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6608,55 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2041,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6608,55 anos,6556,Idade presumida
+6,Município,45,Pessoas,5900,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6609,56 anos,113635,Total
+6,Município,45,Pessoas,4257,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6609,56 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1643,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6609,56 anos,6556,Idade presumida
+6,Município,45,Pessoas,5784,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6610,57 anos,113635,Total
+6,Município,45,Pessoas,4436,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6610,57 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1348,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6610,57 anos,6556,Idade presumida
+6,Município,45,Pessoas,5947,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6611,58 anos,113635,Total
+6,Município,45,Pessoas,4249,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6611,58 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1698,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6611,58 anos,6556,Idade presumida
+6,Município,45,Pessoas,5544,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6612,59 anos,113635,Total
+6,Município,45,Pessoas,4230,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6612,59 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1314,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6612,59 anos,6556,Idade presumida
+6,Município,45,Pessoas,26425,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93095,60 a 64 anos,113635,Total
+6,Município,45,Pessoas,19032,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93095,60 a 64 anos,6555,Data de nascimento
+6,Município,45,Pessoas,7393,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93095,60 a 64 anos,6556,Idade presumida
+6,Município,45,Pessoas,6254,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6613,60 anos,113635,Total
+6,Município,45,Pessoas,4007,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6613,60 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2247,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6613,60 anos,6556,Idade presumida
+6,Município,45,Pessoas,5018,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6614,61 anos,113635,Total
+6,Município,45,Pessoas,3910,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6614,61 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1108,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6614,61 anos,6556,Idade presumida
+6,Município,45,Pessoas,5579,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6615,62 anos,113635,Total
+6,Município,45,Pessoas,3946,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6615,62 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1633,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6615,62 anos,6556,Idade presumida
+6,Município,45,Pessoas,4985,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6616,63 anos,113635,Total
+6,Município,45,Pessoas,3671,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6616,63 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1314,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6616,63 anos,6556,Idade presumida
+6,Município,45,Pessoas,4589,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6617,64 anos,113635,Total
+6,Município,45,Pessoas,3498,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6617,64 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1091,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6617,64 anos,6556,Idade presumida
+6,Município,45,Pessoas,20127,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93096,65 a 69 anos,113635,Total
+6,Município,45,Pessoas,14680,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93096,65 a 69 anos,6555,Data de nascimento
+6,Município,45,Pessoas,5447,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93096,65 a 69 anos,6556,Idade presumida
+6,Município,45,Pessoas,4952,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6618,65 anos,113635,Total
+6,Município,45,Pessoas,3245,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6618,65 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1707,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6618,65 anos,6556,Idade presumida
+6,Município,45,Pessoas,3989,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6619,66 anos,113635,Total
+6,Município,45,Pessoas,3036,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6619,66 anos,6555,Data de nascimento
+6,Município,45,Pessoas,953,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6619,66 anos,6556,Idade presumida
+6,Município,45,Pessoas,3925,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6620,67 anos,113635,Total
+6,Município,45,Pessoas,2975,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6620,67 anos,6555,Data de nascimento
+6,Município,45,Pessoas,950,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6620,67 anos,6556,Idade presumida
+6,Município,45,Pessoas,3911,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6621,68 anos,113635,Total
+6,Município,45,Pessoas,2827,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6621,68 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1084,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6621,68 anos,6556,Idade presumida
+6,Município,45,Pessoas,3350,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6622,69 anos,113635,Total
+6,Município,45,Pessoas,2597,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6622,69 anos,6555,Data de nascimento
+6,Município,45,Pessoas,753,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6622,69 anos,6556,Idade presumida
+6,Município,45,Pessoas,15215,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93097,70 a 74 anos,113635,Total
+6,Município,45,Pessoas,11068,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93097,70 a 74 anos,6555,Data de nascimento
+6,Município,45,Pessoas,4147,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93097,70 a 74 anos,6556,Idade presumida
+6,Município,45,Pessoas,3971,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6623,70 anos,113635,Total
+6,Município,45,Pessoas,2682,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6623,70 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1289,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6623,70 anos,6556,Idade presumida
+6,Município,45,Pessoas,2994,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6624,71 anos,113635,Total
+6,Município,45,Pessoas,2386,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6624,71 anos,6555,Data de nascimento
+6,Município,45,Pessoas,608,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6624,71 anos,6556,Idade presumida
+6,Município,45,Pessoas,3015,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6625,72 anos,113635,Total
+6,Município,45,Pessoas,2143,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6625,72 anos,6555,Data de nascimento
+6,Município,45,Pessoas,872,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6625,72 anos,6556,Idade presumida
+6,Município,45,Pessoas,2671,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6626,73 anos,113635,Total
+6,Município,45,Pessoas,1952,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6626,73 anos,6555,Data de nascimento
+6,Município,45,Pessoas,719,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6626,73 anos,6556,Idade presumida
+6,Município,45,Pessoas,2564,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6627,74 anos,113635,Total
+6,Município,45,Pessoas,1905,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6627,74 anos,6555,Data de nascimento
+6,Município,45,Pessoas,659,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6627,74 anos,6556,Idade presumida
+6,Município,45,Pessoas,9386,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93098,75 a 79 anos,113635,Total
+6,Município,45,Pessoas,6728,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93098,75 a 79 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2658,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,93098,75 a 79 anos,6556,Idade presumida
+6,Município,45,Pessoas,2317,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6628,75 anos,113635,Total
+6,Município,45,Pessoas,1632,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6628,75 anos,6555,Data de nascimento
+6,Município,45,Pessoas,685,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6628,75 anos,6556,Idade presumida
+6,Município,45,Pessoas,2102,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6629,76 anos,113635,Total
+6,Município,45,Pessoas,1497,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6629,76 anos,6555,Data de nascimento
+6,Município,45,Pessoas,605,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6629,76 anos,6556,Idade presumida
+6,Município,45,Pessoas,1676,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6630,77 anos,113635,Total
+6,Município,45,Pessoas,1251,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6630,77 anos,6555,Data de nascimento
+6,Município,45,Pessoas,425,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6630,77 anos,6556,Idade presumida
+6,Município,45,Pessoas,1768,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6631,78 anos,113635,Total
+6,Município,45,Pessoas,1234,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6631,78 anos,6555,Data de nascimento
+6,Município,45,Pessoas,534,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6631,78 anos,6556,Idade presumida
+6,Município,45,Pessoas,1523,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6632,79 anos,113635,Total
+6,Município,45,Pessoas,1114,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6632,79 anos,6555,Data de nascimento
+6,Município,45,Pessoas,409,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6632,79 anos,6556,Idade presumida
+6,Município,45,Pessoas,6334,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,49108,80 a 84 anos,113635,Total
+6,Município,45,Pessoas,4208,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,49108,80 a 84 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2126,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,49108,80 a 84 anos,6556,Idade presumida
+6,Município,45,Pessoas,1630,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6633,80 anos,113635,Total
+6,Município,45,Pessoas,1000,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6633,80 anos,6555,Data de nascimento
+6,Município,45,Pessoas,630,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6633,80 anos,6556,Idade presumida
+6,Município,45,Pessoas,1264,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6634,81 anos,113635,Total
+6,Município,45,Pessoas,978,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6634,81 anos,6555,Data de nascimento
+6,Município,45,Pessoas,286,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6634,81 anos,6556,Idade presumida
+6,Município,45,Pessoas,1257,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6635,82 anos,113635,Total
+6,Município,45,Pessoas,828,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6635,82 anos,6555,Data de nascimento
+6,Município,45,Pessoas,429,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6635,82 anos,6556,Idade presumida
+6,Município,45,Pessoas,1171,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6636,83 anos,113635,Total
+6,Município,45,Pessoas,779,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6636,83 anos,6555,Data de nascimento
+6,Município,45,Pessoas,392,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6636,83 anos,6556,Idade presumida
+6,Município,45,Pessoas,1012,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6637,84 anos,113635,Total
+6,Município,45,Pessoas,623,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6637,84 anos,6555,Data de nascimento
+6,Município,45,Pessoas,389,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6637,84 anos,6556,Idade presumida
+6,Município,45,Pessoas,3167,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,49109,85 a 89 anos,113635,Total
+6,Município,45,Pessoas,1961,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,49109,85 a 89 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1206,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,49109,85 a 89 anos,6556,Idade presumida
+6,Município,45,Pessoas,849,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6638,85 anos,113635,Total
+6,Município,45,Pessoas,522,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6638,85 anos,6555,Data de nascimento
+6,Município,45,Pessoas,327,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6638,85 anos,6556,Idade presumida
+6,Município,45,Pessoas,772,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6639,86 anos,113635,Total
+6,Município,45,Pessoas,478,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6639,86 anos,6555,Data de nascimento
+6,Município,45,Pessoas,294,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6639,86 anos,6556,Idade presumida
+6,Município,45,Pessoas,611,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6640,87 anos,113635,Total
+6,Município,45,Pessoas,384,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6640,87 anos,6555,Data de nascimento
+6,Município,45,Pessoas,227,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6640,87 anos,6556,Idade presumida
+6,Município,45,Pessoas,485,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6641,88 anos,113635,Total
+6,Município,45,Pessoas,288,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6641,88 anos,6555,Data de nascimento
+6,Município,45,Pessoas,197,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6641,88 anos,6556,Idade presumida
+6,Município,45,Pessoas,450,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6642,89 anos,113635,Total
+6,Município,45,Pessoas,289,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6642,89 anos,6555,Data de nascimento
+6,Município,45,Pessoas,161,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6642,89 anos,6556,Idade presumida
+6,Município,45,Pessoas,1469,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,60040,90 a 94 anos,113635,Total
+6,Município,45,Pessoas,923,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,60040,90 a 94 anos,6555,Data de nascimento
+6,Município,45,Pessoas,546,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,60040,90 a 94 anos,6556,Idade presumida
+6,Município,45,Pessoas,449,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6643,90 anos,113635,Total
+6,Município,45,Pessoas,268,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6643,90 anos,6555,Data de nascimento
+6,Município,45,Pessoas,181,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6643,90 anos,6556,Idade presumida
+6,Município,45,Pessoas,304,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6644,91 anos,113635,Total
+6,Município,45,Pessoas,217,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6644,91 anos,6555,Data de nascimento
+6,Município,45,Pessoas,87,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6644,91 anos,6556,Idade presumida
+6,Município,45,Pessoas,339,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6645,92 anos,113635,Total
+6,Município,45,Pessoas,211,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6645,92 anos,6555,Data de nascimento
+6,Município,45,Pessoas,128,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6645,92 anos,6556,Idade presumida
+6,Município,45,Pessoas,221,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6646,93 anos,113635,Total
+6,Município,45,Pessoas,131,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6646,93 anos,6555,Data de nascimento
+6,Município,45,Pessoas,90,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6646,93 anos,6556,Idade presumida
+6,Município,45,Pessoas,156,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6647,94 anos,113635,Total
+6,Município,45,Pessoas,96,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6647,94 anos,6555,Data de nascimento
+6,Município,45,Pessoas,60,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6647,94 anos,6556,Idade presumida
+6,Município,45,Pessoas,374,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,60041,95 a 99 anos,113635,Total
+6,Município,45,Pessoas,217,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,60041,95 a 99 anos,6555,Data de nascimento
+6,Município,45,Pessoas,157,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,60041,95 a 99 anos,6556,Idade presumida
+6,Município,45,Pessoas,112,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6648,95 anos,113635,Total
+6,Município,45,Pessoas,70,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6648,95 anos,6555,Data de nascimento
+6,Município,45,Pessoas,42,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6648,95 anos,6556,Idade presumida
+6,Município,45,Pessoas,104,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6649,96 anos,113635,Total
+6,Município,45,Pessoas,58,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6649,96 anos,6555,Data de nascimento
+6,Município,45,Pessoas,46,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6649,96 anos,6556,Idade presumida
+6,Município,45,Pessoas,74,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6650,97 anos,113635,Total
+6,Município,45,Pessoas,41,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6650,97 anos,6555,Data de nascimento
+6,Município,45,Pessoas,33,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6650,97 anos,6556,Idade presumida
+6,Município,45,Pessoas,48,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6651,98 anos,113635,Total
+6,Município,45,Pessoas,25,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6651,98 anos,6555,Data de nascimento
+6,Município,45,Pessoas,23,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6651,98 anos,6556,Idade presumida
+6,Município,45,Pessoas,36,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6652,99 anos,113635,Total
+6,Município,45,Pessoas,23,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6652,99 anos,6555,Data de nascimento
+6,Município,45,Pessoas,13,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6652,99 anos,6556,Idade presumida
+6,Município,45,Pessoas,69,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6653,100 anos ou mais,113635,Total
+6,Município,45,Pessoas,41,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6653,100 anos ou mais,6555,Data de nascimento
+6,Município,45,Pessoas,28,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,6794,Total,6653,100 anos ou mais,6556,Idade presumida
+6,Município,45,Pessoas,230456,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,100362,Total,113635,Total
+6,Município,45,Pessoas,156146,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,100362,Total,6555,Data de nascimento
+6,Município,45,Pessoas,74310,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,100362,Total,6556,Idade presumida
+6,Município,45,Pessoas,15231,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93070,0 a 4 anos,113635,Total
+6,Município,45,Pessoas,10944,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93070,0 a 4 anos,6555,Data de nascimento
+6,Município,45,Pessoas,4287,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93070,0 a 4 anos,6556,Idade presumida
+6,Município,45,Pessoas,2780,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6557,Menos de 1 ano,113635,Total
+6,Município,45,Pessoas,2100,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6557,Menos de 1 ano,6555,Data de nascimento
+6,Município,45,Pessoas,680,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6557,Menos de 1 ano,6556,Idade presumida
+6,Município,45,Pessoas,204,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93071,Menos de 1 mês,113635,Total
+6,Município,45,Pessoas,190,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93071,Menos de 1 mês,6555,Data de nascimento
+6,Município,45,Pessoas,14,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93071,Menos de 1 mês,6556,Idade presumida
+6,Município,45,Pessoas,224,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93072,1 mês,113635,Total
+6,Município,45,Pessoas,167,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93072,1 mês,6555,Data de nascimento
+6,Município,45,Pessoas,57,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93072,1 mês,6556,Idade presumida
+6,Município,45,Pessoas,215,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93073,2 meses,113635,Total
+6,Município,45,Pessoas,155,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93073,2 meses,6555,Data de nascimento
+6,Município,45,Pessoas,60,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93073,2 meses,6556,Idade presumida
+6,Município,45,Pessoas,233,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93074,3 meses,113635,Total
+6,Município,45,Pessoas,178,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93074,3 meses,6555,Data de nascimento
+6,Município,45,Pessoas,55,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93074,3 meses,6556,Idade presumida
+6,Município,45,Pessoas,231,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93075,4 meses,113635,Total
+6,Município,45,Pessoas,167,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93075,4 meses,6555,Data de nascimento
+6,Município,45,Pessoas,64,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93075,4 meses,6556,Idade presumida
+6,Município,45,Pessoas,215,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93076,5 meses,113635,Total
+6,Município,45,Pessoas,152,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93076,5 meses,6555,Data de nascimento
+6,Município,45,Pessoas,63,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93076,5 meses,6556,Idade presumida
+6,Município,45,Pessoas,257,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93077,6 meses,113635,Total
+6,Município,45,Pessoas,182,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93077,6 meses,6555,Data de nascimento
+6,Município,45,Pessoas,75,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93077,6 meses,6556,Idade presumida
+6,Município,45,Pessoas,233,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93078,7 meses,113635,Total
+6,Município,45,Pessoas,173,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93078,7 meses,6555,Data de nascimento
+6,Município,45,Pessoas,60,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93078,7 meses,6556,Idade presumida
+6,Município,45,Pessoas,245,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93079,8 meses,113635,Total
+6,Município,45,Pessoas,174,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93079,8 meses,6555,Data de nascimento
+6,Município,45,Pessoas,71,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93079,8 meses,6556,Idade presumida
+6,Município,45,Pessoas,253,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93080,9 meses,113635,Total
+6,Município,45,Pessoas,188,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93080,9 meses,6555,Data de nascimento
+6,Município,45,Pessoas,65,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93080,9 meses,6556,Idade presumida
+6,Município,45,Pessoas,227,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93081,10 meses,113635,Total
+6,Município,45,Pessoas,179,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93081,10 meses,6555,Data de nascimento
+6,Município,45,Pessoas,48,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93081,10 meses,6556,Idade presumida
+6,Município,45,Pessoas,243,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93082,11 meses,113635,Total
+6,Município,45,Pessoas,195,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93082,11 meses,6555,Data de nascimento
+6,Município,45,Pessoas,48,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93082,11 meses,6556,Idade presumida
+6,Município,45,Pessoas,2750,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6558,1 ano,113635,Total
+6,Município,45,Pessoas,2084,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6558,1 ano,6555,Data de nascimento
+6,Município,45,Pessoas,666,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6558,1 ano,6556,Idade presumida
+6,Município,45,Pessoas,3092,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6559,2 anos,113635,Total
+6,Município,45,Pessoas,2208,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6559,2 anos,6555,Data de nascimento
+6,Município,45,Pessoas,884,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6559,2 anos,6556,Idade presumida
+6,Município,45,Pessoas,3272,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6560,3 anos,113635,Total
+6,Município,45,Pessoas,2271,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6560,3 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1001,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6560,3 anos,6556,Idade presumida
+6,Município,45,Pessoas,3337,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6561,4 anos,113635,Total
+6,Município,45,Pessoas,2281,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6561,4 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1056,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6561,4 anos,6556,Idade presumida
+6,Município,45,Pessoas,17209,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93084,5 a 9 anos,113635,Total
+6,Município,45,Pessoas,11104,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93084,5 a 9 anos,6555,Data de nascimento
+6,Município,45,Pessoas,6105,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93084,5 a 9 anos,6556,Idade presumida
+6,Município,45,Pessoas,3349,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6562,5 anos,113635,Total
+6,Município,45,Pessoas,2186,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6562,5 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1163,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6562,5 anos,6556,Idade presumida
+6,Município,45,Pessoas,3465,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6563,6 anos,113635,Total
+6,Município,45,Pessoas,2281,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6563,6 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1184,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6563,6 anos,6556,Idade presumida
+6,Município,45,Pessoas,3581,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6564,7 anos,113635,Total
+6,Município,45,Pessoas,2329,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6564,7 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1252,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6564,7 anos,6556,Idade presumida
+6,Município,45,Pessoas,3423,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6565,8 anos,113635,Total
+6,Município,45,Pessoas,2195,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6565,8 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1228,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6565,8 anos,6556,Idade presumida
+6,Município,45,Pessoas,3391,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6566,9 anos,113635,Total
+6,Município,45,Pessoas,2113,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6566,9 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1278,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6566,9 anos,6556,Idade presumida
+6,Município,45,Pessoas,16079,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93085,10 a 14 anos,113635,Total
+6,Município,45,Pessoas,10439,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93085,10 a 14 anos,6555,Data de nascimento
+6,Município,45,Pessoas,5640,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93085,10 a 14 anos,6556,Idade presumida
+6,Município,45,Pessoas,3212,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6567,10 anos,113635,Total
+6,Município,45,Pessoas,2086,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6567,10 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1126,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6567,10 anos,6556,Idade presumida
+6,Município,45,Pessoas,3204,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6568,11 anos,113635,Total
+6,Município,45,Pessoas,2137,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6568,11 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1067,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6568,11 anos,6556,Idade presumida
+6,Município,45,Pessoas,3310,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6569,12 anos,113635,Total
+6,Município,45,Pessoas,2140,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6569,12 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1170,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6569,12 anos,6556,Idade presumida
+6,Município,45,Pessoas,3196,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6570,13 anos,113635,Total
+6,Município,45,Pessoas,2067,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6570,13 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1129,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6570,13 anos,6556,Idade presumida
+6,Município,45,Pessoas,3157,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6571,14 anos,113635,Total
+6,Município,45,Pessoas,2009,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6571,14 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1148,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6571,14 anos,6556,Idade presumida
+6,Município,45,Pessoas,16918,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93086,15 a 19 anos,113635,Total
+6,Município,45,Pessoas,10782,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93086,15 a 19 anos,6555,Data de nascimento
+6,Município,45,Pessoas,6136,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93086,15 a 19 anos,6556,Idade presumida
+6,Município,45,Pessoas,3167,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6572,15 anos,113635,Total
+6,Município,45,Pessoas,1961,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6572,15 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1206,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6572,15 anos,6556,Idade presumida
+6,Município,45,Pessoas,3373,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6573,16 anos,113635,Total
+6,Município,45,Pessoas,2125,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6573,16 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1248,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6573,16 anos,6556,Idade presumida
+6,Município,45,Pessoas,3477,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6574,17 anos,113635,Total
+6,Município,45,Pessoas,2235,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6574,17 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1242,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6574,17 anos,6556,Idade presumida
+6,Município,45,Pessoas,3525,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6575,18 anos,113635,Total
+6,Município,45,Pessoas,2217,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6575,18 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1308,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6575,18 anos,6556,Idade presumida
+6,Município,45,Pessoas,3376,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6576,19 anos,113635,Total
+6,Município,45,Pessoas,2244,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6576,19 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1132,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6576,19 anos,6556,Idade presumida
+6,Município,45,Pessoas,18128,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93087,20 a 24 anos,113635,Total
+6,Município,45,Pessoas,12169,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93087,20 a 24 anos,6555,Data de nascimento
+6,Município,45,Pessoas,5959,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93087,20 a 24 anos,6556,Idade presumida
+6,Município,45,Pessoas,3531,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6577,20 anos,113635,Total
+6,Município,45,Pessoas,2249,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6577,20 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1282,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6577,20 anos,6556,Idade presumida
+6,Município,45,Pessoas,3528,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6578,21 anos,113635,Total
+6,Município,45,Pessoas,2525,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6578,21 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1003,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6578,21 anos,6556,Idade presumida
+6,Município,45,Pessoas,3875,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6579,22 anos,113635,Total
+6,Município,45,Pessoas,2595,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6579,22 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1280,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6579,22 anos,6556,Idade presumida
+6,Município,45,Pessoas,3713,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6580,23 anos,113635,Total
+6,Município,45,Pessoas,2448,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6580,23 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1265,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6580,23 anos,6556,Idade presumida
+6,Município,45,Pessoas,3481,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6581,24 anos,113635,Total
+6,Município,45,Pessoas,2352,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6581,24 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1129,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6581,24 anos,6556,Idade presumida
+6,Município,45,Pessoas,17345,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93088,25 a 29 anos,113635,Total
+6,Município,45,Pessoas,11751,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93088,25 a 29 anos,6555,Data de nascimento
+6,Município,45,Pessoas,5594,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93088,25 a 29 anos,6556,Idade presumida
+6,Município,45,Pessoas,3561,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6582,25 anos,113635,Total
+6,Município,45,Pessoas,2278,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6582,25 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1283,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6582,25 anos,6556,Idade presumida
+6,Município,45,Pessoas,3456,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6656,26 anos,113635,Total
+6,Município,45,Pessoas,2365,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6656,26 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1091,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6656,26 anos,6556,Idade presumida
+6,Município,45,Pessoas,3458,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6657,27 anos,113635,Total
+6,Município,45,Pessoas,2444,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6657,27 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1014,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6657,27 anos,6556,Idade presumida
+6,Município,45,Pessoas,3572,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6658,28 anos,113635,Total
+6,Município,45,Pessoas,2373,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6658,28 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1199,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6658,28 anos,6556,Idade presumida
+6,Município,45,Pessoas,3298,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6659,29 anos,113635,Total
+6,Município,45,Pessoas,2291,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6659,29 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1007,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6659,29 anos,6556,Idade presumida
+6,Município,45,Pessoas,17097,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93089,30 a 34 anos,113635,Total
+6,Município,45,Pessoas,11646,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93089,30 a 34 anos,6555,Data de nascimento
+6,Município,45,Pessoas,5451,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93089,30 a 34 anos,6556,Idade presumida
+6,Município,45,Pessoas,3702,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6583,30 anos,113635,Total
+6,Município,45,Pessoas,2242,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6583,30 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1460,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6583,30 anos,6556,Idade presumida
+6,Município,45,Pessoas,3184,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6584,31 anos,113635,Total
+6,Município,45,Pessoas,2384,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6584,31 anos,6555,Data de nascimento
+6,Município,45,Pessoas,800,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6584,31 anos,6556,Idade presumida
+6,Município,45,Pessoas,3554,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6585,32 anos,113635,Total
+6,Município,45,Pessoas,2379,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6585,32 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1175,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6585,32 anos,6556,Idade presumida
+6,Município,45,Pessoas,3368,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6586,33 anos,113635,Total
+6,Município,45,Pessoas,2299,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6586,33 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1069,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6586,33 anos,6556,Idade presumida
+6,Município,45,Pessoas,3289,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6587,34 anos,113635,Total
+6,Município,45,Pessoas,2342,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6587,34 anos,6555,Data de nascimento
+6,Município,45,Pessoas,947,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6587,34 anos,6556,Idade presumida
+6,Município,45,Pessoas,17397,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93090,35 a 39 anos,113635,Total
+6,Município,45,Pessoas,11778,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93090,35 a 39 anos,6555,Data de nascimento
+6,Município,45,Pessoas,5619,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93090,35 a 39 anos,6556,Idade presumida
+6,Município,45,Pessoas,3645,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6588,35 anos,113635,Total
+6,Município,45,Pessoas,2224,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6588,35 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1421,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6588,35 anos,6556,Idade presumida
+6,Município,45,Pessoas,3473,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6589,36 anos,113635,Total
+6,Município,45,Pessoas,2464,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6589,36 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1009,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6589,36 anos,6556,Idade presumida
+6,Município,45,Pessoas,3185,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6590,37 anos,113635,Total
+6,Município,45,Pessoas,2278,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6590,37 anos,6555,Data de nascimento
+6,Município,45,Pessoas,907,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6590,37 anos,6556,Idade presumida
+6,Município,45,Pessoas,3574,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6591,38 anos,113635,Total
+6,Município,45,Pessoas,2301,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6591,38 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1273,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6591,38 anos,6556,Idade presumida
+6,Município,45,Pessoas,3520,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6592,39 anos,113635,Total
+6,Município,45,Pessoas,2511,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6592,39 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1009,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6592,39 anos,6556,Idade presumida
+6,Município,45,Pessoas,17832,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93091,40 a 44 anos,113635,Total
+6,Município,45,Pessoas,12100,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93091,40 a 44 anos,6555,Data de nascimento
+6,Município,45,Pessoas,5732,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93091,40 a 44 anos,6556,Idade presumida
+6,Município,45,Pessoas,4252,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6593,40 anos,113635,Total
+6,Município,45,Pessoas,2527,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6593,40 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1725,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6593,40 anos,6556,Idade presumida
+6,Município,45,Pessoas,3418,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6594,41 anos,113635,Total
+6,Município,45,Pessoas,2520,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6594,41 anos,6555,Data de nascimento
+6,Município,45,Pessoas,898,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6594,41 anos,6556,Idade presumida
+6,Município,45,Pessoas,3901,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6595,42 anos,113635,Total
+6,Município,45,Pessoas,2588,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6595,42 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1313,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6595,42 anos,6556,Idade presumida
+6,Município,45,Pessoas,3301,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6596,43 anos,113635,Total
+6,Município,45,Pessoas,2288,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6596,43 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1013,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6596,43 anos,6556,Idade presumida
+6,Município,45,Pessoas,2960,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6597,44 anos,113635,Total
+6,Município,45,Pessoas,2177,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6597,44 anos,6555,Data de nascimento
+6,Município,45,Pessoas,783,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6597,44 anos,6556,Idade presumida
+6,Município,45,Pessoas,14738,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93092,45 a 49 anos,113635,Total
+6,Município,45,Pessoas,9961,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93092,45 a 49 anos,6555,Data de nascimento
+6,Município,45,Pessoas,4777,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93092,45 a 49 anos,6556,Idade presumida
+6,Município,45,Pessoas,3473,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6598,45 anos,113635,Total
+6,Município,45,Pessoas,2095,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6598,45 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1378,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6598,45 anos,6556,Idade presumida
+6,Município,45,Pessoas,2974,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6599,46 anos,113635,Total
+6,Município,45,Pessoas,2131,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6599,46 anos,6555,Data de nascimento
+6,Município,45,Pessoas,843,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6599,46 anos,6556,Idade presumida
+6,Município,45,Pessoas,2893,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6600,47 anos,113635,Total
+6,Município,45,Pessoas,2092,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6600,47 anos,6555,Data de nascimento
+6,Município,45,Pessoas,801,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6600,47 anos,6556,Idade presumida
+6,Município,45,Pessoas,2754,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6601,48 anos,113635,Total
+6,Município,45,Pessoas,1793,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6601,48 anos,6555,Data de nascimento
+6,Município,45,Pessoas,961,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6601,48 anos,6556,Idade presumida
+6,Município,45,Pessoas,2644,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6602,49 anos,113635,Total
+6,Município,45,Pessoas,1850,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6602,49 anos,6555,Data de nascimento
+6,Município,45,Pessoas,794,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6602,49 anos,6556,Idade presumida
+6,Município,45,Pessoas,13810,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93093,50 a 54 anos,113635,Total
+6,Município,45,Pessoas,9239,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93093,50 a 54 anos,6555,Data de nascimento
+6,Município,45,Pessoas,4571,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93093,50 a 54 anos,6556,Idade presumida
+6,Município,45,Pessoas,3089,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6603,50 anos,113635,Total
+6,Município,45,Pessoas,1725,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6603,50 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1364,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6603,50 anos,6556,Idade presumida
+6,Município,45,Pessoas,2543,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6604,51 anos,113635,Total
+6,Município,45,Pessoas,1853,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6604,51 anos,6555,Data de nascimento
+6,Município,45,Pessoas,690,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6604,51 anos,6556,Idade presumida
+6,Município,45,Pessoas,2893,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6605,52 anos,113635,Total
+6,Município,45,Pessoas,1967,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6605,52 anos,6555,Data de nascimento
+6,Município,45,Pessoas,926,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6605,52 anos,6556,Idade presumida
+6,Município,45,Pessoas,2636,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6606,53 anos,113635,Total
+6,Município,45,Pessoas,1831,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6606,53 anos,6555,Data de nascimento
+6,Município,45,Pessoas,805,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6606,53 anos,6556,Idade presumida
+6,Município,45,Pessoas,2649,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6607,54 anos,113635,Total
+6,Município,45,Pessoas,1863,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6607,54 anos,6555,Data de nascimento
+6,Município,45,Pessoas,786,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6607,54 anos,6556,Idade presumida
+6,Município,45,Pessoas,13410,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93094,55 a 59 anos,113635,Total
+6,Município,45,Pessoas,9396,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93094,55 a 59 anos,6555,Data de nascimento
+6,Município,45,Pessoas,4014,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93094,55 a 59 anos,6556,Idade presumida
+6,Município,45,Pessoas,2787,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6608,55 anos,113635,Total
+6,Município,45,Pessoas,1778,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6608,55 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1009,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6608,55 anos,6556,Idade presumida
+6,Município,45,Pessoas,2775,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6609,56 anos,113635,Total
+6,Município,45,Pessoas,1951,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6609,56 anos,6555,Data de nascimento
+6,Município,45,Pessoas,824,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6609,56 anos,6556,Idade presumida
+6,Município,45,Pessoas,2653,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6610,57 anos,113635,Total
+6,Município,45,Pessoas,1970,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6610,57 anos,6555,Data de nascimento
+6,Município,45,Pessoas,683,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6610,57 anos,6556,Idade presumida
+6,Município,45,Pessoas,2674,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6611,58 anos,113635,Total
+6,Município,45,Pessoas,1850,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6611,58 anos,6555,Data de nascimento
+6,Município,45,Pessoas,824,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6611,58 anos,6556,Idade presumida
+6,Município,45,Pessoas,2521,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6612,59 anos,113635,Total
+6,Município,45,Pessoas,1847,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6612,59 anos,6555,Data de nascimento
+6,Município,45,Pessoas,674,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6612,59 anos,6556,Idade presumida
+6,Município,45,Pessoas,11806,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93095,60 a 64 anos,113635,Total
+6,Município,45,Pessoas,8344,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93095,60 a 64 anos,6555,Data de nascimento
+6,Município,45,Pessoas,3462,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93095,60 a 64 anos,6556,Idade presumida
+6,Município,45,Pessoas,2829,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6613,60 anos,113635,Total
+6,Município,45,Pessoas,1744,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6613,60 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1085,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6613,60 anos,6556,Idade presumida
+6,Município,45,Pessoas,2262,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6614,61 anos,113635,Total
+6,Município,45,Pessoas,1732,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6614,61 anos,6555,Data de nascimento
+6,Município,45,Pessoas,530,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6614,61 anos,6556,Idade presumida
+6,Município,45,Pessoas,2495,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6615,62 anos,113635,Total
+6,Município,45,Pessoas,1746,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6615,62 anos,6555,Data de nascimento
+6,Município,45,Pessoas,749,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6615,62 anos,6556,Idade presumida
+6,Município,45,Pessoas,2178,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6616,63 anos,113635,Total
+6,Município,45,Pessoas,1579,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6616,63 anos,6555,Data de nascimento
+6,Município,45,Pessoas,599,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6616,63 anos,6556,Idade presumida
+6,Município,45,Pessoas,2042,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6617,64 anos,113635,Total
+6,Município,45,Pessoas,1543,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6617,64 anos,6555,Data de nascimento
+6,Município,45,Pessoas,499,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6617,64 anos,6556,Idade presumida
+6,Município,45,Pessoas,8914,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93096,65 a 69 anos,113635,Total
+6,Município,45,Pessoas,6351,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93096,65 a 69 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2563,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93096,65 a 69 anos,6556,Idade presumida
+6,Município,45,Pessoas,2210,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6618,65 anos,113635,Total
+6,Município,45,Pessoas,1416,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6618,65 anos,6555,Data de nascimento
+6,Município,45,Pessoas,794,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6618,65 anos,6556,Idade presumida
+6,Município,45,Pessoas,1802,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6619,66 anos,113635,Total
+6,Município,45,Pessoas,1344,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6619,66 anos,6555,Data de nascimento
+6,Município,45,Pessoas,458,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6619,66 anos,6556,Idade presumida
+6,Município,45,Pessoas,1721,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6620,67 anos,113635,Total
+6,Município,45,Pessoas,1271,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6620,67 anos,6555,Data de nascimento
+6,Município,45,Pessoas,450,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6620,67 anos,6556,Idade presumida
+6,Município,45,Pessoas,1711,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6621,68 anos,113635,Total
+6,Município,45,Pessoas,1208,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6621,68 anos,6555,Data de nascimento
+6,Município,45,Pessoas,503,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6621,68 anos,6556,Idade presumida
+6,Município,45,Pessoas,1470,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6622,69 anos,113635,Total
+6,Município,45,Pessoas,1112,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6622,69 anos,6555,Data de nascimento
+6,Município,45,Pessoas,358,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6622,69 anos,6556,Idade presumida
+6,Município,45,Pessoas,6475,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93097,70 a 74 anos,113635,Total
+6,Município,45,Pessoas,4629,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93097,70 a 74 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1846,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93097,70 a 74 anos,6556,Idade presumida
+6,Município,45,Pessoas,1724,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6623,70 anos,113635,Total
+6,Município,45,Pessoas,1131,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6623,70 anos,6555,Data de nascimento
+6,Município,45,Pessoas,593,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6623,70 anos,6556,Idade presumida
+6,Município,45,Pessoas,1257,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6624,71 anos,113635,Total
+6,Município,45,Pessoas,991,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6624,71 anos,6555,Data de nascimento
+6,Município,45,Pessoas,266,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6624,71 anos,6556,Idade presumida
+6,Município,45,Pessoas,1286,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6625,72 anos,113635,Total
+6,Município,45,Pessoas,893,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6625,72 anos,6555,Data de nascimento
+6,Município,45,Pessoas,393,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6625,72 anos,6556,Idade presumida
+6,Município,45,Pessoas,1134,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6626,73 anos,113635,Total
+6,Município,45,Pessoas,820,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6626,73 anos,6555,Data de nascimento
+6,Município,45,Pessoas,314,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6626,73 anos,6556,Idade presumida
+6,Município,45,Pessoas,1074,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6627,74 anos,113635,Total
+6,Município,45,Pessoas,794,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6627,74 anos,6555,Data de nascimento
+6,Município,45,Pessoas,280,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6627,74 anos,6556,Idade presumida
+6,Município,45,Pessoas,3879,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93098,75 a 79 anos,113635,Total
+6,Município,45,Pessoas,2793,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93098,75 a 79 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1086,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,93098,75 a 79 anos,6556,Idade presumida
+6,Município,45,Pessoas,969,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6628,75 anos,113635,Total
+6,Município,45,Pessoas,690,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6628,75 anos,6555,Data de nascimento
+6,Município,45,Pessoas,279,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6628,75 anos,6556,Idade presumida
+6,Município,45,Pessoas,891,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6629,76 anos,113635,Total
+6,Município,45,Pessoas,629,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6629,76 anos,6555,Data de nascimento
+6,Município,45,Pessoas,262,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6629,76 anos,6556,Idade presumida
+6,Município,45,Pessoas,660,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6630,77 anos,113635,Total
+6,Município,45,Pessoas,481,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6630,77 anos,6555,Data de nascimento
+6,Município,45,Pessoas,179,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6630,77 anos,6556,Idade presumida
+6,Município,45,Pessoas,743,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6631,78 anos,113635,Total
+6,Município,45,Pessoas,533,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6631,78 anos,6555,Data de nascimento
+6,Município,45,Pessoas,210,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6631,78 anos,6556,Idade presumida
+6,Município,45,Pessoas,616,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6632,79 anos,113635,Total
+6,Município,45,Pessoas,460,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6632,79 anos,6555,Data de nascimento
+6,Município,45,Pessoas,156,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6632,79 anos,6556,Idade presumida
+6,Município,45,Pessoas,2457,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,49108,80 a 84 anos,113635,Total
+6,Município,45,Pessoas,1660,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,49108,80 a 84 anos,6555,Data de nascimento
+6,Município,45,Pessoas,797,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,49108,80 a 84 anos,6556,Idade presumida
+6,Município,45,Pessoas,623,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6633,80 anos,113635,Total
+6,Município,45,Pessoas,378,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6633,80 anos,6555,Data de nascimento
+6,Município,45,Pessoas,245,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6633,80 anos,6556,Idade presumida
+6,Município,45,Pessoas,512,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6634,81 anos,113635,Total
+6,Município,45,Pessoas,389,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6634,81 anos,6555,Data de nascimento
+6,Município,45,Pessoas,123,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6634,81 anos,6556,Idade presumida
+6,Município,45,Pessoas,478,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6635,82 anos,113635,Total
+6,Município,45,Pessoas,340,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6635,82 anos,6555,Data de nascimento
+6,Município,45,Pessoas,138,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6635,82 anos,6556,Idade presumida
+6,Município,45,Pessoas,457,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6636,83 anos,113635,Total
+6,Município,45,Pessoas,303,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6636,83 anos,6555,Data de nascimento
+6,Município,45,Pessoas,154,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6636,83 anos,6556,Idade presumida
+6,Município,45,Pessoas,387,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6637,84 anos,113635,Total
+6,Município,45,Pessoas,250,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6637,84 anos,6555,Data de nascimento
+6,Município,45,Pessoas,137,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6637,84 anos,6556,Idade presumida
+6,Município,45,Pessoas,1125,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,49109,85 a 89 anos,113635,Total
+6,Município,45,Pessoas,697,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,49109,85 a 89 anos,6555,Data de nascimento
+6,Município,45,Pessoas,428,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,49109,85 a 89 anos,6556,Idade presumida
+6,Município,45,Pessoas,313,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6638,85 anos,113635,Total
+6,Município,45,Pessoas,183,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6638,85 anos,6555,Data de nascimento
+6,Município,45,Pessoas,130,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6638,85 anos,6556,Idade presumida
+6,Município,45,Pessoas,282,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6639,86 anos,113635,Total
+6,Município,45,Pessoas,178,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6639,86 anos,6555,Data de nascimento
+6,Município,45,Pessoas,104,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6639,86 anos,6556,Idade presumida
+6,Município,45,Pessoas,222,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6640,87 anos,113635,Total
+6,Município,45,Pessoas,143,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6640,87 anos,6555,Data de nascimento
+6,Município,45,Pessoas,79,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6640,87 anos,6556,Idade presumida
+6,Município,45,Pessoas,173,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6641,88 anos,113635,Total
+6,Município,45,Pessoas,103,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6641,88 anos,6555,Data de nascimento
+6,Município,45,Pessoas,70,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6641,88 anos,6556,Idade presumida
+6,Município,45,Pessoas,135,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6642,89 anos,113635,Total
+6,Município,45,Pessoas,90,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6642,89 anos,6555,Data de nascimento
+6,Município,45,Pessoas,45,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6642,89 anos,6556,Idade presumida
+6,Município,45,Pessoas,476,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,60040,90 a 94 anos,113635,Total
+6,Município,45,Pessoas,294,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,60040,90 a 94 anos,6555,Data de nascimento
+6,Município,45,Pessoas,182,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,60040,90 a 94 anos,6556,Idade presumida
+6,Município,45,Pessoas,149,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6643,90 anos,113635,Total
+6,Município,45,Pessoas,88,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6643,90 anos,6555,Data de nascimento
+6,Município,45,Pessoas,61,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6643,90 anos,6556,Idade presumida
+6,Município,45,Pessoas,96,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6644,91 anos,113635,Total
+6,Município,45,Pessoas,64,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6644,91 anos,6555,Data de nascimento
+6,Município,45,Pessoas,32,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6644,91 anos,6556,Idade presumida
+6,Município,45,Pessoas,107,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6645,92 anos,113635,Total
+6,Município,45,Pessoas,67,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6645,92 anos,6555,Data de nascimento
+6,Município,45,Pessoas,40,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6645,92 anos,6556,Idade presumida
+6,Município,45,Pessoas,65,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6646,93 anos,113635,Total
+6,Município,45,Pessoas,35,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6646,93 anos,6555,Data de nascimento
+6,Município,45,Pessoas,30,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6646,93 anos,6556,Idade presumida
+6,Município,45,Pessoas,59,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6647,94 anos,113635,Total
+6,Município,45,Pessoas,40,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6647,94 anos,6555,Data de nascimento
+6,Município,45,Pessoas,19,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6647,94 anos,6556,Idade presumida
+6,Município,45,Pessoas,106,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,60041,95 a 99 anos,113635,Total
+6,Município,45,Pessoas,57,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,60041,95 a 99 anos,6555,Data de nascimento
+6,Município,45,Pessoas,49,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,60041,95 a 99 anos,6556,Idade presumida
+6,Município,45,Pessoas,29,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6648,95 anos,113635,Total
+6,Município,45,Pessoas,19,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6648,95 anos,6555,Data de nascimento
+6,Município,45,Pessoas,10,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6648,95 anos,6556,Idade presumida
+6,Município,45,Pessoas,36,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6649,96 anos,113635,Total
+6,Município,45,Pessoas,18,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6649,96 anos,6555,Data de nascimento
+6,Município,45,Pessoas,18,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6649,96 anos,6556,Idade presumida
+6,Município,45,Pessoas,23,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6650,97 anos,113635,Total
+6,Município,45,Pessoas,10,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6650,97 anos,6555,Data de nascimento
+6,Município,45,Pessoas,13,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6650,97 anos,6556,Idade presumida
+6,Município,45,Pessoas,11,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6651,98 anos,113635,Total
+6,Município,45,Pessoas,4,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6651,98 anos,6555,Data de nascimento
+6,Município,45,Pessoas,7,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6651,98 anos,6556,Idade presumida
+6,Município,45,Pessoas,7,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6652,99 anos,113635,Total
+6,Município,45,Pessoas,6,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6652,99 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6652,99 anos,6556,Idade presumida
+6,Município,45,Pessoas,24,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6653,100 anos ou mais,113635,Total
+6,Município,45,Pessoas,12,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6653,100 anos ou mais,6555,Data de nascimento
+6,Município,45,Pessoas,12,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,4,Homens,6653,100 anos ou mais,6556,Idade presumida
+6,Município,45,Pessoas,253084,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,100362,Total,113635,Total
+6,Município,45,Pessoas,177158,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,100362,Total,6555,Data de nascimento
+6,Município,45,Pessoas,75926,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,100362,Total,6556,Idade presumida
+6,Município,45,Pessoas,14965,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93070,0 a 4 anos,113635,Total
+6,Município,45,Pessoas,10564,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93070,0 a 4 anos,6555,Data de nascimento
+6,Município,45,Pessoas,4401,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93070,0 a 4 anos,6556,Idade presumida
+6,Município,45,Pessoas,2780,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6557,Menos de 1 ano,113635,Total
+6,Município,45,Pessoas,2103,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6557,Menos de 1 ano,6555,Data de nascimento
+6,Município,45,Pessoas,677,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6557,Menos de 1 ano,6556,Idade presumida
+6,Município,45,Pessoas,201,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93071,Menos de 1 mês,113635,Total
+6,Município,45,Pessoas,183,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93071,Menos de 1 mês,6555,Data de nascimento
+6,Município,45,Pessoas,18,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93071,Menos de 1 mês,6556,Idade presumida
+6,Município,45,Pessoas,209,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93072,1 mês,113635,Total
+6,Município,45,Pessoas,152,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93072,1 mês,6555,Data de nascimento
+6,Município,45,Pessoas,57,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93072,1 mês,6556,Idade presumida
+6,Município,45,Pessoas,237,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93073,2 meses,113635,Total
+6,Município,45,Pessoas,180,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93073,2 meses,6555,Data de nascimento
+6,Município,45,Pessoas,57,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93073,2 meses,6556,Idade presumida
+6,Município,45,Pessoas,248,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93074,3 meses,113635,Total
+6,Município,45,Pessoas,178,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93074,3 meses,6555,Data de nascimento
+6,Município,45,Pessoas,70,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93074,3 meses,6556,Idade presumida
+6,Município,45,Pessoas,235,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93075,4 meses,113635,Total
+6,Município,45,Pessoas,184,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93075,4 meses,6555,Data de nascimento
+6,Município,45,Pessoas,51,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93075,4 meses,6556,Idade presumida
+6,Município,45,Pessoas,243,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93076,5 meses,113635,Total
+6,Município,45,Pessoas,175,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93076,5 meses,6555,Data de nascimento
+6,Município,45,Pessoas,68,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93076,5 meses,6556,Idade presumida
+6,Município,45,Pessoas,227,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93077,6 meses,113635,Total
+6,Município,45,Pessoas,153,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93077,6 meses,6555,Data de nascimento
+6,Município,45,Pessoas,74,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93077,6 meses,6556,Idade presumida
+6,Município,45,Pessoas,263,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93078,7 meses,113635,Total
+6,Município,45,Pessoas,201,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93078,7 meses,6555,Data de nascimento
+6,Município,45,Pessoas,62,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93078,7 meses,6556,Idade presumida
+6,Município,45,Pessoas,254,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93079,8 meses,113635,Total
+6,Município,45,Pessoas,183,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93079,8 meses,6555,Data de nascimento
+6,Município,45,Pessoas,71,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93079,8 meses,6556,Idade presumida
+6,Município,45,Pessoas,242,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93080,9 meses,113635,Total
+6,Município,45,Pessoas,178,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93080,9 meses,6555,Data de nascimento
+6,Município,45,Pessoas,64,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93080,9 meses,6556,Idade presumida
+6,Município,45,Pessoas,209,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93081,10 meses,113635,Total
+6,Município,45,Pessoas,170,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93081,10 meses,6555,Data de nascimento
+6,Município,45,Pessoas,39,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93081,10 meses,6556,Idade presumida
+6,Município,45,Pessoas,212,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93082,11 meses,113635,Total
+6,Município,45,Pessoas,166,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93082,11 meses,6555,Data de nascimento
+6,Município,45,Pessoas,46,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93082,11 meses,6556,Idade presumida
+6,Município,45,Pessoas,2724,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6558,1 ano,113635,Total
+6,Município,45,Pessoas,2046,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6558,1 ano,6555,Data de nascimento
+6,Município,45,Pessoas,678,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6558,1 ano,6556,Idade presumida
+6,Município,45,Pessoas,3001,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6559,2 anos,113635,Total
+6,Município,45,Pessoas,2103,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6559,2 anos,6555,Data de nascimento
+6,Município,45,Pessoas,898,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6559,2 anos,6556,Idade presumida
+6,Município,45,Pessoas,3224,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6560,3 anos,113635,Total
+6,Município,45,Pessoas,2135,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6560,3 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1089,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6560,3 anos,6556,Idade presumida
+6,Município,45,Pessoas,3236,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6561,4 anos,113635,Total
+6,Município,45,Pessoas,2177,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6561,4 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1059,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6561,4 anos,6556,Idade presumida
+6,Município,45,Pessoas,16553,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93084,5 a 9 anos,113635,Total
+6,Município,45,Pessoas,10892,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93084,5 a 9 anos,6555,Data de nascimento
+6,Município,45,Pessoas,5661,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93084,5 a 9 anos,6556,Idade presumida
+6,Município,45,Pessoas,3163,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6562,5 anos,113635,Total
+6,Município,45,Pessoas,2053,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6562,5 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1110,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6562,5 anos,6556,Idade presumida
+6,Município,45,Pessoas,3344,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6563,6 anos,113635,Total
+6,Município,45,Pessoas,2273,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6563,6 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1071,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6563,6 anos,6556,Idade presumida
+6,Município,45,Pessoas,3498,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6564,7 anos,113635,Total
+6,Município,45,Pessoas,2346,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6564,7 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1152,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6564,7 anos,6556,Idade presumida
+6,Município,45,Pessoas,3359,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6565,8 anos,113635,Total
+6,Município,45,Pessoas,2217,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6565,8 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1142,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6565,8 anos,6556,Idade presumida
+6,Município,45,Pessoas,3189,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6566,9 anos,113635,Total
+6,Município,45,Pessoas,2003,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6566,9 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1186,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6566,9 anos,6556,Idade presumida
+6,Município,45,Pessoas,15070,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93085,10 a 14 anos,113635,Total
+6,Município,45,Pessoas,10147,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93085,10 a 14 anos,6555,Data de nascimento
+6,Município,45,Pessoas,4923,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93085,10 a 14 anos,6556,Idade presumida
+6,Município,45,Pessoas,3022,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6567,10 anos,113635,Total
+6,Município,45,Pessoas,2016,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6567,10 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1006,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6567,10 anos,6556,Idade presumida
+6,Município,45,Pessoas,3014,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6568,11 anos,113635,Total
+6,Município,45,Pessoas,2092,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6568,11 anos,6555,Data de nascimento
+6,Município,45,Pessoas,922,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6568,11 anos,6556,Idade presumida
+6,Município,45,Pessoas,3086,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6569,12 anos,113635,Total
+6,Município,45,Pessoas,2058,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6569,12 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1028,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6569,12 anos,6556,Idade presumida
+6,Município,45,Pessoas,2932,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6570,13 anos,113635,Total
+6,Município,45,Pessoas,1949,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6570,13 anos,6555,Data de nascimento
+6,Município,45,Pessoas,983,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6570,13 anos,6556,Idade presumida
+6,Município,45,Pessoas,3016,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6571,14 anos,113635,Total
+6,Município,45,Pessoas,2032,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6571,14 anos,6555,Data de nascimento
+6,Município,45,Pessoas,984,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6571,14 anos,6556,Idade presumida
+6,Município,45,Pessoas,16409,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93086,15 a 19 anos,113635,Total
+6,Município,45,Pessoas,10943,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93086,15 a 19 anos,6555,Data de nascimento
+6,Município,45,Pessoas,5466,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93086,15 a 19 anos,6556,Idade presumida
+6,Município,45,Pessoas,3205,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6572,15 anos,113635,Total
+6,Município,45,Pessoas,2067,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6572,15 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1138,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6572,15 anos,6556,Idade presumida
+6,Município,45,Pessoas,3276,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6573,16 anos,113635,Total
+6,Município,45,Pessoas,2166,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6573,16 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1110,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6573,16 anos,6556,Idade presumida
+6,Município,45,Pessoas,3325,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6574,17 anos,113635,Total
+6,Município,45,Pessoas,2246,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6574,17 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1079,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6574,17 anos,6556,Idade presumida
+6,Município,45,Pessoas,3384,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6575,18 anos,113635,Total
+6,Município,45,Pessoas,2227,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6575,18 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1157,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6575,18 anos,6556,Idade presumida
+6,Município,45,Pessoas,3219,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6576,19 anos,113635,Total
+6,Município,45,Pessoas,2237,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6576,19 anos,6555,Data de nascimento
+6,Município,45,Pessoas,982,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6576,19 anos,6556,Idade presumida
+6,Município,45,Pessoas,18647,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93087,20 a 24 anos,113635,Total
+6,Município,45,Pessoas,12898,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93087,20 a 24 anos,6555,Data de nascimento
+6,Município,45,Pessoas,5749,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93087,20 a 24 anos,6556,Idade presumida
+6,Município,45,Pessoas,3586,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6577,20 anos,113635,Total
+6,Município,45,Pessoas,2401,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6577,20 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1185,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6577,20 anos,6556,Idade presumida
+6,Município,45,Pessoas,3426,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6578,21 anos,113635,Total
+6,Município,45,Pessoas,2434,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6578,21 anos,6555,Data de nascimento
+6,Município,45,Pessoas,992,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6578,21 anos,6556,Idade presumida
+6,Município,45,Pessoas,3963,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6579,22 anos,113635,Total
+6,Município,45,Pessoas,2712,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6579,22 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1251,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6579,22 anos,6556,Idade presumida
+6,Município,45,Pessoas,3887,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6580,23 anos,113635,Total
+6,Município,45,Pessoas,2701,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6580,23 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1186,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6580,23 anos,6556,Idade presumida
+6,Município,45,Pessoas,3785,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6581,24 anos,113635,Total
+6,Município,45,Pessoas,2650,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6581,24 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1135,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6581,24 anos,6556,Idade presumida
+6,Município,45,Pessoas,18573,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93088,25 a 29 anos,113635,Total
+6,Município,45,Pessoas,12916,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93088,25 a 29 anos,6555,Data de nascimento
+6,Município,45,Pessoas,5657,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93088,25 a 29 anos,6556,Idade presumida
+6,Município,45,Pessoas,3959,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6582,25 anos,113635,Total
+6,Município,45,Pessoas,2602,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6582,25 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1357,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6582,25 anos,6556,Idade presumida
+6,Município,45,Pessoas,3567,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6656,26 anos,113635,Total
+6,Município,45,Pessoas,2543,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6656,26 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1024,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6656,26 anos,6556,Idade presumida
+6,Município,45,Pessoas,3783,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6657,27 anos,113635,Total
+6,Município,45,Pessoas,2743,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6657,27 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1040,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6657,27 anos,6556,Idade presumida
+6,Município,45,Pessoas,3818,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6658,28 anos,113635,Total
+6,Município,45,Pessoas,2583,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6658,28 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1235,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6658,28 anos,6556,Idade presumida
+6,Município,45,Pessoas,3446,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6659,29 anos,113635,Total
+6,Município,45,Pessoas,2445,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6659,29 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1001,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6659,29 anos,6556,Idade presumida
+6,Município,45,Pessoas,18885,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93089,30 a 34 anos,113635,Total
+6,Município,45,Pessoas,13246,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93089,30 a 34 anos,6555,Data de nascimento
+6,Município,45,Pessoas,5639,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93089,30 a 34 anos,6556,Idade presumida
+6,Município,45,Pessoas,4076,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6583,30 anos,113635,Total
+6,Município,45,Pessoas,2537,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6583,30 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1539,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6583,30 anos,6556,Idade presumida
+6,Município,45,Pessoas,3359,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6584,31 anos,113635,Total
+6,Município,45,Pessoas,2540,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6584,31 anos,6555,Data de nascimento
+6,Município,45,Pessoas,819,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6584,31 anos,6556,Idade presumida
+6,Município,45,Pessoas,3961,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6585,32 anos,113635,Total
+6,Município,45,Pessoas,2689,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6585,32 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1272,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6585,32 anos,6556,Idade presumida
+6,Município,45,Pessoas,3821,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6586,33 anos,113635,Total
+6,Município,45,Pessoas,2770,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6586,33 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1051,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6586,33 anos,6556,Idade presumida
+6,Município,45,Pessoas,3668,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6587,34 anos,113635,Total
+6,Município,45,Pessoas,2710,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6587,34 anos,6555,Data de nascimento
+6,Município,45,Pessoas,958,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6587,34 anos,6556,Idade presumida
+6,Município,45,Pessoas,19030,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93090,35 a 39 anos,113635,Total
+6,Município,45,Pessoas,13132,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93090,35 a 39 anos,6555,Data de nascimento
+6,Município,45,Pessoas,5898,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93090,35 a 39 anos,6556,Idade presumida
+6,Município,45,Pessoas,3951,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6588,35 anos,113635,Total
+6,Município,45,Pessoas,2523,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6588,35 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1428,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6588,35 anos,6556,Idade presumida
+6,Município,45,Pessoas,3697,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6589,36 anos,113635,Total
+6,Município,45,Pessoas,2653,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6589,36 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1044,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6589,36 anos,6556,Idade presumida
+6,Município,45,Pessoas,3574,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6590,37 anos,113635,Total
+6,Município,45,Pessoas,2588,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6590,37 anos,6555,Data de nascimento
+6,Município,45,Pessoas,986,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6590,37 anos,6556,Idade presumida
+6,Município,45,Pessoas,3968,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6591,38 anos,113635,Total
+6,Município,45,Pessoas,2625,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6591,38 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1343,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6591,38 anos,6556,Idade presumida
+6,Município,45,Pessoas,3840,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6592,39 anos,113635,Total
+6,Município,45,Pessoas,2743,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6592,39 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1097,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6592,39 anos,6556,Idade presumida
+6,Município,45,Pessoas,19438,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93091,40 a 44 anos,113635,Total
+6,Município,45,Pessoas,13791,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93091,40 a 44 anos,6555,Data de nascimento
+6,Município,45,Pessoas,5647,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93091,40 a 44 anos,6556,Idade presumida
+6,Município,45,Pessoas,4563,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6593,40 anos,113635,Total
+6,Município,45,Pessoas,2876,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6593,40 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1687,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6593,40 anos,6556,Idade presumida
+6,Município,45,Pessoas,3724,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6594,41 anos,113635,Total
+6,Município,45,Pessoas,2907,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6594,41 anos,6555,Data de nascimento
+6,Município,45,Pessoas,817,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6594,41 anos,6556,Idade presumida
+6,Município,45,Pessoas,4231,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6595,42 anos,113635,Total
+6,Município,45,Pessoas,2864,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6595,42 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1367,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6595,42 anos,6556,Idade presumida
+6,Município,45,Pessoas,3586,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6596,43 anos,113635,Total
+6,Município,45,Pessoas,2584,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6596,43 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1002,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6596,43 anos,6556,Idade presumida
+6,Município,45,Pessoas,3334,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6597,44 anos,113635,Total
+6,Município,45,Pessoas,2560,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6597,44 anos,6555,Data de nascimento
+6,Município,45,Pessoas,774,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6597,44 anos,6556,Idade presumida
+6,Município,45,Pessoas,16515,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93092,45 a 49 anos,113635,Total
+6,Município,45,Pessoas,11843,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93092,45 a 49 anos,6555,Data de nascimento
+6,Município,45,Pessoas,4672,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93092,45 a 49 anos,6556,Idade presumida
+6,Município,45,Pessoas,3896,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6598,45 anos,113635,Total
+6,Município,45,Pessoas,2565,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6598,45 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1331,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6598,45 anos,6556,Idade presumida
+6,Município,45,Pessoas,3398,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6599,46 anos,113635,Total
+6,Município,45,Pessoas,2576,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6599,46 anos,6555,Data de nascimento
+6,Município,45,Pessoas,822,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6599,46 anos,6556,Idade presumida
+6,Município,45,Pessoas,3057,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6600,47 anos,113635,Total
+6,Município,45,Pessoas,2245,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6600,47 anos,6555,Data de nascimento
+6,Município,45,Pessoas,812,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6600,47 anos,6556,Idade presumida
+6,Município,45,Pessoas,3139,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6601,48 anos,113635,Total
+6,Município,45,Pessoas,2197,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6601,48 anos,6555,Data de nascimento
+6,Município,45,Pessoas,942,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6601,48 anos,6556,Idade presumida
+6,Município,45,Pessoas,3025,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6602,49 anos,113635,Total
+6,Município,45,Pessoas,2260,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6602,49 anos,6555,Data de nascimento
+6,Município,45,Pessoas,765,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6602,49 anos,6556,Idade presumida
+6,Município,45,Pessoas,15992,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93093,50 a 54 anos,113635,Total
+6,Município,45,Pessoas,11092,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93093,50 a 54 anos,6555,Data de nascimento
+6,Município,45,Pessoas,4900,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93093,50 a 54 anos,6556,Idade presumida
+6,Município,45,Pessoas,3591,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6603,50 anos,113635,Total
+6,Município,45,Pessoas,2181,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6603,50 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1410,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6603,50 anos,6556,Idade presumida
+6,Município,45,Pessoas,3024,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6604,51 anos,113635,Total
+6,Município,45,Pessoas,2305,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6604,51 anos,6555,Data de nascimento
+6,Município,45,Pessoas,719,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6604,51 anos,6556,Idade presumida
+6,Município,45,Pessoas,3283,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6605,52 anos,113635,Total
+6,Município,45,Pessoas,2227,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6605,52 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1056,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6605,52 anos,6556,Idade presumida
+6,Município,45,Pessoas,3038,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6606,53 anos,113635,Total
+6,Município,45,Pessoas,2195,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6606,53 anos,6555,Data de nascimento
+6,Município,45,Pessoas,843,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6606,53 anos,6556,Idade presumida
+6,Município,45,Pessoas,3056,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6607,54 anos,113635,Total
+6,Município,45,Pessoas,2184,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6607,54 anos,6555,Data de nascimento
+6,Município,45,Pessoas,872,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6607,54 anos,6556,Idade presumida
+6,Município,45,Pessoas,15703,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93094,55 a 59 anos,113635,Total
+6,Município,45,Pessoas,11673,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93094,55 a 59 anos,6555,Data de nascimento
+6,Município,45,Pessoas,4030,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93094,55 a 59 anos,6556,Idade presumida
+6,Município,45,Pessoas,3151,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6608,55 anos,113635,Total
+6,Município,45,Pessoas,2119,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6608,55 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1032,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6608,55 anos,6556,Idade presumida
+6,Município,45,Pessoas,3125,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6609,56 anos,113635,Total
+6,Município,45,Pessoas,2306,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6609,56 anos,6555,Data de nascimento
+6,Município,45,Pessoas,819,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6609,56 anos,6556,Idade presumida
+6,Município,45,Pessoas,3131,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6610,57 anos,113635,Total
+6,Município,45,Pessoas,2466,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6610,57 anos,6555,Data de nascimento
+6,Município,45,Pessoas,665,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6610,57 anos,6556,Idade presumida
+6,Município,45,Pessoas,3273,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6611,58 anos,113635,Total
+6,Município,45,Pessoas,2399,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6611,58 anos,6555,Data de nascimento
+6,Município,45,Pessoas,874,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6611,58 anos,6556,Idade presumida
+6,Município,45,Pessoas,3023,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6612,59 anos,113635,Total
+6,Município,45,Pessoas,2383,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6612,59 anos,6555,Data de nascimento
+6,Município,45,Pessoas,640,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6612,59 anos,6556,Idade presumida
+6,Município,45,Pessoas,14619,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93095,60 a 64 anos,113635,Total
+6,Município,45,Pessoas,10688,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93095,60 a 64 anos,6555,Data de nascimento
+6,Município,45,Pessoas,3931,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93095,60 a 64 anos,6556,Idade presumida
+6,Município,45,Pessoas,3425,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6613,60 anos,113635,Total
+6,Município,45,Pessoas,2263,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6613,60 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1162,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6613,60 anos,6556,Idade presumida
+6,Município,45,Pessoas,2756,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6614,61 anos,113635,Total
+6,Município,45,Pessoas,2178,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6614,61 anos,6555,Data de nascimento
+6,Município,45,Pessoas,578,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6614,61 anos,6556,Idade presumida
+6,Município,45,Pessoas,3084,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6615,62 anos,113635,Total
+6,Município,45,Pessoas,2200,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6615,62 anos,6555,Data de nascimento
+6,Município,45,Pessoas,884,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6615,62 anos,6556,Idade presumida
+6,Município,45,Pessoas,2807,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6616,63 anos,113635,Total
+6,Município,45,Pessoas,2092,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6616,63 anos,6555,Data de nascimento
+6,Município,45,Pessoas,715,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6616,63 anos,6556,Idade presumida
+6,Município,45,Pessoas,2547,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6617,64 anos,113635,Total
+6,Município,45,Pessoas,1955,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6617,64 anos,6555,Data de nascimento
+6,Município,45,Pessoas,592,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6617,64 anos,6556,Idade presumida
+6,Município,45,Pessoas,11213,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93096,65 a 69 anos,113635,Total
+6,Município,45,Pessoas,8329,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93096,65 a 69 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2884,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93096,65 a 69 anos,6556,Idade presumida
+6,Município,45,Pessoas,2742,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6618,65 anos,113635,Total
+6,Município,45,Pessoas,1829,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6618,65 anos,6555,Data de nascimento
+6,Município,45,Pessoas,913,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6618,65 anos,6556,Idade presumida
+6,Município,45,Pessoas,2187,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6619,66 anos,113635,Total
+6,Município,45,Pessoas,1692,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6619,66 anos,6555,Data de nascimento
+6,Município,45,Pessoas,495,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6619,66 anos,6556,Idade presumida
+6,Município,45,Pessoas,2204,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6620,67 anos,113635,Total
+6,Município,45,Pessoas,1704,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6620,67 anos,6555,Data de nascimento
+6,Município,45,Pessoas,500,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6620,67 anos,6556,Idade presumida
+6,Município,45,Pessoas,2200,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6621,68 anos,113635,Total
+6,Município,45,Pessoas,1619,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6621,68 anos,6555,Data de nascimento
+6,Município,45,Pessoas,581,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6621,68 anos,6556,Idade presumida
+6,Município,45,Pessoas,1880,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6622,69 anos,113635,Total
+6,Município,45,Pessoas,1485,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6622,69 anos,6555,Data de nascimento
+6,Município,45,Pessoas,395,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6622,69 anos,6556,Idade presumida
+6,Município,45,Pessoas,8740,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93097,70 a 74 anos,113635,Total
+6,Município,45,Pessoas,6439,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93097,70 a 74 anos,6555,Data de nascimento
+6,Município,45,Pessoas,2301,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93097,70 a 74 anos,6556,Idade presumida
+6,Município,45,Pessoas,2247,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6623,70 anos,113635,Total
+6,Município,45,Pessoas,1551,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6623,70 anos,6555,Data de nascimento
+6,Município,45,Pessoas,696,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6623,70 anos,6556,Idade presumida
+6,Município,45,Pessoas,1737,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6624,71 anos,113635,Total
+6,Município,45,Pessoas,1395,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6624,71 anos,6555,Data de nascimento
+6,Município,45,Pessoas,342,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6624,71 anos,6556,Idade presumida
+6,Município,45,Pessoas,1729,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6625,72 anos,113635,Total
+6,Município,45,Pessoas,1250,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6625,72 anos,6555,Data de nascimento
+6,Município,45,Pessoas,479,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6625,72 anos,6556,Idade presumida
+6,Município,45,Pessoas,1537,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6626,73 anos,113635,Total
+6,Município,45,Pessoas,1132,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6626,73 anos,6555,Data de nascimento
+6,Município,45,Pessoas,405,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6626,73 anos,6556,Idade presumida
+6,Município,45,Pessoas,1490,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6627,74 anos,113635,Total
+6,Município,45,Pessoas,1111,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6627,74 anos,6555,Data de nascimento
+6,Município,45,Pessoas,379,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6627,74 anos,6556,Idade presumida
+6,Município,45,Pessoas,5507,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93098,75 a 79 anos,113635,Total
+6,Município,45,Pessoas,3935,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93098,75 a 79 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1572,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,93098,75 a 79 anos,6556,Idade presumida
+6,Município,45,Pessoas,1348,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6628,75 anos,113635,Total
+6,Município,45,Pessoas,942,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6628,75 anos,6555,Data de nascimento
+6,Município,45,Pessoas,406,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6628,75 anos,6556,Idade presumida
+6,Município,45,Pessoas,1211,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6629,76 anos,113635,Total
+6,Município,45,Pessoas,868,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6629,76 anos,6555,Data de nascimento
+6,Município,45,Pessoas,343,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6629,76 anos,6556,Idade presumida
+6,Município,45,Pessoas,1016,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6630,77 anos,113635,Total
+6,Município,45,Pessoas,770,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6630,77 anos,6555,Data de nascimento
+6,Município,45,Pessoas,246,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6630,77 anos,6556,Idade presumida
+6,Município,45,Pessoas,1025,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6631,78 anos,113635,Total
+6,Município,45,Pessoas,701,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6631,78 anos,6555,Data de nascimento
+6,Município,45,Pessoas,324,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6631,78 anos,6556,Idade presumida
+6,Município,45,Pessoas,907,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6632,79 anos,113635,Total
+6,Município,45,Pessoas,654,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6632,79 anos,6555,Data de nascimento
+6,Município,45,Pessoas,253,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6632,79 anos,6556,Idade presumida
+6,Município,45,Pessoas,3877,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,49108,80 a 84 anos,113635,Total
+6,Município,45,Pessoas,2548,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,49108,80 a 84 anos,6555,Data de nascimento
+6,Município,45,Pessoas,1329,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,49108,80 a 84 anos,6556,Idade presumida
+6,Município,45,Pessoas,1007,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6633,80 anos,113635,Total
+6,Município,45,Pessoas,622,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6633,80 anos,6555,Data de nascimento
+6,Município,45,Pessoas,385,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6633,80 anos,6556,Idade presumida
+6,Município,45,Pessoas,752,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6634,81 anos,113635,Total
+6,Município,45,Pessoas,589,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6634,81 anos,6555,Data de nascimento
+6,Município,45,Pessoas,163,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6634,81 anos,6556,Idade presumida
+6,Município,45,Pessoas,779,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6635,82 anos,113635,Total
+6,Município,45,Pessoas,488,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6635,82 anos,6555,Data de nascimento
+6,Município,45,Pessoas,291,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6635,82 anos,6556,Idade presumida
+6,Município,45,Pessoas,714,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6636,83 anos,113635,Total
+6,Município,45,Pessoas,476,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6636,83 anos,6555,Data de nascimento
+6,Município,45,Pessoas,238,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6636,83 anos,6556,Idade presumida
+6,Município,45,Pessoas,625,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6637,84 anos,113635,Total
+6,Município,45,Pessoas,373,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6637,84 anos,6555,Data de nascimento
+6,Município,45,Pessoas,252,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6637,84 anos,6556,Idade presumida
+6,Município,45,Pessoas,2042,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,49109,85 a 89 anos,113635,Total
+6,Município,45,Pessoas,1264,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,49109,85 a 89 anos,6555,Data de nascimento
+6,Município,45,Pessoas,778,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,49109,85 a 89 anos,6556,Idade presumida
+6,Município,45,Pessoas,536,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6638,85 anos,113635,Total
+6,Município,45,Pessoas,339,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6638,85 anos,6555,Data de nascimento
+6,Município,45,Pessoas,197,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6638,85 anos,6556,Idade presumida
+6,Município,45,Pessoas,490,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6639,86 anos,113635,Total
+6,Município,45,Pessoas,300,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6639,86 anos,6555,Data de nascimento
+6,Município,45,Pessoas,190,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6639,86 anos,6556,Idade presumida
+6,Município,45,Pessoas,389,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6640,87 anos,113635,Total
+6,Município,45,Pessoas,241,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6640,87 anos,6555,Data de nascimento
+6,Município,45,Pessoas,148,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6640,87 anos,6556,Idade presumida
+6,Município,45,Pessoas,312,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6641,88 anos,113635,Total
+6,Município,45,Pessoas,185,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6641,88 anos,6555,Data de nascimento
+6,Município,45,Pessoas,127,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6641,88 anos,6556,Idade presumida
+6,Município,45,Pessoas,315,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6642,89 anos,113635,Total
+6,Município,45,Pessoas,199,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6642,89 anos,6555,Data de nascimento
+6,Município,45,Pessoas,116,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6642,89 anos,6556,Idade presumida
+6,Município,45,Pessoas,993,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,60040,90 a 94 anos,113635,Total
+6,Município,45,Pessoas,629,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,60040,90 a 94 anos,6555,Data de nascimento
+6,Município,45,Pessoas,364,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,60040,90 a 94 anos,6556,Idade presumida
+6,Município,45,Pessoas,300,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6643,90 anos,113635,Total
+6,Município,45,Pessoas,180,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6643,90 anos,6555,Data de nascimento
+6,Município,45,Pessoas,120,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6643,90 anos,6556,Idade presumida
+6,Município,45,Pessoas,208,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6644,91 anos,113635,Total
+6,Município,45,Pessoas,153,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6644,91 anos,6555,Data de nascimento
+6,Município,45,Pessoas,55,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6644,91 anos,6556,Idade presumida
+6,Município,45,Pessoas,232,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6645,92 anos,113635,Total
+6,Município,45,Pessoas,144,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6645,92 anos,6555,Data de nascimento
+6,Município,45,Pessoas,88,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6645,92 anos,6556,Idade presumida
+6,Município,45,Pessoas,156,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6646,93 anos,113635,Total
+6,Município,45,Pessoas,96,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6646,93 anos,6555,Data de nascimento
+6,Município,45,Pessoas,60,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6646,93 anos,6556,Idade presumida
+6,Município,45,Pessoas,97,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6647,94 anos,113635,Total
+6,Município,45,Pessoas,56,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6647,94 anos,6555,Data de nascimento
+6,Município,45,Pessoas,41,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6647,94 anos,6556,Idade presumida
+6,Município,45,Pessoas,268,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,60041,95 a 99 anos,113635,Total
+6,Município,45,Pessoas,160,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,60041,95 a 99 anos,6555,Data de nascimento
+6,Município,45,Pessoas,108,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,60041,95 a 99 anos,6556,Idade presumida
+6,Município,45,Pessoas,83,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6648,95 anos,113635,Total
+6,Município,45,Pessoas,51,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6648,95 anos,6555,Data de nascimento
+6,Município,45,Pessoas,32,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6648,95 anos,6556,Idade presumida
+6,Município,45,Pessoas,68,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6649,96 anos,113635,Total
+6,Município,45,Pessoas,40,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6649,96 anos,6555,Data de nascimento
+6,Município,45,Pessoas,28,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6649,96 anos,6556,Idade presumida
+6,Município,45,Pessoas,51,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6650,97 anos,113635,Total
+6,Município,45,Pessoas,31,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6650,97 anos,6555,Data de nascimento
+6,Município,45,Pessoas,20,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6650,97 anos,6556,Idade presumida
+6,Município,45,Pessoas,37,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6651,98 anos,113635,Total
+6,Município,45,Pessoas,21,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6651,98 anos,6555,Data de nascimento
+6,Município,45,Pessoas,16,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6651,98 anos,6556,Idade presumida
+6,Município,45,Pessoas,29,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6652,99 anos,113635,Total
+6,Município,45,Pessoas,17,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6652,99 anos,6555,Data de nascimento
+6,Município,45,Pessoas,12,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6652,99 anos,6556,Idade presumida
+6,Município,45,Pessoas,45,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6653,100 anos ou mais,113635,Total
+6,Município,45,Pessoas,29,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6653,100 anos ou mais,6555,Data de nascimento
+6,Município,45,Pessoas,16,3301009,Campos dos Goytacazes (RJ),2022,2022,93,População residente,5,Mulheres,6653,100 anos ou mais,6556,Idade presumida

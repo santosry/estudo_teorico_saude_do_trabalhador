@@ -1,0 +1,511 @@
+nivel_territorial_codigo,nivel_territorial,unidade_de_medida_codigo,unidade_de_medida,valor,municipio_codigo,municipio,ano_codigo,ano,variavel_codigo,variavel,tipo_de_rebanho_codigo,tipo_de_rebanho
+6,Município,24,Cabeças,152950,3301009,Campos dos Goytacazes (RJ),1974,1974,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,18,3301009,Campos dos Goytacazes (RJ),1974,1974,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,5884,3301009,Campos dos Goytacazes (RJ),1974,1974,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,7386,3301009,Campos dos Goytacazes (RJ),1974,1974,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1974,1974,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,690,3301009,Campos dos Goytacazes (RJ),1974,1974,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,2700,3301009,Campos dos Goytacazes (RJ),1974,1974,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,399950,3301009,Campos dos Goytacazes (RJ),1974,1974,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,95712,3301009,Campos dos Goytacazes (RJ),1974,1974,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1974,1974,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,192842,3301009,Campos dos Goytacazes (RJ),1975,1975,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,24,3301009,Campos dos Goytacazes (RJ),1975,1975,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,5577,3301009,Campos dos Goytacazes (RJ),1975,1975,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,21579,3301009,Campos dos Goytacazes (RJ),1975,1975,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1975,1975,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,859,3301009,Campos dos Goytacazes (RJ),1975,1975,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1930,3301009,Campos dos Goytacazes (RJ),1975,1975,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,485443,3301009,Campos dos Goytacazes (RJ),1975,1975,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,104769,3301009,Campos dos Goytacazes (RJ),1975,1975,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1975,1975,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,197085,3301009,Campos dos Goytacazes (RJ),1976,1976,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,124,3301009,Campos dos Goytacazes (RJ),1976,1976,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,6899,3301009,Campos dos Goytacazes (RJ),1976,1976,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,27082,3301009,Campos dos Goytacazes (RJ),1976,1976,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1976,1976,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,964,3301009,Campos dos Goytacazes (RJ),1976,1976,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,2279,3301009,Campos dos Goytacazes (RJ),1976,1976,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,502448,3301009,Campos dos Goytacazes (RJ),1976,1976,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,105024,3301009,Campos dos Goytacazes (RJ),1976,1976,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1976,1976,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,199056,3301009,Campos dos Goytacazes (RJ),1977,1977,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,22,3301009,Campos dos Goytacazes (RJ),1977,1977,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,6856,3301009,Campos dos Goytacazes (RJ),1977,1977,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,20496,3301009,Campos dos Goytacazes (RJ),1977,1977,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1977,1977,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,974,3301009,Campos dos Goytacazes (RJ),1977,1977,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,2214,3301009,Campos dos Goytacazes (RJ),1977,1977,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,485810,3301009,Campos dos Goytacazes (RJ),1977,1977,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,105138,3301009,Campos dos Goytacazes (RJ),1977,1977,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1977,1977,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,192925,3301009,Campos dos Goytacazes (RJ),1978,1978,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,20,3301009,Campos dos Goytacazes (RJ),1978,1978,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,7315,3301009,Campos dos Goytacazes (RJ),1978,1978,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,20218,3301009,Campos dos Goytacazes (RJ),1978,1978,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1978,1978,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,816,3301009,Campos dos Goytacazes (RJ),1978,1978,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,2150,3301009,Campos dos Goytacazes (RJ),1978,1978,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,471327,3301009,Campos dos Goytacazes (RJ),1978,1978,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,471327,3301009,Campos dos Goytacazes (RJ),1978,1978,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1978,1978,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,192036,3301009,Campos dos Goytacazes (RJ),1979,1979,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,18,3301009,Campos dos Goytacazes (RJ),1979,1979,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,5745,3301009,Campos dos Goytacazes (RJ),1979,1979,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,21560,3301009,Campos dos Goytacazes (RJ),1979,1979,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1979,1979,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,827,3301009,Campos dos Goytacazes (RJ),1979,1979,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1935,3301009,Campos dos Goytacazes (RJ),1979,1979,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,470648,3301009,Campos dos Goytacazes (RJ),1979,1979,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,470648,3301009,Campos dos Goytacazes (RJ),1979,1979,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1979,1979,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,181276,3301009,Campos dos Goytacazes (RJ),1980,1980,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,20,3301009,Campos dos Goytacazes (RJ),1980,1980,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,5842,3301009,Campos dos Goytacazes (RJ),1980,1980,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,15515,3301009,Campos dos Goytacazes (RJ),1980,1980,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1980,1980,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,816,3301009,Campos dos Goytacazes (RJ),1980,1980,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1784,3301009,Campos dos Goytacazes (RJ),1980,1980,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,287266,3301009,Campos dos Goytacazes (RJ),1980,1980,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,287266,3301009,Campos dos Goytacazes (RJ),1980,1980,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1980,1980,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,186624,3301009,Campos dos Goytacazes (RJ),1981,1981,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,25,3301009,Campos dos Goytacazes (RJ),1981,1981,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,6067,3301009,Campos dos Goytacazes (RJ),1981,1981,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,15025,3301009,Campos dos Goytacazes (RJ),1981,1981,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1981,1981,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,1036,3301009,Campos dos Goytacazes (RJ),1981,1981,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1694,3301009,Campos dos Goytacazes (RJ),1981,1981,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,239102,3301009,Campos dos Goytacazes (RJ),1981,1981,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,47180,3301009,Campos dos Goytacazes (RJ),1981,1981,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1981,1981,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,188472,3301009,Campos dos Goytacazes (RJ),1982,1982,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,30,3301009,Campos dos Goytacazes (RJ),1982,1982,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,5982,3301009,Campos dos Goytacazes (RJ),1982,1982,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,12740,3301009,Campos dos Goytacazes (RJ),1982,1982,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1982,1982,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,1118,3301009,Campos dos Goytacazes (RJ),1982,1982,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1516,3301009,Campos dos Goytacazes (RJ),1982,1982,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,249556,3301009,Campos dos Goytacazes (RJ),1982,1982,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,52140,3301009,Campos dos Goytacazes (RJ),1982,1982,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1982,1982,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,188222,3301009,Campos dos Goytacazes (RJ),1983,1983,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,32,3301009,Campos dos Goytacazes (RJ),1983,1983,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,7313,3301009,Campos dos Goytacazes (RJ),1983,1983,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,15260,3301009,Campos dos Goytacazes (RJ),1983,1983,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1983,1983,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,918,3301009,Campos dos Goytacazes (RJ),1983,1983,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1728,3301009,Campos dos Goytacazes (RJ),1983,1983,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,234938,3301009,Campos dos Goytacazes (RJ),1983,1983,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,54326,3301009,Campos dos Goytacazes (RJ),1983,1983,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,300,3301009,Campos dos Goytacazes (RJ),1983,1983,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,183090,3301009,Campos dos Goytacazes (RJ),1984,1984,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,39,3301009,Campos dos Goytacazes (RJ),1984,1984,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,7218,3301009,Campos dos Goytacazes (RJ),1984,1984,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,15012,3301009,Campos dos Goytacazes (RJ),1984,1984,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1984,1984,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,922,3301009,Campos dos Goytacazes (RJ),1984,1984,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1735,3301009,Campos dos Goytacazes (RJ),1984,1984,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,225876,3301009,Campos dos Goytacazes (RJ),1984,1984,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,50130,3301009,Campos dos Goytacazes (RJ),1984,1984,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,320,3301009,Campos dos Goytacazes (RJ),1984,1984,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,198119,3301009,Campos dos Goytacazes (RJ),1985,1985,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,42,3301009,Campos dos Goytacazes (RJ),1985,1985,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,7008,3301009,Campos dos Goytacazes (RJ),1985,1985,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,18097,3301009,Campos dos Goytacazes (RJ),1985,1985,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1985,1985,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,905,3301009,Campos dos Goytacazes (RJ),1985,1985,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1694,3301009,Campos dos Goytacazes (RJ),1985,1985,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,212826,3301009,Campos dos Goytacazes (RJ),1985,1985,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,46413,3301009,Campos dos Goytacazes (RJ),1985,1985,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,408,3301009,Campos dos Goytacazes (RJ),1985,1985,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,198230,3301009,Campos dos Goytacazes (RJ),1986,1986,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,51,3301009,Campos dos Goytacazes (RJ),1986,1986,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,7203,3301009,Campos dos Goytacazes (RJ),1986,1986,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,17586,3301009,Campos dos Goytacazes (RJ),1986,1986,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1986,1986,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,955,3301009,Campos dos Goytacazes (RJ),1986,1986,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1705,3301009,Campos dos Goytacazes (RJ),1986,1986,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,192394,3301009,Campos dos Goytacazes (RJ),1986,1986,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,41760,3301009,Campos dos Goytacazes (RJ),1986,1986,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,398,3301009,Campos dos Goytacazes (RJ),1986,1986,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,199417,3301009,Campos dos Goytacazes (RJ),1987,1987,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,56,3301009,Campos dos Goytacazes (RJ),1987,1987,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,7866,3301009,Campos dos Goytacazes (RJ),1987,1987,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,16503,3301009,Campos dos Goytacazes (RJ),1987,1987,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1987,1987,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,1086,3301009,Campos dos Goytacazes (RJ),1987,1987,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1698,3301009,Campos dos Goytacazes (RJ),1987,1987,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,188964,3301009,Campos dos Goytacazes (RJ),1987,1987,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,42130,3301009,Campos dos Goytacazes (RJ),1987,1987,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,428,3301009,Campos dos Goytacazes (RJ),1987,1987,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,198808,3301009,Campos dos Goytacazes (RJ),1988,1988,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,54,3301009,Campos dos Goytacazes (RJ),1988,1988,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,7860,3301009,Campos dos Goytacazes (RJ),1988,1988,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,16140,3301009,Campos dos Goytacazes (RJ),1988,1988,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1988,1988,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,1120,3301009,Campos dos Goytacazes (RJ),1988,1988,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1702,3301009,Campos dos Goytacazes (RJ),1988,1988,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,200720,3301009,Campos dos Goytacazes (RJ),1988,1988,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,44200,3301009,Campos dos Goytacazes (RJ),1988,1988,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,425,3301009,Campos dos Goytacazes (RJ),1988,1988,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,199735,3301009,Campos dos Goytacazes (RJ),1989,1989,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,56,3301009,Campos dos Goytacazes (RJ),1989,1989,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,8071,3301009,Campos dos Goytacazes (RJ),1989,1989,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,17132,3301009,Campos dos Goytacazes (RJ),1989,1989,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1989,1989,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,1153,3301009,Campos dos Goytacazes (RJ),1989,1989,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1715,3301009,Campos dos Goytacazes (RJ),1989,1989,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,212134,3301009,Campos dos Goytacazes (RJ),1989,1989,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,38635,3301009,Campos dos Goytacazes (RJ),1989,1989,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,563,3301009,Campos dos Goytacazes (RJ),1989,1989,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,199862,3301009,Campos dos Goytacazes (RJ),1990,1990,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,58,3301009,Campos dos Goytacazes (RJ),1990,1990,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,8322,3301009,Campos dos Goytacazes (RJ),1990,1990,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,17270,3301009,Campos dos Goytacazes (RJ),1990,1990,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1990,1990,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,1204,3301009,Campos dos Goytacazes (RJ),1990,1990,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1710,3301009,Campos dos Goytacazes (RJ),1990,1990,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,206584,3301009,Campos dos Goytacazes (RJ),1990,1990,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,37256,3301009,Campos dos Goytacazes (RJ),1990,1990,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,580,3301009,Campos dos Goytacazes (RJ),1990,1990,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,203197,3301009,Campos dos Goytacazes (RJ),1991,1991,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,75,3301009,Campos dos Goytacazes (RJ),1991,1991,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,8768,3301009,Campos dos Goytacazes (RJ),1991,1991,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,18709,3301009,Campos dos Goytacazes (RJ),1991,1991,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1991,1991,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,1301,3301009,Campos dos Goytacazes (RJ),1991,1991,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1824,3301009,Campos dos Goytacazes (RJ),1991,1991,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,210257,3301009,Campos dos Goytacazes (RJ),1991,1991,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,38121,3301009,Campos dos Goytacazes (RJ),1991,1991,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,594,3301009,Campos dos Goytacazes (RJ),1991,1991,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,207193,3301009,Campos dos Goytacazes (RJ),1992,1992,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,83,3301009,Campos dos Goytacazes (RJ),1992,1992,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,9126,3301009,Campos dos Goytacazes (RJ),1992,1992,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,19566,3301009,Campos dos Goytacazes (RJ),1992,1992,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1992,1992,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,1287,3301009,Campos dos Goytacazes (RJ),1992,1992,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1906,3301009,Campos dos Goytacazes (RJ),1992,1992,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,207324,3301009,Campos dos Goytacazes (RJ),1992,1992,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,37121,3301009,Campos dos Goytacazes (RJ),1992,1992,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,621,3301009,Campos dos Goytacazes (RJ),1992,1992,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,185042,3301009,Campos dos Goytacazes (RJ),1993,1993,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,92,3301009,Campos dos Goytacazes (RJ),1993,1993,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,8505,3301009,Campos dos Goytacazes (RJ),1993,1993,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,18061,3301009,Campos dos Goytacazes (RJ),1993,1993,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1993,1993,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,1108,3301009,Campos dos Goytacazes (RJ),1993,1993,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1708,3301009,Campos dos Goytacazes (RJ),1993,1993,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,175585,3301009,Campos dos Goytacazes (RJ),1993,1993,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,31033,3301009,Campos dos Goytacazes (RJ),1993,1993,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,652,3301009,Campos dos Goytacazes (RJ),1993,1993,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,187121,3301009,Campos dos Goytacazes (RJ),1994,1994,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,98,3301009,Campos dos Goytacazes (RJ),1994,1994,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,8703,3301009,Campos dos Goytacazes (RJ),1994,1994,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,18679,3301009,Campos dos Goytacazes (RJ),1994,1994,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1994,1994,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,1163,3301009,Campos dos Goytacazes (RJ),1994,1994,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1733,3301009,Campos dos Goytacazes (RJ),1994,1994,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,177777,3301009,Campos dos Goytacazes (RJ),1994,1994,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,32115,3301009,Campos dos Goytacazes (RJ),1994,1994,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,643,3301009,Campos dos Goytacazes (RJ),1994,1994,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,188739,3301009,Campos dos Goytacazes (RJ),1995,1995,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,103,3301009,Campos dos Goytacazes (RJ),1995,1995,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,9178,3301009,Campos dos Goytacazes (RJ),1995,1995,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,19153,3301009,Campos dos Goytacazes (RJ),1995,1995,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1995,1995,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,1209,3301009,Campos dos Goytacazes (RJ),1995,1995,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1876,3301009,Campos dos Goytacazes (RJ),1995,1995,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,183800,3301009,Campos dos Goytacazes (RJ),1995,1995,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,35424,3301009,Campos dos Goytacazes (RJ),1995,1995,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,708,3301009,Campos dos Goytacazes (RJ),1995,1995,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,216751,3301009,Campos dos Goytacazes (RJ),1996,1996,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,300,3301009,Campos dos Goytacazes (RJ),1996,1996,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,8517,3301009,Campos dos Goytacazes (RJ),1996,1996,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,7031,3301009,Campos dos Goytacazes (RJ),1996,1996,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1996,1996,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,651,3301009,Campos dos Goytacazes (RJ),1996,1996,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1936,3301009,Campos dos Goytacazes (RJ),1996,1996,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,50000,3301009,Campos dos Goytacazes (RJ),1996,1996,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,17271,3301009,Campos dos Goytacazes (RJ),1996,1996,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,725,3301009,Campos dos Goytacazes (RJ),1996,1996,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,227184,3301009,Campos dos Goytacazes (RJ),1997,1997,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,298,3301009,Campos dos Goytacazes (RJ),1997,1997,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,8602,3301009,Campos dos Goytacazes (RJ),1997,1997,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,7073,3301009,Campos dos Goytacazes (RJ),1997,1997,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1997,1997,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,667,3301009,Campos dos Goytacazes (RJ),1997,1997,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1874,3301009,Campos dos Goytacazes (RJ),1997,1997,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,51022,3301009,Campos dos Goytacazes (RJ),1997,1997,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,17625,3301009,Campos dos Goytacazes (RJ),1997,1997,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,717,3301009,Campos dos Goytacazes (RJ),1997,1997,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,229326,3301009,Campos dos Goytacazes (RJ),1998,1998,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,303,3301009,Campos dos Goytacazes (RJ),1998,1998,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,8575,3301009,Campos dos Goytacazes (RJ),1998,1998,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,7095,3301009,Campos dos Goytacazes (RJ),1998,1998,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1998,1998,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,696,3301009,Campos dos Goytacazes (RJ),1998,1998,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1773,3301009,Campos dos Goytacazes (RJ),1998,1998,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,51044,3301009,Campos dos Goytacazes (RJ),1998,1998,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,18421,3301009,Campos dos Goytacazes (RJ),1998,1998,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,696,3301009,Campos dos Goytacazes (RJ),1998,1998,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,231133,3301009,Campos dos Goytacazes (RJ),1999,1999,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,304,3301009,Campos dos Goytacazes (RJ),1999,1999,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,8667,3301009,Campos dos Goytacazes (RJ),1999,1999,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,7208,3301009,Campos dos Goytacazes (RJ),1999,1999,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),1999,1999,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,706,3301009,Campos dos Goytacazes (RJ),1999,1999,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1789,3301009,Campos dos Goytacazes (RJ),1999,1999,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,52345,3301009,Campos dos Goytacazes (RJ),1999,1999,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,19199,3301009,Campos dos Goytacazes (RJ),1999,1999,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,701,3301009,Campos dos Goytacazes (RJ),1999,1999,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,233521,3301009,Campos dos Goytacazes (RJ),2000,2000,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,326,3301009,Campos dos Goytacazes (RJ),2000,2000,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,9022,3301009,Campos dos Goytacazes (RJ),2000,2000,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,7799,3301009,Campos dos Goytacazes (RJ),2000,2000,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2000,2000,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,802,3301009,Campos dos Goytacazes (RJ),2000,2000,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1805,3301009,Campos dos Goytacazes (RJ),2000,2000,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,53770,3301009,Campos dos Goytacazes (RJ),2000,2000,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,19631,3301009,Campos dos Goytacazes (RJ),2000,2000,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,728,3301009,Campos dos Goytacazes (RJ),2000,2000,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,229987,3301009,Campos dos Goytacazes (RJ),2001,2001,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,329,3301009,Campos dos Goytacazes (RJ),2001,2001,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,9062,3301009,Campos dos Goytacazes (RJ),2001,2001,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,7891,3301009,Campos dos Goytacazes (RJ),2001,2001,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2001,2001,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,809,3301009,Campos dos Goytacazes (RJ),2001,2001,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1796,3301009,Campos dos Goytacazes (RJ),2001,2001,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,52991,3301009,Campos dos Goytacazes (RJ),2001,2001,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,19703,3301009,Campos dos Goytacazes (RJ),2001,2001,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,712,3301009,Campos dos Goytacazes (RJ),2001,2001,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,230321,3301009,Campos dos Goytacazes (RJ),2002,2002,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,333,3301009,Campos dos Goytacazes (RJ),2002,2002,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,9136,3301009,Campos dos Goytacazes (RJ),2002,2002,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,7528,3301009,Campos dos Goytacazes (RJ),2002,2002,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2002,2002,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,822,3301009,Campos dos Goytacazes (RJ),2002,2002,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1801,3301009,Campos dos Goytacazes (RJ),2002,2002,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,51710,3301009,Campos dos Goytacazes (RJ),2002,2002,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,19503,3301009,Campos dos Goytacazes (RJ),2002,2002,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,693,3301009,Campos dos Goytacazes (RJ),2002,2002,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,235046,3301009,Campos dos Goytacazes (RJ),2003,2003,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,333,3301009,Campos dos Goytacazes (RJ),2003,2003,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,9202,3301009,Campos dos Goytacazes (RJ),2003,2003,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,7997,3301009,Campos dos Goytacazes (RJ),2003,2003,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2003,2003,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,822,3301009,Campos dos Goytacazes (RJ),2003,2003,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1809,3301009,Campos dos Goytacazes (RJ),2003,2003,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,53807,3301009,Campos dos Goytacazes (RJ),2003,2003,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,19903,3301009,Campos dos Goytacazes (RJ),2003,2003,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,719,3301009,Campos dos Goytacazes (RJ),2003,2003,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,233928,3301009,Campos dos Goytacazes (RJ),2004,2004,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,341,3301009,Campos dos Goytacazes (RJ),2004,2004,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,9703,3301009,Campos dos Goytacazes (RJ),2004,2004,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,8209,3301009,Campos dos Goytacazes (RJ),2004,2004,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2004,2004,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,819,3301009,Campos dos Goytacazes (RJ),2004,2004,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,2023,3301009,Campos dos Goytacazes (RJ),2004,2004,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,52909,3301009,Campos dos Goytacazes (RJ),2004,2004,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,20002,3301009,Campos dos Goytacazes (RJ),2004,2004,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,692,3301009,Campos dos Goytacazes (RJ),2004,2004,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,234826,3301009,Campos dos Goytacazes (RJ),2005,2005,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,399,3301009,Campos dos Goytacazes (RJ),2005,2005,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,9692,3301009,Campos dos Goytacazes (RJ),2005,2005,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,8307,3301009,Campos dos Goytacazes (RJ),2005,2005,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2005,2005,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,972,3301009,Campos dos Goytacazes (RJ),2005,2005,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,4306,3301009,Campos dos Goytacazes (RJ),2005,2005,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,53854,3301009,Campos dos Goytacazes (RJ),2005,2005,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,20833,3301009,Campos dos Goytacazes (RJ),2005,2005,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,701,3301009,Campos dos Goytacazes (RJ),2005,2005,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,237175,3301009,Campos dos Goytacazes (RJ),2006,2006,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,422,3301009,Campos dos Goytacazes (RJ),2006,2006,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,9788,3301009,Campos dos Goytacazes (RJ),2006,2006,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,8406,3301009,Campos dos Goytacazes (RJ),2006,2006,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2006,2006,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,1030,3301009,Campos dos Goytacazes (RJ),2006,2006,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,4522,3301009,Campos dos Goytacazes (RJ),2006,2006,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,54807,3301009,Campos dos Goytacazes (RJ),2006,2006,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,21457,3301009,Campos dos Goytacazes (RJ),2006,2006,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,710,3301009,Campos dos Goytacazes (RJ),2006,2006,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,235849,3301009,Campos dos Goytacazes (RJ),2007,2007,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,655,3301009,Campos dos Goytacazes (RJ),2007,2007,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,7553,3301009,Campos dos Goytacazes (RJ),2007,2007,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,6797,3301009,Campos dos Goytacazes (RJ),2007,2007,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2007,2007,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,915,3301009,Campos dos Goytacazes (RJ),2007,2007,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,4720,3301009,Campos dos Goytacazes (RJ),2007,2007,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,74466,3301009,Campos dos Goytacazes (RJ),2007,2007,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,29040,3301009,Campos dos Goytacazes (RJ),2007,2007,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,800,3301009,Campos dos Goytacazes (RJ),2007,2007,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,240565,3301009,Campos dos Goytacazes (RJ),2008,2008,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,674,3301009,Campos dos Goytacazes (RJ),2008,2008,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,7780,3301009,Campos dos Goytacazes (RJ),2008,2008,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,6972,3301009,Campos dos Goytacazes (RJ),2008,2008,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2008,2008,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,950,3301009,Campos dos Goytacazes (RJ),2008,2008,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,4815,3301009,Campos dos Goytacazes (RJ),2008,2008,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,75155,3301009,Campos dos Goytacazes (RJ),2008,2008,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,29308,3301009,Campos dos Goytacazes (RJ),2008,2008,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,810,3301009,Campos dos Goytacazes (RJ),2008,2008,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,241000,3301009,Campos dos Goytacazes (RJ),2009,2009,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,680,3301009,Campos dos Goytacazes (RJ),2009,2009,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,7800,3301009,Campos dos Goytacazes (RJ),2009,2009,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,6800,3301009,Campos dos Goytacazes (RJ),2009,2009,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2009,2009,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,1000,3301009,Campos dos Goytacazes (RJ),2009,2009,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,5000,3301009,Campos dos Goytacazes (RJ),2009,2009,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,76000,3301009,Campos dos Goytacazes (RJ),2009,2009,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,30000,3301009,Campos dos Goytacazes (RJ),2009,2009,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,800,3301009,Campos dos Goytacazes (RJ),2009,2009,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,246097,3301009,Campos dos Goytacazes (RJ),2010,2010,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,689,3301009,Campos dos Goytacazes (RJ),2010,2010,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,7624,3301009,Campos dos Goytacazes (RJ),2010,2010,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,6832,3301009,Campos dos Goytacazes (RJ),2010,2010,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2010,2010,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,994,3301009,Campos dos Goytacazes (RJ),2010,2010,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,5103,3301009,Campos dos Goytacazes (RJ),2010,2010,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,78160,3301009,Campos dos Goytacazes (RJ),2010,2010,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,30480,3301009,Campos dos Goytacazes (RJ),2010,2010,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,819,3301009,Campos dos Goytacazes (RJ),2010,2010,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,251535,3301009,Campos dos Goytacazes (RJ),2011,2011,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,700,3301009,Campos dos Goytacazes (RJ),2011,2011,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,7449,3301009,Campos dos Goytacazes (RJ),2011,2011,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,6590,3301009,Campos dos Goytacazes (RJ),2011,2011,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2011,2011,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,980,3301009,Campos dos Goytacazes (RJ),2011,2011,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,5199,3301009,Campos dos Goytacazes (RJ),2011,2011,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,80487,3301009,Campos dos Goytacazes (RJ),2011,2011,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,31039,3301009,Campos dos Goytacazes (RJ),2011,2011,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,840,3301009,Campos dos Goytacazes (RJ),2011,2011,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,255000,3301009,Campos dos Goytacazes (RJ),2012,2012,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,716,3301009,Campos dos Goytacazes (RJ),2012,2012,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,8060,3301009,Campos dos Goytacazes (RJ),2012,2012,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,4720,3301009,Campos dos Goytacazes (RJ),2012,2012,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2012,2012,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,560,3301009,Campos dos Goytacazes (RJ),2012,2012,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,4130,3301009,Campos dos Goytacazes (RJ),2012,2012,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,73310,3301009,Campos dos Goytacazes (RJ),2012,2012,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,29110,3301009,Campos dos Goytacazes (RJ),2012,2012,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,720,3301009,Campos dos Goytacazes (RJ),2012,2012,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,238589,3301009,Campos dos Goytacazes (RJ),2013,2013,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,995,3301009,Campos dos Goytacazes (RJ),2013,2013,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,3653,3301009,Campos dos Goytacazes (RJ),2013,2013,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,4500,3301009,Campos dos Goytacazes (RJ),2013,2013,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,500,3301009,Campos dos Goytacazes (RJ),2013,2013,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,500,3301009,Campos dos Goytacazes (RJ),2013,2013,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,570,3301009,Campos dos Goytacazes (RJ),2013,2013,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,72000,3301009,Campos dos Goytacazes (RJ),2013,2013,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,28000,3301009,Campos dos Goytacazes (RJ),2013,2013,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,500,3301009,Campos dos Goytacazes (RJ),2013,2013,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,233000,3301009,Campos dos Goytacazes (RJ),2014,2014,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,859,3301009,Campos dos Goytacazes (RJ),2014,2014,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,5668,3301009,Campos dos Goytacazes (RJ),2014,2014,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,4200,3301009,Campos dos Goytacazes (RJ),2014,2014,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,420,3301009,Campos dos Goytacazes (RJ),2014,2014,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,850,3301009,Campos dos Goytacazes (RJ),2014,2014,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1260,3301009,Campos dos Goytacazes (RJ),2014,2014,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,68000,3301009,Campos dos Goytacazes (RJ),2014,2014,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,26000,3301009,Campos dos Goytacazes (RJ),2014,2014,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2014,2014,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,232398,3301009,Campos dos Goytacazes (RJ),2015,2015,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,949,3301009,Campos dos Goytacazes (RJ),2015,2015,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,6474,3301009,Campos dos Goytacazes (RJ),2015,2015,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,3500,3301009,Campos dos Goytacazes (RJ),2015,2015,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,413,3301009,Campos dos Goytacazes (RJ),2015,2015,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,101,3301009,Campos dos Goytacazes (RJ),2015,2015,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1386,3301009,Campos dos Goytacazes (RJ),2015,2015,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,61000,3301009,Campos dos Goytacazes (RJ),2015,2015,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,23000,3301009,Campos dos Goytacazes (RJ),2015,2015,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2015,2015,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,248016,3301009,Campos dos Goytacazes (RJ),2016,2016,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,876,3301009,Campos dos Goytacazes (RJ),2016,2016,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,7493,3301009,Campos dos Goytacazes (RJ),2016,2016,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,5775,3301009,Campos dos Goytacazes (RJ),2016,2016,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,683,3301009,Campos dos Goytacazes (RJ),2016,2016,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,126,3301009,Campos dos Goytacazes (RJ),2016,2016,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1546,3301009,Campos dos Goytacazes (RJ),2016,2016,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,73758,3301009,Campos dos Goytacazes (RJ),2016,2016,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,27800,3301009,Campos dos Goytacazes (RJ),2016,2016,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2016,2016,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,268046,3301009,Campos dos Goytacazes (RJ),2017,2017,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,803,3301009,Campos dos Goytacazes (RJ),2017,2017,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,8009,3301009,Campos dos Goytacazes (RJ),2017,2017,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,5780,3301009,Campos dos Goytacazes (RJ),2017,2017,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,812,3301009,Campos dos Goytacazes (RJ),2017,2017,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,77,3301009,Campos dos Goytacazes (RJ),2017,2017,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1659,3301009,Campos dos Goytacazes (RJ),2017,2017,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,61790,3301009,Campos dos Goytacazes (RJ),2017,2017,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,28000,3301009,Campos dos Goytacazes (RJ),2017,2017,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2017,2017,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,276123,3301009,Campos dos Goytacazes (RJ),2018,2018,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,934,3301009,Campos dos Goytacazes (RJ),2018,2018,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,8000,3301009,Campos dos Goytacazes (RJ),2018,2018,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,5110,3301009,Campos dos Goytacazes (RJ),2018,2018,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,715,3301009,Campos dos Goytacazes (RJ),2018,2018,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,700,3301009,Campos dos Goytacazes (RJ),2018,2018,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,1950,3301009,Campos dos Goytacazes (RJ),2018,2018,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,58817,3301009,Campos dos Goytacazes (RJ),2018,2018,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,26653,3301009,Campos dos Goytacazes (RJ),2018,2018,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2018,2018,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,282735,3301009,Campos dos Goytacazes (RJ),2019,2019,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,851,3301009,Campos dos Goytacazes (RJ),2019,2019,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,9276,3301009,Campos dos Goytacazes (RJ),2019,2019,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,5632,3301009,Campos dos Goytacazes (RJ),2019,2019,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,788,3301009,Campos dos Goytacazes (RJ),2019,2019,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,688,3301009,Campos dos Goytacazes (RJ),2019,2019,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,2119,3301009,Campos dos Goytacazes (RJ),2019,2019,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,58817,3301009,Campos dos Goytacazes (RJ),2019,2019,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,26653,3301009,Campos dos Goytacazes (RJ),2019,2019,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2019,2019,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,274798,3301009,Campos dos Goytacazes (RJ),2020,2020,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,892,3301009,Campos dos Goytacazes (RJ),2020,2020,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,10597,3301009,Campos dos Goytacazes (RJ),2020,2020,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,5701,3301009,Campos dos Goytacazes (RJ),2020,2020,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,805,3301009,Campos dos Goytacazes (RJ),2020,2020,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,688,3301009,Campos dos Goytacazes (RJ),2020,2020,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,2124,3301009,Campos dos Goytacazes (RJ),2020,2020,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,45659,3301009,Campos dos Goytacazes (RJ),2020,2020,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,23776,3301009,Campos dos Goytacazes (RJ),2020,2020,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2020,2020,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,289162,3301009,Campos dos Goytacazes (RJ),2021,2021,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,1632,3301009,Campos dos Goytacazes (RJ),2021,2021,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,11617,3301009,Campos dos Goytacazes (RJ),2021,2021,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,5500,3301009,Campos dos Goytacazes (RJ),2021,2021,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,783,3301009,Campos dos Goytacazes (RJ),2021,2021,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,600,3301009,Campos dos Goytacazes (RJ),2021,2021,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,2054,3301009,Campos dos Goytacazes (RJ),2021,2021,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,47000,3301009,Campos dos Goytacazes (RJ),2021,2021,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,25000,3301009,Campos dos Goytacazes (RJ),2021,2021,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2021,2021,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,283444,3301009,Campos dos Goytacazes (RJ),2022,2022,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,2577,3301009,Campos dos Goytacazes (RJ),2022,2022,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,9352,3301009,Campos dos Goytacazes (RJ),2022,2022,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,5225,3301009,Campos dos Goytacazes (RJ),2022,2022,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,752,3301009,Campos dos Goytacazes (RJ),2022,2022,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,290,3301009,Campos dos Goytacazes (RJ),2022,2022,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,2073,3301009,Campos dos Goytacazes (RJ),2022,2022,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,9460,3301009,Campos dos Goytacazes (RJ),2022,2022,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,9250,3301009,Campos dos Goytacazes (RJ),2022,2022,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2022,2022,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,285223,3301009,Campos dos Goytacazes (RJ),2023,2023,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,2836,3301009,Campos dos Goytacazes (RJ),2023,2023,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,12121,3301009,Campos dos Goytacazes (RJ),2023,2023,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,5101,3301009,Campos dos Goytacazes (RJ),2023,2023,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,702,3301009,Campos dos Goytacazes (RJ),2023,2023,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,296,3301009,Campos dos Goytacazes (RJ),2023,2023,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,4550,3301009,Campos dos Goytacazes (RJ),2023,2023,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,10112,3301009,Campos dos Goytacazes (RJ),2023,2023,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,9750,3301009,Campos dos Goytacazes (RJ),2023,2023,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2023,2023,105,Efetivo dos rebanhos,2680,Codornas
+6,Município,24,Cabeças,280144,3301009,Campos dos Goytacazes (RJ),2024,2024,105,Efetivo dos rebanhos,2670,Bovino
+6,Município,24,Cabeças,3259,3301009,Campos dos Goytacazes (RJ),2024,2024,105,Efetivo dos rebanhos,2675,Bubalino
+6,Município,24,Cabeças,12383,3301009,Campos dos Goytacazes (RJ),2024,2024,105,Efetivo dos rebanhos,2672,Equino
+6,Município,24,Cabeças,3200,3301009,Campos dos Goytacazes (RJ),2024,2024,105,Efetivo dos rebanhos,32794,Suíno - total
+6,Município,24,Cabeças,440,3301009,Campos dos Goytacazes (RJ),2024,2024,105,Efetivo dos rebanhos,32795,Suíno - matrizes de suínos
+6,Município,24,Cabeças,338,3301009,Campos dos Goytacazes (RJ),2024,2024,105,Efetivo dos rebanhos,2681,Caprino
+6,Município,24,Cabeças,2018,3301009,Campos dos Goytacazes (RJ),2024,2024,105,Efetivo dos rebanhos,2677,Ovino
+6,Município,24,Cabeças,25000,3301009,Campos dos Goytacazes (RJ),2024,2024,105,Efetivo dos rebanhos,32796,Galináceos - total
+6,Município,24,Cabeças,23500,3301009,Campos dos Goytacazes (RJ),2024,2024,105,Efetivo dos rebanhos,32793,Galináceos - galinhas
+6,Município,24,Cabeças,NA,3301009,Campos dos Goytacazes (RJ),2024,2024,105,Efetivo dos rebanhos,2680,Codornas

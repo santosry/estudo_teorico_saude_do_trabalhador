@@ -1,0 +1,14 @@
+{
+ "fluxo": {
+  "candidatos_lidos": 15932,
+  "duplicidades_entre_arquivos_removidas": 2546,
+  "campos_330100_uf_rj": 5066,
+  "campos_periodo_2018_2025": 5066,
+  "excluidos_outros_municipios_com_campo_no_nome": 8308,
+  "excluidos_330100_uf_nao_rj": 12
+ },
+ "problemas": {
+  "cbo_sem_codigo_6dig": 184,
+  "data_nascimento_invalida": 7
+ }
+}

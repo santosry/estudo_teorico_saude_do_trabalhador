@@ -1,0 +1,14 @@
+# Dados brutos CAT/INSS (~1,8 GB) — obter conforme dados/brutos/cat-inss/README.md
+dados/brutos/cat-inss/*.csv
+
+# Material teórico protegido por direitos autorais — não redistribuir
+artigos-fonte/*.pdf
+
+# Artefatos locais
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+Thumbs.db
+.DS_Store
+~$*.docx
+*.tmp
