@@ -54,7 +54,6 @@ def par(texto, indent=True, just=True, size=11, before=0, after=0, center=False)
 # ------------------------------ título e autoria ------------------------------
 par("[[b]]Comunicações de Acidente de Trabalho nas profissões da saúde em Campos dos "
     "Goytacazes, 2018-2025[[/b]]", indent=False, center=True, size=12, after=4)
-par("Ryan de Paulo Santos", indent=False, center=True, size=10.5, after=8)
 
 # ---------------------------------- corpo -------------------------------------
 CORPO = [
@@ -134,7 +133,7 @@ CORPO = [
  "corporal do cuidado (punção venosa, administração de medicamentos, manipulação de perfurocortantes, mobilização de pacientes) é "
  "delegada a categorias majoritariamente femininas, de menor renda e prestígio, submetidas a sobrecarga e intensificação, das quais "
  "deriva o desgaste (CECILIO; LACAZ, 2012; ANTUNES, 2018). A quase invisibilidade da medicina (12 CATs em oito anos, ante 1.360 a "
- "1.702 médicos ativos no CNES) não autoriza concluir menor exposição: indica inserção por vínculos estatutários, autônomos e de "
+ "1.702 vínculos formais de médicos na RAIS) não autoriza concluir menor exposição: indica inserção por vínculos estatutários, autônomos e de "
  "pessoa jurídica, situados fora do emprego celetista coberto pela CAT, o que configura desigualdade de proteção e de reconhecimento "
  "institucional e reitera, no plano previdenciário, a estratificação de classe e de prestígio entre as profissões (LEMOS, 2012). Pela "
  "mesma razão, agentes comunitários de saúde e agentes de combate às endemias, majoritariamente vinculados à administração pública "
@@ -170,7 +169,7 @@ CORPO = [
  # Limitações
  "[[b]]Limitações.[[/b]] A CAT capta comunicações, e não a totalidade dos acidentes e adoecimentos; cobre essencialmente o emprego "
  "formal celetista, excluindo trabalhadores informais, autônomos e estatutários; não há denominadores plenamente compatíveis para o "
- "cálculo de incidência, e as razões com o CNES são exploratórias, porque o denominador inclui vínculos não cobertos pela CAT; a "
+ "cálculo de incidência, as razões com a RAIS são comensuráveis, pois tanto o numerador quanto o denominador provêm do universo celetista; a "
  "cobertura da fonte é parcial em 2018 (competências desde julho), irregular em 2022, atípica de setembro a dezembro de 2024 e "
  "incompleta em 2025 (dados até outubro), o que restringe comparações anuais; registros sem CBO válido podem subestimar as profissões "
  "da saúde entre 2021 e 2023; e o desenho descritivo e documental não permite inferência causal.",
@@ -254,8 +253,10 @@ REFS = [
  "BRASIL. Instituto Nacional do Seguro Social. [[b]]Comunicações de Acidente de Trabalho (CAT)[[/b]]: dados abertos, competências de "
  "julho de 2018 a dezembro de 2025. Brasília, DF: INSS, 2026a. Disponível em: "
  "https://dados.gov.br/dados/conjuntos-dados/inss-comunicacao-de-acidente-de-trabalho-cat. Acesso em: 18 jul. 2026.",
+ "BRASIL. Ministério do Trabalho e Emprego. [[b]]Relação Anual de Informações Sociais (RAIS)[[/b]]: microdados, vínculos, "
+ "2018-2023. Brasília, DF: PDET/MTE, 2026b. Disponível em: ftp://ftp.mtps.gov.br/pdet/microdados/RAIS. Acesso em: 18 jul. 2026.",
  "BRASIL. Ministério da Saúde. DATASUS. [[b]]CNES: recursos humanos, profissionais, indivíduos, segundo CBO 2002, Rio de "
- "Janeiro[[/b]]. Brasília, DF: Ministério da Saúde, 2026b. Disponível em: http://tabnet.datasus.gov.br. Acesso em: 18 jul. 2026.",
+ "Janeiro[[/b]]. Brasília, DF: Ministério da Saúde, 2026c. Disponível em: http://tabnet.datasus.gov.br. Acesso em: 18 jul. 2026.",
  "CECILIO, L. C. O.; LACAZ, F. A. C. [[b]]O trabalho em saúde[[/b]]. Rio de Janeiro: Cebes, 2012.",
  "IBGE. [[b]]Sistema IBGE de Recuperação Automática (SIDRA)[[/b]]: Censo Demográfico 2022 (tabela 4714); Produto Interno Bruto dos "
  "Municípios (tabela 5938); Produção Agrícola Municipal (tabela 1612). Rio de Janeiro: IBGE, 2026. Disponível em: "

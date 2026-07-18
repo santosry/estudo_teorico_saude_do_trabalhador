@@ -1,0 +1,24 @@
+  2018: baixando... concluído (554.5 MB)
+  2018: 7403 vínculos ativos de saúde em Campos (extraído em 419s)
+  2019: baixando...   2019: BLOQUEIO — timed out
+  2020: já existe (516.8 MB)
+  2020: 8012 vínculos ativos de saúde em Campos (extraído em 352s)
+  2021: baixando... concluído (567.0 MB)
+  2021: 8386 vínculos ativos de saúde em Campos (extraído em 422s)
+  2022: baixando...   2022: BLOQUEIO — [Errno 11001] getaddrinfo failed
+  2023: baixando...   2023: BLOQUEIO — [Errno 11001] getaddrinfo failed
+  2024: baixando...   2024: BLOQUEIO — [Errno 11001] getaddrinfo failed
+  2025: baixando...   2025: BLOQUEIO — [Errno 11001] getaddrinfo failed
+
+3 arquivos 7z removidos (configure KEEP_RAIS_7Z=1 para mantê-los).
+Traceback (most recent call last):
+  File "C:\Users\oorie\OneDrive\Documentos\TRABALHOS\SAÚDE DO TRABALHADOR\scripts\pipeline\11_denominadores_rais.py", line 157, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\oorie\OneDrive\Documentos\TRABALHOS\SAÚDE DO TRABALHADOR\scripts\pipeline\11_denominadores_rais.py", line 154, in main
+    print("\n\u2713 T23/T24 (RAIS/PDET, denominadores COMENSURÁVEIS) em saidas/tabelas/")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oorie\AppData\Local\Programs\Python\Python314\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2713' in position 2: character maps to <undefined>

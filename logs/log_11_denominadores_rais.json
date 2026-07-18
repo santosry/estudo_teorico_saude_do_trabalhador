@@ -1,0 +1,16 @@
+{
+ "fonte": "RAIS/PDET",
+ "anos_ok": [
+  2018,
+  2019,
+  2020,
+  2021,
+  2022,
+  2023
+ ],
+ "pendentes": [
+  2024,
+  2025
+ ],
+ "nota": "RAIS col25 para 2023+ (layout .COMT, sep=',')"
+}
