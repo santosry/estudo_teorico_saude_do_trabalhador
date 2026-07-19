@@ -1,0 +1,42 @@
+{
+ "execucao": "2026-07-19T15:06:58.986000",
+ "serie": {
+  "inicio": "2018-01",
+  "fim": "2025-10",
+  "n_meses": 94,
+  "total_cats": 1144
+ },
+ "mann_kendall": {
+  "trend": "no trend",
+  "p": 0.4115688488985736,
+  "tau": 0.05765271105010295,
+  "slope": 0.02127659574468085
+ },
+ "adf": {
+  "estatistica": -5.803394403090546,
+  "p": 4.5753357487093557e-07,
+  "lags": 0
+ },
+ "arima": {
+  "disponivel": true,
+  "aic": 631.7623562825001
+ },
+ "periodos": {
+  "Pré-pandemia": {
+   "media_mensal": 13.75,
+   "dp": 5.16
+  },
+  "Período crítico covid-19": {
+   "media_mensal": 14.45,
+   "dp": 4.74
+  },
+  "Pós-pandemia": {
+   "media_mensal": 10.92,
+   "dp": 6.92
+  },
+  "Recente": {
+   "media_mensal": 13.05,
+   "dp": 10.45
+  }
+ }
+}

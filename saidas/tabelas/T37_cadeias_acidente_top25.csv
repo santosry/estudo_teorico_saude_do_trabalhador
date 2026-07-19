@@ -1,0 +1,26 @@
+﻿cat_grupo;agente_grupo;cid_grupo;tipo_acidente;n
+Enfermagem (nível técnico);Agente biológico/infeccioso;Exposição doenças transmissíveis (Z20);Típico;116
+Enfermagem (nível técnico);Agente biológico/infeccioso;Ferimento punho/mão (S61);Típico;84
+Enfermagem (nível técnico);Ferramenta manual;Ferimento punho/mão (S61);Típico;80
+Enfermagem (nível técnico);Ferramenta manual;Exposição doenças transmissíveis (Z20);Típico;45
+Enfermagem (nível técnico);Não informado;Exposição doenças transmissíveis (Z20);Típico;29
+Enfermagem (nível técnico);Agente biológico/infeccioso;Causas externas (Y);Típico;28
+Enfermagem (nível superior);Agente biológico/infeccioso;Ferimento punho/mão (S61);Típico;27
+Enfermagem (nível técnico);Não informado;Ferimento punho/mão (S61);Típico;26
+Enfermagem (nível técnico);Outros agentes;Outros traumatismos (S00-T98);Típico;21
+Enfermagem (nível técnico);Outros agentes;Doenças osteomusculares (M);Típico;20
+Enfermagem (nível técnico);Outros agentes;Ferimento punho/mão (S61);Típico;20
+Enfermagem (nível técnico);Superfície/piso/escada;Entorse tornozelo (S93);Típico;19
+Enfermagem (nível superior);Agente biológico/infeccioso;Exposição doenças transmissíveis (Z20);Típico;18
+Enfermagem (nível técnico);Veículo/transporte;Outros traumatismos (S00-T98);Trajeto;18
+Enfermagem (nível técnico);Outros agentes;Causas externas (Y);Típico;14
+Enfermagem (nível técnico);Mobiliário/acessórios;Traumatismo punho/mão (S60-S69);Típico;14
+Enfermagem (nível técnico);Superfície/piso/escada;Outros traumatismos (S00-T98);Típico;14
+Enfermagem (nível técnico);Outros agentes;Outros traumatismos (S00-T98);Trajeto;13
+Enfermagem (nível técnico);Outros agentes;Traumatismo joelho/perna (S80-S89);Trajeto;13
+Enfermagem (nível técnico);Veículo/transporte;Traumatismo joelho/perna (S80-S89);Trajeto;12
+Enfermagem (nível técnico);Outros agentes;Exposição doenças transmissíveis (Z20);Típico;12
+Enfermagem (nível técnico);Mobiliário/acessórios;Outros traumatismos (S00-T98);Típico;12
+Enfermagem (nível técnico);Não informado;Causas externas (Y);Típico;12
+Enfermagem (nível técnico);Superfície/piso/escada;Traumatismo joelho/perna (S80-S89);Típico;12
+Enfermagem (nível superior);Não informado;Ferimento punho/mão (S61);Típico;11

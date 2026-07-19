@@ -1,0 +1,4 @@
+﻿comparacao;chi2;gl;p_valor;v_cramer;significativo;n
+Ocupação × CID;352.57;268;0.000397;0.2776;Sim;1144
+Ocupação × Agente;76.76;36;8.9e-05;0.1295;Sim;1144
+Ocupação × Tipo de acidente;15.6;8;0.048434;0.0826;Sim;1144

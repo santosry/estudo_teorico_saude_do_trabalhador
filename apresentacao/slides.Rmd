@@ -1,6 +1,5 @@
 ---
-title: "Trabalho e desgaste nas profissões da saúde de Campos dos Goytacazes"
-subtitle: "CAT, regimes previdenciários e determinação social do processo saúde-doença (2018-2025)"
+title: "Trabalho, saúde e profissão em Campos dos Goytacazes (RJ)"
 author: "Ryan Santos"
 date: "Julho de 2026"
 output:
@@ -11,133 +10,107 @@ output:
 
 ## Estrutura
 
-1. Por que este estudo
-2. Campos: território, economia e ciclos
-3. Duplo regime previdenciário
-4. Mortalidade e IPS
-5. Fontes e método
-6. Quem se acidenta
-7. Análise de sensibilidade
-8. A epidemia invisível
-9. Implicações e limites
-10. Referências
+1. Território e indicadores sociais
+2. Ciclos econômicos e regimes previdenciários
+3. IPS 2024-2026 e mortalidade
+4. Fontes e método
+5. Resultados descritivos
+6. Séries temporais
+7. Redes de associação
+8. SINAN e CAT: sistemas complementares
+9. Discussão
+10. Limitações e implicações
 
 ---
 
-## Por que este estudo
+## Território e indicadores sociais
 
-**Oliveira (2004)** demonstra que as transformações no mundo do trabalho, desde a Revolução Industrial, têm como característica central a disciplina dos corpos e dos tempos dos trabalhadores.
+**Campos dos Goytacazes (RJ)**
 
-- A Saúde do Trabalhador afirma a **determinação social** do processo saúde-doença, com centralidade no trabalho enquanto organizador da vida social (Mendes e Dias, 1991)
-- O trabalho em saúde se realiza sob **divisão social e técnica**, com hierarquias e desgaste (Cecílio e Lacaz, 2012)
-- Entre **30% e 50%** dos empregados do SUS não têm direitos trabalhistas plenos
-- A **CAT cobre apenas celetistas**. Estatutários (RPPS) ficam invisíveis
-
----
-
-## Campos dos Goytacazes
-
-```{r, echo=FALSE, fig.width=8, fig.height=3.5}
-dados <- data.frame(
-  Indicador = c("População (2022)", "IDHM (2010)", "PIB per capita (2023)", 
-                "Pobreza (< 1/2 SM)", "IPS 2026", "Oportunidades (IPS)"),
-  Valor = c(483540, 0.716, 88831, 37.7, 62.68, 48.6)
-)
-barplot(dados$Valor, names.arg=dados$Indicador, horiz=TRUE, las=1, 
-        col="steelblue", main="Indicadores selecionados")
-```
-
-- Maior município fluminense (4.032,5 km²)
-- 3.083 quilombolas, 363 indígenas
-- Economia dependente do petróleo desde os anos 1980
+- **483.540** habitantes (IBGE, Censo 2022)
+- **IDHM 0,716** (abaixo da média estadual de 0,761)
+- **37,7%** com renda até 1/2 salário mínimo per capita
+- **PIB per capita R$ 88.831** (2023, SIDRA 5938)
+- **15.002** pessoas ocupadas na saúde (CEMPRE 2024)
+- **IPS 2026: 62,68/100** (Oportunidades: 48,6; Segurança Pessoal: 52,8)
 
 ---
 
-## Três ciclos econômicos
+## Ciclos econômicos
 
-| Ciclo | Período | Impacto |
-|-------|---------|---------|
-| **Açucareiro** | Séc. XVIII-XX | Monocultura, grande propriedade, trabalho escravizado |
-| **Petrolífero** | 1970-2014 | Extrativismo, royalties, expansão do setor público |
-| **Estagnação** | 2014-hoje | Declínio dos repasses, desemprego, pressão sobre o SUS |
+| Ciclo | Período | Impacto no trabalho em saúde |
+|-------|---------|------------------------------|
+| **Açucareiro** | Séc. XVIII-XX | Colapso nos anos 1980, desemprego em massa |
+| **Petrolífero** | 1970-2014 | Royalties expandem setor público municipal |
+| **Estagnação** | 2014-hoje | Queda de repasses, precarização de vínculos |
 
-Silva e Hasenclever (2019) concluem que o ciclo petrolífero, apesar de posicionar Campos como o maior receptor de royalties do país, não superou o subdesenvolvimento histórico do município.
+Silva e Hasenclever (2019): o ciclo petrolífero não superou o subdesenvolvimento histórico do município.
 
 ---
 
 ## Duplo regime previdenciário
 
-```{r, echo=FALSE}
- library(ggplot2)
- df <- data.frame(
-   Regime = c("RPPS (estatutários)", "INSS (celetistas)"),
-   Contribuicoes = c(61.2, 18.3)
- )
- ggplot(df, aes(x=Regime, y=Contribuicoes, fill=Regime)) +
-   geom_col() + ylab("R$ milhões (2024)") + theme_minimal() +
-   ggtitle("Contribuições patronais - Prefeitura de Campos")
-```
+**Portal da Transparência de Campos, 2024**
 
-- **RPPS**: R$ 61,2 mi + R$ 2,5 mi de aporte atuarial
-- **INSS**: R$ 18,3 mi (único coberto pela CAT)
-- Razão RPPS/INSS = 3,3: predomínio estatutário no orçamento
-- Acidentes de estatutários: registros no PREVICAMPOS, **sem base nacional pública**
+- **RPPS (estatutários): R$ 61,2 milhões** em contribuições patronais
+- **INSS (celetistas): R$ 18,3 milhões**
+- Razão RPPS/INSS = **3,3**: predomínio estatutário no orçamento
+- **CAT é exclusiva do INSS**. Estatutários (PREVICAMPOS) invisíveis ao sistema nacional
+- **71%** das receitas municipais são transferências (Siconfi/STN)
 
 ---
 
-## Mortalidade e IPS
+## IPS 2024-2026 e mortalidade
 
-```{r, echo=FALSE}
-anos <- 2019:2024
-taxas <- c(8.5, 9.5, 10.9, 9.5, 8.1, 8.4)
-plot(anos, taxas, type="b", col="darkred", lwd=2, pch=19,
-     main="Taxa bruta de mortalidade (por 1.000 hab.)",
-     ylim=c(7,12), xlab="Ano", ylab="Taxa/1.000")
-abline(v=2021, lty=2, col="gray")
-text(2021, 11.2, "Pico covid-19", cex=0.8)
-```
+**IPS Brasil (ipsbrasil.org.br)**
 
-- **2021**: infecciosas tornam-se 1ª causa (27,5%)
-- **IPS 2026**: 62,68/100. Oportunidades: 48,6. Segurança Pessoal: 52,8
-- Homicídios: 25,3/100 mil hab. Mortes no trânsito: 22,5/100 mil
+| Indicador | 2024 | 2026 | Var |
+|-----------|------|------|-----|
+| IPS Global | 62,37 | 62,68 | +0,31 |
+| Saúde e Bem-estar | 57,43 | 58,90 | +1,47 |
+| Segurança Pessoal | 56,35 | 52,77 | -3,58 |
+| Hospitalizações CSAP | 610 | 883 | +273 |
+
+**SIM/DATASUS 2019-2024**: 4.199 a 5.635 óbitos/ano. Pico em 2021 (10,9/1.000) com infecciosas como 1ª causa.
 
 ---
 
 ## Fontes e método
 
-| Fonte | Acesso | Período | Valor-chave |
-|-------|--------|---------|-------------|
-| CAT/INSS | Portal Dados Abertos | 2018-2025 | 1.144 CATs saúde |
-| RAIS | FTP do MTE | 2018-2025 | 1.099-1.393 médicos |
-| SIM | microdatasus (R) | 2019-2024 | 4.199-5.635 óbitos |
-| CNES-PF | microdatasus (R) | 2018-2025 | 13.839-18.382 prof. |
-| CEMPRE, SIDRA | IBGE | 2022-2024 | 16.776 empresas |
-| Finanças, RPPS | Siconfi, Portal Transp. | 2013-2024 | RPPS 61,2 mi |
-| IPS Brasil | ipsbrasil.org.br | 2026 | IPS 62,68 |
+| Fonte | Período | Contribuição ao estudo |
+|-------|---------|------------------------|
+| **CAT/INSS** (Portal Dados Abertos) | 2018-2025 | 1.144 CATs de profissões da saúde |
+| **RAIS/PDET** (ftp.mtps.gov.br) | 2018-2025 | Denominadores celetistas comensuráveis |
+| **CNES-PF** (microdatasus, R) | 2018-2025 | Triangulação de denominadores |
+| **SIM** (microdatasus, R) | 2019-2024 | Perfil de mortalidade municipal |
+| **SINAN** (ftp.datasus.gov.br) | 2018-2022 | 46 .dbc, 9 agravos, 126,5 MB |
+| **IPS Brasil** | 2024-2026 | Evolução trianual de indicadores sociais |
 
-- **938 duplicados removidos** (401 hashes SHA-256)
-- **458 CBOs** auditados, 38 testes, pipeline reprodutível
+**Pipeline reprodutível**: 16 scripts, 938 duplicados removidos, 458 CBOs auditados.
 
 ---
 
-## Quem se acidenta: 1.144 CATs (2018-2025)
+## Análises realizadas
 
-```{r, echo=FALSE}
-cats <- c(803, 163, 78, 30, 20, 14, 12, 24)
-nomes <- c("Téc. enf.", "Enfermeiros", "Diag./lab.", "Fisioterapia",
-           "Farm. téc.", "ACS", "Medicina", "Demais")
-pie(cats, labels=paste(nomes, cats), col=rainbow(8), 
-    main="Distribuição das CATs (n=1.144)")
-```
-
-- **84,4% concentrados na enfermagem**
-- 85,7% mulheres, idade mediana 36 anos
-- 81,9% acidentes típicos, 17,1% trajeto, 1,0% doença
-- Dedo: 43,9%. Agente biológico: 26,9%. CID S61: 25,1%
+1. **Descritiva** com sensibilidade em 6 cenários
+2. **Séries temporais**: decomposição clássica, Mann-Kendall, ADF, LOESS com IC bootstrap, ARIMA(1,0,1)(1,0,0)[12] com intervenção pandêmica
+3. **Redes de associação**: Apriori (lift, confiança, suporte), grafos bipartidos, χ² com V de Cramér, razões de prevalência
+4. **IPS trianual**: evolução 2024-2025-2026
 
 ---
 
-## Análise de sensibilidade
+## Resultados descritivos: 1.144 CATs (2018-2025)
+
+- **Enfermagem**: 84,4% (técnicos/auxiliares: 70,2%, enfermeiros: 14,2%)
+- **Medicina**: 1,0% (12 CATs em 8 anos)
+- **85,7% mulheres**, idade mediana 36 anos
+- **81,9%** acidentes típicos, **17,1%** trajeto, **1,0%** doença
+- **CID-10 S61**: 25,1% (dedo: 43,9%). **Z20**: 21,9%
+- Agente biológico: 26,9%. CNAE 86-87: 95,4%. Hospitalar (8610): 76,8%
+
+---
+
+## Sensibilidade: achados robustos
 
 | Cenário | n | Enfermagem % |
 |---------|---|-------------|
@@ -148,98 +121,101 @@ pie(cats, labels=paste(nomes, cats), col=rainbow(8),
 | Somente típicos | 937 | 85,0 |
 | Típicos em CNAE 86-87 | 937 | 86,3 |
 
-- Enfermagem varia entre **84,4% e 86,3%**
-- Hierarquia das categorias **inalterada** em todos os cenários
+Hierarquia das categorias **inalterada** em todos os cenários.
 
 ---
 
-## Medicina invisível
+## Séries temporais
 
-```{r, echo=FALSE}
-anos <- 2018:2025
-med_rais <- c(1393, 1346, 1252, 1208, 1237, 1156, 1121, 1099)
-plot(anos, med_rais, type="b", col="blue", lwd=2, ylim=c(0,1500),
-     main="Médicos celetistas ativos (RAIS 2018-2025)", ylab="Vínculos")
-```
-
-- **1.099 a 1.393** médicos celetistas ativos na RAIS
-- **12 CATs em 8 anos** (~1,5/ano)
-- Vínculos estatutários e PJ: fora do alcance da CAT
-- Desigualdade de proteção e de reconhecimento institucional
+- **Mann-Kendall** (série completa): tau=0,06, p=0,41 — sem tendência global
+- **Pandemia** (mar/2020-dez/2021): slope=0,50/mês, **p=0,002** — aumento significativo
+- **Dickey-Fuller**: ADF=-5,80, p<0,001 — série estacionária
+- **ARIMA(1,0,1)(1,0,0)[12]**: AIC=631,8. Pulso pandêmico limítrofe (p=0,076)
+- **t-test covid vs pós**: t=2,04, **p=0,048** — única diferença significativa
+- **CV**: 37,5% (pré) → 63,3% (pós) — maior irregularidade recente
 
 ---
 
-## Evolução temporal
+## Redes de associação
 
-```{r, echo=FALSE}
-periodos <- c("Pré-covid\n(jul/2018-fev/2020)", 
-              "Crítico\n(mar/2020-dez/2021)", 
-              "Pós\n(2022-2023)")
-medias <- c(13.8, 14.5, 11.9)
-barplot(medias, names.arg=periodos, col=c("gray60", "darkred", "gray60"),
-        main="Média mensal de CATs por período", ylab="Registros/mês")
-```
+**Duas cadeias estruturalmente distintas:**
 
-- Elevação modesta durante a pandemia (+0,7/mês)
-- Oscilações também refletem cobertura da fonte
-- A fonte é a CAT, não o acidente
+1. Ferramenta manual + Enf. técnica + S61 + Lesão imediata → **lift=6,29**
+2. Agente biológico + Enf. técnica + Z20 → confiança=82%
 
----
+**χ² ocupação × CID**: χ²=352,6, gl=268, **p<0,001**, V de Cramér=0,28
 
-## A epidemia invisível
-
-**Subnotificação seletiva:**
-
-- Doenças: apenas 1,0% das CATs
-- O sistema captura a lesão aguda e visível
-- Adoecimento crônico (LER/DORT, transtornos mentais): oculto
-- ACS e ACE: 14 registros em 8 anos
-- Servidores estatutários (RPPS): sem base consolidada nacional
-
-> A CAT é uma fotografia parcial do desgaste
+**Razões de prevalência** (enf. técnica vs demais):
+- Causas externas (Y): **RP=3,02**
+- Traumatismo punho/mão (S60-S69): **RP=2,97**
+- Exposição doenças transmissíveis (Z20): **RP=1,37**
 
 ---
 
-## Implicações
+## SINAN: contraponto à CAT
 
-1. **Proteger a base técnica da enfermagem**
-   Perfurocortantes e exposição biológica prioritários
+**46 arquivos .dbc do DATASUS (126,5 MB, 2018-2022)**
 
-2. **Romper a invisibilidade previdenciária**
-   Articular CAT, SINAN, RAIS, CNES-PF e PREVICAMPOS
+Nove agravos de notificação compulsória:
+- Acidente de Trabalho Grave, Animais Peçonhentos, Exposição a Material Biológico
+- Câncer, Dermatose, LER/DORT, Pneumoconiose, PAIR, Transtorno Mental
 
-3. **Qualificar os registros**
-   3,6% sem CBO válido (concentrados em 2021-2023)
+**CAT vs SINAN**: a CAT captura acidentes entre celetistas; o SINAN registra agravos independentemente do vínculo. A integração das bases permitirá dimensionar a subnotificação.
 
-4. **Reconhecer a dependência fiscal**
-   71% das receitas são transferências. IPS Oportunidades: 48,6
+---
+
+## Discussão: duplo diagnóstico
+
+**Epidemiológico**: enfermagem técnica concentra 84,4% das CATs. Duas cadeias de risco preveníveis: perfurocortante (ferramenta manual + S61) e biológica (agente infeccioso + Z20).
+
+**Institucional**: a distribuição das CATs reflete a estrutura de vínculos, não a estrutura de riscos. Razão RPPS/INSS=3,3. Densidade RAIS para medicina: 3,7/1.000 (2019).
+
+Souza, Melo e Vasconcellos (2017): distinção entre o "campo" institucional e a "questão" estrutural da saúde dos trabalhadores. A CAT é instrumento do campo.
+
+---
+
+## Gramsci e vigilância em saúde do trabalhador
+
+Categorias gramscianas de **hegemonia** e **Estado ampliado** fundamentam uma vigilância que articule:
+
+- Processo de trabalho
+- Determinação social da saúde
+- Participação dos trabalhadores
+- Educação popular
+
+A vigilância baseada exclusivamente em registros administrativos opera na hegemonia institucional consolidada. A incorporação da participação dos trabalhadores avança na direção contra-hegemônica.
 
 ---
 
 ## Limitações
 
-- A CAT não é a totalidade dos acidentes
-- Cobre essencialmente celetistas. Estatutários (RPPS): sem base pública
+- CAT cobre essencialmente celetistas. Estatutários (RPPS): sem base pública
 - Cobertura irregular da fonte (2018, 2022, 2024-2025)
-- Sem denominadores plenamente compatíveis
-- Desenho descritivo, sem inferência causal
+- CNES não comensurável com CAT — utilizado como triangulação
+- Desenho descritivo-analítico, sem inferência causal
+- Registros do PREVICAMPOS indisponíveis
 
-**Próximo passo:** acessar registros do PREVICAMPOS para comparar regimes
+---
+
+## Implicações
+
+1. **Proteger a enfermagem técnica**: dispositivos de segurança para perfurocortantes e EPI contínuo
+2. **Integrar registros**: CAT + SINAN + RAIS + CNES + PREVICAMPOS
+3. **Vigilância baseada em evidências**: cadeias de acidentes específicas orientam intervenções dirigidas
+4. **Planejamento da força de trabalho**: reconhecer que 71% das receitas são transferências — emprego em saúde vulnerável à volatilidade do petróleo
 
 ---
 
 ## Referências
 
 <small>
-ANTUNES, Ricardo. **O privilégio da servidão**. Boitempo, 2018.<br>
-CECÍLIO, Luiz Carlos de Oliveira; LACAZ, Francisco de Castro. **O trabalho em saúde**. Cebes, 2012.<br>
-LEMOS, Marcelo Rodrigues. Estratificação social na teoria de Max Weber. **Revista Iluminart**, 2012.<br>
-LOURENÇO, Guilherme Grandi. O fim do fim do trabalho. **Primeiros Estudos**, 2012.<br>
-MARTINS, Samuel; HASENCLEVER, Lia; MIRANDA, Caroline. A gestão da saúde... **Cad. Desenvolv. Fluminense**, 2024.<br>
-MENDES, René; DIAS, Elizabeth Costa. Da medicina do trabalho à saúde do trabalhador. **Rev. Saúde Pública**, 1991.<br>
-OLIVEIRA, Elisângela Magela. Transformações no mundo do trabalho. **Caminhos de Geografia**, 2004.<br>
-SILVA, José Eduardo Matias da; HASENCLEVER, Lia. Ciclo do petróleo... **Desenvolvimento em Questão**, 2019.<br>
-VEDOVATO, Tatiana Giovanelli; ANDRADE, Cristiane Batista; SANTOS, Daniela Lacerda; BITENCOURT, Silvana Maria; ALMEIDA, Leticia Passos de; SAMPAIO, Juliana Ferreira da Silva. Trabalhadores(as) da saúde e a COVID-19. **Rev. Bras. Saúde Ocup.**, 2021.
+BRASIL. **Lei nº 8.213/1991**. Planos de Benefícios da Previdência Social.<br>
+BRASIL. **Lei nº 9.478/1997**. Política energética nacional.<br>
+MARTINS, S.; HASENCLEVER, L.; MIRANDA, C. A gestão da saúde à luz da instabilidade de financiamento... **Cad. Desenvolv. Fluminense**, n. 27, 2024.<br>
+SILVA, J. E. M.; HASENCLEVER, L. Ciclo do petróleo e desenvolvimento socioeconômico... **Desenvolvimento em Questão**, v. 17, n. 46, 2019.<br>
+SOUZA, D. O.; MELO, A. I. S. C.; VASCONCELLOS, L. C. F. Saúde do(s) trabalhador(es): do 'campo' à 'questão'... **Saúde em Debate**, v. 41, n. 113, 2017.<br>
+VEDOVATO, T. G. et al. Trabalhadores(as) da saúde e a COVID-19... **Rev. Bras. Saúde Ocup.**, v. 46, 2021.<br>
+EM PAUTA (UERJ). O pensamento de Antonio Gramsci. **Em Pauta**, n. 32, p. 89-113, 2014.
 </small>
 
 ---
@@ -248,8 +224,6 @@ VEDOVATO, Tatiana Giovanelli; ANDRADE, Cristiane Batista; SANTOS, Daniela Lacerd
 
 **Ryan Santos**
 
-`github.com/santosry/estudo_teorico_saude_do_trabalhador`
-
-**Pipeline reprodutível, auditado e validado**
-12 scripts + 38 testes
-Python + R + LibreOffice
+Pipeline reprodutível, auditado e validado
+16 scripts de processamento + análises complementares
+Python + R

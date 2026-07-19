@@ -1,0 +1,9 @@
+﻿cid_grupo;Agente biológico/infeccioso;Ferramenta manual;Mobiliário/acessórios;Máquina/equipamento;Não informado;Outros agentes;Superfície/piso/escada;Veículo/transporte
+Causas externas (Y);30;0;0;0;14;15;1;0
+Doenças osteomusculares (M);0;0;6;0;0;30;6;5
+Entorse tornozelo (S93);0;0;0;0;0;16;30;6
+Exposição doenças transmissíveis (Z20);142;53;0;0;42;12;1;0
+Ferimento punho/mão (S61);116;92;9;3;38;28;0;1
+Outros traumatismos (S00-T98);0;3;15;0;3;42;27;24
+Traumatismo joelho/perna (S80-S89);0;0;6;1;0;32;20;14
+Traumatismo punho/mão (S60-S69);2;5;14;1;1;17;3;4

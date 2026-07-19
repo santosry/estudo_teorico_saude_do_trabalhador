@@ -1,0 +1,5 @@
+﻿periodo;inicio;fim;n_meses;n_meses_com_cat;soma;media_mensal;mediana;desvio_padrao;cv_pct;min;max
+Pré-pandemia;2018-07;2020-02;20;20;275;13.75;13;5.16;37.5;6;24
+Período crítico covid-19;2020-03;2021-12;22;22;318;14.45;14;4.74;32.8;5;24
+Pós-pandemia;2022-01;2023-12;24;22;262;10.92;11;6.92;63.3;0;23
+Recente;2024-01;2025-10;22;21;287;13.05;9;10.45;80.1;0;45

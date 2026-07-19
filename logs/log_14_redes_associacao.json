@@ -1,0 +1,12 @@
+{
+ "execucao": "2026-07-19T15:08:16.565572",
+ "n_registros": 1144,
+ "n_cid_grupos": 68,
+ "n_agente_grupos": 10,
+ "n_cat_grupos": 5,
+ "regras_associacao": 295,
+ "grafo": {
+  "nos": 17,
+  "arestas": 34
+ }
+}

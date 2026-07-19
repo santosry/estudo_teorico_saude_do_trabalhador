@@ -1,0 +1,6 @@
+﻿teste;estatística;p-valor;resultado;nota
+Mann-Kendall (série completa);tau=0.0577;p=0.4116;no trend;slope=0.0213/mês
+Dickey-Fuller Aumentado;ADF=-5.8034;p=0.0000;Estacionária;lags=0
+t-test pré vs covid;t=-0.459;p=0.6485;Não significativo;Welch
+t-test pré vs pós;t=1.554;p=0.1277;Não significativo;Welch
+t-test covid vs pós;t=2.038;p=0.0480;Significativo;Welch

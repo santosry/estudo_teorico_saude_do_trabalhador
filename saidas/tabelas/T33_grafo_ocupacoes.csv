@@ -1,0 +1,11 @@
+﻿ocupacao1;ocupacao2;peso_coocorrencia
+Enfermagem (nível técnico);Enfermagem (nível superior);11
+Enfermagem (nível técnico);Demais profissões;5
+Enfermagem (nível superior);Demais profissões;5
+Enfermagem (nível técnico);Fisioterapia;4
+Enfermagem (nível superior);Fisioterapia;4
+Enfermagem (nível técnico);Medicina;2
+Enfermagem (nível superior);Medicina;2
+Demais profissões;Fisioterapia;2
+Fisioterapia;Medicina;2
+Demais profissões;Medicina;1

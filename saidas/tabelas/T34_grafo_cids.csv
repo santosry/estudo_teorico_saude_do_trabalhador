@@ -1,0 +1,67 @@
+﻿cid1;cid2;peso_coocorrencia
+Ferimento punho/mão (S61);Exposição doenças transmissíveis (Z20);4
+Ferimento punho/mão (S61);Entorse tornozelo (S93);4
+Ferimento punho/mão (S61);Outros (W01);3
+Ferimento punho/mão (S61);Traumatismo joelho/perna (S80-S89);3
+Ferimento punho/mão (S61);Outros traumatismos (S00-T98);3
+Ferimento punho/mão (S61);Doenças osteomusculares (M);3
+Exposição doenças transmissíveis (Z20);Traumatismo joelho/perna (S80-S89);3
+Exposição doenças transmissíveis (Z20);Entorse tornozelo (S93);3
+Outros traumatismos (S00-T98);Entorse tornozelo (S93);3
+Outros traumatismos (S00-T98);Outros (W01);3
+Outros traumatismos (S00-T98);Doenças osteomusculares (M);3
+Doenças osteomusculares (M);Outros (W01);3
+Entorse tornozelo (S93);Outros (W01);3
+Traumatismo joelho/perna (S80-S89);Entorse tornozelo (S93);3
+Entorse tornozelo (S93);Doenças osteomusculares (M);3
+Exposição doenças transmissíveis (Z20);Sem registro;2
+Ferimento punho/mão (S61);Sem registro;2
+Exposição doenças transmissíveis (Z20);Outros (W01);2
+Traumatismo joelho/perna (S80-S89);Sem registro;2
+Exposição doenças transmissíveis (Z20);Causas externas (Y);2
+Exposição doenças transmissíveis (Z20);Traumatismo ombro/braço (S40-S49);2
+Exposição doenças transmissíveis (Z20);Outros traumatismos (S00-T98);2
+Outros traumatismos (S00-T98);Traumatismo joelho/perna (S80-S89);2
+Outros traumatismos (S00-T98);Sem registro;2
+Exposição doenças transmissíveis (Z20);Doenças osteomusculares (M);2
+Outros traumatismos (S00-T98);Traumatismo ombro/braço (S40-S49);2
+Traumatismo joelho/perna (S80-S89);Traumatismo punho/mão (S60-S69);2
+Outros traumatismos (S00-T98);Traumatismo punho/mão (S60-S69);2
+Outros traumatismos (S00-T98);Causas externas (Y);2
+Traumatismo joelho/perna (S80-S89);Outros (W01);2
+Exposição doenças transmissíveis (Z20);Traumatismo punho/mão (S60-S69);2
+Ferimento punho/mão (S61);Causas externas (Y);2
+Ferimento punho/mão (S61);Traumatismo punho/mão (S60-S69);2
+Ferimento punho/mão (S61);Traumatismo ombro/braço (S40-S49);2
+Traumatismo ombro/braço (S40-S49);Sem registro;2
+Traumatismo ombro/braço (S40-S49);Outros (W01);2
+Outros (W01);Sem registro;2
+Traumatismo joelho/perna (S80-S89);Traumatismo ombro/braço (S40-S49);2
+Causas externas (Y);Sem registro;2
+Causas externas (Y);Traumatismo ombro/braço (S40-S49);2
+Traumatismo joelho/perna (S80-S89);Doenças osteomusculares (M);2
+Traumatismo joelho/perna (S80-S89);Causas externas (Y);2
+Entorse tornozelo (S93);Traumatismo punho/mão (S60-S69);2
+Causas externas (Y);Entorse tornozelo (S93);2
+Causas externas (Y);Doenças osteomusculares (M);2
+Entorse tornozelo (S93);Traumatismo ombro/braço (S40-S49);2
+Entorse tornozelo (S93);Sem registro;2
+Traumatismo punho/mão (S60-S69);Traumatismo ombro/braço (S40-S49);2
+Causas externas (Y);Traumatismo punho/mão (S60-S69);2
+Causas externas (Y);Outros (W01);2
+Traumatismo punho/mão (S60-S69);Sem registro;2
+Traumatismo punho/mão (S60-S69);Doenças osteomusculares (M);2
+Doenças osteomusculares (M);Traumatismo ombro/braço (S40-S49);2
+Traumatismo punho/mão (S60-S69);Outros (W01);2
+Doenças osteomusculares (M);Sem registro;2
+Outros traumatismos (S00-T98);Outros (T01);1
+Ferimento punho/mão (S61);Outros (T01);1
+Exposição doenças transmissíveis (Z20);Outros (T01);1
+Entorse tornozelo (S93);Outros (T01);1
+Causas externas (Y);Outros (T01);1
+Traumatismo joelho/perna (S80-S89);Outros (T01);1
+Traumatismo punho/mão (S60-S69);Outros (T01);1
+Doenças osteomusculares (M);Outros (T01);1
+Traumatismo ombro/braço (S40-S49);Outros (T01);1
+Outros (W01);Outros (T01);1
+Sem registro;Outros (T01);1
