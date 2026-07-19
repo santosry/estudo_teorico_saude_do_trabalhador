@@ -51,7 +51,14 @@ par("[[b]]Trabalho e desgaste nas profissões da saúde de Campos dos Goytacazes
 # ======================== CORPO ================================================
 CORPO = [
  # §1 - Introdução teórica
- "O trabalho é um processo social, econômico e político historicamente determinado (Oliveira, 2004). As teses do fim da centralidade do trabalho não se confirmaram; houve deslocamento da classe trabalhadora para o setor de serviços, no qual hoje se concentram precarização, terceirização e intensificação (Lourenço, 2012). Desde a Revolução Industrial "
+ "Oliveira (2004) demonstra que as transformações no mundo do trabalho, desde a "
+ "Revolução Industrial até os dias atuais, têm como característica central a "
+ "disciplina dos corpos e dos tempos dos trabalhadores, produzindo padrões "
+ "específicos de adoecimento a cada configuração histórica do processo "
+ "produtivo. As teses do fim da centralidade do trabalho não se confirmaram; "
+ "houve deslocamento da classe trabalhadora para o setor de serviços, no qual "
+ "hoje se concentram precarização, flexibilização e intensificação do trabalho "
+ "(Lourenço, 2012). Desde a Revolução Industrial "
  "Desde a Revolução Industrial, o modo de organizar a produção disciplina corpos e "
  "tempos e produz padrões específicos de adoecimento (Oliveira, 2004). No Brasil, o "
  "campo da Saúde do Trabalhador constituiu-se como crítica à medicina do trabalho e "
@@ -59,8 +66,8 @@ CORPO = [
  "processo de trabalho como categoria explicativa central (Mendes e Dias, 1991). No "
  "setor saúde, o trabalho produtor do cuidado se realiza sob divisão social e técnica, "
  "relações desiguais de poder entre categorias e desgaste, em serviços submetidos à "
- "reorganização gerencial flexível (Antunes, 2018). Parcela expressiva dos vínculos do Sistema Único de Saúde (SUS) é precária Parcela expressiva dos vínculos do Sistema Único "
- "de Saúde (SUS) é precária, estimada entre 30% e 50% (Costa et al., 2012). O trabalho em saúde, argumentam os autores, realiza-se sob intensa divisão técnica e social, na qual a fragmentação das tarefas e a hierarquia entre profissões produzem padrões específicos de desgaste.",
+ "reorganização gerencial flexível. Parcela expressiva dos vínculos do Sistema Único de Saúde (SUS) é precária Parcela expressiva dos vínculos do Sistema Único "
+ "de Saúde (SUS) é precária, estimada entre 30% e 50% dos empregados (Costa et al., 2012, citando Nogueira, Baraldi e Rodrigues, 2005). O trabalho em saúde, argumentam os autores, realiza-se sob intensa divisão técnica e social, na qual a fragmentação das tarefas e a hierarquia entre profissões produzem padrões específicos de desgaste.",
 
  # §2 - Formação histórica de Campos
  "A formação econômica de Campos dos Goytacazes estrutura-se em três grandes ciclos. "
@@ -144,7 +151,7 @@ CORPO = [
  "território com IDHM de 0,716 e 37,7% da população em situação de pobreza em 2010. "
  "Nesse mercado de trabalho estratificado, os serviços de saúde, polo regional do "
  "Norte Fluminense, constituem espaço relevante de assalariamento, segmentado por "
- "hierarquias de renda e de prestígio entre profissões (Lemos, 2012). A autora, ao revisitar a teoria da estratificação de Max Weber, argumenta que as hierarquias de prestígio entre profissões não decorrem apenas da renda, mas de estamentos que conferem honra e poder diferenciados, padrão que se replica na saúde entre a medicina e as demais categorias.",
+ "hierarquias de renda e de prestígio entre profissões (Lemos, 2012). Lemos (2012), ao revisitar a teoria da estratificação de Max Weber, demonstra que as hierarquias sociais não decorrem apenas da dimensão econômica (classe), mas também de estamentos que conferem honra e prestígio diferenciados. Transportando esse quadro analítico para o campo da saúde, é possível compreender por que a medicina, como estamento de maior prestígio, e a enfermagem, como categoria subordinada na divisão técnica do trabalho, apresentam perfis tão dispares de notificação de acidentes.",
 
  # §7 - Procedimentos metodológicos
  "Este estudo, de natureza teórico-conceitual e documental, apoia-se em "
@@ -202,15 +209,15 @@ CORPO = [
  "social e técnica do trabalho em saúde. A execução manual e corporal do cuidado "
  "(punção venosa, administração de medicamentos, manipulação de perfurocortantes, "
  "mobilização de pacientes) é delegada a categorias majoritariamente femininas, de "
- "menor renda e prestígio, submetidas a intensificação e sobrecarga (Cecilio e Lacaz, "
- "2012; Antunes, 2018). O setor saúde de Campos empregava 15.002 pessoas em 2024, com "
+ "menor renda e prestígio, submetidas a intensificação e sobrecarga (Costa et al., "
+ "2012). O setor saúde de Campos empregava 15.002 pessoas em 2024, com "
  "massa salarial anual de R$ 593,9 milhões e salário médio de 2,2 salários mínimos, "
  "tornando esse contingente economicamente relevante e vulnerável à oscilação das "
  "finanças públicas. A quase invisibilidade da medicina (12 CATs em oito anos, ante "
  "1.099 a 1.393 vínculos celetistas ativos de médicos na RAIS entre 2018 e 2025) não "
  "autoriza concluir menor exposição. Indica inserção predominante por vínculos "
  "estatutários, autônomos e de pessoa jurídica, não cobertos pela CAT, configurando "
- "desigualdade de proteção e de reconhecimento (Lemos, 2012). A autora, ao revisitar a teoria da estratificação de Max Weber, argumenta que as hierarquias de prestígio entre profissões não decorrem apenas da renda, mas de estamentos que conferem honra e poder diferenciados, padrão que se replica na saúde entre a medicina e as demais categorias. A coexistência dos dois "
+ "desigualdade de proteção e de reconhecimento (Lemos, 2012). Lemos (2012), ao revisitar a teoria da estratificação de Max Weber, demonstra que as hierarquias sociais não decorrem apenas da dimensão econômica (classe), mas também de estamentos que conferem honra e prestígio diferenciados. Transportando esse quadro analítico para o campo da saúde, é possível compreender por que a medicina, como estamento de maior prestígio, e a enfermagem, como categoria subordinada na divisão técnica do trabalho, apresentam perfis tão dispares de notificação de acidentes. A coexistência dos dois "
  "regimes previdenciários materializa essa dualidade. O RPPS, com R$ 61,2 milhões em "
  "contribuições em 2024, cobre os estatutários e seus registros de afastamento não "
  "transitam pelo sistema da CAT. O INSS, com R$ 18,3 milhões no mesmo ano, cobre os "
