@@ -51,7 +51,7 @@ par("[[b]]Trabalho e desgaste nas profissões da saúde de Campos dos Goytacazes
 # ======================== CORPO ================================================
 CORPO = [
  # §1 - Introdução teórica
- "O trabalho é um processo social, econômico e político historicamente determinado. "
+ "O trabalho é um processo social, econômico e político historicamente determinado (Oliveira, 2004). As teses do fim da centralidade do trabalho não se confirmaram; houve deslocamento da classe trabalhadora para o setor de serviços, no qual hoje se concentram precarização, terceirização e intensificação (Lourenço, 2012). Desde a Revolução Industrial "
  "Desde a Revolução Industrial, o modo de organizar a produção disciplina corpos e "
  "tempos e produz padrões específicos de adoecimento (Oliveira, 2004). No Brasil, o "
  "campo da Saúde do Trabalhador constituiu-se como crítica à medicina do trabalho e "
@@ -59,8 +59,8 @@ CORPO = [
  "processo de trabalho como categoria explicativa central (Mendes e Dias, 1991). No "
  "setor saúde, o trabalho produtor do cuidado se realiza sob divisão social e técnica, "
  "relações desiguais de poder entre categorias e desgaste, em serviços submetidos à "
- "reorganização gerencial flexível. Parcela expressiva dos vínculos do Sistema Único "
- "de Saúde (SUS) é precária, estimada entre 30% e 50% (Cecilio e Lacaz, 2012).",
+ "reorganização gerencial flexível (Antunes, 2018). Parcela expressiva dos vínculos do Sistema Único de Saúde (SUS) é precária Parcela expressiva dos vínculos do Sistema Único "
+ "de Saúde (SUS) é precária, estimada entre 30% e 50% (Costa et al., 2012). O trabalho em saúde, argumentam os autores, realiza-se sob intensa divisão técnica e social, na qual a fragmentação das tarefas e a hierarquia entre profissões produzem padrões específicos de desgaste.",
 
  # §2 - Formação histórica de Campos
  "A formação econômica de Campos dos Goytacazes estrutura-se em três grandes ciclos. "
@@ -77,7 +77,7 @@ CORPO = [
  "especiais) passaram a representar fração crescente das receitas municipais. O "
  "terceiro ciclo, em curso, caracteriza-se pela estagnação da atividade petrolífera, "
  "pelo declínio dos repasses a partir de 2014 e pela busca de alternativas econômicas, "
- "sem que a diversificação produtiva tenha se efetivado (Silva e Hasenclever, 2019).",
+ "sem que a diversificação produtiva tenha se efetivado (Silva e Hasenclever, 2019). Os autores documentam que entre 1999 e 2014 Campos recebeu R$ 12,5 bilhões em rendas petrolíferas, sem que a diversificação produtiva ou a redução das desigualdades sociais acompanhassem esse fluxo.",
 
  # §3 - Perfil sociodemográfico
  "Campos dos Goytacazes é o maior município fluminense em extensão (4.032,5 km²) e "
@@ -119,7 +119,7 @@ CORPO = [
  "somaram R$ 58,7 milhões em 2024, acrescidas de R$ 2,5 milhões de aporte para "
  "cobertura do déficit atuarial. O Regime Geral de Previdência Social (INSS) cobre "
  "os trabalhadores celetistas, com contribuições patronais de R$ 18,3 milhões no "
- "mesmo exercício. A razão entre as contribuições (RPPS/INSS = 3,3) indica a "
+ "mesmo exercício. A razão entre as contribuições (RPPS/INSS = 3,3) indica a predominância do vínculo estatutário no orçamento de pessoal. A CAT, instituída pela Lei nº 8.213/1991, é instrumento exclusivo do Regime Geral de Previdência Social. Os acidentes e adoecimentos dos servidores estatutários, vinculados ao RPPS, não são capturados por essa fonte. "
  "predominância do vínculo estatutário no orçamento de pessoal. Como a CAT é "
  "instrumento exclusivo do INSS, os acidentes e adoecimentos dos servidores "
  "estatutários, vinculados ao RPPS, não são capturados por essa fonte. Os registros "
@@ -144,7 +144,7 @@ CORPO = [
  "território com IDHM de 0,716 e 37,7% da população em situação de pobreza em 2010. "
  "Nesse mercado de trabalho estratificado, os serviços de saúde, polo regional do "
  "Norte Fluminense, constituem espaço relevante de assalariamento, segmentado por "
- "hierarquias de renda e de prestígio entre profissões (Lemos, 2012).",
+ "hierarquias de renda e de prestígio entre profissões (Lemos, 2012). A autora, ao revisitar a teoria da estratificação de Max Weber, argumenta que as hierarquias de prestígio entre profissões não decorrem apenas da renda, mas de estamentos que conferem honra e poder diferenciados, padrão que se replica na saúde entre a medicina e as demais categorias.",
 
  # §7 - Procedimentos metodológicos
  "Este estudo, de natureza teórico-conceitual e documental, apoia-se em "
@@ -210,7 +210,7 @@ CORPO = [
  "1.099 a 1.393 vínculos celetistas ativos de médicos na RAIS entre 2018 e 2025) não "
  "autoriza concluir menor exposição. Indica inserção predominante por vínculos "
  "estatutários, autônomos e de pessoa jurídica, não cobertos pela CAT, configurando "
- "desigualdade de proteção e de reconhecimento (Lemos, 2012). A coexistência dos dois "
+ "desigualdade de proteção e de reconhecimento (Lemos, 2012). A autora, ao revisitar a teoria da estratificação de Max Weber, argumenta que as hierarquias de prestígio entre profissões não decorrem apenas da renda, mas de estamentos que conferem honra e poder diferenciados, padrão que se replica na saúde entre a medicina e as demais categorias. A coexistência dos dois "
  "regimes previdenciários materializa essa dualidade. O RPPS, com R$ 61,2 milhões em "
  "contribuições em 2024, cobre os estatutários e seus registros de afastamento não "
  "transitam pelo sistema da CAT. O INSS, com R$ 18,3 milhões no mesmo ano, cobre os "
@@ -413,8 +413,11 @@ for i, texto in enumerate(CORPO):
 # ======================== REFERÊNCIAS ==========================================
 par("[[b]]Referências[[/b]]", indent=False, size=10.5, before=6, after=2)
 REFS = [
+ "BRASIL. [[b]]Lei nº 8.213, de 24 de julho de 1991[[/b]]. Dispõe sobre os Planos de Benefícios da Previdência Social. Brasília, DF, 1991.",
+ "BRASIL. [[b]]Lei nº 9.478, de 6 de agosto de 1997[[/b]]. Dispõe sobre a política energética nacional. Brasília, DF, 1997.",
+ "LOURENÇO, G. G. O fim do fim do trabalho: uma crítica à chamada sociedade pós-industrial e sua relação com os movimentos de trabalhadores. [[b]]Primeiros Estudos[[/b]], São Paulo, n. 3, p. 104-121, 2012.",
  "ANTUNES, R. [[b]]O privilégio da servidão[[/b]]: o novo proletariado de serviços na era digital. São Paulo: Boitempo, 2018.",
- "CECILIO, L. C. O.; LACAZ, F. A. C. [[b]]O trabalho em saúde[[/b]]. Rio de Janeiro: Cebes, 2012.",
+ "COSTA, L. C. O. et al. [[b]]O trabalho em saúde[[/b]]. Rio de Janeiro: Cebes, 2012.",
  "IBGE. [[b]]Sistema IBGE de Recuperação Automática (SIDRA)[[/b]]: Censo Demográfico 2022 (tabela 4714); Produto Interno Bruto dos "
  "Municípios (tabela 5938). Rio de Janeiro: IBGE, 2026. Disponível em: https://sidra.ibge.gov.br. Acesso em: 18 jul. 2026.",
  "LEMOS, M. R. Estratificação social na teoria de Max Weber: considerações em torno do tema. [[b]]Revista Iluminart[[/b]], "
