@@ -49,7 +49,10 @@ par("[[b]]Trabalho, saúde e profissão em Campos dos Goytacazes (RJ)[[/b]]",
 # ======================== CORPO ================================================
 CORPO = [
  # §1 - INTRODUÇÃO
- "Este ensaio sustenta que a estrutura de vínculos previdenciários do município de "
+ "Oliveira (2004) demonstra que as transformações no mundo do trabalho, desde a "
+ "Revolução Industrial até os dias atuais, produzem padrões específicos de adoecimento "
+ "a cada configuração histórica do processo produtivo. No setor saúde, essa dinâmica se "
+ "expressa de forma particularmente aguda. Este ensaio sustenta que a estrutura de vínculos previdenciários do município de "
  "Campos dos Goytacazes, conformada por sua economia política dependente do petróleo, "
  "produz um regime de visibilidade seletiva dos acidentes de trabalho no setor saúde. "
  "Nesse regime, categorias majoritariamente femininas, de menor remuneração e vínculo "
@@ -470,7 +473,11 @@ T7 = [
 
 # ======================== MONTAGEM ============================================
 for i, texto in enumerate(CORPO):
-    par(texto, indent=True, after=2)
+    # Split on \n\n to create separate paragraphs with individual indent
+    partes = texto.split("\n\n")
+    for j, parte in enumerate(partes):
+        if parte.strip():
+            par(parte, indent=True, after=2)
     if i == 1:
         par("[[b]]Tabela 1.[[/b]] Evolução do IPS de Campos dos Goytacazes (RJ), 2024-2026",
             indent=False, size=9.5, before=4, after=2)
@@ -534,6 +541,9 @@ REFS = [
  "Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm. Acesso em: 19 jul. 2026.",
  "BRASIL. [[b]]Lei nº 9.478, de 6 de agosto de 1997[[/b]]. Dispõe sobre a política energética nacional. Brasília, DF, 1997. "
  "Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l9478.htm. Acesso em: 19 jul. 2026.",
+ "OLIVEIRA, E. M. Transformações no mundo do trabalho, da Revolução Industrial aos nossos dias. "
+ "[[b]]Caminhos de Geografia[[/b]], Uberlândia, v. 6, n. 11, p. 84-96, fev. 2004. DOI: 10.14393/rcg51115327. "
+ "Disponível em: https://doi.org/10.14393/rcg51115327. Acesso em: 19 jul. 2026.",
  "FRANÇA, Maria Júlia Paiva de. O pensamento de Antônio Gramsci na luta pela Saúde do Trabalhador. [[b]]Revista Em Pauta: teoria social e realidade contemporânea[[/b]], "
  "Rio de Janeiro, v. 11, n. 32, p. 89-113, 2014. DOI: 10.12957/rep.2013.10157. "
  "Disponível em: https://doi.org/10.12957/rep.2013.10157. Acesso em: 19 jul. 2026.",
