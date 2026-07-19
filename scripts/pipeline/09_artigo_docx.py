@@ -67,7 +67,7 @@ CORPO = [
  "setor saúde, o trabalho produtor do cuidado se realiza sob divisão social e técnica, "
  "relações desiguais de poder entre categorias e desgaste, em serviços submetidos à "
  "reorganização gerencial flexível. Parcela expressiva dos vínculos do Sistema Único de Saúde (SUS) é precária Parcela expressiva dos vínculos do Sistema Único "
- "de Saúde (SUS) é precária, estimada entre 30% e 50% dos empregados (Costa et al., 2012, citando Nogueira, Baraldi e Rodrigues, 2005). O trabalho em saúde, argumentam os autores, realiza-se sob intensa divisão técnica e social, na qual a fragmentação das tarefas e a hierarquia entre profissões produzem padrões específicos de desgaste.",
+ "de Saúde (SUS) é precária, estimada entre 30% e 50% dos empregados (Cecílio e Lacaz, 2012, citando Nogueira, Baraldi e Rodrigues, 2005). O trabalho em saúde, argumentam os autores, realiza-se sob intensa divisão técnica e social, na qual a fragmentação das tarefas e a hierarquia entre profissões produzem padrões específicos de desgaste.",
 
  # §2 - Formação histórica de Campos
  "A formação econômica de Campos dos Goytacazes estrutura-se em três grandes ciclos. "
@@ -425,12 +425,12 @@ REFS = [
  "BRASIL. [[b]]Lei nº 9.478, de 6 de agosto de 1997[[/b]]. Dispõe sobre a política energética nacional. Brasília, DF, 1997.",
  "LOURENÇO, G. G. O fim do fim do trabalho: uma crítica à chamada sociedade pós-industrial e sua relação com os movimentos de trabalhadores. [[b]]Primeiros Estudos[[/b]], São Paulo, n. 3, p. 104-121, 2012.",
  "ANTUNES, R. [[b]]O privilégio da servidão[[/b]]: o novo proletariado de serviços na era digital. São Paulo: Boitempo, 2018.",
- "COSTA, L. C. O. et al. [[b]]O trabalho em saúde[[/b]]. Rio de Janeiro: Cebes, 2012.",
+ "CECÍLIO, Luiz Carlos de Oliveira; LACAZ, Francisco de Castro. [[b]]O trabalho em saúde[[/b]]. Rio de Janeiro: Cebes, 2012.",
  "IBGE. [[b]]Sistema IBGE de Recuperação Automática (SIDRA)[[/b]]: Censo Demográfico 2022 (tabela 4714); Produto Interno Bruto dos "
  "Municípios (tabela 5938). Rio de Janeiro: IBGE, 2026. Disponível em: https://sidra.ibge.gov.br. Acesso em: 18 jul. 2026.",
  "LEMOS, M. R. Estratificação social na teoria de Max Weber: considerações em torno do tema. [[b]]Revista Iluminart[[/b]], "
  "Sertãozinho, ano 4, n. 9, p. 113-128, nov. 2012.",
- "MARTINS, S.; HASENCLEVER, L.; MIRANDA, C. A gestão da saúde à luz da instabilidade de financiamento e das propostas de governo. "
+ "MARTINS, Samuel; HASENCLEVER, Lia; MIRANDA, Caroline. A gestão da saúde à luz da instabilidade de financiamento e das propostas de governo. "
  "[[b]]Cadernos do Desenvolvimento Fluminense[[/b]], Rio de Janeiro, n. 27, 2024. Disponível em: "
  "https://doi.org/10.12957/cdf.2024.87352. Acesso em: 18 jul. 2026.",
  "MENDES, R.; DIAS, E. C. Da medicina do trabalho à saúde do trabalhador. [[b]]Revista de Saúde Pública[[/b]], São Paulo, v. 25, "
