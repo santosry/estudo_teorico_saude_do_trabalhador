@@ -49,7 +49,7 @@ par("[[b]]Trabalho, saúde e profissão em Campos dos Goytacazes (RJ)[[/b]]",
 # ======================== CORPO ================================================
 CORPO = [
  # §1 - INTRODUÇÃO
- "Este artigo sustenta que a estrutura de vínculos previdenciários do município de "
+ "Este ensaio sustenta que a estrutura de vínculos previdenciários do município de "
  "Campos dos Goytacazes, conformada por sua economia política dependente do petróleo, "
  "produz um regime de visibilidade seletiva dos acidentes de trabalho no setor saúde. "
  "Nesse regime, categorias majoritariamente femininas, de menor remuneração e vínculo "
@@ -143,13 +143,12 @@ CORPO = [
  "pela Lei nº 8.213 de 1991, é instrumento exclusivo do INSS. Os acidentes e adoecimentos "
  "dos servidores estatutários, vinculados ao RPPS e geridos pelo PREVICAMPOS, não são "
  "capturados por essa fonte. Essa dualidade de regimes produz uma assimetria fundamental "
- "de visibilidade previdenciária que estrutura os achados deste estudo, conforme a "
+ "de visibilidade previdenciária que estrutura os achados deste ensaio, conforme a "
  "Tabela 3.",
 
  # §4 - MÉTODOS
  "Este ensaio integra uma agenda mais ampla de investigação sobre a Saúde do "
- "Trabalhador em Campos dos Goytacazes. Seu propósito não é esgotar a análise "
- "epidemiológica dos acidentes de trabalho, mas construir o diagnóstico "
+ "Trabalhador em Campos dos Goytacazes. Seu propósito é construir o diagnóstico "
  "territorial e institucional necessário para estudos posteriores sobre "
  "processos de trabalho, adoecimento e vigilância. Trata-se de uma análise "
  "exploratória do território apoiada na triangulação de bases secundárias "
@@ -186,8 +185,7 @@ CORPO = [
  "compreendeu a identificação de padrões de associação entre ocupação, agente "
  "causador e diagnóstico, utilizando o algoritmo Apriori (métricas de suporte, "
  "confiança e [[i]]lift[[/i]]), grafos bipartidos e teste qui-quadrado com "
- "V de Cramér. Essas abordagens não visam estimar parâmetros populacionais ou "
- "estabelecer inferência causal, mas identificar regularidades que contribuam "
+ "V de Cramér. Essas abordagens identificam regularidades que contribuam "
  "para a caracterização do regime de visibilidade previdenciária. "
  "Adicionalmente, 46 arquivos do SINAN/DATASUS (126,5 MB, nove agravos "
  "relacionados ao trabalho, 2018-2022, FTP do DATASUS) foram obtidos para "
@@ -291,9 +289,8 @@ CORPO = [
  "perfurocortantes."
  "\n\n"
  "O segundo diagnóstico é de natureza institucional. A concentração das CATs na "
- "enfermagem e a quase ausência da medicina, com apenas 1,0%, não refletem uma "
- "distribuição real de risco ocupacional, mas sim a estrutura de vínculos "
- "previdenciários do município. A razão RPPS sobre INSS, que passou de 3,3 em 2024 "
+ "enfermagem e a quase ausência da medicina, com apenas 1,0%, refletem a estrutura "
+ "de vínculos previdenciários do município. A razão RPPS sobre INSS, que passou de 3,3 em 2024 "
  "para aproximadamente 15,5 em 2025, conforme os dados do Portal da Transparência de "
  "Campos, materializa essa assimetria e indica seu agravamento recente. As densidades "
  "de comunicação calculadas com denominador RAIS, que é comensurável com a CAT por "
@@ -325,8 +322,8 @@ CORPO = [
  "o Modelo Operário Italiano com as categorias gramscianas, demonstra que o saber "
  "operário e a socialização do conhecimento foram fundamentais na construção de uma "
  "metodologia de ação contra a nocividade no trabalho protagonizada pelo próprio "
- "trabalhador. A saúde, nessa perspectiva, não é reivindicação externa, mas algo "
- "a ser construído com participação direta. A vigilância baseada exclusivamente "
+ "trabalhador. A saúde, nessa perspectiva, é algo a ser construído com participação "
+ "direta. A vigilância baseada exclusivamente "
  "nos registros da CAT opera na institucionalidade consolidada, ao passo que a "
  "vigilância que incorpora a participação ativa dos trabalhadores na identificação "
  "dos riscos e na proposição de soluções avança na direção contra-hegemônica "
