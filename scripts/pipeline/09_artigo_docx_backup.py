@@ -49,25 +49,6 @@ par("[[b]]Trabalho, saúde e profissão em Campos dos Goytacazes (RJ)[[/b]]",
 # ======================== CORPO ================================================
 CORPO = [
  # §1 - INTRODUÇÃO
- "Este artigo sustenta que a estrutura de vínculos previdenciários do município de "
- "Campos dos Goytacazes, conformada por sua economia política dependente do petróleo, "
- "produz um regime de visibilidade seletiva dos acidentes de trabalho no setor saúde. "
- "Nesse regime, categorias majoritariamente femininas, de menor remuneração e vínculo "
- "celetista tornam-se hipervisíveis na Comunicação de Acidente de Trabalho (CAT), "
- "ao passo que categorias de maior remuneração e vínculo estatutário permanecem "
- "institucionalmente invisíveis. Argumenta-se que essa assimetria constitui a "
- "manifestação local da distância entre o campo institucional da Saúde do Trabalhador "
- "e a questão estrutural da saúde dos trabalhadores, conforme a distinção proposta "
- "por Souza, Melo e Vasconcellos (2017). O campo opera dentro dos limites normativos "
- "postos, e a CAT é seu instrumento por excelência. A questão, contudo, é mais ampla: "
- "inclui os acidentes e adoecimentos que o sistema não captura e cuja distribuição "
- "obedece a determinações de classe, gênero e raça que ultrapassam as fronteiras do "
- "campo. França (2014), ao correlacionar o Modelo Operário Italiano com as categorias "
- "gramscianas, demonstra que o saber operário e a participação dos trabalhadores são "
- "fundamentais para uma vigilância que supere os limites do registro administrativo. "
- "O presente estudo mobiliza esse arcabouço conceitual para construir um diagnóstico "
- "estrutural da saúde do trabalhador no setor saúde de Campos, articulando oito bases "
- "de dados secundárias independentes. O território onde esse regime opera "
  "O município de Campos dos Goytacazes, maior do estado do Rio de Janeiro em extensão "
  "territorial, com 4.032,5 km², contava com 483.540 habitantes no Censo Demográfico de "
  "2022 do IBGE e estimativa de 519.259 para 2025. Sua população se declara branca "
@@ -266,13 +247,7 @@ CORPO = [
  "adoecimentos crônicos relacionados ao trabalho que a CAT não alcança.",
 
  # §9 - DISCUSSÃO
- "Os achados convergem para a demonstração de que o perfil de acidentes capturado "
- "pela CAT constitui, antes de tudo, um perfil do regime de visibilidade previdenciária "
- "do município. A concentração de 84,4% das CATs na enfermagem de nível técnico expressa, "
- "simultaneamente, a exposição diferencial ao risco determinada por um processo de "
- "trabalho que concentra a execução manual do cuidado em categorias subordinadas na "
- "hierarquia ocupacional, e a captura diferencial pelo sistema de informação "
- "determinada pelo regime previdenciário. A enfermagem técnica evidencia "
+ "Os achados convergem para um duplo diagnóstico. O primeiro, epidemiológico, evidencia "
  "que a enfermagem de nível técnico concentra 84,4% das comunicações de acidente, com "
  "duas cadeias predominantes de risco prevenível. A cadeia perfurocortante, que articula "
  "ferramenta manual ao código S61, e a cadeia biológica, que articula agente infeccioso "
