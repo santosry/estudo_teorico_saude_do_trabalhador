@@ -2,7 +2,7 @@
 # Data de auditoria: 2026-07-18
 # 
 # Nem todos os dados citados no artigo constam dos CSVs do SIDRA versionados em
-# dados/brutos/sidra-campos/. As fontes abaixo complementam a caracterização municipal.
+# sidra-campos/. As fontes abaixo complementam a caracterização municipal.
 # O log de download (log_download_sidra.csv) documenta 8 tabelas que falharam.
 
 # ---- Dados do IBGE Cidades (https://cidades.ibge.gov.br) ----
@@ -37,7 +37,7 @@ populacao_renda_ate_meio_sm_2010 = 37.7  # %
 # este indicador com a mesma metodologia.
 
 # ---- Dados do Cadastro Central de Empresas ----
-# Arquivo: dados/brutos/ibge/Cadastro Central de Empresas - Campos dos Goytacazes.csv
+# Arquivo: ibge/Cadastro Central de Empresas - Campos dos Goytacazes.csv
 empresas_atuantes_2024 = 16776
 unidades_locais_2024 = 18159
 pessoal_ocupado_total_2024 = 114466
@@ -47,14 +47,14 @@ saude_pessoal_ocupado_2024 = 15002
 # Fonte: IBGE, CEMPRE 2024 (arquivo presente no repositório)
 
 # ---- Dados de Finanças Públicas ----
-# Arquivo: dados/brutos/ibge/Finanças públicas - Campos dos Goytacazes.csv
+# Arquivo: ibge/Finanças públicas - Campos dos Goytacazes.csv
 receitas_brutas_2024 = 2950000000  # ~R$ 2,95 bilhões
 transferencias_correntes_pct_2024 = 71.0
 despesas_empenhadas_2024 = 3310000000  # ~R$ 3,31 bilhões
 # Fonte: Siconfi/STN (arquivo presente no repositório)
 
 # ---- PIB municipal ----
-# Arquivo: dados/brutos/sidra-campos/pib_municipal.csv (tabela SIDRA 5938)
+# Arquivo: sidra-campos/pib_municipal.csv (tabela SIDRA 5938)
 # PIB 2013: R$ 58,4 bi; PIB 2020: R$ 23,9 bi; PIB 2023: R$ 43,0 bi
 # Fonte: IBGE/SIDRA, tabela 5938, preços correntes (arquivo presente no repositório)
 
@@ -66,13 +66,13 @@ pib_per_capita_2023 = 88831.26
 # Fonte: IBGE/SIDRA (cálculo próprio com dados das tabelas 5938 e 6579)
 
 # ---- População quilombola e indígena ----
-# Arquivo: dados/brutos/sidra-campos/populacao_cor_raca_censo_2022.csv (tabela SIDRA 9606)
+# Arquivo: sidra-campos/populacao_cor_raca_censo_2022.csv (tabela SIDRA 9606)
 populacao_quilombola_2022 = 3083
 populacao_indigena_2022 = 363
 # Fonte: IBGE, Censo 2022 (arquivo presente no repositório)
 
 # ---- Cor/raça ----
-# Arquivo: dados/brutos/sidra-campos/populacao_cor_raca_censo_2022.csv
+# Arquivo: sidra-campos/populacao_cor_raca_censo_2022.csv
 pop_branca_pct_2022 = 42.1
 pop_parda_pct_2022 = 40.1
 pop_preta_pct_2022 = 17.7

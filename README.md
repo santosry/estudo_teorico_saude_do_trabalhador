@@ -32,17 +32,16 @@ Estudo teórico-conceitual e documental com pipeline reprodutível e auditado. A
 ```
 .
 ├── scripts/pipeline/          # 12 scripts numerados
+├── cat-inss/                 # 58 CSVs da CAT (jul/2018 a out/2025)
+├── rais/                     # RAIS (microdados de vínculos, 7z)
+├── sim/                      # SIM (óbitos, CSVs processados)
+├── cnes/                     # CNES-PF (profissionais, microdatasus)
+├── sidra-campos/             # IBGE/SIDRA (Censo, PIB, população)
+├── ibge/                     # CEMPRE, Finanças públicas
+├── despesas campos/          # Portal da Transparência (2020-2024)
 ├── dados/
-│   ├── brutos/                # Dados brutos baixados
-│   │   ├── cat-inss/          # 58 CSVs da CAT (jul/2018 a out/2025)
-│   │   ├── rais/              # RAIS (microdados de vínculos, 7z)
-│   │   ├── sim/               # SIM (óbitos, CSVs processados)
-│   │   ├── cnes-rh/           # CNES (profissionais por ocupação)
-│   │   ├── sidra-campos/      # IBGE/SIDRA (Censo, PIB, população)
-│   │   └── ibge/              # CEMPRE, Finanças públicas
-│   ├── processados/           # Dados processados
-│   └── manifesto/             # Manifesto de arquivos (hashes)
-├── despesas campos/           # Portal da Transparência (2020-2024)
+│   ├── processados/          # Dados processados
+│   └── manifesto/            # Manifesto de arquivos (hashes)
 ├── saidas/
 │   ├── tabelas/               # Tabelas finais (CSV)
 │   └── figuras/               # Figuras (PNG + SVG)

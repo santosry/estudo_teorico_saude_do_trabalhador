@@ -12,7 +12,7 @@ Regras:
   tokens de ausência padronizados; competência (mês de referência) NÃO substitui a data.
 - Idade = (data_acidente - data_nascimento) em anos completos; [14,100] fora => flag.
 - Período: mantém acidentes com data entre 2018-01-01 e 2025-12-31 (fora => excluído, contado).
-Saídas: dados_processados/base_cat_campos_todas_ocupacoes.csv, tabelas de fluxo e qualidade.
+Saídas: dados/processados/base_cat_campos_todas_ocupacoes.csv, tabelas de fluxo e qualidade.
 """
 import csv, os, re, sys, unicodedata, datetime, json
 from collections import Counter, defaultdict

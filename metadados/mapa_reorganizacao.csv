@@ -1,15 +1,15 @@
 ﻿origem;destino;observacao
 ARTIGOS/;artigos-fonte/;"renomeada (sem acentos/espaços); PDFs excluídos do versionamento (direitos autorais)"
-CAT - INSS/DADOS/*.csv;dados/brutos/cat-inss/;"renomeada; excluída do versionamento (1,8 GB); hashes no manifesto"
+CAT - INSS/DADOS/*.csv;cat-inss/;"renomeada; excluída do versionamento (1,8 GB); hashes no manifesto"
 CAT - INSS/dicionario-cat-dados-abertos-10-02-2021.xlsx;referencias/;documentação da fonte
 CAT - INSS/script.R;scripts/legado/CAT-INSS_script_original.R;"original catalogado; cópia em local antigo apagada"
-CARACTERIZAÇÃO - CAMPOS/sidra_campos/brutos/*.csv;dados/brutos/sidra-campos/;renomeada
-CARACTERIZAÇÃO - CAMPOS/sidra_campos/logs/log_download_sidra.csv;dados/brutos/sidra-campos/;log da coleta SIDRA
+CARACTERIZAÇÃO - CAMPOS/sidra_campos/brutos/*.csv;sidra-campos/;renomeada
+CARACTERIZAÇÃO - CAMPOS/sidra_campos/logs/log_download_sidra.csv;sidra-campos/;log da coleta SIDRA
 CARACTERIZAÇÃO - CAMPOS/sidra_campos/dados_sidra_campos_consolidado.rds;(apagado);"derivado legado redundante; reconstituível pelo script legado"
 CARACTERIZAÇÃO - CAMPOS/sidra_campos/dados_sidra_campos_tabela_unica.csv;(apagado);derivado legado redundante
 CARACTERIZAÇÃO - CAMPOS/script.R;scripts/legado/CARACTERIZACAO_script_original.R;original catalogado
 dados_brutos_manifesto/;dados/manifesto/;renomeada
-dados_processados/;dados/processados/;renomeada
+dados/processados/;dados/processados/;renomeada
 tabelas/ e figuras/;saidas/tabelas/ e saidas/figuras/;agrupadas
 scripts_auditados/pipeline_reproducao/;scripts/pipeline/;"renomeada; caminhos internos atualizados"
 scripts_originais_catalogados/ e scripts_auditados/*.R;scripts/legado/;unificadas

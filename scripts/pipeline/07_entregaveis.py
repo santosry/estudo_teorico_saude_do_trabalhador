@@ -123,7 +123,7 @@ refs = [
  ("ANTUNES, R.", "O privilégio da servidão: o novo proletariado de serviços na era digital.", "São Paulo: Boitempo, 2018.", "livro (pasta ARTIGOS; ficha catalográfica conferida)", ""),
  ("BRASIL. Ministério da Previdência Social. Instituto Nacional do Seguro Social.", "Comunicações de Acidente de Trabalho – CAT: dados abertos, 2018–2025.", "Brasília: INSS. Disponível em: https://dados.gov.br/dados/conjuntos-dados/inss-comunicacao-de-acidente-de-trabalho-cat. Acesso em: 18 jul. 2026.", "base de dados (58 arquivos na pasta CAT - INSS/DADOS)", ""),
  ("CECILIO, L. C. O.; LACAZ, F. A. C.", "O trabalho em saúde.", "Rio de Janeiro: Cebes, 2012.", "livro (pasta ARTIGOS; folha de rosto conferida)", ""),
- ("IBGE.", "Censo Demográfico 2022; Produto Interno Bruto dos Municípios; Produção Agrícola Municipal.", "Rio de Janeiro: IBGE. Sistema SIDRA (tabelas 4714, 6579, 5938, 1612). Acesso em: 18 jul. 2026.", "bases de dados (dados/brutos/sidra-campos)", ""),
+ ("IBGE.", "Censo Demográfico 2022; Produto Interno Bruto dos Municípios; Produção Agrícola Municipal.", "Rio de Janeiro: IBGE. Sistema SIDRA (tabelas 4714, 6579, 5938, 1612). Acesso em: 18 jul. 2026.", "bases de dados (sidra-campos)", ""),
  ("LEMOS, M. R.", "Estratificação social na teoria de Max Weber: considerações em torno do tema.", "Revista Iluminart, Sertãozinho, ano IV, n. 9, p. 113-128, nov. 2012.", "artigo (pasta ARTIGOS)", ""),
  ("LOURENÇO, G. G.", "O fim do fim do trabalho: uma crítica à chamada sociedade pós-industrial e sua relação com os movimentos de trabalhadores.", "Primeiros Estudos, São Paulo, n. 3, p. 104-121, 2012.", "artigo (pasta ARTIGOS)", ""),
  ("MARTINS, S.; HASENCLEVER, L.; MIRANDA, C.", "A gestão da saúde à luz da instabilidade de financiamento e das propostas de governo.", "Cadernos do Desenvolvimento Fluminense, Rio de Janeiro, n. 27, 2024.", "artigo verificado (Crossref + página do periódico)", "10.12957/cdf.2024.87352"),
@@ -234,7 +234,7 @@ python scripts/pipeline/09_artigo_docx.py              # requer LibreOffice p/ c
 python scripts/pipeline/10_denominadores_cnes.py       # denominadores reais CNES/TabNet (rede)
 ```
 Caminhos relativos à raiz; sem procedimentos aleatórios; logs em `logs/`.
-Os dados brutos da CAT devem ser obtidos conforme `dados/brutos/cat-inss/README.md` e conferidos
+Os dados brutos da CAT devem ser obtidos conforme `cat-inss/README.md` e conferidos
 pelos hashes de `dados/manifesto/manifesto_arquivos.csv`.
 
 ## Testes e integração contínua
@@ -247,7 +247,7 @@ que os CSVs regenerados sejam idênticos aos versionados (determinismo).
 ## Denominadores (CNES) e razões exploratórias
 `10_denominadores_cnes.py` baixa do TabNet/DataSUS os profissionais (indivíduos) por ocupação
 CBO 2002 em Campos (330100), dez/2018–dez/2025, com verificação dupla de totais e brutos em
-`dados/brutos/cnes-rh/`. As razões CAT/1.000 profissionais (T22) são EXPLORATÓRIAS: o CNES
+`cnes/`. As razões CAT/1.000 profissionais (T22) são EXPLORATÓRIAS: o CNES
 inclui vínculos estatutários/autônomos/PJ, fora da cobertura da CAT — não são incidência.
 RAIS/eSocial permanece como denominador prioritário (bloqueio documentado em
 `logs/log_10_denominadores.json`).

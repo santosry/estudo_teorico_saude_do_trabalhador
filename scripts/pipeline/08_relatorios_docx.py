@@ -96,7 +96,7 @@ para(d, "As pastas do projeto não continham vínculos formais por ocupação e 
         "risco ou taxa foi calculado a partir da CAT isoladamente. Denominadores REAIS de força de trabalho foram baixados do "
         "CNES/DataSUS (TabNet, def cnes/cnv/prid02rj.def): profissionais (indivíduos) por ocupação CBO 2002, município de Campos "
         "(330100), competência dezembro de 2018 a 2025 (9.803 a 13.275 profissionais), com resolução dinâmica e verificada do "
-        "filtro municipal, dupla checagem de totais por consulta de controle, brutos preservados em dados/brutos/cnes-rh/ e "
+        "filtro municipal, dupla checagem de totais por consulta de controle, brutos preservados em cnes/ e "
         "proveniência em logs/log_10_denominadores.json. Como o CNES abrange TODOS os tipos de vínculo (estatutário, celetista, "
         "autônomo, PJ; SUS e não SUS) e a CAT cobre essencialmente celetistas, a compatibilidade numerador-denominador NÃO é "
         "demonstrável; as razões CAT por 1.000 profissionais CNES (saidas/tabelas/T22_razao_cat_1000_cnes.csv) são apresentadas "

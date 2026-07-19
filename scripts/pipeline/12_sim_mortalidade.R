@@ -36,7 +36,7 @@ for (ano in 2019:2024) {
     
     # Salvar
     write.csv(df_campos, 
-              sprintf("dados/brutos/sim/SIM_Campos_%d.csv", ano),
+              sprintf("sim/SIM_Campos_%d.csv", ano),
               row.names = FALSE)
   }, error = function(e) {
     cat(sprintf("ERRO: %s\n", e$message))

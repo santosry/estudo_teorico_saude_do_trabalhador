@@ -10,7 +10,7 @@
   da exclusão dos demais municípios); o filtro definitivo (330100 + UF RJ) ocorre no script 03;
 - Identificador técnico de linha (arquivo:n) e hash SHA-256 do registro bruto;
 - Duplicidades exatas de linha bruta entre arquivos (hash) são contadas.
-Saídas em dados_processados/ e logs/.
+Saídas em dados/processados/ e logs/.
 """
 import os, csv, io, json, hashlib, unicodedata, re
 from collections import Counter, defaultdict

@@ -102,8 +102,8 @@ if (length(resultados) > 0) {
   consolidado <- do.call(rbind, resultados)
   
   # Salvar CSV completo
-  dir.create("dados/brutos/cnes-rh", showWarnings = FALSE, recursive = TRUE)
-  write.csv(consolidado, "dados/brutos/cnes-rh/cnes_profissionais_campos_microdatasus.csv",
+  dir.create("cnes", showWarnings = FALSE, recursive = TRUE)
+  write.csv(consolidado, "cnes/cnes_profissionais_campos_microdatasus.csv",
             row.names = FALSE, fileEncoding = "UTF-8")
   
   # Salvar sumário por ano
@@ -132,7 +132,7 @@ if (length(resultados) > 0) {
   cat("\n========================================\n")
   cat(sprintf("Total profissionais consolidados: %d\n", sum(consolidado$n_profissionais)))
   cat("Arquivos gerados:\n")
-  cat("  dados/brutos/cnes-rh/cnes_profissionais_campos_microdatasus.csv\n")
+  cat("  cnes/cnes_profissionais_campos_microdatasus.csv\n")
   cat("  saidas/tabelas/T21_denominadores_cnes.csv\n")
   cat("  logs/log_10_cnes_microdatasus.json\n")
 } else {
