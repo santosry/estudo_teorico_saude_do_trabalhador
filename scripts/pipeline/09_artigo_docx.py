@@ -89,7 +89,7 @@ CORPO = [
  "37,7% da população vivia com rendimento nominal mensal per capita de até meio "
  "salário mínimo. O salário médio mensal dos trabalhadores formais era de 2,1 salários "
  "mínimos em 2023 e o pessoal ocupado em postos formais somava 114.135 pessoas. O PIB "
- "per capita de 2023 foi de R$ 88.831,26 (Tabela 1).",
+ "per capita de 2023 foi de R$ 88.831,26  O Índice de Progresso Social (IPS) de 2026, calculado pelo IPS Brasil a partir de indicadores sociais e ambientais dos municípios, atribuiu a Campos a pontuação de 62,68 em 100, com Necessidades Humanas Básicas em 71,2, Fundamentos do Bem-estar em 68,2 e Oportunidades em 48,6. A dimensão de Segurança Pessoal registrou 52,8, enquanto a taxa de homicídios foi de 25,3 por 100 mil habitantes e a de mortalidade no trânsito, 22,5 por 100 mil. Esses indicadores situam o município abaixo da média dos municípios fluminenses de porte equivalente em todas as dimensões do IPS, particularmente em Oportunidades e Segurança Pessoal (Tabela 1).(Tabela 1).",
 
  # §4 - Economia e estrutura empresarial
  "A estrutura empresarial do município, captada pelo Cadastro Central de Empresas de "
@@ -132,7 +132,7 @@ CORPO = [
  "(Tabela 3).",
 
  # §6 - Perfil de mortalidade
- "O perfil de mortalidade do município, obtido do Sistema de Informações sobre "
+ "O Índice de Progresso Social (IPS) de 2026, calculado pelo IPS Brasil a partir de indicadores sociais e ambientais desagregados por município (https://ipsbrasil.org.br), foi utilizado como medida sintética de desenvolvimento social complementar ao IDHM. O perfil de mortalidade do município, obtido do Sistema de Informações sobre "
  "Mortalidade (SIM/DATASUS) e processado com o pacote [[i]]microdatasus[[/i]] (R), "
  "registrou entre 4.199 e 5.635 óbitos anuais de residentes no período de 2019 a "
  "2024, com taxa bruta de mortalidade variando de 8,1 a 10,9 por 1.000 habitantes "
@@ -297,7 +297,13 @@ T1 = [
  ("IDHM", "0,716", "2010"),
  ("PIB per capita", "R$ 88.831,26", "2023"),
  ("Salário médio (formal)", "2,1 salários mínimos", "2023"),
- ("Renda até ½ SM per capita", "37,7%", "2010"),
+ ("Renda ate 1/2 SM per capita", "37,7%", "2010"),
+ ("IPS 2026 (Indice de Progresso Social)", "62,68/100", "2026"),
+ ("IPS - Necessidades Humanas Basicas", "71,2", "2026"),
+ ("IPS - Fundamentos do Bem-estar", "68,2", "2026"),
+ ("IPS - Oportunidades", "48,6", "2026"),
+ ("IPS - Seguranca Pessoal", "52,8", "2026"),
+ ("Homicidios (por 100 mil hab.)", "25,3", "2026"),
 ]
 
 # Tabela 2 - Ciclos econômicos
@@ -370,7 +376,7 @@ for i, texto in enumerate(CORPO):
     if i == 2:
         par("[[b]]Tabela 1.[[/b]] Campos dos Goytacazes (RJ): perfil sociodemográfico",
             indent=False, size=9.5, before=4, after=2)
-        tabela(T1, "Fonte dos dados brutos: IBGE, Censo Demográfico 2022 e IBGE Cidades. SM = salário mínimo.")
+        tabela(T1, "Fonte dos dados brutos: IBGE, Censo Demográfico 2022 e IBGE Cidades. SM = salário mínimo. IPS: IPS Brasil 2026 (https://ipsbrasil.org.br).")
     if i == 3:
         par("[[b]]Tabela 2.[[/b]] Campos dos Goytacazes (RJ): ciclos de formação econômica",
             indent=False, size=9.5, before=4, after=2)

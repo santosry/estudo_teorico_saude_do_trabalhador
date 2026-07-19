@@ -15,6 +15,7 @@ Estudo teórico-conceitual e documental com pipeline reprodutível e auditado. A
 | **IBGE/SIDRA** | [SIDRA](https://sidra.ibge.gov.br) | Censo 2022 + estimativas | Download manual CSV | População, PIB, área, densidade, alfabetização | **483.540** hab. (2022); IDHM **0,716**; PIB per capita **R$ 88.831** |
 | **CEMPRE** | [IBGE Cidades](https://cidades.ibge.gov.br) | 2024 | Download manual CSV | Empresas, pessoal ocupado, salários, setor CNAE | **16.776** empresas; saúde: **1.544** estab. / **15.002** pessoas |
 | **Siconfi/STN** | [Siconfi](https://siconfi.tesouro.gov.br) | 2013-2024 | Download manual CSV | Receitas, despesas, transferências | Receitas **R$ 2,95 bi** (71% transferências); despesas **R$ 3,31 bi** |
+| **IPS Brasil** | [IPS Brasil](https://ipsbrasil.org.br) | 2026 | Download manual CSV | Índice de Progresso Social, Necessidades Humanas Básicas, Fundamentos do Bem-estar, Oportunidades, Segurança Pessoal, homicídios, mortalidade infantil | IPS **62,68**/100; Oportunidades **48,6**; Segurança Pessoal **52,8**; homicídios **25,3**/100 mil |
 | **Portal da Transparência** | [Prefeitura de Campos](https://transparencia.campos.rj.gov.br) | 2020-2024 | Download manual CSV (despesas por natureza econômica) | Contribuições patronais RPPS e INSS, pessoal, custeio | RPPS: **R$ 61,2 mi** (estatutários); INSS: **R$ 18,3 mi** (celetistas); déficit atuarial RPPS: **R$ 2,5 mi** |
 
 ### Notas sobre as fontes
@@ -38,6 +39,7 @@ Estudo teórico-conceitual e documental com pipeline reprodutível e auditado. A
 ├── cnes/                     # CNES-PF (profissionais, microdatasus)
 ├── sidra-campos/             # IBGE/SIDRA (Censo, PIB, população)
 ├── ibge/                     # CEMPRE, Finanças públicas
+├── ips-brasil/               # IPS Brasil 2026 (Índice de Progresso Social)
 ├── despesas campos/          # Portal da Transparência (2020-2024)
 ├── dados/
 │   ├── processados/          # Dados processados
