@@ -60,14 +60,14 @@ CORPO = [
  # §1 - Introdução teórica
  "O trabalho é um processo social, econômico e político historicamente determinado. "
  "Desde a Revolução Industrial, o modo de organizar a produção disciplina corpos e "
- "tempos e produz padrões específicos de adoecimento (OLIVEIRA, 2004). No Brasil, o "
+ "tempos e produz padrões específicos de adoecimento (Oliveira, 2004). No Brasil, o "
  "campo da Saúde do Trabalhador constituiu-se como crítica à medicina do trabalho e "
  "à saúde ocupacional, ao afirmar a determinação social do processo saúde-doença e o "
- "processo de trabalho como categoria explicativa central (MENDES; DIAS, 1991). No "
+ "processo de trabalho como categoria explicativa central (Mendes e Dias, 1991). No "
  "setor saúde, o trabalho produtor do cuidado se realiza sob divisão social e técnica, "
  "relações desiguais de poder entre categorias e desgaste, em serviços submetidos à "
  "reorganização gerencial flexível. Parcela expressiva dos vínculos do Sistema Único "
- "de Saúde (SUS) é precária, estimada entre 30% e 50% (CECILIO; LACAZ, 2012).",
+ "de Saúde (SUS) é precária, estimada entre 30% e 50% (Cecilio e Lacaz, 2012).",
 
  # §2 - Perfil sociodemográfico de Campos
  "Campos dos Goytacazes é o maior município fluminense em extensão (4.032,5 km²) e "
@@ -84,8 +84,8 @@ CORPO = [
  # §3 - Economia, finanças públicas e estrutura empresarial
  "A formação econômica do município assentou-se na agroindústria açucareira e, a "
  "partir das décadas de 1980 e 1990, na exploração de petróleo da Bacia de Campos e "
- "nas rendas petrolíferas ([[i]]royalties[[/i]] e participações especiais) (SILVA; "
- "HASENCLEVER, 2019). O Cadastro Central de Empresas de 2024 registra 16.776 empresas "
+ "nas rendas petrolíferas ([[i]]royalties[[/i]] e participações especiais) (Silva e "
+ "Hasenclever, 2019). O Cadastro Central de Empresas de 2024 registra 16.776 empresas "
  "atuantes, 114.466 pessoas ocupadas (93.366 assalariadas) e salário médio mensal de "
  "2,2 salários mínimos. O setor de saúde humana e serviços sociais respondia por 1.544 "
  "estabelecimentos e 15.002 postos de trabalho. O PIB municipal, a preços correntes, "
@@ -125,7 +125,7 @@ CORPO = [
  "território com IDHM de 0,716 e 37,7% da população em situação de pobreza em 2010. "
  "Nesse mercado de trabalho, os serviços de saúde, polo regional do Norte Fluminense, "
  "constituem espaço relevante de assalariamento, estratificado por hierarquias de "
- "renda e de prestígio entre profissões (LEMOS, 2012).",
+ "renda e de prestígio entre profissões (Lemos, 2012).",
 
  # §6 - Procedimentos metodológicos
  "Este estudo, de natureza teórico-conceitual e documental, apoia-se em "
@@ -179,7 +179,7 @@ CORPO = [
  "que inclui punção venosa, administração de medicamentos, manipulação de "
  "perfurocortantes e mobilização de pacientes, é delegada a categorias "
  "majoritariamente femininas, de menor renda e prestígio, submetidas a intensificação "
- "e sobrecarga (CECILIO; LACAZ, 2012; ANTUNES, 2018). O setor saúde de Campos "
+ "e sobrecarga (Cecilio e Lacaz, 2012; Antunes, 2018). O setor saúde de Campos "
  "empregava 15.002 pessoas em 2024, com massa salarial anual de R$ 593,9 milhões e "
  "salário médio de 2,2 salários mínimos mensais, o que torna esse contingente "
  "economicamente relevante e, ao mesmo tempo, vulnerável à oscilação das finanças "
@@ -188,7 +188,7 @@ CORPO = [
  "concluir menor exposição. Indica inserção predominante por vínculos estatutários, "
  "autônomos e de pessoa jurídica, não cobertos pela CAT, o que configura desigualdade "
  "de proteção e de reconhecimento institucional e reitera a estratificação de classe "
- "e prestígio entre as profissões (LEMOS, 2012). A coexistência de dois regimes "
+ "e prestígio entre as profissões (Lemos, 2012). A coexistência de dois regimes "
  "previdenciários na administração municipal, com R$ 58,7 milhões em contribuições "
  "ao RPPS e R$ 18,3 milhões ao INSS em 2024, materializa essa dualidade de proteção. "
  "Agentes comunitários de saúde e de combate às endemias, majoritariamente "
@@ -199,7 +199,7 @@ CORPO = [
  "A média mensal de registros passou de 13,8 (julho de 2018 a fevereiro de 2020) "
  "para 14,5 no período crítico da covid-19 (março de 2020 a dezembro de 2021) e "
  "recuou para 11,9 no biênio seguinte (2022-2023), convergente com a sobrecarga "
- "pandêmica descrita para os trabalhadores da saúde (VEDOVATO [[i]]et al.[[/i]], "
+ "pandêmica descrita para os trabalhadores da saúde (Vedovato [[i]]et al.[[/i]], "
  "2021). As oscilações de cobertura da fonte, contudo, impedem atribuição causal "
  "(Figura 2). A baixíssima frequência de comunicações de doença (1,0%) reforça o "
  "diagnóstico de subnotificação seletiva. O sistema registra sobretudo a lesão aguda "
@@ -227,7 +227,7 @@ CORPO = [
  "base nacional de acesso público. A terceira é qualificar o preenchimento dos "
  "registros, pois 3,6% não trazem código ocupacional válido, com concentração entre "
  "2021 e 2023. A quarta é planejar a rede assistencial reconhecendo que seu "
- "financiamento oscila com as rendas petrolíferas (MARTINS; HASENCLEVER; MIRANDA, "
+ "financiamento oscila com as rendas petrolíferas (Martins, Hasenclever e Miranda, "
  "2024) e que a proteção de quem cuida é condição de possibilidade do próprio "
  "cuidado. O IDHM de 0,716, a dependência de 71% das receitas de transferências e "
  "a convivência de dois regimes previdenciários com patamares desiguais de proteção "
