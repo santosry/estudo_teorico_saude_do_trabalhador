@@ -1,0 +1,1157 @@
+ 
+ Este é um artigo de acesso aberto distribuído sob os termos da Licença Creative Commons BY 4.0, que 
+permite uso, distribuição e reprodução para fins não comercias, com a citação dos autores e da fonte original e sob a 
+mesma licença. 
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539 
+Rio de Janeiro | n. 27 | Jul-dez. 2024 
+ARTIGO 
+ 
+A GESTÃO DA SAÚDE À LUZ DA INSTABILIDADE DE 
+FINANCIAMENTO E DAS PROPOSTAS DE GOVERNO: UM 
+ESTUDO DE CASO SOBRE CAMPOS DOS GOYTACAZES-RJ, 2009 
+A 2020 
+ 
+HEALTH MANAGEMENT CONSIDERING FINANCING INSTABILITY 
+AND GOVERNMENT PROPOSALS: A CASE STUDY ON CAMPOS DOS 
+GOYTACAZES-RJ, 2009 TO 2020 
+ 
+Samuel MartinsA 
+ https://orcid.org/0000-0003-0806-9697 
+Correspondência: samuelmartinseduca@gmail.com 
+ 
+Lia HasencleverB 
+ https://orcid.org/0000-0003-1384-6323 
+Correspondência: lia@ie.ufrj.br 
+ 
+Caroline MirandaC 
+ https://orcid.org/0000-0001-7126-2348 
+Correspondência: carolinemirandaas@204452146.mailchimpapp.com 
+ 
+A, B, C Universidade Candido Mendes (UCAM), Campos dos Goytacazes, Rio de Janeiro, Brasil. 
+ 
+ 
+DOI: 10.12957/cdf.2024.87352 
+Recebido em: 18 set. 2024 | Aceito em: 21 out. 2024. 
+ 
+RESUMO 
+Os serviços de saúde de Campos dos Goytacazes são marcados por uma série de 
+dificuldades e problemas de gestão para alcançar a desejada condição de saúde e bem-
+estar da população. Este artigo tem por objetivo analisar os possíveis efeitos da redução 
+dos recursos petrolíferos e dos diferentes modelos de gestão propostos nos programas 
+de governo dos prefeitos sobre as políticas públicas de saúde no referido município, 
+entre 2009 e 2020. A pesquisa é de natureza descritiva e adota instrumentos 
+quantitativos e qualitativos, respectivamente para compreender as relações entre 
+financiamento da saúde e as diferentes propostas de gestão para a saúde campista em 
+2012 e 2016. A pesquisa constatou que, entre 2009 e 2020, o financiamento da saúde 
+do município foi impactado diretamente pelas flutuações, ora de alta, ora de baixa, das 
+rendas de indenizações petrolíferas. Adicionalmente, verificou-se que as propostas de 
+gestão da saúde para a cidade variaram principalmente em relação à ênfase à atenção 
+primária. A redução das receitas extraordinárias, que foram mais significativas em 
+2016, e a alternância administrativa por meio do voto influenciaram a complexa rede 
+de serviços prestados para a população pelo Sistema Único de Saúde, evidenciando que 
+o financiamento e as propostas de gestão municipal são dois dos principais fatores que 
+influenciam a saúde e o bem-estar da população. 
+Palavras-chave: Sistema Único de Saúde; gestão municipal da saúde; Campos dos 
+Goytacazes; royalties; políticas públicas. 
+ 
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+12 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+ABSTRACT 
+The health services in Campos dos Goytacazes have experienced quite a number of 
+difficulties and management problems in achieving the desired level of health and well-
+being for the population. This article explores the potential impact of oil resource 
+reductions and the various management models suggested in the mayors' government 
+programs on public health policies in this municipality from 2009 to 2020. The research 
+is of a descriptive nature and uses quantitative and qualitative instruments, respectively, 
+to analyze the relationship between health financing and the different management 
+proposals for health in the municipality in 2012 and 2016. The research revealed that, 
+between 2009 and 2020, health funding in the municipality was directly affected by 
+fluctuations, either up or down, in revenues from oil compensations. It was also 
+observed that the health management proposals for the city varied primarily in their 
+emphasis on primary care. The reduction in extraordinary revenues, more noticeable in 
+2016, and the change of administration by vote have influenced the complex network 
+of services provided to the population by the Unified Health System, demonstrating 
+that funding and municipal management proposals are two of the primary factors 
+affecting the health and well-being of the population. 
+Keywords: Unified Health System; municipal health management; Campos dos 
+Goytacazes; royalties; public policies. 
+ 
+ 
+1 INTRODUÇÃO  
+ 
+Na década de 1980, em meio ao movimento sanitarista e a debates ocorridos 
+durante a 8ª Conferência Nacional de Saúde, foi proposto o Sistema Único de Saúde 
+(SUS), o qual só veio a ter suas diretrizes e organização estabelecidas pela lei 
+complementar conhecida como Lei Orgânica da Saúde (Lei 8.080/90). Com essa lei, 
+foram dadas novas atribuições à União, aos estados, aos municípios, às fundações 
+mantidas pelo poder público por meio de convênios e à iniciativa privada de maneira 
+complementar (Brasil, 1990a). 
+Os mecanismos de provisão dos serviços de saúde propostos fizeram com que as 
+prefeituras ocupassem um papel de protagonistas para pôr em prática o SUS. Neste 
+aspecto, recentes pesquisas realizadas em Campos dos Goytacazes (Vidal, 2006; Santos, 
+2008; Silva, 2001; Alves, 2013; Oliveira, 2016) indicam que diversos fatores, de cunho 
+demográfico, político e econômico, afetam a qualidade e o acesso aos serviços de saúde 
+do município. Por exemplo, apenas em 2009, a Prefeitura de Campos dos Goytacazes 
+adquiriu autonomia para gerir e executar os serviços públicos de saúde, algo que já havia 
+ocorrido muito antes em municípios com características semelhantes (Brasil, 2003). 
+Sabe-se, entretanto, que a estrutura de saúde e sua gestão requerem financiamento 
+além daquele custeado pela União, fazendo com que os municípios tenham que acrescer 
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+13 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+recursos próprios. Em Campos, por exemplo, um fator que pode impactar a provisão das 
+políticas de saúde está relacionado à arrecadação de receitas de royalties e participações 
+especiais de petróleo, já que boa parte dessas receitas se destinava ao financiamento das 
+políticas públicas municipais, inclusive das de saúde pública. O município é reconhecido 
+por ter recebido, desde os anos 2000, volumes expressivos de recursos advindos das 
+indenizações petrolíferas, mas, desde 2008, não recebe mais as cifras milionárias que 
+recebia (Silva, 2001; Alves, 2013). 
+Outro aspecto relevante está relacionado às possíveis implicações de mudanças 
+no modelo de gestão da saúde à medida que diferentes governos assumem a prefeitura 
+municipal entre 2009 e 2020. Nesse período, a prefeitura contou com duas gestões: (i) os 
+dois mandatos da prefeita Rosinha Garotinho, de 2009 a 2016; e (ii) o mandato do prefeito 
+Rafael Diniz, de 2017 a 2020. A alteração do mandatário local, em teoria, tende a fazer 
+com que haja mudanças de prioridades do ponto de vista da ação do estado. 
+Desse modo, o objetivo deste artigo é compreender como os serviços de saúde em 
+Campos dos Goytacazes foram influenciados, nos últimos 12 anos (2009-2020), pelas 
+flutuações financeiras das rendas petrolíferas e pelas trocas de mandatários locais. A 
+pergunta de pesquisa se apresenta da seguinte forma: quais foram os efeitos da variação 
+dos valores das rendas petrolíferas e da alternância de lideranças locais na prestação de 
+serviços de saúde? 
+Este estudo é composto de quatro seções, além desta Introdução e das 
+Considerações finais. A segunda seção traz uma revisão teórico-empírica das 
+institucionalidades da política de saúde no Brasil e suas especificidades no município de 
+Campos dos Goytacazes. A terceira apresenta a metodologia empregada na pesquisa. A 
+quarta relata seus principais achados. Por fim, a quinta seção discute os resultados do 
+estudo. 
+ 
+ 
+2 REVISÃO TEÓRICO-EMPÍRICA 
+ 
+Até a implementação do SUS, os programas de saúde se limitavam a apenas 30 
+tratamentos de doenças, e as campanhas públicas de prevenção não eram frequentes, 
+restringindo-se predominantemente à vacinação. Diante dessa situação, formou-se um 
+grupo denominado "movimento sanitário", composto de profissionais de saúde que 
+visavam modificar tal visão sobre a temática. As Conferências Nacionais da Saúde 
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+14 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+representavam um importante momento de avalição da situação da saúde no país e de 
+formulação de diretrizes para políticas públicas no setor (Fiocruz, 2019). 
+A 8ª Conferência Nacional de Saúde, realizada em 1986, pode ser considerada um 
+marco para a mudança de patamar estrutural da saúde no país. Como resultado desta, 
+gerou-se a maior rede de saúde pública implementada na América Latina. Com base nas 
+determinações constitucionais, foi criado o SUS, em 1990, com a aprovação da Lei 8.080 
+e da Lei 8.142 (Brasil, 1990a; Brasil, 1990b). A partir disto, o SUS passou a assegurar a 
+saúde para todos os cidadãos e a ser regido por diretrizes organizativas que buscam a 
+descentralização das ações de saúde, com as políticas públicas sendo geridas pelos 
+municípios, os quais passaram a ter autonomia financeira e responsabilidades sobre 
+recursos financeiros.  
+A lei impõe uma contribuição mínima ao governo federal que deve ser alocada 
+aos estados e municípios para garantir a estabilidade do sistema e corrigir as possíveis 
+desigualdades das federações e municípios. Todavia, para assegurar o financiamento das 
+ações do sistema, as esferas federadas devem contribuir com recursos de arrecadação 
+própria (Costa; Vieira, 2013).  
+De modo geral, o arranjo institucional para as políticas sociais no Brasil é 
+operacionalizado a partir da colaboração de todos os entes. Os processos de 
+financiamento, normatização, coordenação e implementação são distribuídos de modo 
+diferente entre eles. A União centraliza uma carga de atribuições. Cabe a ela o papel de 
+principal financiador, normalizador e coordenador das políticas sociais. A principal forma 
+de coordenação são os mecanismos de transferências de renda, enquanto a incumbência 
+da operacionalização da implementação das políticas pertence, na maioria dos casos, aos 
+municípios. Eles passaram por aumentos sucessivos nas suas atribuições administrativas 
+no campo da política social. Esse movimento foi denominado municipalização das 
+políticas sociais. Essas são as características gerais das políticas sociais em solo nacional. 
+ Entretanto, tais políticas destinadas a fornecer serviços públicos de modo 
+descentralizado assumiram uma diversidade de formatos institucionais, com 
+peculiaridades próprias de relações intergovernamentais, sobretudo, do ponto de vista das 
+distribuições de papéis (Menicucci; Costa; Machado, 2018).  
+O instrumento que teve um peso fundamental no processo de consolidação do 
+SUS foram os pisos financeiros mínimos da política de saúde, os quais atuaram como 
+uma considerável alternativa de coordenação, justamente por se tratar de um tipo de fonte 
+de receita caracterizada por dois fatores: a regularidade e o fato de ser automática. A 
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+15 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+Emenda Constitucional (EC) n. 29/2000 foi a lei que estabeleceu essa regra. Neste 
+sentido, foram impostos limites mínimos de aplicação em ações e serviços públicos de 
+saúde (ASPS) para as três esferas de governo. Dos estados e municípios, exigiu-se o dever 
+de destinar o equivalente a 12% e 15%, respectivamente, de suas receitas de impostos e 
+transferências constitucionais, enquanto à União, o dever de empregar um montante 
+correspondente ao valor empenhado em ASPS no ano anterior, corrigido pela variação 
+nominal do produto interno bruto.  
+Em relação à esfera federal, o valor mínimo estabelecido para a União foi objeto 
+de modificações recentes, primeiro na EC n. 86/20151; nessa oportunidade estabeleceu-
+se um novo patamar de gastos em saúde a ser aplicado pelo órgão central, de 15% da 
+receita corrente líquida em 2020, com percentuais crescentes a partir de 2016.  Entretanto, 
+a nova forma durou menos de um ano, visto que foi modificada pelo Novo Regime 
+Fiscal2. Na saúde, ficou determinado que o montante gasto a cada ano deve ser corrigido 
+apenas pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA), a partir do patamar 
+de 15% da receita corrente líquida de 2017. Essa é a forma vigente até então. 
+ 
+ 
+2.1 
+Políticas de saúde em Campos dos Goytacazes 
+ 
+Até a década de 1990, Campos dos Goytacazes possuía uma pequena rede de 
+assistência médica, constituída por alguns serviços de pediatria, clínica médica e 
+obstétrica e um posto de vacinação. Em 1990, o município contava com 51 
+estabelecimentos de saúde pública. Em 1999, esse número era de 76. A saúde pública 
+disponibilizava somente serviços de ação curativa e preventiva, sem ações diagnósticas. 
+Os estabelecimentos municipais de saúde ofereciam atendimento especializado, mas 
+estavam mais focados no atendimento clínico (Santos, 2008).  
+Nesse mesmo período, Campos começou a experimentar crescimentos 
+demográfico e econômico exponenciais, em função da exploração de petróleo na Bacia 
+de Campos. Entre 1994 e 2004, houve um crescimento de 16 vezes no orçamento 
+ 
+1O objetivo principal era o de tornar obrigatória a execução das emendas parlamentares. Disponível em: 
+https://www.camara.leg.br/noticias/452860-promulgada-emenda-constitucional-do-orcamento-impositivo/. 
+2 Refere-se à EC n. 95/2016, que congelou os gastos primários do governo federal por 20 anos. Disponível em: 
+http://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc95.htm#:~:text=EMENDA%20CONSTITUCIO
+NAL%20N%C2%BA%2095%2C%20DE,do%20%C2%A7%203%C2%BA%20do%20art.  
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+16 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+destinado à saúde municipal. No entanto, tal crescimento não foi estável para os anos 
+seguintes (Santos, 2008). 
+Campos apenas aderiu à gestão de maior sofisticação em 2009. Objetivamente, ao 
+se adaptar à gestão plena, o município passou a ter uma série de responsabilidades, tais 
+como: elaboração do plano municipal de saúde; integração e articulação do sistema de 
+saúde do município na rede estadual e respectivas responsabilidades na Programação 
+Pactuada e Integrada (PPI) do estado; gerência de unidades ambulatoriais próprias; 
+execução das ações básicas de epidemiologia, de controle de doenças e de ocorrências 
+mórbidas; entre outras (Brasil, 2003). 
+De 2010 até 2020, Campos passou a contar com uma rede de proteção à saúde que 
+estava em um aparente processo de expansão, saindo de 782 estabelecimentos de saúde 
+em 2010 para 1.088 em 2020, e com a maioria dos estabelecimentos voltados à prestação 
+de serviços ligados à atenção primária à saúde (Brasil, 2021). 
+A Prefeitura de Campos conta com uma rede pública, coordenada pela Fundação 
+Municipal de Saúde, que administra três hospitais públicos; cinco Unidades Pré-
+Hospitalares; uma Unidade de Emergência Psiquiátrica; 41 Unidades Básicas de Saúde 
+(UBS), sendo 38 que funcionam dez horas e três que funcionam 24 horas (Oliveira, 2016). 
+Além disso, conta com hospitais da rede privada que tem seus serviços contratados pela 
+Secretaria Municipal de Saúde (Gama, 2013). 
+Segundo Barros e Lima (2015), existem problemas associados à destinação de 
+recursos municipais para a saúde na Região Norte Fluminense e outros relacionados ao 
+envio insuficiente de recursos do SUS para investimento em saúde, sobretudo porque esta 
+região é significativamente afetada por um grande fluxo migratório de indivíduos que 
+buscam emprego no setor petrolífero, o que demanda maior número de atendimentos em 
+saúde. 
+ 
+ 
+3 METODOLOGIA 
+ 
+A pesquisa é de natureza descritiva e adota instrumentos quantitativos e 
+qualitativos para analisar, respectivamente, os efeitos da evolução das rendas petrolíferas 
+e das propostas das legislaturas municipais eleitas em 2012 e 2016 para a gestão da saúde 
+no município de Campos dos Goytacazes.  
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+17 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+O desenvolvimento da pesquisa foi realizado em duas etapas. Inicialmente, para 
+compreender as relações entre royalties e o financiamento da saúde, foram utilizadas 
+metodologia quantitativa e técnicas de estatísticas descritivas. Sua operacionalização foi 
+feita pelo levantamento de dados estatísticos sobre a condição financeira e de saúde do 
+município de Campos de Goytacazes no período entre 2009 e 2020. A Tabela 1 indica as 
+variáveis pesquisadas e suas respectivas fontes. 
+ 
+Tabela 1 – Dimensões pesquisadas e suas fontes 
+Macro dimensões    Subdivisões   Informação 
+  
+Fonte  
+  
+  
+Características 
+municipais 
+  
+Recursos com impostos e transferências 
+constitucionais. 
+  
+DATASUS 
+  
+  
+    
+  
+  
+  
+Rendas petrolíferas 
+  
+Valor nominal de royalties repassado para 
+Campos dos Goytacazes. 
+  
+Info Royalties 
+  
+  
+Valor nominal de participação especial 
+repassado para Campos dos Goytacazes. 
+  
+  
+  
+A soma dos valores nominais de royalties e 
+participação especial repassado para Campos 
+dos Goytacazes. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+SUS 
+  
+Despesas com saúde pagas com recursos 
+próprios. 
+  
+DATASUS 
+  
+  Despesas totais com saúde. 
+  
+  
+  
+Recursos de transferências governamentais 
+para o SUS. 
+  
+Fonte: Elaboração própria com base em Brasil (2021). 
+ 
+O levantamento desses dados permitiu conhecer o financiamento da saúde em três 
+dimensões. A primeira dimensão é relativa aos recursos com impostos e transferências 
+constitucionais. A segunda trata dos recursos arrecadados de indenizações petrolíferas, 
+em que constam indicadores como: a) valor real de royalties repassado para Campos; b) 
+valor real de participação especial repassado para Campos; c) soma dos valores reais de 
+royalties e participação especial repassado para Campos. Por fim, a última dimensão 
+levanta aspectos relacionados ao financiamento do SUS, mais especificamente: a) das 
+despesas com saúde pagas com recursos próprios; b) das despesas totais com saúde; c) 
+dos recursos de transferências governamentais para o SUS. 
+Os dados sobre os recursos do financiamento da saúde foram pesquisados no 
+Departamento de Informática do SUS (DATASUS), que disponibiliza informações para 
+subsidiar análises objetivas da situação financeira do município. São informações 
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+18 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+referentes aos recursos do Fundo Nacional de Saúde transferidos aos municípios, aos 
+créditos aos prestadores de serviços de saúde e aos orçamentos públicos de saúde 
+declarados pelos estados, pelo Distrito Federal e pelos municípios. Os dados sobre 
+royalties e participações especiais foram coletados no reservatório digital Info Royalties 
+(2023).  
+Os dados coletados em valores nominais foram corrigidos pelo IPCA para o ano 
+de 2021, com o objetivo de permitir a comparação dos valores ao longo do período de 12 
+anos estudados. 
+A segunda etapa da pesquisa foi realizada com a ajuda de métodos qualitativos 
+para analisar as diferentes formas de gerir a saúde campista a partir de uma análise 
+documental dos programas de governo dos candidatos eleitos nos pleitos em 2012 e 2016. 
+Para uma síntese das propostas direcionadas à saúde e disponíveis no Tribunal Regional 
+Eleitoral (TRE), ver Martins (2023). Estas propostas foram classificadas para fins de 
+análise com a seguinte divisão: atenção primária à saúde; atenção de alta e média 
+complexidade, atenção a grupos populacionais específicos; cooperação entre o município 
+e a União; relação com a saúde suplementar e financiamento do sistema de saúde.  
+ 
+ 
+4 RESULTADOS  
+4.1 
+Análise dos repasses para Campos dos Goytacazes 
+ 
+A Tabela 2 traz os valores recebidos pelo município em função da exploração do 
+petróleo na Bacia de Campos no período de 2009 a 2020, por períodos de gestão. 
+ 
+Tabela 2 – Valores de repasses oriundos de royalties e participação especial para o município 
+de Campos dos Goytacazes/RJ, 2009 a 2020 (valores em R$ constantes)  
+Gestão 
+Ano 
+Valor real de 
+royalties 
+Valor real de 
+participação especial 
+Valores reais de 
+royalties + part. 
+especial 
+2009- 2012 
+2009 
+R$ 824.762.046,67 
+R$ 1.127.266.140,96 
+R$ 1.952.028.187,64 
+2010 
+R$ 902.021.531,94 
+R$ 999.132.432,45 
+R$ 1.901.153.964,39 
+2011 
+R$ 981.365.078,13 
+R$ 1.186.790.334,29 
+R$ 2.168.155.412,42 
+2012 
+R$ 1.051.893.967,49 
+R$ 1.202.589.317,32 
+R$ 2.254.483.284,80 
+Quadriênio 
+R$ 3.760.042.624,23 
+R$ 4.515.778.225,03 
+R$ 8.275.820.849,25 
+  
+  
+ 
+ 
+ 
+2013- 2016 
+2013 
+R$ 988.136.946,57 
+R$ 1.054.761.465,28 
+R$ 2.042.898.411,85 
+2014 
+R$ 932.910.772,98 
+R$ 848.476.493,96 
+R$ 1.781.387.266,93 
+2015 
+R$ 549.058.649,92 
+R$ 287.094.017,72 
+R$ 836.152.667,64 
+2016 
+R$ 337.062.975,71 
+R$ 101.454.724,65 
+R$ 438.517.700,36 
+Quadriênio 
+R$ 2.807.169.345,17 
+R$ 2.291.786.701,61 
+R$ 5.098.956.046,78 
+  
+  
+ 
+ 
+ 
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+19 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+2017- 2020 
+2017 
+R$ 409.133.272,57 
+R$ 156.851.980,37 
+R$ 565.985.252,94 
+2018 
+R$ 531.476.477,35 
+R$ 251.298.565,62 
+R$ 782.775.042,97 
+2019 
+R$ 407.458.642,24 
+R$ 100.453.980,41 
+R$ 507.912.622,65 
+2020 
+R$ 273.820.611,91 
+R$ 8.635.838,39 
+R$ 282.456.450,30 
+Quadriênio 
+R$ 1.621.889.004,07 
+R$ 517.240.364,79 
+R$ 2.139.129.368,86 
+Fonte: Elaboração própria com dados deflacionados pelo IPCA a preços de 2021, com base em Info 
+Royalties (2021). 
+ 
+No começo da série histórica, Campos recebia grandes quantidades de receitas 
+oriundas da exploração do petróleo. O ano de 2015 marca um ponto de inflexão, com as 
+receitas diminuindo abruptamente. O motivo foi a crise do petróleo, iniciada em 2014, 
+que levou a uma queda expressiva do preço do barril de petróleo no mercado 
+internacional, saindo da casa dos US$ 120 para menos de US$ 40 o barril. Isto abalou a 
+economia nacional, em geral, e, em particular, a dos estados e municípios considerados 
+dependentes das indenizações petrolíferas. 
+Observa-se na Tabela 2 que, no primeiro quadriênio, Campos recebia um pouco 
+mais de R$ 8 bilhões das referidas rendas, e esse valor cai para cerca de R$ 5 bilhões no 
+quadriênio de 2013 a 2016, redução de 38,4% em relação ao quadriênio anterior. De 2017 
+a 2020, os valores somados apresentam o seu pior resultado: a prefeitura recebeu apenas 
+R$ 2,14 bilhões em rendas petrolíferas, redução de 58% em relação ao quadriênio 
+anterior. Além disso, nota-se que, a partir de 2014, os recursos dos royalties e participação 
+especial começaram a decrescer significativamente, chegando a valores médios de 
+R$ 600 milhões anuais entre os anos 2015 e 2019, sendo 2020 o ano com o menor repasse 
+(R$ 282 milhões). 
+Na Tabela 3 pode-se visualizar que o maior montante total de recursos arrecadados 
+e repassados para Campos foi recebido entre 2009 e 2012, o que equivale a quase o dobro 
+do montante recebido entre 2017 e 2020. A diferença é explicada principalmente pela 
+redução das rendas petrolíferas. 
+ 
+Tabela 3 – Valores arrecadados e repassados para o município de Campos dos Goytacazes (RJ), 
+2009 a 2020 (valores em R$ constantes) 
+Gestão 
+Ano 
+Valores reais de 
+royalties + part. 
+especial 
+Recursos - impostos e 
+transferências 
+constitucionais 
+Recursos de 
+transferências 
+governamentais para 
+o SUS 
+Total de 
+recursos  
+2009- 2012 
+2009 
+1.952.028.187,64 
+618.563.333,71 
+40.925.495,42 
+2.611.517.016,77 
+2010 
+1.901.153.964,39 
+791.893.415,91 
+200.375.954,67 
+2.893.423.334,97 
+2011 
+2.168.155.412,42 
+869.710.631,03 
+196.370.066,31 
+3.234.236.109,76 
+2012 
+2.254.483.284,80 
+917.137.588,16 
+229.371.128,04 
+3.400.992.001,01 
+Quadriênio 
+8.275.820.849,25 
+3.197.304.968,81 
+667.042.644,44 
+12.140.168.462,51 
+  
+  
+ 
+ 
+ 
+ 
+2013
+- 
+2016 
+2013 
+2.042.898.411,85 
+1.020.835.810,06 
+205.901.205,66 
+3.269.635.427,58 
+2014 
+1.781.387.266,93 
+968.753.773,79 
+206.617.198,58 
+2.956.758.239,30 
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+20 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+2015 
+836.152.667,64 
+815.225.237,16 
+188.800.506,61 
+1.840.178.411,42 
+2016 
+438.517.700,36 
+753.944.528,00 
+173.836.546,74 
+1.366.298.775,10 
+Quadriênio 
+5.098.956.046,78 
+3.558.759.349,01 
+775.155.457,60 
+9.432.870.853,40 
+  
+  
+ 
+ 
+ 
+ 
+2017- 2020 
+2017 
+565.985.252,94 
+727.686.593,27 
+175.389.228,55 
+1.469.061.074,77 
+2018 
+782.775.042,97 
+781.564.144,91 
+200.413.841,19 
+1.764.753.029,07 
+2019 
+507.912.622,65 
+751.726.996,25 
+315.532.964,37 
+1.575.172.583,27 
+2020 
+282.456.450,30 
+684.896.155,48 
+365.995.668,67 
+1.333.348.274,45 
+Quadriênio 
+2.139.129.368,86 
+2.945.873.889,91 
+1.057.331.702,78 
+6.142.334.961,56 
+Fonte: Elaboração própria com dados deflacionados pelo IPCA a preços de 2021, com base em Info 
+Royalties (2021). 
+ 
+Outra diferença a ser marcada na Tabela 3 é o aumento das transferências 
+governamentais no período para o SUS, que quase dobraram entre o primeiro e o último 
+quadriênio, enquanto os valores de royalties somados à participação especial e os recursos 
+de transferências constitucionais se reduziram. Constata-se que, quando os valores das 
+indenizações petrolíferas caem, a prefeitura campista fica mais dependente das verbas 
+constitucionais, pois estas não se reduzem na mesma proporção das primeiras. 
+É importante apontar as prováveis causas do aumento das verbas de transferência 
+direta para o sistema de saúde de Campos a partir de 2009. Esse foi o primeiro ano em 
+que a prefeitura aderiu à gestão plena em saúde, mudança que teve como principal função 
+proporcionar um maior volume financeiro para as prefeituras. Mais especificamente, 
+houve um aumento no repasse, de R$ 41 para R$ 200 milhões para a saúde, valor este que 
+continuou a aumentar em todos os quadriênios. 
+A Tabela 4 apresenta os gastos totais com saúde no município de Campos dos 
+Goytacazes para o período de 2009 a 2020, divididos em despesas pagas com recursos 
+próprios e com recursos de transferências governamentais. Observa-se, então, que a 
+despesa em saúde em Campos sofreu abalos significativos das inconstâncias financeiras 
+dos recursos oriundos das rendas petrolíferas. 
+ 
+Tabela 4 – Valores gastos com a saúde no município de Campos dos Goytacazes (RJ), 2009 a 
+2020 (valores de R$ constantes) 
+Gestão 
+Ano 
+Despesas com saúde pagas 
+com recursos próprios 
+Recursos de transferências 
+governamentais para o SUS 
+Despesas totais 
+com saúde 
+2009- 2012 
+2009 
+534.504.385,14 
+40.925.495,42 
+592.755.943,66 
+2010 
+239.654.861,45 
+200.375.954,67 
+853.615.361,79 
+2011 
+330.773.129,86 
+196.370.066,31 
+860.827.781,64 
+2012 
+337.617.964,54 
+229.371.128,04 
+917.076.652,19 
+Subtotal 
+1.442.550.340,99 
+667.042.644,44 
+3.224.275.739,27 
+  
+  
+ 
+ 
+ 
+2013- 2016 
+2013 
+426.429.355,36 
+205.901.205,66 
+1.020.076.053,51 
+2014 
+440.012.288,42 
+206.617.198,58 
+1.053.725.027,38 
+2015 
+407.739.504,37 
+188.800.506,61 
+895.181.705,86 
+2016 
+510.155.853,51 
+173.836.546,74 
+933.625.122,21 
+Subtotal 
+1.784.337.001,66 
+775.155.457,60 
+3.902.607.908,95 
+  
+  
+ 
+ 
+ 
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+21 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+2017- 2020 
+2017 
+334.717.057,62 
+175.389.228,55 
+860.315.138,94 
+2018 
+411.901.304,20 
+200.413.841,19 
+925.223.145,24 
+2019 
+424.747.045,82 
+315.532.964,37 
+958.860.791,11 
+2020 
+471.261.472,08 
+365.995.668,67 
+829.801.116,89 
+Subtotal 
+1.642.626.879,73 
+1.057.331.702,78 
+3.574.200.192,18 
+Fonte: Elaborada pelo autor com dados deflacionados pelo IPCA a preços de 2021, com base em 
+Info Royalties (2021). 
+ 
+Em relação à parte das despesas custeadas com recurso próprio do município, esta, 
+no começo da série analisada, sofreu significativas diminuições, situação ligada 
+diretamente aos efeitos esperados da adoção da gestão plena em saúde, quando houve 
+relevante aumento de receitas de transferências governamentais. Tal retração se 
+estabilizou nos demais anos analisados, até 2017, quando os efeitos financeiros da crise 
+do petróleo chegaram à saúde campista.  
+Sobre as transferências governamentais, notam-se sucessivos aumentos até 2014, 
+ano em que se iniciou uma das maiores crises econômicas já enfrentadas pelo país. Os 
+valores passaram de cerca de R$ 230 milhões em 2012 para R$ 188 milhões em 2015. 
+Houve uma recuperação em 2019, quando tal transferência aumentou.  
+Quando o assunto é o gasto total em saúde de Campos, percebe-se que este 
+aumentou sucessivamente até 2014, período em que ocorreu uma retração financeira na 
+área, diminuição no mesmo período causada pela crise dos royalties. Os valores 
+aumentaram de 2017 a 2019. 
+ 
+ 
+4.2 
+Governos em Campos dos Goytacazes e propostas para a saúde 
+ 
+Eleita em 2008 com 55% dos votos, em uma concorrência acirrada com o 
+candidato Arnaldo Vianna (PDT), Rosinha Garotinho chegou à disputa eleitoral de 2012 
+como candidata à reeleição. Tinha a seu favor a máquina municipal, e suas propostas 
+caminhavam na direção de apresentar melhorias nas atuais estruturas de governo; no 
+campo da saúde não foi diferente. Houve um compromisso a priori de que todos os 
+programas do governo seriam mantidos. As propostas, de forma geral, apresentavam um 
+cenário de aumento do volume de serviços prestados pela prefeitura tanto na área da saúde 
+básica como na de média e alta complexidade. 
+Como pode-se notar no Gráfico 1, que compara o número de propostas por 
+subáreas, as de saúde básica e de atenção a grupos específicos foram as que tiveram maior 
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+22 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+destaque, concentrando 77% das propostas feitas. Na atenção básica, as promessas 
+caminharam fortemente para a ampliação de UBS e de grupos da Estratégia Saúde da 
+Família (ESF), que atuam majoritariamente em áreas de vulnerabilidade social. Sobre 
+grupos específicos, as propostas se referiram a programas para a terceira idade, para 
+pacientes especiais, dependentes químicos, para a saúde do homem e hipertensos. 
+ 
+Gráfico 1 – Análise comparada do número de propostas por subáreas da candidata Rosinha 
+Garotinho nas eleições de 2012 
+ 
+Fonte: Elaboração própria com base no TRE (2012). 
+ 
+Outro ponto importante é que a proposta de programa tratou, em especial, da 
+relação com a rede privada, onde foi garantida a manutenção dos serviços dos hospitais e 
+clínicas conveniados, a consolidação do setor de oncologia, a implantação do acelerador 
+linear no Hospital Escola Álvaro Alvim e em demais hospitais credenciados. 
+Rafael Diniz apresentou-se nas eleições de 2016 como o candidato apto para gerir 
+a administração da cidade de Campos em um momento de crise econômica. Suas 
+propostas governamentais caminhavam na direção de se fazer mudanças expressivas na 
+estrutura do governo campista, principalmente no campo da fiscalização e da 
+modernização, para assim torná-la mais eficiente. 
+Na área da saúde, Diniz prometeu reorganizar a gestão a fim de tornar as UBS 
+mais ágeis no que se refere à capacidade de realizar também consultas médicas, 
+atendimentos especializados, exames de pequena e média complexidade, fortalecendo 
+0
+5
+10
+15
+Atenção a
+grupos
+específicos
+Atenção média e
+alta
+complexidade
+Atenção
+primária
+Cooperação
+município e
+União
+Financiamento
+Saúde
+Suplementar
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+23 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+assim a atenção primária da saúde, cuja porta de entrada principal são as UBS. Ademais, 
+comprometeu-se a reestruturar todo o sistema da atenção secundária (Hospital Dia e 
+UPAs), da atenção terciária (Hospital) e dos serviços de emergência (SAMU).  
+Como visualizado no Gráfico 2, da mesma forma que a candidata Rosinha, Rafael 
+Diniz centrou a maior quantidade de propostas na atenção básica e em ações voltadas para 
+grupos específicos, mas as ênfases em cada uma delas foram distintas. Na atenção 
+primária prometeu, por exemplo, a implantação do prontuário eletrônico de pacientes e a 
+instituição da central de abastecimento de medicamentos. 
+Para grupos específicos, comprometeu-se com ações públicas objetivando 
+promover a saúde dos acometidos por doenças psicossociais, vasculares, cerebrais, 
+cardíacas; para a terceira idade, dependentes químicos e programas destinados a 
+assistência aos assentados e quilombolas (PAAQ). Diferentemente de Rosinha, Diniz 
+tratou sobre o financiamento da saúde ao prometer garantir recursos orçamentários para 
+o Fundo Municipal de Saúde (FMS) para a execução dos serviços em rede de atenção. 
+ 
+Gráfico 2 – Análise comparada do número de propostas por subáreas do candidato Rafael Diniz 
+nas eleições de 2016 
+ 
+Fonte: Elaboração própria com base no TRE (2012). 
+ 
+O Gráfico 3 mostra uma comparação numérica do número de ações propostas por 
+cada candidato. O candidato Rafael, em 2016, fez um volume maior de propostas para a 
+área da saúde, tendo prometido 39 ações, enquanto Rosinha, em 2012, prometeu 30 ações. 
+0
+5
+10
+15
+Atenção a grupos
+específicos
+Atenção média e
+alta
+complexidade
+Atenção primária
+Cooperação
+município e
+União
+Financiamento
+Saúde
+Suplementar
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+24 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+Gráfico 3 – Comparação do número de propostas no campo da saúde pública entre os 
+candidatos Rafael Diniz e Rosinha Garotinho 
+ 
+  Fonte: Elaboração própria com base em Martins (2023). 
+ 
+Em resumo, destaca-se uma diferença clara entre os dois programas: um trata de 
+um governo que aposta na manutenção dos serviços prestados à área de saúde, enquanto 
+o outro, em mudanças estruturais. Rosinha trabalha toda a sua argumentação com o uso 
+de verbos que denotam melhorias no que já existia, como intensificar e aumentar. Já 
+Rafael apresenta um raciocínio com base na ótica da mudança, prometendo ações 
+baseadas na reformulação e na criação de novos programas de saúde, bem como na 
+modernização de todo o sistema com o uso de tecnologias de informação e comunicação 
+para torná-lo mais eficiente. Pode-se ainda afirmar que a visão de uma reorganização 
+sistêmica da área de saúde esteve presente no Governo Rafael, enquanto Rosinha se 
+propôs a apresentar um rol de ações de melhoria no sistema já organizado em sua 
+magistratura anterior. 
+ 
+ 
+5 DISCUSSÃO 
+ 
+Os serviços de saúde de Campos dos Goytacazes são marcados por uma série de 
+dificuldades e problemas de gestão para alcançar a desejada condição de saúde e bem-
+estar da população. O fenômeno social e político estudado neste trabalho consistiu 
+0
+10
+20
+30
+40
+Diniz
+Rosinha
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+25 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+justamente em compreender aspectos que podem influenciar o financiamento e a gestão 
+administrativa da saúde campista. Neste sentido, foi proposto um desenho de pesquisa 
+que investigou os possíveis efeitos da redução dos recursos oriundos das indenizações 
+petrolíferas e dos diferentes modelos de gestão adotados pelos prefeitos sobre a saúde 
+pública da cidade propostos em seus programas de governo. 
+Do ponto de vista do financiamento, os resultados apresentados ilustram um 
+cenário de redução significativa das rendas petrolíferas. Entre os anos 2009 e 2020 os 
+valores repassados de indenizações petrolíferas para Campos caíram expressivamente: 
+saíram da casa dos quase R$ 2 bilhões para aproximadamente R$ 280 milhões por ano. O 
+ano de 2015 marca um ponto de inflexão; a partir dele as receitas diminuíram de forma 
+quase exponencial. Este cenário pode ser explicado pela crise dos valores do barril do 
+petróleo, ocorrido na metade da década de 2010. 
+A bibliografia especializada indica que a renda oriunda da exploração de petróleo 
+é inconstante e passa por momentos de repasses vultosos e por períodos de expressivas 
+diminuições, por isso os recebedores das quantias devem estar preparados para tal 
+volatilidade, algo não realizado em Campos. 
+A queda iniciada em 2014 implicou em alterações nas políticas públicas, antes 
+acostumadas a serem financiadas por altos volumes advindos dessa renda — entre elas 
+estão as políticas de saúde. Os dados apresentados mostraram um cenário em que a 
+despesa com saúde aumentou até 2013, mesmo período de bonanças significativas das 
+indenizações petrolíferas, e recuou para o mesmo patamar de custeio de 2010 em 2015. 
+Há uma flutuação entre 2016 e 2017 e uma estabilização na casa dos R$ 900 milhões em 
+2018 e 2019. 
+Neste sentido, há, então, uma relação entre o volume despendido na saúde e os 
+valores recebidos de royalties, visto que os picos de gasto foram na bonança das rendas 
+petrolíferas e o período de sua diminuição quando esses mesmos valores despencaram. 
+Sendo assim, os cruzamentos de informações realizados neste trabalho indicam que o 
+custeio da saúde em Campos possuiu, no período estudado, certa dependência das rendas 
+petrolíferas. Vale ressaltar que as diminuições dos recursos para o sistema de saúde 
+propiciam efeitos concretos na piora da qualidade de vida dos cidadãos, influenciando 
+positivamente índices de prevalência de doenças e de necessidade da prestação de 
+serviços. 
+Outro fato a destacar foi a importância das transferências governamentais de 
+outros entes para a saúde do município de Campos. Essas foram as responsáveis por 
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+26 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+conter as perdas financeiras advindas da diminuição das rendas petrolíferas. Quando os 
+valores do financiamento da saúde caíram, o que atenuou a queda foram as transferências 
+constitucionais, as verbas que já possuem destino certo. Os dados apresentados realçaram 
+a importância de se ter uma fonte fixa e estável de renda para administração das políticas 
+públicas. 
+A vinculação de recursos fixos é um instrumento importante para manter o SUS 
+viável financeiramente. Este procedimento impede que o custeio do sistema fique à mercê 
+de possíveis mudanças radicais que podem ser adotadas por determinado governante. O 
+custeio do SUS só se estabilizou quando o referido sistema foi implementado ao longo 
+dos anos 1990. As rendas petrolíferas representaram uma possibilidade de expansão das 
+receitas extraorçamentárias, porém suas características de volatilidade requerem cautela 
+em seu uso. 
+Outro ponto ressaltado neste artigo diz respeito aos programas de governo dos 
+prefeitos. A troca do executivo tem o potencial de influenciar a máquina pública. No setor 
+saúde, do ponto de vista municipal, a possibilidade deste impacto se inicia na escolha do 
+secretário de saúde, que pode ser uma pessoa não técnica e sem o conhecimento das 
+condições da cidade. Cada secretário tem sua visão sobre saúde pública, fato que 
+influencia diretamente o modo de atuação da prefeitura. Uns priorizam atenção primária, 
+outros a parte de consulta e exames especializados; há os que apostam numa tentativa de 
+zerar filas no sistema de regulação. Ou seja, a prioridade administrativa varia tanto pelo 
+perfil do burocrata que está ocupando o cargo como pelas orientações políticas dadas pelo 
+prefeito. Cabe ressaltar que, no Governo Rosinha 2012-2016, não houve troca de 
+secretário de saúde, enquanto no Governo Rafael Diniz, três secretários distintos 
+ocuparam a cadeira. Tal análise bem como o acompanhamento da participação social nos 
+conselhos de saúde poderão ser objetos de pesquisa futura. 
+Sobre os programas de governo, foi possível observar uma clara diferença entre 
+eles: um trata de um governo que aposta na manutenção (Rosinha), enquanto o outro em 
+mudanças estruturais (Diniz). Rosinha trabalha toda sua argumentação com o uso de 
+verbos que denotam progresso, como intensificar e aumentar. Rafael apresenta um 
+raciocínio baseado na ótica da mudança, prometendo ações fundamentadas na 
+reformulação e na criação de novos programas de saúde. Ressalta-se que, devido às 
+limitações da metodologia adotada, as propostas de governo não são suficientes para a 
+análise da efetividade da gestão da saúde, mas indicam diferentes estratégias de 
+atendimento às demandas sociais. 
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+27 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+6 CONSIDERAÇÕES FINAIS 
+ 
+O artigo mostrou que a gestão da saúde, no período analisado, foi influenciada 
+tanto pela redução dos recursos oriundos das indenizações petrolíferas como pelos 
+diferentes modelos de gestão para a saúde propostos nos programas de cada candidato 
+nas eleições de 2012 e 2016. Portanto, o achado principal da pesquisa é a constatação de 
+que, entre 2009 e 2020, o financiamento da saúde campista foi impactado diretamente 
+não só pelas flutuações — ora de alta, ora de baixa — nas rendas advindas de indenizações 
+petrolíferas, mas também pelas distintas propostas governamentais para a gestão da saúde 
+apresentadas por Rosinha Garotinho e Rafael Diniz. 
+Espera-se que estes resultados ajudem no entendimento dos fatores que 
+influenciam a provisão de uma política pública em um ambiente democrático. Como pôde 
+ser visto, o arrocho fiscal e a alternância administrativa por meio do voto influenciaram 
+diretamente a complexa rede de serviços prestados pelo SUS para a população, dois dos 
+principais fatores para sua melhoria e eficiência. 
+Estes resultados, apesar de limitados, visto que são baseados somente em 
+propostas dos candidatos para cada uma das legislaturas, podem instigar mais pesquisas 
+para tentar explorar a efetividade das propostas apresentadas como ações concretas de 
+políticas públicas na cidade. 
+ 
+ 
+REFERÊNCIAS 
+ 
+ALVES, M. M. A judicialização na assistência farmacêutica: uma análise no 
+município de Campos dos Goytacazes. 2013. 80 p. Dissertação (Mestrado em Políticas 
+Sociais) – Universidade Estadual Norte Fluminense Darcy Ribeiro, Campos dos 
+Goytacazes, 2013. Disponível em: 
+https://biblioteca.sophia.com.br/terminalri/9688/acervo/detalhe/19131.  Acesso em: 08 
+ago. 2021.  
+ 
+BARROS, D. M.; LIMA, L. D. Orçamento Público, Região e Financiamento em Saúde: 
+Rendas do Petróleo e Desigualdades entre Municípios. Ciência & Saúde Coletiva, Rio 
+de Janeiro, v. 20, n. 10, p. 2973-2984, 2015. Disponível em: 
+http://cienciaesaudecoletiva.com.br/artigos/orcamento-publico-regiao-e-financiamento-
+em-saude-rendas-do-petroleo-e-desigualdades-entre-
+municipios/15158?id=15158&id=15158. Acesso em: 10 nov. 2021.  
+ 
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+28 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+BRASIL. Constituição da República Federativa do Brasil. Brasília: Senado, 1988. 
+Disponível em: http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm. 
+Acesso em: 17 out. 2020.  
+ 
+BRASIL. Emenda Constitucional n.º 29, de 13 de setembro de 2000. Altera os arts. 34, 
+35, 156, 160, 167 e 198 da Constituição Federal e acrescenta artigo ao Ato das 
+Disposições Constitucionais Transitórias, para assegurar os recursos mínimos para o 
+financiamento das ações e serviços públicos de saúde. Brasília: Diário Oficial da 
+União, 2000. Disponível em: 
+https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc29.htm#:~:text=E
+MENDA%20CONSTITUCIONAL%20N%C2%BA%2029%2C%20DE,e%20servi%C
+3%A7os%20p%C3%BAblicos%20de%20sa%C3%BAde. Acesso em: 3 ago. 2021. 
+ 
+BRASIL. Lei Federal n.º 8.080, de 19 de setembro de 1990. Dispõe sobre as condições 
+para a promoção, proteção e recuperação da saúde, a organização e o funcionamento 
+dos serviços correspondentes e dá outras providências. Brasília: Diário Oficial da 
+União, 1990. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l8080.htm. 
+Acesso em: 19 ago. 2023.  
+ 
+BRASIL. Lei n.º 8.142, de 28 de dezembro de 1990. Dispõe sobre a participação da 
+comunidade na gestão do Sistema Único de Saúde (SUS) e sobre as transferências 
+intergovernamentais de recursos financeiros na área da saúde e dá outras providências. 
+Brasília: Diário Oficial da União, 1990. Disponível em: 
+https://www.planalto.gov.br/ccivil_03/leis/l8142.htm#:~:text=L8142&text=LEI%20N%
+C2%BA%208.142%2C%20DE%2028%20DE%20DEZEMBRO%20DE%201990.&tex
+t=Disp%C3%B5e%20sobre%20a%20participa%C3%A7%C3%A3o%20da,sa%C3%B
+Ade%20e%20d%C3%A1%20outras%20provid%C3%AAncias. Acesso em 08 ago. 
+2021.  
+ 
+BRASIL. Ministério da Saúde. DATASUS (Departamento de Informática do SUS). 
+Brasília: Ministério da Saúde, 2021. Disponível em: https://datasus.saude.gov.br/. 
+Acesso em: 02 nov. 2021.  
+ 
+BRASIL. Ministério da Saúde. Portaria nº 384, de 04 de abril de 2003. Brasília, DF: 
+Gabinete do Ministro, 2003. Disponível em: 
+https://bvsms.saude.gov.br/bvs/saudelegis/gm/2003/prt0384_04_04_2003.html. Acesso 
+em: 17 out. 2020.  
+ 
+COSTA, A. M.; VIEIRA, N. A. Participação e controle social em saúde. In: 
+FUNDAÇÃO OSWALDO CRUZ. A saúde no Brasil em 2030: prospecção estratégica 
+do sistema de saúde brasileiro: organização e gestão do sistema de saúde. Rio de 
+Janeiro: Fiocruz/Ipea/Ministério da Saúde/Secretaria de Assuntos Estratégicos da 
+Presidência da República, 2013. p. 237-271. Disponível em: 
+https://static.scielo.org/scielobooks/98kjw/pdf/noronha-9788581100173.pdf. Acesso 
+em: 05 jun. 2021.  
+ 
+FIOCRUZ. Biblioteca Virtual da Saúde. O sanitarista. Rio de Janeiro, RJ: FIOCRUZ. 
+Disponível em: https://bvsarouca.icict.fiocruz.br/o-sanitarista/. Acesso em: 19 ago. 
+2023.  
+ 
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+29 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+FIOCRUZ. Biblioteca Virtual da Saúde. Reforma sanitária. Rio de Janeiro, RJ: 
+FIOCRUZ. Disponível em: https://bvsarouca.icict.fiocruz.br/reforma-sanitaria/. Acesso 
+em: 19 ago. 2023.  
+ 
+GAMA, E. da S. Saúde do trabalhador no município de Campos dos Goytacazes: 
+uma questão negligenciada. 2013. 168 f. Dissertação (Mestrado em Planejamento 
+Regional e Gestão de Cidades) – Universidade Candido Mendes, Campos dos 
+Goytacazes, 2013. Disponível em: https://cidades.ucam-campos.br/wp-
+content/uploads/2013/08/dissertacao-elizabeth-da-silva-gama-2013-2.pdf. Acesso em: 
+01 out. 2021.  
+ 
+MARTINS, S. R. Trajetória da saúde no município de Campos dos Goytacazes-RJ 
+à luz da instabilidade de financiamento e das propostas de governo 2009 a 2020. 
+2023. 104 f. Dissertação (Mestrado em Planejamento Regional e Gestão da Cidade) – 
+Universidade Candido Mendes. Campos dos Goytacazes, 2023. Disponível em: 
+https://cidades.ucam-campos.br/wp-content/uploads/2023/09/Dissertacao_Samuel-
+Martins.pdf. Acesso em: 01 out 2021. 
+ 
+MENICUCCI, T. M. G.; COSTA, L. A.; MACHADO, J. Â. Pacto pela saúde: 
+aproximações e colisões na arena federativa. Ciência & Saúde Coletiva, Rio de 
+Janeiro, v. 23, p. 29-40, 2018. Disponível em: https://doi.org/10.1590/1413-
+81232018231.17902015. Acesso em: 05 out. 2021.  
+ 
+OLIVEIRA, M. C. G. Planejamento em saúde e gestão democrática: uma análise dos 
+instrumentos do planejamento da política de saúde do município de Campos dos 
+Goytacazes. 2016. 168 f. Dissertação (Mestrado em Planejamento Regional e Gestão de 
+Cidades) – Universidade Candido Mendes, Campos dos Goytacazes, 2016. Disponível 
+em: https://cidades.ucam-campos.br/wp-content/uploads/2017/07/MARIA-
+CAROLINA-GON%C3%87ALVES-OLIVEIRA.pdf. Acesso em: 19 ago 2023.  
+ 
+RIO DE JANEIRO. Tribunal Regional Eleitoral. Programa de governo: documento 
+base: rafael diniz: prefeito: conceição santana: vice prefeita. Campos dos Goytacazes, 
+RJ: TRE, 2016. Disponível em: https://dadosabertos.tse.jus.br/dataset/candidatos-2016. 
+Acesso em: 01 out 2021. 
+ 
+RIO DE JANEIRO. Tribunal Regional Eleitoral. Propostas defendidas pelos 
+candidatos a prefeito e a vice-prefeito: rosinha garotinho e doutor chicão. Campos dos 
+Goytacazes, RJ: TRE, 2016. Disponível em: 
+https://dadosabertos.tse.jus.br/dataset/candidatos-2012/resource/c1a7fa6d-bd12-464d-
+b40d-b034d3776971. Acesso em: 03 ago. 2021. 
+ 
+SANTOS, S. O orçamento na saúde: radiografia e possíveis diagnósticos em Campos 
+dos Goytacazes. 2008. 91 f. Dissertação (Mestrado em Planejamento Regional e Gestão 
+de Cidades) – Universidade Candido Mendes, Campos dos Goytacazes, 2008. 
+Disponível em: https://cidades.ucam-campos.br/wp-content/uploads/2012/10/sergio-
+dos-santos-2008.pdf. Acesso em: 06 set. 2021. 
+ 
+SILVA, S. F. da. Municipalização da saúde e poder local: sujeitos, atores e políticas. 
+São Paulo: Editora Hu, 2001. 293 p. 
+ 
+Cadernos do Desenvolvimento Fluminense - ISSN: 2317-6539
+ 
+30 
+Rio de Janeiro | n. 27 | Rio de História: Heranças e Desafios do Estado Fluminense | jul.-dez. 2024 
+ 
+ARTIGO | A Gestão da Saúde à Luz da Instabilidade de Financiamento e das Propostas de Governo: 
+um Estudo de Caso Sobre Campos dos Goytacazes-RJ, 2009 a 2020 
+UNIVERSIDADE CÂNDIDO MENDES. Inforoyalties, 2023. Royalties recebidos 
+anualmente pelo município. Disponível em: http://inforoyalties.ucam-campos.br/. 
+Acesso em: 10 ago. 2023.  
+ 
+VIDAL, D. L. C. Demanda reprimida: estudo do acesso às ações e serviços de saúde 
+públicos de média complexidade no Município de Campos dos Goytacazes-RJ. 2006. 95 
+f. Dissertação (Mestrado em Serviço Social) – Universidade Estadual do Rio de Janeiro, 
+Rio de Janeiro, 2006. Disponível em: https://www.bdtd.uerj.br:8443/handle/1/15994. 
+Disponível em: https://www.bdtd.uerj.br:8443/handle/1/15994. Acesso em: 05 out. 
+2021. 
+ 
+ 
+ 
+Os artigos assinados são de inteira responsabilidade dos autores, bem como 
+no que se refere ao uso de imagens. 

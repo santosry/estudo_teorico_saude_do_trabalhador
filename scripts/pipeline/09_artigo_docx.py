@@ -63,7 +63,7 @@ CORPO = [
  "tempos e produz padrões específicos de adoecimento (Oliveira, 2004). No Brasil, o "
  "campo da Saúde do Trabalhador constituiu-se como crítica à medicina do trabalho e "
  "à saúde ocupacional, ao afirmar a determinação social do processo saúde-doença e o "
- "processo de trabalho como categoria explicativa central (Mendes e Dias, 1991). No "
+ "trabalho, enquanto organizador da vida social, como categoria central (Mendes e Dias, 1991). No "
  "setor saúde, o trabalho produtor do cuidado se realiza sob divisão social e técnica, "
  "relações desiguais de poder entre categorias e desgaste, em serviços submetidos à "
  "reorganização gerencial flexível. Parcela expressiva dos vínculos do Sistema Único de Saúde (SUS) é precária Parcela expressiva dos vínculos do Sistema Único "
@@ -84,7 +84,8 @@ CORPO = [
  "especiais) passaram a representar fração crescente das receitas municipais. O "
  "terceiro ciclo, em curso, caracteriza-se pela estagnação da atividade petrolífera, "
  "pelo declínio dos repasses a partir de 2014 e pela busca de alternativas econômicas, "
- "sem que a diversificação produtiva tenha se efetivado (Silva e Hasenclever, 2019). Os autores documentam que entre 1999 e 2014 Campos recebeu R$ 12,5 bilhões em rendas petrolíferas, sem que a diversificação produtiva ou a redução das desigualdades sociais acompanhassem esse fluxo.",
+ "sem que a superação do subdesenvolvimento histórico do município tenha se "
+ "efetivado (Silva e Hasenclever, 2019).",
 
  # §3 - Perfil sociodemográfico
  "Campos dos Goytacazes é o maior município fluminense em extensão (4.032,5 km²) e "
@@ -106,7 +107,7 @@ CORPO = [
  "trabalho. O PIB municipal, a preços correntes, oscilou de R$ 58,4 bilhões em 2013 "
  "para R$ 23,9 bilhões em 2020 e R$ 43,0 bilhões em 2023, acompanhando a volatilidade "
  "do petróleo. Silva e Hasenclever (2019) demonstram que o ciclo petrolífero elevou "
- "arrecadação sem diversificação produtiva e Martins, Hasenclever e Miranda (2024) "
+ "arrecadação com concentração de renda e fragilidade institucional e Martins, Hasenclever e Miranda (2024) "
  "mostram que o financiamento da saúde municipal acompanhou essas flutuações entre "
  "2009 e 2020. A trajetória dos três ciclos econômicos - açúcar, petróleo e "
  "estagnação - produziu um mercado de trabalho segmentado, com a administração "

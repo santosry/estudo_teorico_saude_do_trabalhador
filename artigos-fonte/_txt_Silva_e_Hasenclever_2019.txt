@@ -1,0 +1,1114 @@
+Revista Desenvolvimento em Questão
+Editora Unijuí • ISSN 2237-6453 • Ano 16 • n. 45 • out./dez. • 2018
+Desenvolvimento em Questão
+Editora Unijuí • ISSN 2237-6453 • Ano 17 • n. 46 • jan./mar. • 2019
+Ciclo do Petróleo e Desenvolvimento Socioeconômico  
+no Município de Campos dos Goytacazes – 1999/2014
+http://dx.doi.org/10.21527/2237-6453.2019.46.314-332
+Recebido em: 15/12/2017 
+Aceito em: 29/8/2018
+José Eduardo Manhães da Silva,1 Lia Hasenclever2
+RESUMO
+O município de Campos dos Goytacazes, localizado na região Norte do Estado do Rio de Janeiro, destacou-se, até recente-
+mente, como o maior receptor de rendas oriundas de royalties e participações especiais do país. O objetivo deste artigo é 
+observar a contribuição do ciclo expansivo da indústria petrolífera na Bacia de Campos, no sentido de superar o subdesenvol-
+vimento local e a promoção do desenvolvimento socioeconômico. A metodologia analisa indicadores socieconômicos do mu-
+nicípio de Campos dos Goytacazes, no período 1999/2014, comparados aos municípios de Macaé e Niterói, e complementa 
+essa análise por pesquisa na literatura científica sobre o tema. Conclui-se que, apesar do virtuoso ciclo do petróleo e das 
+generosas receitas de royalties e participações especiais auferidos pelo município, constata-se que o subdesenvolvimento 
+não só persiste, mas também se reproduz por conta da deterioração institucional.
+Palavras-chave: Subdesenvolvimento. Petróleo e gás. Royalties. Campos dos Goytacazes.
+OIL CYCLE AND SOCIOECONOMIC DEVELOPMENT  
+IN THE MUNICIPALITY OF CAMPOS DOS GOYTACAZES - 1999/2014
+ABSTRACT 
+Campos dos Goytacazes, county located in the north region of the state of Rio de Janeiro, until recently, has been the greatest 
+receiver of royalties and special participations in the country. The objective of this article is to observe the contribution of 
+the expansive cycle of the oil industry in the Campos Basin, in order to overcome local underdevelopment and to promote 
+the socioeconomic development. The methodology analize the socioeconomic indicators of Campos dos Goytacazes in the 
+period 1999/2014, compared to the municipalities Macaé and Niterói, and complemented this analize by research in the 
+scientific literature about the subject.  Concludes  that, in despite the virtuous cycle of oil and the generous revenues from 
+royalties and special participations shown by the county, it’s observed that underdevelopment not only persists, but also 
+increases due to institutional deterioration.
+Keywords: Underdevelopment. Oil and gas. Royalties. Campos dos Goytacazes.
+1	Mestre em Economia Empresarial pela Universidade Candido Mendes (Ucam). Aluno de Doutorado em Planejamento Regional e Gestão de 
+Cidades da Universidade Candido Mendes (Ucam), Campos dos Goytacazes. Professor da Universidade Federal Fluminense (UFF). jedums@
+hotmail.com
+2	Doutora em Engenharia de Produção pela Universidade Federal do Rio de Janeiro (UFRJ). Professora da Universidade Federal do Rio de 
+Janeiro. Professora do Programa de Pós-Graduação em Planejamento Regional e Gestão de Cidades da Universidade Candido Mendes 
+(Ucam), Campos dos Goytacazes. lia@ie.ufrj.br
+p. 314-332
+ISSN 2237-6453  –   ano 17  •  n. 46  •  jan./mar. 2019  
+Ciclo do Petróleo e Desenvolvimento Socioeconômico  
+no Município de Campos dos Goytacazes – 1999/2014
+315
+Campos dos Goytacazes está inserido no norte do Estado do Rio de Janeiro – ERJ – 
+que que é composto por 92 municípios. É o maior em extensão territorial do Estado, 
+com 4.032Km2, e considerado um município de porte médio, com população estimada 
+de 487.186 habitantes (2016), segundo o Instituto Brasileiro de Geografia e Estatística – 
+IBGE.
+Historicamente, o atual município de Campos dos Goytacazes galgou crescente 
+importância no cenário econômico regional, nacional e internacional. Ao longo do sé-
+culo 19 e primeira metade do século 20, Campos dos Goytacazes vivenciou dois ciclos 
+expansivos baseados na produção sucroalcooleira, tendo ostentado no final do século 
+19 a posição de município com maior produção açucareira do país. Ao final do século 20 
+e início do século 21, um terceiro ciclo expansivo se apresentou para Campos dos Goy-
+tacazes e demais municípios do norte fluminense. O recente ciclo expansivo baseia-se 
+nos investimentos da indústria petrolífera, tendo em vista a exploração e produção de 
+petróleo e gás – P&G – na Bacia de Campos. 
+Este novo ciclo, agora fundamentado em atividades industriais e de serviços li-
+gados à exploração e produção de P&G, caracteriza-se por vultosos investimentos em 
+infraestrutura produtiva offshore, em expressivos dispêndios com atividades de pesqui-
+sa e desenvolvimento (P&D) e pesados gastos na contratação de serviços ligados à in-
+dústria. Além disso, entre as externalidades positivas da produção petrolífera no norte 
+fluminense, que respondeu em 2014, segundo a Agência Nacional de Petróleo – ANP 
+– por 68,4% da produção de óleo e 45,3% da produção de gás natural do país, estão as 
+receitas de royalties e participações especiais auferidas pelos municípios no entorno da 
+Bacia de Campos, com destaque para o município de Campos dos Goytacazes, que lide-
+rou por muitos anos o ranking de maior receptor de royalties do país.
+O objetivo deste artigo é analisar a dinâmica socioeconômica de Campos dos Goy-
+tacazes, no período de 1999 a 2014, tendo em vista os impactos da produção de P&G 
+em variáveis econômicas e sociais selecionadas. Busca-se avaliar a contribuição do ciclo 
+expansivo de P&G como evento potencialmente capaz de viabilizar a reversão da histó-
+rica condição de subdesenvolvimento da localidade de Campos dos Goytacazes, visto 
+que sua efetividade deveria ser capaz de trazer benefícios para a sociedade local tradu-
+zidos em indicadores socioeconômicos.
+Trabalha-se com a hipótese de que o ciclo expansivo do P&G – apesar do extraor-
+dinário potencial produtivo e tecnológico – não produziu, até então, os efeitos espera-
+dos para viabilizar as transformações estruturais e institucionais necessárias à supera-
+ção do subdesenvolvimento do município de Campos dos Goytacazes. No período de 
+análise é possível observar, de forma consistente, os efeitos provenientes dos investi-
+mentos e mudanças estruturais e institucionais decorrentes do ciclo produtivo de P&G 
+em Campos dos Goytacazes e na região norte fluminense, especialmente a partir da 
+Lei nº 9.478, de 6 de agosto de 1997, conhecida como Lei do Petróleo, que flexíbiliza o 
+monopólio das atividades de extração e produção, até então exercidas pela Petrobras. 
+Optou-se por este período devido à limitação de dados oficiais em um espectro 
+temporal mais dilatado para a realização da pesquisa. Do ponto de vista metodológico, 
+utiliza-se o método de análise comparada com outros municípios do ERJ, a saber: Ma-
+caé e Niterói. Os dados socioeconômicos foram coletados nos sites dos seguintes ór-
+gãos: Cadastro Geral de Empregados e Desempregados – Caged; Programa das Nações 
+Editora Unijuí   –   Desenvolvimento em Questão
+José Eduardo Manhães da Silva – Lia Hasenclever
+316
+Unidas para o Desenvolvimento – Pnud; Agência Nacional de Petróleo – ANP; Instituto 
+Brasileiro de Geografia e Estatística – IBGE, e Instituto de Pesquisa Econômica Aplicada 
+– Ipea. A partir desses dados foram construídos os indicadores apresentados no Quadro 
+1 e suas fontes.
+Quadro 1 – Indicadores, variáveis, cálculo e suas fontes
+Fonte: Elaboração própria.
+A escolha para comparação com os municípios de Macaé e Niterói deve-se ao fato 
+de o primeiro possuir um protagonismo semelhante quanto ao contexto da produção 
+extrativa de P&G, além da proximidade territorial com o município de Campos dos Goy-
+tacazes. Já a comparação com Niterói deve-se à semelhança quanto à densidade po-
+pulacional de Campos dos Goytacazes, apesar de Niterói possuir uma economia mais 
+desenvolvida.
+Além desta introdução, o artigo é assim desenvolvido: inicialmente apresentam-
+-se os referenciais teórico e metodológico, com a abordagem estruturalista de Celso 
+Furtado, pela ótica analítica de Sachs e Warner (1995); na sequência realizam-se análi-
+ses econômicas e sociais do município de Campos dos Goytacazes, com destaque para 
+a evolução respectivamente do PIB setorial do município e de indicadores que refletem 
+sua economia; a evolução de indicadores de pobreza e indigência, encerrando-se a se-
+ção com informações sintéticas sobre o desenvolvimento por meio dos indicadores do 
+Programa das Nações Unidas para o Desenvolvimento – Pnud. A última seção é destina-
+da às considerações finais do trabalho.
+DESENVOLVIMENTO E RECURSOS NATURAIS ABUNDANTES
+Há um consenso de que o crescimento econômico decorre do aumento da pro-
+dutividade derivada da incorporação dos fatores de produção ao processo de expansão 
+da produção, tais como capital, trabalho, tecnologia e capacidade empresarial, com tal 
+crescimento sendo medido pelo Produto Interno Bruto (PIB). Por sua vez, até meados 
+ISSN 2237-6453  –   ano 17  •  n. 46  •  jan./mar. 2019  
+Ciclo do Petróleo e Desenvolvimento Socioeconômico  
+no Município de Campos dos Goytacazes – 1999/2014
+317
+dos anos 80, o PIB per capita figurava como o principal indicador do nível de bem-estar 
+econômico e social de países e regiões. Nessa perspectiva, percebia-se o desenvolvi-
+mento econômico como resultado da expansão econômica e do aumento da produtivi-
+dade. Não considerava-se, então, os indicadores sociais, por exemplo, acesso à saúde, à 
+educação e o nível de pobreza de uma dada população. Já no final dos anos 80 e início 
+de 90, sobretudo a partir de contribuições seminais do economista indiano Amartya 
+Sen3 (2000), a noção de desenvolvimento passaria a incluir a dimensão social. Assim, 
+além do PIB per capita, indicadores como o Índice de Desenvolvimento Humano (IDH) 
+passariam a ser utilizados para dimensionar o desenvolvimento econômico e social de 
+países e regiões. 
+Já os estudos sobre desenvolvimento econômico realizados por autores como 
+Ragnar Nurkse (1957), Gunnar Myrdal (1957), Albert Hirschman (1961) e Celso Furtado 
+(2009), distinguem regiões economicamente subdesenvolvidas das economicamente 
+desenvolvidas. Estes estudos foram influenciados especialmente pela Teoria Geral de 
+Keynes (1996), tendo em vista a noção de que o crescimento econômico ocorre em uma 
+perspectiva de desequilíbrio sistemático, em contraposição à noção do crescimento eco-
+nômico equilibrado, como proposto pela escola neoclássica. A perspectiva de se manter 
+a economia crescendo a pleno emprego dos fatores de produção, por meio de políticas 
+anticíclicas, foi a tônica dos police-makers a partir de 1945. A grande lição percebida em 
+fins dos anos 70, contudo, foi que o crescimento econômico, decorrente do aumento da 
+produtividade, pode ocorrer de forma muito concentrada, sem que parcelas considerá-
+veis da população tenham acesso ou se beneficiem de seus frutos,4 a despeito do que 
+era defendido pelo pensamento cepalino5 nos anos 50 a 70.
+Em outra perspectiva, observam-se teorias do crescimento econômico que privi-
+legiam um enfoque mais mesoeconômico e que dão lugar à discussão da importância 
+dos espaços local/regional no processo de desenvolvimento. Neste sentido, destacam-se 
+abordagens que ressaltam a importância das economias de aglomeração, em particular 
+aglomerações industriais,6 como elemento-chave na explicação do crescimento econô-
+mico. 
+3	Nesse sentido, Sen enuncia o novo conceito de desenvolvimento: “O desenvolvimento consiste na eliminação de 
+privações de liberdade que limitam as escolhas e as oportunidades das pessoas de exercer ponderadamente sua 
+condição de agente” (SEN, 2000, p. 10).
+4	Segundo Furtado (2006, p. 25), um expoente do pensamento cepalino, “O desenvolvimento não é apenas 
+um processo de acumulação, de aumento de produtividade macroeconômica, mas principalmente o ca-
+minho de acesso às formas sociais mais aptas a estimular a criatividade humana e responder às aspira-
+ções da coletividade. Dispor de recursos para investir está longe de ser condição suficiente para preparar 
+um futuro melhor para a massa da população. Mas quando o projeto social prioriza e efetiva a melhoria 
+das condições de vida desta população, o crescimento se metamorfoseia em desenvolvimento”. 
+5	“O desenvolvimento econômico é um fenômeno com uma nítida dimensão histórica. Cada economia que se desen-
+volve enfrenta uma série de problemas que lhe são específicos, se bem que muitos deles sejam comuns a outras 
+economias contemporâneas” (FURTADO, 2009, p. 11)
+6	Alfred Marshall, em sua obra “Princípios de Economia” (1996), é considerado o precursor desta abordagem, con-
+substanciada na definição dos conceitos que definem o chamado “Distrito Industrial Marshalliano”.
+Editora Unijuí   –   Desenvolvimento em Questão
+José Eduardo Manhães da Silva – Lia Hasenclever
+318
+Complementarmente, o arcabouço estruturalista-furtadiano é de suma impor-
+tância para a compreensão da dinâmica socioeconômica de regiões e localidades de 
+baixo desenvolvimento ou periféricas7 que estabelecem uma relação centro-periferia 
+no contexto nacional e, em alguns casos, internacional, como é o caso de Campos dos 
+Goytacazes. Na perspectiva furtadiana, as relações de subordinação, no esquema cen-
+tro-periferia, que explicam o subdesenvolvimento de regiões periféricas ou atrasadas, 
+passam inexoravelmente pelas questões de sua “formação socioeconômica”, que envol-
+ve questões estruturais e institucionais em uma perspectiva histórica (FURTADO, 2009).
+A região norte fluminense e, em particular, o município de Campos dos Goyta-
+cazes, figuram como os maiores produtores de P&G do país (60%). O norte fluminen-
+se e Campos dos Goytacazes figuram ainda entre os maiores produtores mundiais de 
+P&G. Mais recentemente, alguns teóricos investigaram a relação entre recursos naturais 
+abundantes e desenvolvimento socioeconômico.8 Em um contexto de abundância des-
+tes recursos naturais, cumpre investigar como tal riqueza tende a contribuir para o cres-
+cimento e desenvolvimento do município e da região norte fluminense.
+Nesta linha de raciocínio, o recorte analítico construído por Sachs e Warner (1995) 
+aponta para uma relação inversa entre desenvolvimento econômico e abundância de 
+recursos naturais. Após terem analisado 95 diferentes países, com elevada e reduzida 
+dotação de recursos naturais, os autores chegaram ao seguinte paradoxo: países com 
+recursos naturais abundantes apresentam, em geral, taxas relativamente baixas de cres-
+cimento econômico devido à denominada doença holandesa,9 expressão que passou 
+a designar os resultados negativos derivados da valorização cambial sobre os setores 
+produtivos exportadores e, consequentemente, sobre o desenvolvimento econômico. 
+Sachs e Warner (1995) dividem a economia em três setores: o setor de comércio 
+do recurso natural, um setor industrial de transformação (não vinculado ao de recurso 
+natural) e um setor não comercial. Nesse contexto, quanto mais recursos naturais exis-
+tirem, maior será a demanda por bens não industriais e, consequentemente, menor 
+será a alocação de trabalho e do capital no setor industrial de transformação. Em decor-
+rência desse cenário, quando os recursos naturais são abundantes, a produção é mais 
+concentrada em recursos naturais do que em produtos industrializados. Assim, capital 
+e trabalho, que de outra maneira poderiam ser empregados na indústria de transfor-
+mação, são alocados no setor de serviços e em atividades relacionadas à produção do 
+recurso natural. 
+Além disso, nos países ricos em recursos naturais o ensino voltado para a forma-
+ção de profissionais que atuem na atividade extrativa do recurso abundante debilitará 
+a formação de profissionais de outras áreas por deficiência de demanda de formação. 
+Com isso, um círculo vicioso se forma, visto que a evasão reduzirá a quantidade e a 
+capacidade dos docentes relacionados ao ensino e formação de outras áreas produti-
+7	Regiões com baixo desenvolvimento ou periféricas apresentam as seguintes características: concentração de renda 
+em uma elite ligada à atividade extrativista; baixa heterogeneidade produtiva; subemprego e baixa renda; mão de 
+obra abundante e de baixa qualificação, baixo nível de poupança.
+8	Ver CAVALIERI; TORRES; HASENCLEVER (2013).
+9	Esta expressão deriva da experiência holandesa, que após a descoberta de jazidas de gás natural em 1960, sofreu 
+com a apreciação cambial devido aos elevados níveis de exportação desse recurso natural, o que prejudicou a com-
+petitividade dos setores produtivos exportadores.
+ISSN 2237-6453  –   ano 17  •  n. 46  •  jan./mar. 2019  
+Ciclo do Petróleo e Desenvolvimento Socioeconômico  
+no Município de Campos dos Goytacazes – 1999/2014
+319
+vas, impactando e tornando mais deficiente a educação das gerações seguintes, assim 
+como concentrada em uma única área.10 Sachs e Warner (1995) também explicitam as 
+questões institucionais, notadamente aspectos burocráticos e éticos, como fatores que 
+podem impactar negativamente o crescimento econômico em países ricos em recursos 
+naturais. Complementando, Sachs e Warner (1995) apresentam um argumento no qual 
+afirmam que os governos que controlam os rendimentos dos recursos naturais tendem 
+a desperdiçar esses rendimentos por meio do consumo desnecessário ou impróprio. 
+Na perspectiva contemporânea, o conceito de desenvolvimento passa a englobar 
+problemas sociais, envolvendo especialmente a questão da pobreza e indigência com 
+restrição às liberdades individuais propugnadas pela escola neoclássica. E esse entendi-
+mento tem aumentado na contemporaneidade, tornando possível sua compreensão e 
+dimensionamento por intermédio de indicadores, que, por sua vez, derivam em contro-
+vérsias devido a limitações em suas concepções e avaliações. A pobreza, como exemplo, 
+possui características multidimensionais que exigem a existência de um indicador que 
+tenha uma correspondente abordagem multidimensional e que leve em consideração a 
+situação de como o indivíduo percebe sua própria situação na sociedade. 
+Assim sendo, o arcabouço teórico no que respeita ao desenvolvimento de uma 
+região permeia diversas dimensões, inclusive a análise de desenvolvimento baseada na 
+produção de P&G. Nesse contexto o recorte analítico de Sachs e Warner (1995) aponta 
+para as adversidades socioeconômicas provenientes da abundância desses recursos na-
+turais. Na seção a seguir apresentam-se os indicadores socioeconômicos do município 
+de Campos dos Goytacazes, comparados com os municípios de Macaé e Niteroi.
+ANÁLISE SOCIOECONÔMICA COMPARADA  
+DO MUNICÍPIO DE CAMPOS DOS GOYTACAZES
+Os dois ciclos expansivos anteriores à atividade petrolífera, como mencionado an-
+teriormente, eram fundamentados na produção sucroalcooleira e não resultaram em 
+desenvolvimento socioeconômico de Campos dos Goytacazes (ROSENDO; CARVALHO, 
+2004), no entanto, baseando-se nos investimentos petrolíferos e em suas potenciais ex-
+ternalidades, entre elas os royalties petrolíferos, o ciclo expansivo do petróleo apresen-
+tou-se com extraordinário potencial para promover mudanças estruturais e institucio-
+nais em Campos dos Goytacazes e região norte fluminense, especialmente por conta do 
+alto conteúdo tecnológico da indústria.
+Assim, respaldando-se nessa hipótese, esta seção analisa alguns indicadores eco-
+nômicos e sociais, a partir do ano de 1999 até 2014. Nesse período o monopólio das 
+atividades de exploração e produção de petróleo, até então exercido pela Petrobras, já 
+havia sido extinto pela Lei nº 9.478/97, conhecida como Lei do Petróleo.
+10	Sachs e Warner descrevem que: “In an overlapping generations model, a resource-rich economy can arrive at a sta-
+tionary state in which each generation chooses to forgo education, and to work directly in the nontradeable sector, 
+since the price and hence market wage in that sector is above the marginal value product of labor in manufacturing. 
+In a resource-poor economy, by contrast, workers will move into manufactures, and will have the incentive to invest 
+in education, since higher-skilled manufacturing workers earn a premium over uneducated workers. The education 
+process will produce not only skilled workers, but also more skilled teachers in the next generation” (SACHS; WAR-
+NER, 1995, p. 8).
+Editora Unijuí   –   Desenvolvimento em Questão
+José Eduardo Manhães da Silva – Lia Hasenclever
+320
+A Tabela 1 apresenta a evolução do PIB de Campos dos Goytacazes para os anos 
+de 1999 e 2014. Considerando-se o PIB deflacionado pelo IPCA,11 constata-se que o 
+incremento real no período foi da ordem de 256,2%, abaixo do município de Macaé 
+(272,5%), porém maior do que a variação para o município de Niterói (88,5%) e do ERJ, 
+no qual verificou-se um aumento médio anual de 80%.
+Tabela 1 – PIB do ERJ e municípios selecionados – 1999 e 2014
+Munícipio
+1999
+2014
+Δ % média anual
+Campos dos Goytacazes 
+1.298.366
+54.516.768
+256,2
+Macaé 
+443.591
+19.782.975
+272,5
+Niterói
+1.520.362
+23.045.367
+88,5
+ERJ
+45.697.993
+630.652.048
+80,0
+Fonte: IBGE, 2017. Preços constantes IPCA – base 2014 (x 1.000). Elaboração própria.
+O comportamento dos setores econômicos dos municípios analisados apresenta-
+ram algumas variações em relação as suas participações percentuais na composição do 
+PIB no período de análise. 
+O setor agropecuário apresentou diminuição na participação do PIB em todos os 
+municípios, assim como no ERJ. Tanto em Campos dos Goytacazes, com crescimento de 
+15,8 pontos percentuais (pp), entre 1999 e 2014, como em Niterói (19 pp) e no ERJ (7,5 
+pp), observa-se um crescimento significativo no setor produtivo industrial. Já em Macaé 
+esse aumento foi menos expressivo, atingindo 2,5 pp. Esse comportamento foi reflexo 
+direto da produção mineral extrativa de P&G. O setor de serviços também apresentou 
+redução relativa em todas as esferas analisadas, porém o comportamento que a prin-
+cípio se evidencia ao contexto é o aumento da participação da administração pública, 
+conforme Tabela 2.
+Tabela 2 – Participação % das atividades econômicas no PIB – 1999 e 2014 
+PIB por 
+atividade 
+econômica  
+Campos dos 
+Goytacazes
+Macaé
+Niterói
+Estado RJ
+ 
+1999
+2014
+1999
+2014
+1999
+2014
+1999
+2014
+Adm.Pública
+3,4
+7,6
+8,4
+25,8
+7,1
+21,7
+13,7
+29,0
+Agropecuária
+2,0
+0,3
+1,2
+0,2
+0,1
+0,15
+0,06
+0,4
+Indústria
+48,8
+64,6
+35,5
+38,1
+11,2
+30,2
+18,1
+25,6
+Serviços
+45,8
+27,6
+54,8
+35,9
+81,6
+48,0
+67,6
+45,0
+Total
+100,0
+100,0
+100,0
+100,0
+100,0
+100,0
+100,0
+100,0%
+Fonte: IBGE... 2017. Elaboração própria.
+11	Índice de correção oficial do governo brasileiro.
+ISSN 2237-6453  –   ano 17  •  n. 46  •  jan./mar. 2019  
+Ciclo do Petróleo e Desenvolvimento Socioeconômico  
+no Município de Campos dos Goytacazes – 1999/2014
+321
+O acréscimo na participação relativa da administração pública em Campos dos 
+Goytacazes aparentemente foi menos expressivo (4,1 pp), mas cabe ressaltar que, de-
+vido à significativa participação do setor industrial de extração mineral, toda a compo-
+sição relativa das demais atividades produtivas do município tendem a ser minoradas.
+A limitada abrangência das informações, por parte dos órgãos estatísticos, quanto 
+à composição podutiva do setor industrial, no que se refere à divisão do PIB entre indús-
+tria extrativa mineral e indústria de transformação, prejudica a análise quanto ao cresci-
+mento ou deteriorização da indústria de transformação. Nesse contexto, passou então a 
+ser utilizada a mensuração do PIB decorrente da metodologia do IBGE que, desde 1998, 
+com base nas Contas Regionais do Brasil, constrói as estimativas do PIB dos municípios 
+agrupando as atividades econômicas nos setores primário, secundário e terciário. Essa 
+metodologia, porém, não permite, conforme já mencionado, uma análise detalhada e 
+distinta da performance de cada atividade produtiva econômica dos municípios.
+Sachs e Warner12 (1995), com base nos resultados de sua pesquisa, indicam que, 
+devido à existência e atuação do setor extrativo mineral abundante, os demais setores, 
+inclusive de transformação, apresentam um crescimento menor. Assim, pode-se supor 
+que, diante dos investimentos significativos na indústria extrativa e da ausência de ati-
+vidades de refino no município de Campos, a atividade da indústria de transformação 
+tenha se reduzido ou não tenha crescido tanto. 
+No período analisado percebeu-se um expressivo aumento de produção, mensu-
+rada pelo PIB. Cumulativamente, porém, Campos dos Goytacazes destaca-se como o 
+município com a segunda maior participação (7,8%) do PIB do ERJ, ficando atrás so-
+mente do município do Rio de Janeiro (46,5%). Niterói está na quarta posição (3,1%) e 
+Macaé na quinta colocação (2,8%). Na Figura 1, verifica-se o montante acumulado do 
+PIB no período analisado.
+Figura 1– PIB municipal acumulado 1999/2014 – valores constantes x1.000 – IPCA (base 2014).
+Fonte: IBGE, 2017. Elaboração própria.
+12	“A regression of growth of non-resource GDP on natural resource intensity and a number of other variables (...). 
+The results indicate that growth in real value added in manufacturing and services was indeed slower in natural-re-
+source-intensive economies.” (SACHS; WARNER, 1995, p. 17).
+Editora Unijuí   –   Desenvolvimento em Questão
+José Eduardo Manhães da Silva – Lia Hasenclever
+322
+Outro aspecto que dificulta a análise é que a metodologia utilizada para mensu-
+rar o valor da produção dos campos petrolíferos no PIB dos munícipios é um indicador 
+econômico que pode não estar transmitindo um entendimentos concreto da realidade. 
+Esse aspecto decorre do fato de que a metodologia utilizada pelo IBGE se dá com base 
+nas premissas de alocação produtiva da Agência Nacional do Petróleo – ANP – por meio 
+da qual a contabilização da produção de P&G é realizada considerando-se o município 
+confrontante ao poço, sem levar em conta se a riqueza é realmente canalizada para o 
+município ou não, conforme definido pelo IBGE13 em seu relatório metodológico. 
+Essa alocação, que podemos considerar fora da realidade, resulta em distorções, 
+pois, excetuando-se os recursos dos royaties e das participações especiais, a riqueza pro-
+duzida não é apropriada plenamente pelo município, mas somente contabilizada como 
+se assim o fosse, o que dá margens ao entendimento equivocado de que o município e 
+seus residentes se beneficiam da riqueza total proveniente da extração do petróleo. 
+A alocação contábil da riqueza mineral extraída da Bacia de Campos, por parte do 
+IBGE, não exprime a real evolução econômica dos munícipios no entorno da Bacia. Com 
+isso, tanto o PIB como o PIB per capita mensurados pelo IBGE podem ser considerados, 
+apesar de sua composição seguir um critério, superdimensionados e distorcidos do pon-
+to de vista da real geração de riqueza para os municípios. Assim sendo, a análise do PIB 
+municipal definido pelo IBGE para municípios considerados produtores de petróleo deve 
+ser vista com cautela. Dessa forma, a contabilização da riqueza oriunda da extração mi-
+neral, cuja rede de produção extrapola as fronteiras municipais, como o caso do petróleo 
+da Bacia de Campos, poderia ter um tratamento de alocação diferenciado (CRUZ, 2004).
+Nesse contexto, o município de Campos dos Goytacazes, assim como os demais 
+municípios da região, só se beneficiam do montante financeiro a eles repassados a títu-
+lo de royalties e participações especiais, sem que haja a inserção de atividades produti-
+vas geradoras de transbordamentos e externalidades que proporcionem instrumentos 
+viabilizadores de desenvolvimento socioeconômico local.
+Conforme Cunha (2009), do universo que contempla a população economicamen-
+te ativa de Campos dos Goytacazes, verifica-se que parte dessa população é composta 
+por indivíduos qualificados que, devido à oferta de empregos na indústria de P&G, aca-
+bam por atuar em Macaé. Outra parcela, com reduzido nível de qualificação, atua no 
+comércio e na prestação de serviços locais, em decorrência das oportunidades oriundas 
+do ciclo econômico de P&G e outra parte encontra-se desempregada ou trabalhando 
+informalmente, pois não possuem qualificação.
+Como é possível observar no Gráfico 1, a remuneração média dos trabalhadores, 
+segundo a Relação Anual de Informações Sociais – Rais – do município de Campos dos 
+Goytacazes está bem abaixo das remunerações médias de outros municípios do ERJ, 
+como Macaé, em que os empregos estão diretamente relacionados às atividades de 
+serviços ligados à exploração de P&G, por conta deste município ter se tornado a base 
+13	“Em relação ao petróleo e gás natural, o rateio entre os municípios é feito pela estrutura construída sobre a quanti-
+dade produzida de petróleo e gás natural, no mar e em terra, de cada município. Essa informação é fornecida pela 
+Agência Nacional do Petróleo, Gás Natural e Biocombustíveis – ANP. A regionalização da produção por município 
+necessita do estabelecimento de premissas que norteiem a sua correta alocação” (IBGE – Relatórios Metodológicos 
+– PIB dos Munícipios, 2010, p. 19).
+ISSN 2237-6453  –   ano 17  •  n. 46  •  jan./mar. 2019  
+Ciclo do Petróleo e Desenvolvimento Socioeconômico  
+no Município de Campos dos Goytacazes – 1999/2014
+323
+operacional destas atividades na Bacia de Campos. A remuneração média de Campos 
+dos Goytacazes equivale a 40,7% da remuneração média de Macaé, que é fortemente 
+influenciada pela indústria petrolífera. Esse aspecto deriva do fato de Campos dos Goy-
+tacazes ser um município-dormitório e fornecedor de mão de obra qualificada para a 
+exploração e produção do P&G na Bacia de Campos.
+Gráfico 1 – Remuneração Média dos Empregos Formais – 2014
+Fonte: RAIS (2007). Elaboração própria.
+O Ministério do Trabalho e Emprego – MTE – considera, para fins de alocação de 
+vínculo empregatício, o município e a Unidade Federativa onde a empresa está sediada/
+registrada, segundo a Rais (RAIS, 2007). Assim, neste caso específico, a mão de obra 
+vinculada à extração petrolífera na Bacia de Campos é definida como sendo localizada 
+em Macaé – base operacional da indústria petrolífera, na qual se concentram os empre-
+gos ligados à referida atividade. Isso implica a apropriação inadequada dos salários dos 
+residentes em Campos dos Goytacazes que trabalham em Macaé e assim distorcendo o 
+salário médio dos residentes de ambos os municípios. 
+Assim sendo, o município de Campos dos Goytacazes, segundo dados do Caged, 
+detém o menor salário médio quando comparado com os municípios de Macaé e Ni-
+terói, e possui o 19º maior salário médio (2014) entre todos os 92 municípios do ERJ, 
+sugerindo que a riqueza gerada pela produção de P&G não esteja beneficiando seus 
+residentes. 
+Esse contexto também é exposto por Hasenclever, Filho e Piquet (2017), citando 
+pesquisa de Hasenclever (2013), quanto ao nível de educação dos indivíduos na econo-
+mia de P&G na Bacia de Campos, refletindo-se, no caso, negativamente na empregabi-
+lidade e nível de renda dos trabalhadores de Campos dos Goytacazes, vindo, também, 
+a alinhar-se à proposta de Sachs e Warner (1995) quanto à deficiência na qualificação e 
+impondo-lhes uma posição desfavorável.
+Ao analisarmos o comportamento agregado do emprego formal, segundo Cadas-
+tro Geral de Empregados e Desempregados – Caged, em Campos dos Goytacazes, assim 
+como nos municípios de Macaé e Niterói, no período de 1999 até 2014, constatamos 
+Editora Unijuí   –   Desenvolvimento em Questão
+José Eduardo Manhães da Silva – Lia Hasenclever
+324
+que o nível desses empregos cresceu significativamente, a saber: Campos dos Goytaca-
+zes com um incremento da ordem de 136,7%, Macaé 371,1% e Niterói 83,7%. Em Cam-
+pos dos Goytacazes destacam-se os setores de Serviços Industriais de Utilidade Pública 
+– Siup (301,8%) e construção civil (282%), o que pode estar refletindo na ampliação da 
+infraestrutura do município. 
+Em Macaé os percentuais de ampliação da mão de obra formal são bastante ex-
+pressivos, também destacando-se a construção civil (781,1%) e Siup (628,1%) e assim 
+como supõe-se para Campos dos Goytacazes, esse aumento pode significar esforços 
+para incrementar a infraestrutura já existente no município. Já em Niterói os percen-
+tuais de evolução nesses setores são menos expressivos, provavelmente por ser um 
+município que já possui uma economia constituída e ampla, principalmente no setor 
+de serviços. Essa evolução, entretanto, apresenta percentuais significativos no setor de 
+extração mineral (2.655,7%) e o decréscimo no setor agropecuário (-52,0%). A Tabela 3 
+detalha a evolução dos empregos formais no período 1999 e 2014 em Campos dos Goy-
+tacazes, Macaé, e Niterói.
+Tabela 3 – Evolução dos empregos formais no período 1999 e 2014  
+– Categorizado: IBGE Setores
+ 
+Campos dos Goytacazes
+Macaé
+Niterói
+ 
+1999
+2014
+Δ%
+1999
+2014
+Δ%
+1999
+2014
+Δ%
+Extrat.Mineral
+151
+343
+127,2
+4.250
+28.932
+580,8
+70
+1.929
+2.655,7
+Ind. Transf.
+5.580
+9.077
+62,7
+2.690
+15.728
+484,7
+6.284
+16.756
+166,6
+S.I.U.P.
+489
+1.965
+301,8
+89
+648
+628,1
+1.847
+4.289
+132,2
+Constr. Civil
+2.070
+7.907
+282,0
+2.037
+17.948
+781,1
+7.326
+14.714
+100,8
+Comércio
+11.199
+27.729
+147,6
+5.207
+15.888
+205,1
+23.789
+37.250
+56,6
+Serviços
+14.936
+38.621
+158,6
+13.700
+52.155
+280,7
+56.962
+109.801
+92,8
+Adm.Pública
+6.201
+14.916
+140,5
+2.994
+16.054
+436,2
+9.866
+12.477
+26,5
+Agropecuária
+2.983
+2.660
+-10,8
+413
+487
+17,9
+1.661
+797
+-52,0
+Total
+43.609 103.218
+136,7
+31.380
+147.840
+371,1 107.805
+198.013
+83,7
+Fonte: RAIS, 2007. Elaboração própria.
+A degeneração da indústria de transformação, como visto, é destacada pela abor-
+dagem estruturalista como o fator mais relevante na explicação do subdesenvolvimento 
+de um país ou região e está intimamente relacionada à produção e exportação de pro-
+dutos primários para o mercado externo. Esta relação pode ser percebida na economia 
+de Campos dos Goytacazes, contribuindo ainda para que haja baixa diversidade produti-
+va, pouca produtividade e precário desenvolvimento tecnológico.
+Sachs e Warner (1995) afirmam que em países e regiões abundantes em recursos 
+naturais ocorre mais intensamente a promoção do emprego nos setores ligados à ex-
+tração desses recursos naturais em detrimento da indústria de transformação. Pode-se 
+constatar, entretanto, que, nos municípios analisados e no período avaliado a atividade 
+extrativa de P&G, na Bacia de Campos, promoveu transbordamentos nos demais seto-
+res econômicos produtivos, pois em todos os municípios analisados o volume de em-
+prego formal cresceu, excetuando-se a atividade agropecuária nos municípios de Cam-
+pos dos Goytacazes e Niterói, que apresentaram perdas de postos de trabalho formal.
+ISSN 2237-6453  –   ano 17  •  n. 46  •  jan./mar. 2019  
+Ciclo do Petróleo e Desenvolvimento Socioeconômico  
+no Município de Campos dos Goytacazes – 1999/2014
+325
+Outro importante aspecto relacionado aos municípios analisados e que ratifica o 
+entendimento de baixa apropriação de riqueza gerada para os residentes do município 
+de Campos dos Goytacazes diz respeito ao diferencial da média dos salários pagos pelos 
+diferentes setores econômicos. O único setor econômico no qual a média salarial de 
+Campos dos Goytacazes é superior à média salarial dos municípios de Macaé e Niterói é 
+o setor de administração pública, como é possível verificar na Tabela 4.
+Tabela 4 – Faixa de remuneração média por setor (IBGE) – 2014 – valores correntes
+Fonte: RAIS, 2007. Elaboração própria.
+A diferença entre as médias das remunerações dos municípios de Campos dos 
+Goytacazes em relação a Macaé equivale a -61,5% e a diferença entre as médias das 
+remunerações dos municípios de Campos dos Goytacazes em relação a Niterói é de 
+-52,3%. Essas diferenças das médias são basicamente explicadas pela remuneração mé-
+dia praticada na indústria extrativa mineral.
+A principal fonte de receita orçamentária (Tabela 5) de Campos dos Goytacazes 
+são oriundas das transferências da União (58,5%) e dos Estados (15,9%), enquanto que 
+as receitas tributárias derivadas das ações produtivas em seu território contemplam um 
+percentual reduzido (8,1%), o que significa um vultoso risco para a gestão pública muni-
+cipal. Percebe-se, nos municípios de Niterói e Macaé, uma melhor distribuição entre os 
+montantes oriundos da receita tributária, transferências da União e de Estados. 
+A composição de receitas orçamentárias do município de Campos dos Goytacazes, 
+como a observada no exercício de 2013 (Tabela 5), constitui-se uma séria fragilidade, 
+visto que a ocorrência de uma crise ou colapso na economia nacional ou global, confor-
+me já ocorrido recentemente (2008), poderá resultar em sério agravamento na obten-
+ção de recursos para investimento e manutenção de ações voltadas à sociedade.
+Tabela 5 – Participação relativa das receitas municipais:  
+Campos dos Goytacazes, Macaé e Niterói – 2013.
+ Receitas
+Campos dos 
+Goytacazes
+Macaé
+Niterói
+Receitas Correntes
+100,00
+100,00
+100,00
+Receita Tributária
+8,10
+30,00
+39,00
+IPTU
+1,00
+1,30
+13,60
+IRPQN
+1,90
+3,30
+2,40
+Editora Unijuí   –   Desenvolvimento em Questão
+José Eduardo Manhães da Silva – Lia Hasenclever
+326
+ITBI
+0,70
+1,00
+6,20
+ISS
+4,00
+24,00
+14,50
+Taxas
+0,50
+0,50
+2,20
+Contribuições
+6,60
+7,90
+5,80
+Transf. União
+58,50
+29,80
+22,50
+FPM
+1,80
+2,70
+3,40
+Royalties
+50,30
+24,20
+8,10
+SUS
+4,50
+1,90
+9,90
+Outras
+1,70
+1,10
+1,10
+Transf. Estados
+15,90
+25,00
+22,60
+ICMS
+13,40
+21,80
+16,50
+IPVA
+1,00
+1,40
+4,90
+IPI
+0,30
+0,50
+0,40
+Outras
+1,20
+1,30
+0,80
+FUNDEB
+9,50
+4,50
+4,90
+Outras Receitas 
+1,40
+2,80
+5,20
+Fonte: FINBRA/STN – Situação Fiscal dos Munícipios. Elaboração própria.
+Sachs e Warner (1995), em seu recorte analítico, atribuem aos governantes de 
+regiões detentoras de abundantes riquezas naturais a característica de negligência ar-
+recadadora, em virtude do significativo volume de recursos que ingressam nos cofres 
+públicos devido ao recebimento de compensações pela extração do minério abundante, 
+contexto percebido no município de Campos dos Goytacazes, conforme disposto na Ta-
+bela 5.
+Para dar conta da dimensão que compreende o desenvolvimento, e como expres-
+so anteriormente, faz-se necessária a análise de outros indicadores, índices ou parâme-
+tros sociais, tais como educação, pobreza e saúde. 
+No contexto da educação, o analfabetismo ainda apresenta-se como um proble-
+ma a ser superado no Brasil, em suas regiões e municípios e devido a isso mostra-se 
+ainda como um dos principais fatores inibidores do desenvolvimento socioeconômico, 
+principalmente quando consideramos a importância da educação na obtenção de em-
+prego e renda do indivíduo. 
+Observando-se os dados do Programa das Nações Unidas para o Desenvolvimento 
+– Pnud – verificamos uma redução do nível de analfabetos em Campos dos Goytacazes, 
+passando da ordem de 15,5% (1991) de sua população para 10,1% (2000), tendo sido o 
+município, entre os analisados, o que mais reduziu o nível de analfabetismo. Macaé re-
+duziu de 12,6% para 7,9% e Niterói passou de 5,4% para 3,6%. O nível de analfabetismo 
+em Campos dos Goytacazes, todavia, ainda é bem elevado e superior ao nível do ERJ.14
+14	O percentual de analfabetos no ERJ em 2000 era de 6,2%.
+ISSN 2237-6453  –   ano 17  •  n. 46  •  jan./mar. 2019  
+Ciclo do Petróleo e Desenvolvimento Socioeconômico  
+no Município de Campos dos Goytacazes – 1999/2014
+327
+Quanto à formação profissional e ensino básico e médio, podemos observar, na 
+Tabela 6, a evolução do número de escolas de nível fundamental e nível médio, nos 
+exercícios auferidos pelo IBGE, em Campos dos Goytacazes. Percebe-se um aumento 
+médio da ordem de 6,1% no número de estabelecimentos de Ensino Fundamental e um 
+aumento médio da ordem de 3,8% no número de estabelecimentos de Ensino Médio.
+A atuação do município de Campos dos Goytacazes ao que respeita ao Ensino 
+Fundamental, nível educacional de sua alçada, resultou no incremento de 20 unidades 
+escolares (14,6%), enquanto no Ensino Médio o município, segundo dados do IBGE, dei-
+xou de oferecer estabelecimentos de ensino. 
+Tabela 6 – Número de Estabelecimentos de Ensino Médio – Campos dos Goytacazes
+Nível
+Alçada
+2005
+2007
+2009
+2012
+2015
+Ensino Fundamental
+(EF)
+Municipal
+137
+144
+160
+161
+157
+Estadual
+96
+80
+55
+51
+51
+Federal
+-
+-
+-
+-
+-
+Privado
+77
+82
+101
+124
+121
+Total EF
+310
+306
+316
+336
+329
+Ideb
+2,7
+3,2
+3,1
+3,3
+3,6
+Ensino Médio
+(EM)
+Municipal
+4
+3
+2
+-
+-
+Estadual
+35
+37
+38
+43
+48
+Federal
+1
+1
+2
+2
+2
+Privado
+12
+15
+17
+17
+19
+Total EM
+53
+53
+53
+56
+55
+Total Geral
+363
+359
+369
+392
+384
+Fonte: IBGE Cidades, 2017. Elaboração própria.
+Antagonicamente a essa melhora no número de estabelecimentos de Ensino Fun-
+damental, percebe-se o indicador Índice de Desenvolvimento da Educação Básica – Ideb 
+– referente a 2015 com a pontuação de 3,6, posicionando Campos dos Goytacazes na 
+89ª posição entre os 92 municípios do ERJ e com o pior resultado entre os municípios 
+do norte fluminense. 
+A análise do desenvolvimento social em Campos dos Goytacazes e municípios se-
+lecionados considera indicadores relacionados à pobreza, com base nos dados dispo-
+nibilizados pelo Instituto de Pesquisa Econômica Aplicada – Ipea. A redução na taxa de 
+pobreza no período 1991/2000 foi experimentado por todos os municípios analisados. 
+Os índices de pobreza em Campos dos Goytacazes são comparáveis aos índices 
+para o conjunto do país.15 O percentual de pobres de Campos dos Goytacazes para os 
+anos analisados, contudo, é superior aos dos municípios de Macaé e Niterói. O que ex-
+plicaria a não redução da pobreza no município de Campos dos Goytacazes no período 
+analisado? As décadas de 90 e de 2000 correspondem ao período que compreende o 
+fim do ciclo sucroalcooleiro em Campos dos Goytacazes e região e o início do ciclo ba-
+seado na indústria petrolífera. Embora no ano de 2000 se observe uma redução no índi-
+15	Índice Pobreza Brasil: 1991: 40,80% / 2000: 32,75% / 2003: 39,40%.
+Editora Unijuí   –   Desenvolvimento em Questão
+José Eduardo Manhães da Silva – Lia Hasenclever
+328
+ce de pobreza da população de Campos dos Goytacazes, destaca-se que o percentual de 
+30,4% de pobres é consideravelmente elevado, a ponto de colocar Campos dos Goyta-
+cazes como o 69º município no ranking de índice de pobreza no ERJ.
+O acesso aos recursos, sejam materiais ou humanos, que propiciam a melhoria 
+das condições de saúde da população de uma região é outro importante aspecto no 
+contexto do desenvolvimento socioeconômico. O volume de investimentos per capita 
+é um relevante indicador do direcionamento do esforço dos agentes públicos na busca 
+de melhores condições de vida da população e o volume investido nos municípios no 
+período analisado são demonstrados na Tabela 7.
+Tabela 7 – Investimento per capita em saúde – dos municípios analisados – 2004 a 2014
+ 
+2004
+2005
+2006
+2007
+2008 2009
+2010
+2011
+2012
+2013
+2014
+Média
+Campos
+ 0,86  0,92  1,55  1,48  2,22  1,99 
+2,72 2,92 
+3,63 
+1,03 
+1,09 
+1,86 
+Macaé
+ 1,66  1,74  2,48  2,89  3,53  3,47 
+4,41 5,06 
+6,48 
+3,77 
+4,53 
+3,64 
+Niterói
+ 0,53  0,56  0,74  0,88  1,56  1,10 
+1,25 1,48 
+2,04 
+1,54 
+1,73 
+1,22 
+Fonte: BRASIL, 2017b. Valores R$ constantes – base 2014. Elaboração própria.
+Verifica-se, então, que Macaé é o município que apresenta o maior nível de inves-
+timento per capita em saúde no período 2004/2014,16 seguido de Campos dos Goytaca-
+zes e depois Niterói. Em 2013, porém, o investimento per capita na saúde em Campos 
+dos Goytacazes caiu e se manteve, também em 2014, abaixo do investimento per capita 
+de Niterói.
+Em resumo, podemos apreciar o desenvolvimento do município de Campos uti-
+lizando o índice de Desenvolvimento Humano Municipal (IDHM), que resume os indi-
+cadores anteriores. Na Tabela 8 apresenta-se o IDHM dos municípios de Campos dos 
+Goytacazes, Macaé e Niterói, calculados para os anos de 1991, 2000 e 2010. Todos os 
+municípios analisados apresentaram melhora nas três mensurações realizadas. A pior 
+performance desses índices, em comparação com o ERJ, é apresentada por Campos dos 
+Goytacazes, seguida por Macaé, os dois maiores receptores de royalties e participações 
+especiais.
+Tabela 8 – Índice de Desenvolvimento Humano Municipal – IDHM
+Município
+1991
+2000
+2010
+Campos dos Goytacazes
+0,505
+0,618
+0,716
+Macaé
+0,534
+0,665
+0,764
+Niterói
+0,681
+0,771
+0,837
+ERJ (IDH)
+0,639
+0,716
+0,799
+Fonte: IBGE, 2017 – PNUD, 2010. Elaboração própria.
+A situação de Campos dos Goytacazes frustrou a expectativa dos residentes locais 
+sobre se tais recursos seriam utilizados de forma sistemática em infraestrutura urbana e 
+melhoria das condições humanas no município. Isto mais uma vez nos leva a considerar 
+16	O órgão fomentador (DataSus) da informação dos investimentos orçamentários em saúde somente disponibiliza 
+dados a partir de 2004.
+ISSN 2237-6453  –   ano 17  •  n. 46  •  jan./mar. 2019  
+Ciclo do Petróleo e Desenvolvimento Socioeconômico  
+no Município de Campos dos Goytacazes – 1999/2014
+329
+o postulado por Sachs e Warner (1995) no que diz respeito à má utilização dos recursos 
+financeiros oriundos da extração do recurso mineral abundante, decorrente de descui-
+do ou improbidade do gestor público.
+CONSIDERAÇÕES FINAIS
+Campos dos Goytacazes ressurge no cenário econômico nacional nos anos 90 in-
+serida na região da Bacia de Campos – maior produtora de petróleo do Brasil – e passa a 
+se beneficiar de um vigoroso ciclo expansivo, impulsionado por bilionários investimen-
+tos realizados pela indústria offshore de P&G. A partir de 1999, diferentemente dos dois 
+períodos expansivos que o precederam, o recente ciclo do P&G tem seu dinamismo 
+pautado em vultosos investimentos em infraestrutura produtiva para a exploração, pes-
+quisa e desenvolvimento de P&G no mar. 
+Esse novo cenário reacende a possibilidade de superação do subdesenvolvimento 
+no município de Campos dos Goytacazes, devido às externalidades decorrentes dos re-
+feridos investimentos, que se somam ao incremento da capacidade financeira do muni-
+cípio para a realização de gastos públicos, posto que o município no período foi o maior 
+receptor de royalties e participações especiais do Brasil. Os recursos de royalties e par-
+ticipações especiais auferidos por Campos dos Goytacazes nos anos 2000, por exemplo, 
+passaram a representar mais da metade de suas receitas orçamentárias, o que revela a 
+importância das atividades petrolíferas não somente para Campos dos Goytacazes, mas 
+para os demais municípios que integram a Bacia de Campos no norte/noroeste flumi-
+nense, que também recebem royalties.
+O recorte analítico de Sachs e Warner (1995), por sua vez, considera que regiões 
+ricas em recursos naturais tendem a priorizar setores econômicos relacionados à ex-
+tração do recurso natural abundante, em detrimento da indústria de transformação, 
+assim como propõe que exista uma relação inversa entre a indústria extrativa mineral 
+e atividade da indústria de transformação. Conforme já exposto, essas proposições não 
+são passíveis de detecção devido à limitação das informações fornecidas pelos órgãos 
+estatísticos. 
+Os condicionantes estruturais do subdesenvolvimento estão bastante enraizados 
+em Campos dos Goytacazes, pois mesmo com a significativa geração de riqueza prove-
+niente das atividades de exploração e produção de P&G, o município não se mostrou 
+capaz de gerar condições locais que viabilizassem de forma sustentada o desenvolvi-
+mento socioeconômico da região. 
+As evidências empíricas demonstram que a produção de riquezas, per se, têm sido 
+insuficientes para garantir os avanços desejados no desenvolvimento local, especial-
+mente no que se relaciona ao desenvolvimento social, como referido na seção anterior. 
+Então, se o capital físico e monetário não se colocam mais como restrição ao desen-
+volvimento local – cuja escassez é definida pela literatura especializada como uma das 
+principais causas do subdesenvolvimento – como explicar a letargia econômica e social 
+deste município?
+Editora Unijuí   –   Desenvolvimento em Questão
+José Eduardo Manhães da Silva – Lia Hasenclever
+330
+Em uma perspectiva furtadiana, considera-se que grande parte da resposta ao 
+questionamento anterior encontra-se na histórica inserção subordinada de Campos dos 
+Goytacazes, não somente ao Rio de Janeiro – que exerceu o papel de centro econômico 
+e político do país por séculos – mas também na sua inserção na divisão internacional do 
+trabalho na produção e exportação de açúcar para o exterior, entre os séculos 17 e 19.
+A produção de produtos primários (especialmente açúcar e álcool) e o sistemático 
+emprego de mão de obra escrava durante séculos levou à formação de instituições e de 
+uma cultura com lógicas muito peculiares e perversas em Campos dos Goytacazes. A 
+cultura enraizada na localidade desfavorece o empreendedorismo, especialmente em 
+atividades industriais. Por outro lado, as históricas relações clientelistas no âmbito das 
+instituições locais, especialmente no governo municipal, pouco mudaram. Estas forças 
+sobrepõem-se aos estímulos positivos autônomos do desenvolvimento produzidos pelo 
+ciclo virtuoso do P&G. 
+Assim, características pertinentes a uma economia subdesenvolvida, tais como: 
+contexto histórico derivado de uma atividade agrícola extrativista, baixa heterogeneida-
+de produtiva, concentração de renda em uma elite vinculada às atividades extrativistas 
+primárias, incapacidade empresarial e ação inadequada do gestor público, fragilizam, 
+do ponto de vista estrutural e institucional, a internalização dos fatores produzidos pelo 
+atual ciclo expansivo em favor do crescimento e do desenvolvimento.
+Ainda acerca da questão institucional, a abordagem de Sachs e Warner (1995) 
+lançam luz no que respeita à deterioração do já fragilizado arcabouço institucional de 
+Campos dos Goytacazes. Como visto, segundo estes autores, a produção de recursos 
+abundantes tende a criar problemas institucionais de ordens diversas, que comprome-
+tem o crescimento e o desenvolvimento socioeconômico. Entre as instituições afetadas 
+os autores destacam duas: as instituições de ensino e o governo. Quanto às primeiras, 
+considerável parte da formação local passa a ser direcionada para atender direta e indi-
+retamente à demanda dos setores ligados à produção do recurso abundante (P&G), em 
+detrimento de atividades ligadas à indústria de transformação. Como o recurso natural 
+é finito, a concentração da produção nesta atividade compromete o desenvolvimento 
+sustentável da localidade/região. 
+A inquietude perante a depreciação ainda maior desse cenário de 
+subdesenvolvimento, devido ao não aproveitamento das oportunidades que se 
+definiram recentemente para Campos dos Goytacazes e região, por meio da indústria 
+de P&G, agrava-se ainda mais por conta dos cortes nos investimentos produtivos em 
+P&G derivados da crise que assolou nos últimos tempos a economia global e a Petro-
+bras, promovendo a escassez das rendas petrolíferas.
+Cabe enfatizar que a análise do desenvolvimento socioeconômico do município de 
+Campos dos Goytacazes, no contexto do recente e expressivo ciclo expansivo do P&G, 
+traz aspectos positivos e negativos que merecem ser investigados por novos estudos, 
+com vistas à superação de seu subdesenvolvimento. 
+ISSN 2237-6453  –   ano 17  •  n. 46  •  jan./mar. 2019  
+Ciclo do Petróleo e Desenvolvimento Socioeconômico  
+no Município de Campos dos Goytacazes – 1999/2014
+331
+Por fim vale ressaltar a já iniciada produção nas jazidas de P&G na camada pré-sal 
+na Bacia de Campos, assim como os investimentos fronteiriços ao município, como a 
+construção e funcionamento do complexo industrial-portuário do Açu e da construção 
+do Complexo de Barra do Furado, como possibilidades de se viabilizar o crescimento 
+econômico produtivo e posterior desenvolvimento socioeconômico do município.
+Com efeito, o ciclo do petróleo e o pacote de investimentos no norte fluminense 
+que este vem estimulando constituem-se em importantes objetos de análise, em par-
+ticular no que diz respeito à identificação de elementos que remetam à superação dos 
+condicionantes estruturais do subdesenvolvimento não apenas em Campos dos Goyta-
+cazes, mas também no norte fluminense, por conta da magnitude produtiva e tecnoló-
+gica inerentes aos investimentos supracitados.
+REFERÊNCIAS
+BRASIL. Lei nº 9.478, de 6 de agosto de 1997. Brasília. Disponível em: http://www.planalto.gov.br/cci-
+vil_03/leis/L9478.htm. Acesso em: 16 jul. 2017.
+BRASIL. Cadastro Geral de Empregados e Desempregados (Caged). Base de dados on-line. 2017a. Disponí-
+vel em: https://mte.gov.br/portalcaged. Acesso em: 20 jun. 2017.
+BRASIL. Ministério da Saúde. Sistema de Informações sobre Orçamentos Públicos em Saúde (Siops). Dis-
+ponível em: http://siops.datasus.gov.br. Acesso em: 22 jul. 2017b.
+BRASIL. Relação Anual de Informações Sociais (Rais). Ministério do Trabalho. Disponível em: portal.mte.
+gov.br/rais/estatisticas.htm. Acesso em: 15 jul. 2017c.
+CAVALIERI, H.; TORRES, R.; HASENCLEVER, L. Mudança estrutural e especialização produtiva: potenciais e 
+desafios para o Estado do Rio de Janeiro. In: ALTEC – ASSOCIAÇÃO LATINO-AMERICANA DE TECNOLOGIA, 
+2013. Portugal. Anais[...] Portugal, 2013.
+CRUZ, José Luiz Vianna da. Modernização produtiva, crescimento econômico e pobreza no Norte Flumi-
+nense (1970-2000). In: PESSANHA, Roberto Moraes; SILVA NETO, Romeu (org.).Economia e desenvolvi-
+mento no norte fluminense: da cana-de-açúcar aos royalties do petróleo. Campos dos Goytacazes, RJ: 
+WTC Editora, 2004. p. 77-117.
+CUNHA, A. L. L. Planejamento e gestão da assistência social no município de Campos dos Goytacazes: 
+2005-2008. 2009, 127 f. Dissertação (Mestrado em Planejamento Regional e Gestão de Cidades) – Ucam, 
+Campos dos Goytacazes, RJ, 2009.
+FURTADO, Celso. Cadernos do Desenvolvimento, n. 1. 2006. Disponível em: http://www.centrocelsofurta-
+do.org.br. Acesso em: 22 jun. 2017.
+FURTADO, Celso. Desenvolvimento e subdesenvolvimento. 5. ed. Rio de Janeiro: Contraponto Editora, 
+2009. 34 p.
+HASENCLEVER, Lia; FILHO, Edson Terra; PIQUET, Rosélia Perissé da Silva. Distribuição territorial das ocupa-
+ções geradas pela atividade de petróleo e gás (p&g) e suas qualificações no Brasil, 2003-13. Revista Brasi-
+leira de Gestão e Desenvolvimento Regional, Taubaté, SP, v. 13, n. 3, p. 223-251, set./dez. 2017. Bimestral.
+HIRSCHMAN, Albert O. Estratégia do desenvolvimento econômico. Rio de Janeiro: Fundo de Cultura, 
+1961. 322 p.
+IBGE. Instituto Brasileiro de Geografia e Estatística. Sidra: banco de dados. Disponível em: http://www.
+sidra.ibge.gov.br. Acesso em: 22 jun. 2017.
+IPEA. Instituto de Pesquisa Econômica Aplicada. Ipeadata. Disponível em: http://www.ipeadata.gov.br. 
+Acesso em: 22 jun. 2017.
+KEYNES, John Maynard. A teoria geral do emprego do juro e da moeda. São Paulo: Nova Cultural, 1996. 
+(Coleção: Os Economistas).
+MARSHALL, Alfred. Princípios de economia: tratado introdutório. São Paulo, SP: Nova Cultural, 1996. 368 
+p. (Coleção Os Economistas).
+MYRDAL, Gunnar. Economic theory and under-developed regions. 2. ed. London: Iseb. Ministério da Edu-
+cação e Cultura, 1957. 208 p.
+NURKSE, Ragnar. Problemas de formação de capital em países subdesenvolvidos. Rio de Janeiro: Civiliza-
+ção Brasileira, 1957.
+PNUD. Programa das Nações Unidas para o Desenvolvimento. 2010.
+Editora Unijuí   –   Desenvolvimento em Questão
+José Eduardo Manhães da Silva – Lia Hasenclever
+332
+RAIS. Relação Anual de Informações Sociais. Critérios de geração de base de dados. 2007.
+ROSENDO, Roberto Cezar; CARVALHO, Ailton Mota de. Formação econômica da Região Norte Fluminen-
+se. In: PESSANHA, Roberto Moraes; SILVA NETO, Romeu e (org.). Economia e Desenvolvimento no Norte 
+Fluminense: da cana-de-açúcar aos royalties do petróleo. Campos dos Goytacazes: WTC, 2004. p. 27-73. 
+Cap. 1.
+SACHS, Jeffrey D.; WARNER, Andrew M. Natural Resource Abundance and Economic Growth. Cambridge: 
+National Bureau Of Economic Research, 1995. Disponível em: http://www.nber.org/papers/w5398.pdf. 
+Acesso em: 3 jul. 2017.
+SEN, A. K. Desenvolvimento com liberdade. São Paulo: Companhia das Letras, 2000.

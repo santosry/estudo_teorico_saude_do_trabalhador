@@ -1,0 +1,1815 @@
+Rev Bras Saude Ocup 2021;46:e1
+1/15
+Revista Brasileira de Saúde Ocupacional 
+ISSN: 2317-6369 (online) 
+http://dx.doi.org/10.1590/2317-6369000028520
+1
+Tatiana Giovanelli Vedovatoa
+ https://orcid.org/0000-0001-8615-1317
+Cristiane Batista Andradeb
+ https://orcid.org/0000-0003-1441-9171
+Daniela Lacerda Santosc
+ https://orcid.org/0000-0002-6318-0809
+Silvana Maria Bitencourtd
+ https://orcid.org/0000-0002-3183-373X
+Lidiane Peixoto de Almeidae
+ https://orcid.org/0000-0003-4130-3086
+Jéssyca Félix da Silva Sampaiof
+ https://orcid.org/0000-0003-0304-7122
+Recebido: 22/08/2020
+Revisado: 04/11/2020
+Aprovado: 09/11/2020
+Trabalhadores(as) da saúde e a COVID-19: 
+condições de trabalho à deriva?
+Health workers and COVID-19: flailing working conditions?
+Resumo
+Objetivos: analisar as condições de trabalho dos profissionais de saúde 
+que atuam na pandemia de COVID-19, no Brasil, com base em reportagens 
+publicadas na internet por veículos de comunicação jornalística. Métodos: 
+análise qualitativa de 22 reportagens selecionadas de dois dos principais 
+portais de notícias brasileiros, publicadas entre 20 e 30 de abril de 2020. 
+Por meio da análise temática de conteúdo, foram definidas cinco categorias: 
+Equipamento de Proteção Individual (EPI); profissionais de saúde com 
+comorbidade na linha de frente; adoecimento e morte pelo trabalho; acesso 
+ao tratamento e afastamento do trabalho; desistência do trabalho e atualização 
+profissional. Resultados: as reportagens evidenciaram condições de trabalho 
+inadequadas por ausência e/ou precariedade dos EPI; continuidade do 
+trabalho de profissionais de saúde com comorbidades; adoecimento e mortes 
+pela COVID-19; tensão e medo de serem infectados(as) e de lidar com o 
+adoecimento e morte de colegas; dificuldades no acesso aos testes de COVID-19 
+e para afastamento do trabalho para tratamento; desistências de trabalhar na 
+atividade; necessidade de atualização rápida para o cuidado em saúde na 
+COVID-19. Conclusão: o cenário pandêmico deixa evidente a necessidade 
+primordial de investimento público no cuidado daqueles(as) que estão à frente 
+dos atendimentos à população.
+Palavras-chave: condições de trabalho; infecção por coronavírus; equipamen-
+tos de proteção; meios de comunicação de massa; saúde do trabalhador.
+Abstract
+Objectives: to analyze the working conditions of health professionals facing 
+the COVID-19 pandemic in Brazil based on online media reports published in 
+prominent news portals. Methods: qualitative analysis of 22 news stories selected 
+from two of the main Brazilian news portals, published between April 20 and 30, 
+2020. Based on thematic content analysis, we defined five categories: Personal 
+Protective Equipment (PPE) and COVID-19; health workers with comorbidities 
+working on the front line; illness and death due to work; access to treatment and 
+work leave due to COVID-19; resigning from work and professional updating. 
+Results: the news stories reported inadequate working conditions due to lack 
+of and/or inadequate PPE; health care workers with comorbidities remaining at 
+work; sickness and death from COVID-19; strain and fear of being infected, and 
+having to deal with co-workers’ sickness and death; difficulties in getting tested 
+for COVID-19 and obtaining sick leave for treatment; resigning from health care 
+work; need for fast professional updating for COVID-19 health care. Conclusion: 
+the pandemic clearly evidences the need for public investment in health care for 
+workers in charge of caring for the population.
+Keywords: working conditions; infection by coronavirus; personal protective 
+equipment; mass media; occupational health. 
+Contato:
+Tatiana Giovanelli Vedovato
+E-mail:
+tatiana.vedovato@puc-campinas.edu.br
+As autoras declaram que o estudo 
+não foi subvencionado e que não há 
+conflitos de interesses.
+As autoras informam que este trabalho 
+não foi apresentado em evento científico.
+Artigo de pesquisa/
+Dossiê COVID-19 e Saúde do Trabalhador
+a Pontifícia Universidade Católica de 
+Campinas (PUC-Campinas).  
+Campinas, SP, Brasil.
+b Fundação Oswaldo Cruz (Fiocruz), 
+Centro Latino-Americano de Estudos 
+de Violência e Saúde Jorge Careli.  
+Rio de Janeiro, RJ, Brasil.
+c Centro Universitário Arthur Sá Earp 
+Neto (UNIFASE), Saúde Coletiva. 
+Petrópolis, RJ, Brasil.
+d Universidade Federal de Mato Grosso 
+(UFMT), programa de pós-graduação 
+em Sociologia. Cuiabá, MT, Brasil.
+e Universidade Federal do Rio de 
+Janeiro (UFRJ). Rio de Janeiro, RJ, Brasil.
+f Prefeitura do Rio de Janeiro. Rio de 
+Janeiro, RJ, Brasil.
+Rev Bras Saude Ocup 2021;46:e1
+2/15
+Introdução
+No final do mês de janeiro de 2020, a 
+Organização Mundial de Saúde (OMS) considerou 
+o surto da Covid-19, causado pelo novo corona-
+vírus SARS-CoV-2,  uma situação de emergência 
+em saúde pública, sendo definida como pandemia 
+em março de 20201, o que causou mudanças nos 
+modos de viver, assim como nas práticas cotidianas 
+de cuidado realizadas ao redor do mundo. Nesse 
+momento, recomendou-se à população seguir as 
+medidas protetivas da OMS, a fim de prevenir a dis-
+seminação do vírus em grande escala buscando não 
+colapsar os sistemas de saúde, que já não apresen-
+tavam uma estrutura adequada e programada para 
+lidar com grande número de pessoas infectadas.
+Além disso, a pandemia de COVID-19 trouxe 
+para o cenário mundial a necessidade de pensar o 
+trabalho de cuidado realizado na saúde, pois são 
+os(as) médicos(as), enfermeiros(as) e técnicos(as), 
+fisioterapeutas, psicólogos(as) e assistentes sociais 
+que fazem esse trabalho e, portanto, estão à frente 
+dos programas de prevenção da doença e até dos 
+atendimentos dos casos mais graves. De acordo 
+com o Conselho Federal de Enfermagem (Cofen), 
+no dia 1 de dezembro de 2020, os infectados eram 
+43.788, e os óbitos de profissionais 460. Destes, 
+63,9% eram de mulheres2. Por meio desse dado 
+numérico, já podemos constatar as dificuldades e 
+as violências relacionadas às condições de traba-
+lho enfrentadas por esses(as) profissionais no con-
+texto brasileiro.
+Com o avanço dos casos de COVID-19 e a inten-
+sificação do trabalho na área da saúde, apresenta-se 
+um cenário preocupante e adoecedor para esses(as) 
+profissionais, logo, necessitam do treinamento para 
+uso adequado e do oferecimento dos Equipamentos 
+de Proteção Individual (EPI)3.
+A COVID-19 requer cuidados especializados, 
+sobretudo para aqueles(as) que, diante da doença, 
+necessitam ser internados em unidades de terapia 
+intensivas (UTI), com o uso de respiradores sendo 
+uma realidade em face do comprometimento pul-
+monar de muitas pessoas. Além desse cuidado com 
+as pessoas adoecidas, decisões difíceis de serem 
+tomadas a respeito do destino do tratamento de 
+seus pacientes são vivenciadas pelos(as) traba-
+lhadores(as) da saúde, especialmente pelos pro-
+fissionais da linha de frente. E, ao mesmo tempo, 
+estes vivenciam o afastamento de colegas de pro-
+fissão, devido ao adoecimento pela COVID-19, o 
+que acaba por acarretar a sobrecarga das ativida-
+des. Nesse sentido, oferecer condições de trabalho 
+adequadas é um fator crucial para a manutenção 
+da saúde desses(as) profissionais durante essa 
+pandemia4,5.
+Por condições de trabalho, compreendemos as 
+situações relativas aos meios físicos e materiais 
+para a realização das atividades, como os insumos 
+e maquinários. Desse modo, é por meio das condi-
+ções de trabalho que são analisadas as inserções no 
+mercado de trabalho (contratações, estabilidade na 
+carreira, bem como riscos à saúde e à segurança no 
+cotidiano profissional)6. E, com a precariedade das 
+condições de trabalho, o adoecimento profissional é 
+uma realidade em diversas áreas, cabendo à gestão 
+do trabalho proporcionar meios dignos e seguros a 
+todos(as) os(as) trabalhadores(as) para a garantia da 
+saúde, particularmente no contexto pandêmico, em 
+que o risco de contaminação pelo novo coronavírus 
+é um dos desafios para os profissionais de saúde e da 
+gestão do trabalho.
+Outro aspecto é a questão salarial dos(as) traba-
+lhadores(as) da saúde no contexto brasileiro, con-
+siderando que o processo de precarização desse 
+setor é uma realidade que se constitui a partir dos 
+baixos salários, das subcontratações, da sobrecarga 
+de trabalho, dos receios de perder o emprego, 
+assim como das condições de trabalho precárias7. 
+Logo, os baixos salários fazem com que trabalha-
+dores(as) tenham mais de um emprego na saúde, 
+somando plantões em diferentes unidades, na ten-
+tativa de obter renda mensal para sobreviverem a 
+partir da atividade profissional. Isto posto, o fato 
+de possuírem mais de um emprego pode levar ao 
+desgaste físico e mental.
+Discutir o trabalho na área de saúde é entender 
+que o processo de trabalho, bem como as suas con-
+dições, está intimamente relacionado com a saúde, 
+pois, de acordo com Thébaud-Mony8, é “um pro-
+cesso que registra no corpo, na pessoa, as marcas do 
+trabalho, das condições de vida, das dores, do pra-
+zer e do sofrimento, de tudo aquilo de que é feito 
+uma história individual em sua singularidade, mas 
+também coletiva pela influência de múltiplas lógicas 
+entre as quais ela se insere” (p. 220)8.
+Após o início da pandemia no Brasil, inúmeras 
+reportagens foram veiculadas nas redes sociais e nos 
+veículos de comunicação jornalística sobre o tema 
+das condições de trabalho de profissionais de saúde, 
+retratando as situações de trabalho dos(as) profissio-
+nais brasileiros(as) que estavam na linha de frente no 
+cuidado contra a COVID-19.
+Assim, o objetivo deste artigo é analisar as 
+condições de trabalho dos(as) profissionais de 
+saúde que têm realizado o trabalho de cuidado na 
+Rev Bras Saude Ocup 2021;46:e1
+3/15
+pandemia de COVID-19 no Brasil, com base em 
+reportagens publicadas na internet por veículos 
+de comunicação jornalística.
+Métodos
+Esta pesquisa tem caráter qualitativo e faz uso de 
+mídias jornalísticas para apreender as narrativas de 
+trabalhadores(as) que atuam no cuidado de pessoas 
+diagnosticadas com COVID-19.
+No início da coleta de dados, foram pesquisadas 
+como fontes de mídias virtuais os jornais Correio 
+Braziliense, Folha de São Paulo e O Estado de São 
+Paulo, assim como os portais Terra, G1 e Uol. No 
+entanto, com exceção dos dois últimos veículos 
+citados, as outras mídias jornalísticas consultadas 
+tinham um número reduzido de reportagens e não 
+forneciam informações suficientes para a com-
+preensão da problemática do objeto deste estudo. 
+Por outro lado, o portal G1 apresentava reporta-
+gens (televisivas e escritas) sobre as condições de 
+trabalho e saúde de quem está na linha de frente 
+no cuidado contra a COVID-19 em todas as regiões 
+brasileiras (capitais e cidades interioranas), com 
+relatos de profissionais, gestores e representantes 
+sindicais e de conselhos profissionais (sobretudo, 
+da medicina e da enfermagem).
+Assim, utilizamos reportagens (escritas e tele-
+visivas) do G1g e do Uolh – que foram selecionadas 
+por meio das palavras-chave “COVID-19” e “profis-
+siona*” – sobre as condições de trabalho e saúde des-
+ses profissionais.
+Foram selecionadas reportagens publicadas entre 
+os dias 20 e 30 de abril de 2020. O recorte temporal foi 
+necessário tendo em vista o número de reportagens 
+sobre o tema durante esse período. Selecionamos 41 
+do G1 e 7 do Uol, totalizando 48. Destas, 22 são uti-
+lizadas nas análises deste manuscrito.
+Ressaltamos que mídias jornalísticas já foram 
+utilizadas em uma pesquisa sobre pandemia. 
+Nesse caso, os autores sinalizaram que é possível 
+trazer à tona “a interioridade do sujeito, suas emo-
+ções, relato de ações e assim por diante”9 (p. 62). 
+Ao escolher os textos para análise, utilizamos as 
+narrativas indiretas e as diretas, para que fossem 
+compreendidos os propósitos das vivências, o 
+entendimento sobre um determinado assunto e a 
+aproximação do nosso tema por meio das narrati-
+vas, ou seja, para a visibilidade das experiências de 
+g	
+ Disponível em: www.g1.globo.com.
+h	
+ Disponível em: www.uol.com.br.
+trabalhadores(as) da área da saúde e seu contexto. 
+É possível que, por meio dos textos jornalísticos, 
+sejam apreendidas as emoções, as experiências, o 
+medo da doença e da morte, as rotinas familiares 
+diante de uma pandemia9.
+As investigações das narrativas dos(as) profissio-
+nais foram realizadas pela metodologia da Análise 
+de Conteúdo (AC)10. Como preconiza Minayo11, a 
+primeira etapa da AC consistiu na pré-análise do 
+material coletado com o exercício da leitura flu-
+tuante e da elaboração do corpus textual, sendo 
+que a equipe de pesquisa se atentou para os objeti-
+vos iniciais, com leituras do material coletado. Em 
+seguida, exploramos esses materiais, com busca 
+ativa das principais expressões e seus significados, 
+principais atores das narrativas, seleção das catego-
+rias teóricas/analíticas, dentre outros. E, na última 
+etapa, elaboramos o tratamento dos resultados, bem 
+como as suas interpretações11.
+Para essa última fase, definimos cinco catego-
+rias analíticas que dialogam com a realidade das 
+condições de trabalho dos(as) profissionais de 
+saúde em face do cuidado contra a COVID-19: os 
+EPIs e a COVID-19; profissionais de saúde com 
+comorbidade, na linha de frente; adoecimentos e 
+morte no trabalho, e em razão dele; acesso ao tra-
+tamento e afastamento do trabalho pela COVID-19; 
+desistência do trabalho e atualização profissional 
+para a COVID-19.
+A pesquisa faz parte do projeto intitulado 
+“Trabalho, saúde e emoções: trabalhadores(as) 
+da saúde diante da COVID-19”, que foi analisado 
+pelo Comitê de Ética em Pesquisa (CEP) da Escola 
+Nacional de Saúde Pública da Fundação Oswaldo 
+Cruz e obteve a Dispensa Ética n. 06/2020, emitida 
+em 5 de maio de 2020, por se tratar da análise de 
+dados públicos e abertos.
+Resultados e discussão
+O Quadro 1 apresenta um breve cenário brasi-
+leiro sobre a pandemia de COVID-19: decretos, posi-
+cionamentos do governo federal, número de pessoas 
+adoecidas e de mortes, órgãos de classe profissional, 
+dentre outros.
+O Quadro 2 mostra as principais reportagens que 
+utilizamos para a realização da pesquisa. Entre as 48, 
+selecionamos 22 para o presente artigo.
+Rev Bras Saude Ocup 2021;46:e1
+4/15
+Quadro 1	Síntese dos acontecimentos relacionados à pandemia de COVID-19 no período relacionado à coleta 
+dos dados da pesquisa nas mídias jornalísticas
+Data
+Fato
+Desdobramentos
+11/03/2020
+Decreto, pela OMS, da situação de pandemia de 
+COVID-191.
+Obrigação mundial de adotar medidas preventivas e 
+de controle da doença1.
+16/03/2020
+Rio de Janeiro e São Paulo (capitais) já apresentavam 
+casos de transmissão comunitária12.
+Mudanças nos protocolos para identificação de caso 
+como suspeito e reorganização dos serviços devido 
+ao aumento dos casos12.
+30/03/2020
+O Cofen cria formulário para notificação de suspeitas e/
+ou confirmação da COVID-19 em profissionais. Criação 
+do “Observatório da Enfermagem” para monitorar casos 
+entre os profissionais2.
+Proporciona visibilidade ao adoecimento de 
+trabalhadores(as) que estão na linha de frente, 
+mostrando a importância da discussão relacionada 
+ao trabalho dessas pessoas. Outros conselhos não 
+acompanharam esse movimento, dificultando a 
+análise referente à equipe multidisciplinar de saúde2.
+08/04/2020
+Discurso divergente do presidente Jair Bolsonaro sobre o 
+isolamento social, em relação às orientações e decisões 
+tomadas por governadores e prefeitos13.
+A Ordem dos Advogados do Brasil (OAB), através 
+de uma liminar no Supremo Tribunal Federal (STF), 
+conseguiu garantir o poder de estados, de municípios 
+e do Distrito Federal para tomarem as decisões 
+relacionadas ao enfrentamento da COVID-19, como 
+restrições de circulação de pessoas, fechamento de 
+escolas, comércios e de outras atividades13.
+09/04/2020
+A Fundação Oswaldo Cruz, instituição de Saúde Pública, 
+lança o “Observatório COVID-19”14.
+O observatório foi implementado como um canal de 
+divulgação de dados e estudos e de integração com 
+outros projetos14.
+16/04/2020
+Divergências políticas entre o presidente Bolsonaro e 
+o ministro da saúde, Luiz Henrique Mandetta, sobre 
+a condução e orientações para o enfrentamento da 
+COVID-1915.
+Desligamento do ministro da saúde em meio à 
+pandemia15.
+17/04/2020
+Posse do novo ministro da saúde, Nelson Teich.
+Após divergências com o presidente em relação ao 
+uso de cloroquina, Nelson Teich pediu exoneração 
+29 dias após nomeação. O país ficou 17 dias sem 
+ministro da saúde16.
+Em 02/06/2020, assumiu, interinamente, Eduardo 
+Pazuello, efetivado em setembro17.
+30/04/2020
+85.380 casos confirmados18.
+5.901 mortes por COVID-1918.
+Rev Bras Saude Ocup 2021;46:e1
+5/15
+Quadro 2	Reportagens selecionadas e informações relacionadas às categorias analíticas sobre condições de 
+trabalho
+Título da reportagem, 
+ fonte e data
+EPI e a COVID-19
+Profissionais 
+de saúde com 
+comorbidade, na 
+linha de frente
+Adoecimentos e morte no 
+trabalho, e em razão dele
+Acesso ao tratamento 
+e afastamento do 
+trabalho pela COVID-19
+Desistência 
+do trabalho e 
+atualização 
+profissional para 
+a COVID-19
+Morte de técnicos do 
+hospital da Osid por 
+COVID-19 gera apreensão 
+entre profissionais: 
+Funcionário está pedindo 
+demissão19.
+G1, em 30 de abril de 2020.
+EPIs escassos ou 
+inadequados, 
+segundo os(as) 
+trabalhadores(as).
+Não há 
+informações.
+Morte de dois técnicos 
+de enfermagem e 
+adoecimento de 
+profissionais por 
+COVID-19.
+Há afastamento de 
+profissionais de saúde 
+em decorrência da 
+COVID-19. Apoio 
+psicológico, de 
+acordo com a gestão 
+do trabalho.
+Relatos sobre 
+os receios de 
+contaminação 
+e pedidos de 
+demissão.
+Quase 50% dos profissionais 
+de saúde ouvidos pelo 
+MPT em MG denunciam 
+que trabalhadores com 
+sintomas de COVID-19 não 
+são dispensados20.
+G1, em 30 de abril de 2020.
+Ausência 
+de roupas 
+apropriadas e de 
+máscaras N95.
+Não há 
+informações.
+Não há informações.
+Médicos e 
+enfermeiros com 
+COVID-19 não são 
+dispensados do 
+trabalho.
+Não há 
+informações. 
+Mais de 2,2 mil 
+profissionais de saúde do 
+RJ foram afastados com 
+suspeita de COVID-19 ou 
+por serem parte de grupos 
+de risco21.
+G1, em 30 de abril de 2020.
+Não há 
+informações.
+Houve 
+afastamento 
+de 2,2 mil 
+profissionais 
+de grupo de 
+risco com 
+suspeita de 
+doença.
+Morte de profissionais 
+de saúde (11 médicos 
+e 18 enfermeiros) por 
+COVID-19.
+Afastamentos de 
+profissionais com a 
+COVID-19.
+Não há 
+informações.
+Profissionais da 
+enfermagem fazem 
+protesto denunciando falta 
+de EPI para atendimento de 
+pacientes com COVID-1922.
+G1, em 25 de abril de 2020.
+Há falta e 
+inadequação de 
+EPI (máscaras e 
+aventais), segundo 
+os profissionais. A 
+gestão do trabalho 
+relata que ocorreu 
+a compra dos EPIs.
+Não há 
+informações.
+Não há informações.
+Existe relato da 
+disponibilidade para 
+testes de COVID-19 
+para profissionais 
+de saúde.
+Houve cursos 
+de capacitação 
+para cerca de 60 
+profissionais.
+Mais de 250 profissionais 
+da saúde testaram 
+positivo para COVID-19 no 
+Maranhão23.
+G1, em 25 de abril de 2020.
+Não há 
+informações.
+Morte de uma 
+auxiliar de 
+enfermagem, 
+de 61 anos, 
+com diabetes e 
+obesidade.
+250 profissionais 
+receberam diagnóstico 
+positivo para a doença, 
+127 se recuperaram e 6 
+morreram.
+A auxiliar de 
+enfermagem que 
+faleceu pela doença 
+havia sido afastada 
+do trabalho.
+Não há 
+informações.
+Profissionais de saúde 
+lidam com medo e 
+pressão no combate ao 
+coronavírus24.
+G1, em 26 de abril de 2020.
+Apresenta a falta 
+e a inadequação 
+de EPI (máscaras e 
+aventais), segundo 
+os profissionais.
+Não há 
+informações.
+Profissionais relatam 
+estresse psicológico, 
+medo, síndrome do 
+pânico, sofrimento 
+psíquico, uso de 
+ansiolíticos e/ou 
+antidepressivos e 
+insônia. Morte de 53 
+trabalhadores(as) da 
+enfermagem.
+Afastamento de mais 
+de 7 mil profissionais 
+de saúde. Apoio 
+psicológico para 
+profissionais de saúde.
+Existe abandono 
+do trabalho, 
+segundo um 
+médico.
+(Continua)
+Rev Bras Saude Ocup 2021;46:e1
+6/15
+Título da reportagem, 
+ fonte e data
+EPI e a COVID-19
+Profissionais 
+de saúde com 
+comorbidade, na 
+linha de frente
+Adoecimentos e morte no 
+trabalho, e em razão dele
+Acesso ao tratamento 
+e afastamento do 
+trabalho pela COVID-19
+Desistência 
+do trabalho e 
+atualização 
+profissional para 
+a COVID-19
+A cada 11 minutos, um 
+profissional de enfermagem 
+que trabalha no tratamento 
+contra a COVID-19 busca 
+atendimento psicológico25.
+G1, em 24 de abril de 2020.
+Insuficiência de 
+EPIs.
+Informação 
+de que os 
+profissionais 
+com mais de 
+60 anos não 
+são afastados 
+pela COVID-19 
+nem por 
+problemas 
+psicológicos.
+Há relatos de casos de 
+depressão, síndrome 
+do pânico, ansiedade, 
+estresse, insônia, 
+exaustão e medo de 
+adquirir a doença.
+Dificuldades de 
+afastamento para 
+tratamento da 
+COVID-19 e/ou por 
+problemas de saúde 
+mental.
+Profissionais 
+relatam a falta 
+de formação 
+para o 
+atendimento 
+de pacientes 
+com o novo 
+coronavírus.
+Paraná tem 63 funcionários 
+de hospitais geridos pelo 
+estado afastados por causa 
+da COVID-1926.
+G1, em 24 de abril de 2020.
+Insuficiência 
+de EPIs e de 
+equipamentos 
+hospitalares.
+Não há 
+informações.
+Sintomas psicológicos 
+como o medo de 
+contaminação. 
+Subnotificação 
+dos casos de 
+adoecimentos.
+63 profissionais 
+afastados pela 
+doença. Aqueles que 
+possuem sintomas 
+são afastados do 
+trabalho.
+Não há 
+informações.
+Em dois dias, número de 
+profissionais da saúde com 
+COVID-19 sobe 66% no ES27.
+G1, em 22 de abril de 2020.
+Insuficiência de 
+EPIs.
+Não há 
+informações. 
+284 profissionais 
+contaminados por 
+COVID-19.
+Informação de que 
+uma trabalhadora foi 
+afastada.
+Relato de que 
+no começo 
+da pandemia 
+não houve 
+formação para 
+atendimentos 
+da COVID-19. 
+Profissionais do Hospital 
+Miguel Couto que fazem 
+parte de grupos de risco da 
+COVID-19 dizem que não 
+foram afastados28.
+G1, em 23 de abril de 2020.
+EPIs escassos ou 
+inadequados, 
+segundo os(as) 
+trabalhadores(as). 
+A gestão do 
+hospital relata que 
+há EPIs suficientes.
+Os 
+profissionais 
+do grupo de 
+risco não são 
+afastados.
+Relatos de morte 
+de profissionais, 
+inclusive do grupo de 
+risco (diabetes) por 
+COVID-19.
+Não há informações.
+Não há 
+informações.
+Coronavírus: enfermeiros 
+do Rio alegam falta de 
+amparo e equipamentos em 
+UTIs29.
+G1, em 23 de abril de 2020.
+Insuficiência e uso 
+inadequado de EPIs.
+Informação de 
+que não há um 
+levantamento 
+da gestão dos 
+serviços de 
+saúde sobre os 
+profissionais 
+que são do 
+grupo de risco.
+11 mortes de 
+profissionais de 
+enfermagem; 548 
+afastados. Sintomas 
+emocionais como 
+medo e depressão. 
+Ausência de testes 
+para profissionais 
+com suspeita de 
+COVID-19.
+Dificuldades para 
+ter acesso ao 
+acompanhamento 
+psiquiátrico.
+Não há 
+informações.
+Presidente da 
+Associação Médica fala 
+sobre contaminação 
+de profissionais por 
+COVID-1930.
+G1, em 23 de abril de 2020.
+Insuficiência de 
+EPIs e escassez 
+de produtos 
+hospitalares.
+Não há 
+informações.
+Morte de profissionais 
+de saúde por COVID-19 
+e sentimento de medo 
+de se contaminarem.
+Não há informações.
+Inserção de 
+profissionais 
+recém-formados 
+para a atuação 
+na pandemia.
+Número de profissionais 
+de saúde com COVID-19 na 
+Paraíba sobe 66% em uma 
+semana31.
+G1, em 22 de abril de 2020.
+Importância de se 
+ter EPIs adequados 
+aos profissionais.
+Não há 
+informações.
+45 profissionais 
+contaminados pela 
+doença.
+Morte de profissionais 
+de saúde por 
+COVID-19.
+Compra de testes 
+para a COVID-19 
+para profissionais de 
+saúde.
+Realização 
+de cursos 
+sobre (des)
+paramentação de 
+EPIs, para evitar 
+a contaminação 
+dos profissionais.
+Quadro 2	Continuação...
+(Continua)
+Rev Bras Saude Ocup 2021;46:e1
+7/15
+Título da reportagem, 
+ fonte e data
+EPI e a COVID-19
+Profissionais 
+de saúde com 
+comorbidade, na 
+linha de frente
+Adoecimentos e morte no 
+trabalho, e em razão dele
+Acesso ao tratamento 
+e afastamento do 
+trabalho pela COVID-19
+Desistência 
+do trabalho e 
+atualização 
+profissional para 
+a COVID-19
+Enfermeira de 58 anos é 
+a primeira profissional de 
+saúde vítima da COVID-19 
+no Amapá32.
+G1, em 22 de abril de 2020.
+Relato de compras 
+de EPIs e produtos 
+hospitalares de 
+higienização e 
+limpeza.
+Insuficiência de 
+EPIs.
+Denúncia de 
+falta de água 
+no ambiente 
+hospitalar, sendo 
+negado pela 
+gestão hospitalar.
+Não há 
+informações.
+Morte de uma 
+trabalhadora da 
+enfermagem que 
+estava afastada pela 
+doença; segundo 
+familiares, ela não 
+se contaminou no 
+ambiente de trabalho.
+52 profissionais 
+de enfermagem 
+afastados pela 
+doença.
+Não há 
+informações.
+ES registra 101 novos casos 
+e chega a 1.313 infectados 
+por COVID-19; 206 são 
+profissionais da saúde33.
+G1, em 21 de abril de 2020.
+Não há 
+informações.
+Não há 
+informações.
+206 profissionais 
+infectados pelo 
+coronavírus.
+Não há informações.
+Não há 
+informações.
+RJ tem 6 mortes e mais 
+de 1,8 mil profissionais 
+da saúde afastados pela 
+COVID-19: ‘Levou um 
+pedaço nosso’, diz filha de 
+vítima34.
+G1, em 21 de abril de 2020.
+Não há 
+informações.
+Não há 
+informações.
+Seis mortes e cerca de 
+1,8 mil profissionais de 
+saúde afastados pela 
+COVID-19. Sintomas 
+relativos à COVID-19 e 
+sensação de tristeza.
+Não há informações.
+Não há 
+informações.
+12 profissionais de saúde 
+de São Paulo já morreram 
+com COVID-19, diz 
+secretário municipal35.
+G1, em 21 de abril de 2020.
+Necessidade 
+de compras de 
+EPIs para os 
+atendimentos da 
+doença.
+Não há 
+informações.
+Na capital de São 
+Paulo, houve 12 
+mortes por COVID-19. 
+Afastamento de 3.336 
+profissionais pela 
+doença.
+Não há informações.
+Não há 
+informações.
+Mais de 4 mil profissionais 
+de enfermagem foram 
+contaminados pela 
+COVID-1936.
+G1, em 20 de abril de 2020.
+Insuficiência e uso 
+inadequado de 
+EPIs.
+Necessidade 
+de 
+profissionais 
+de grupos de 
+risco serem 
+afastados do 
+contato com 
+pessoas com a 
+COVID-19.
+Cerca de 4.600 
+profissionais 
+de enfermagem 
+contaminados com o 
+novo coronavírus.
+Aproximadamente 
+500 afastados por dia.
+Não há 
+informações.
+Aos 68, faxineira de 
+hospital tem direito, mas 
+não consegue teste para 
+Covid37.
+Uol, em 28 de abril de 2020.
+Insuficiência e uso 
+inadequado de 
+EPIs dos EPIs.
+Trabalhadora 
+da limpeza 
+hospitalar 
+pertencente ao 
+grupo de risco 
+não é afastada 
+do trabalho.
+Adoecimento de uma 
+trabalhadora pela 
+COVID-19.
+Necessidade de se ter 
+testes para a doença, 
+especialmente para 
+os profissionais que 
+estão em contato 
+direto com a 
+COVID-19.
+Não há 
+informações.
+No Pará, 42% dos casos 
+confirmados de coronavírus 
+são da área da saúde38.
+Uol, em 28 de abril de 2020.
+Insuficiência de 
+EPIs.
+Manutenção de 
+profissionais 
+de grupo 
+de risco no 
+cuidado com a 
+COVID-19.
+Quase metade dos 
+casos de COVID-19 é de 
+profissionais de saúde, 
+com sete mortes.
+Não há informações.
+Ausência de 
+formação para 
+o cuidado 
+em saúde de 
+pessoas com a 
+COVID-19.
+Quadro 2	Continuação...
+(Continua)
+Rev Bras Saude Ocup 2021;46:e1
+8/15
+Título da reportagem, 
+ fonte e data
+EPI e a COVID-19
+Profissionais 
+de saúde com 
+comorbidade, na 
+linha de frente
+Adoecimentos e morte no 
+trabalho, e em razão dele
+Acesso ao tratamento 
+e afastamento do 
+trabalho pela COVID-19
+Desistência 
+do trabalho e 
+atualização 
+profissional para 
+a COVID-19
+Técnica pede demissão 
+de hospital no RJ: ‘Nunca 
+vivenciei nada parecido’39.
+Uol, em 29 de abril de 2020.
+Insuficiência de 
+EPIs.
+Não há 
+informações.
+Não há informações.
+Não há informações.
+Uma técnica de 
+enfermagem 
+desiste do 
+trabalho devido 
+às precárias 
+condições de 
+trabalho.
+PE registra fila por UTI; 
+profissional já tem de optar 
+por quem levar40.
+Uol, em 29 de abril de 2020.
+Não há 
+informações.
+Não há 
+informações.
+Sobrecarga de 
+trabalho, devido ao 
+aumento de casos da 
+doença, o que pode 
+levar ao adoecimento 
+profissional.
+Não há informações.
+Necessidade de 
+contratação de 
+profissionais de 
+saúde.
+Quadro 2	Continuação...
+Os EPIs e a COVID-19
+Os organismos internacionais, desde o início da 
+pandemia, sinalizaram que os(as) profissionais de 
+saúde são pessoas que estão em contato próximo com 
+o novo coronavírus e, portanto, são considerados um 
+grupo de elevado risco de contágio com a doença. 
+São eles(as) que, por meio das atividades de cuidado, 
+realizam procedimentos invasivos, como intubação, 
+coleta de secreções pulmonares, broncoscopias, den-
+tre outros41,42, o que evidencia a necessidade de pro-
+teção à saúde e à segurança desses profissionais.
+Assim, para enfrentar a COVID-19, existe a neces-
+sidade do uso de EPI pelos(as) profissionais de saúde, 
+que devem ser fornecidos pelas instituições de saúde 
+a todos(as) os(as) trabalhadores(as) gratuitamente43. 
+Trata-se de máscaras cirúrgicas e de proteção respira-
+tória (respirador particulado do tipo N95, N99, N100, 
+PFF2 ou PFF3), protetores oculares e faciais, capote 
+ou avental, e gorro44.
+Após a leitura das 22 reportagens na íntegra, 
+observamos que em 15 delas os(as) profissionais 
+de saúde, de diferentes localidades do Brasil, men-
+cionaram os principais problemas que estavam 
+enfrentando na ocasião em relação ao fornecimento 
+adequado dos EPIs:
+A gente assina um papel que pegou a máscara N95 e 
+os óculos. E aí, partir do momento [em] que você assi-
+nou, você não pode pegar outro. Então, você tem que 
+manter isso aí, não sei por quanto tempo, que já está 
+errado, porque a N95 tem uma validade29.
+Constatamos a problemática relatada por esses(as) 
+trabalhadores(as) em ter que se submeter a essa condi-
+ção que não garante a proteção adequada. A Agência 
+Nacional de Vigilância Sanitária (Anvisa), órgão 
+regulador do uso de equipamentos, materiais e medi-
+camentos que são utilizados no Brasil, publicou a 
+Nota Técnica n. 04/202045. Essa nota orienta os servi-
+ços de saúde brasileiros com medidas de prevenção e 
+controle que devem ser adotadas durante a assistência 
+aos casos suspeitos e confirmados de infecções pelo 
+novo coronavírus (SARS-CoV-2), inclusive quanto ao 
+prolongamento do período de uso da máscara N95: 
+“A forma de uso, manipulação e armazenamento deve 
+seguir as recomendações do fabricante e nunca deve 
+ser compartilhada entre profissionais” (p. 30)45.
+Existem, no entanto, denúncias constantes 
+dos(as) trabalhadores(as) sobre a escassez dos 
+EPIs20,35 nos estabelecimentos de saúde, de modo 
+geral, devido à maior necessidade e à não disponibi-
+lidade para compra por parte dos serviços de saúde, 
+como se observa a seguir:
+Muitos ainda reclamam da falta de equipamentos 
+para o trabalho, a escassez de EPIs e de insumos é 
+um problema global em todos os lugares30.
+Em face desta situação vivenciada nas institui-
+ções de saúde brasileiras em razão da emergência 
+nacional de saúde pública da COVID-19, a Anvisa 
+atualizou, em 8 de maio de 2020, a Nota Técnica 
+n. 04/2020, sobre o uso prolongado de alguns EPIs 
+como as máscaras N95 ou equivalentes. Essas más-
+caras poderiam, então, ser utilizadas por um período 
+maior que o previsto pelo fabricante. No entanto, isso 
+não poderia ser usado como uma estratégia dos servi-
+ços de saúde para justificar não distribuir adequada-
+mente os EPIs aos(às) profissionais. As Comissões de 
+Controle das Infecções Hospitalares (CCIH) devem 
+estar à frente dessas normatizações nos serviços de 
+saúde em conjunto com as equipes técnicas de cada 
+unidade assistencial45.
+Rev Bras Saude Ocup 2021;46:e1
+9/15
+Há alguns conselhos de classe, como é o caso 
+do Cofen e do Conselho Regional de Enfermagem 
+(Coren), que, devido às denúncias constantes (mais 
+de 8 mil) de seus inscritos, realizaram um número 
+alto de fiscalizações (mais de 7 mil inspeções). 
+Em uma reportagem, uma representante do Coren 
+relatou: “A gente encontra desde locais que não 
+estão fornecendo as máscaras adequadas, estão 
+reutilizando os aventais impermeáveis e a gente 
+também constatou a distribuição de capas de chuva 
+para profissionais em substituição ao avental imper-
+meável, que também não é apropriado.”24 Assim, 
+em razão das denúncias recebidas desde o início 
+da pandemia, o Cofen comprou 86 mil máscaras 
+que estão sendo distribuídas pelo Coren, conforme 
+a necessidade de cada estado brasileiro, principal-
+mente para instituições públicas46.
+Outro aspecto que agrava o contágio da COVID-
+19, trazido pelos profissionais de saúde, foi relativo 
+ao momento de desparamentação:
+Na hora de retirar o equipamento, ocorre o descui-
+do, e as pessoas se contaminam. Então, neste mo-
+mento, estamos fazendo um conjunto enorme de 
+todas as unidades para treinamento de como colo-
+car e como tirar o equipamento, para que se dê de 
+maneira segura31.
+Quanto ao contingenciamento de produtos médi-
+cos hospitalares, também foi afirmado que, além 
+dos EPIs, faltavam materiais como toalhas de papel 
+e álcool. Esse fato gerou uma articulação do Coren 
+com os estados e os municípios para que decisões 
+fossem tomadas para a preservação da saúde dos(as) 
+profissionais. Foi mencionado que o Coren entrou 
+com uma ação para garantir EPIs aos(às) profissio-
+nais que atuam contra a COVID-19 em um dos esta-
+dos do país; a ação foi protocolada após denúncias 
+de que os(as) profissionais não estariam tendo acesso 
+aos equipamentos em unidades de saúde do estado32.
+De acordo com a Anvisa, as medidas de preven-
+ção e controle, incluindo a utilização correta dos 
+EPIs, devem ser adotadas durante a assistência aos 
+casos suspeitos ou confirmados de infecção pelo 
+novo coronavírus (SARS-CoV-2)45. Sendo assim, 
+indagamos como a distribuição, a manutenção e 
+o uso dos EPIs estão sendo viabilizados pelos sis-
+temas de saúde, de modo a garantir a segurança 
+daqueles(as) que estão à frente no cuidado contra 
+a COVID-19.
+Profissionais de saúde com comorbidade, na linha 
+de frente
+De acordo com as reportagens analisadas, per-
+cebemos a presença de profissionais de saúde com 
+comorbidades na linha de frente.
+A gravidade da COVID-19 tem sido relacionada 
+com diabetes, problemas cardíacos, respiratórios e 
+de imunodepressão47. Alguns questionamentos e 
+denúncias foram colocados no centro do debate pela 
+mídia, e também pelos(as) próprios(as) trabalhado-
+res(as) que possuíam uma ou mais dessas doenças, 
+e continuaram suas atividades de cuidado, mesmo 
+sujeitos(as) a um risco maior de adoecerem grave-
+mente pelo coronavírus.
+Constatamos os riscos que os(as) profissionais 
+vivenciam neste cenário pandêmico. A consideração 
+de estar arriscando a vida para cuidar “do outro” foi 
+verificada a partir das 572 denúncias de profissionais 
+de saúde (médicos e enfermeiros) encaminhadas ao 
+Ministério Público do Rio de Janeiro: 48% delas esta-
+vam relacionadas à obrigação de ter que continuar 
+trabalhando mesmo com sintomas de COVID-1920.
+Também houve o caso de uma profissional da 
+saúde grávida (embora não seja considerado comor-
+bidade) que sentia medo de contrair o vírus e passar 
+para o bebê, mas, ainda assim, não conseguiu afasta-
+mento ou mudança de função. Mesmo não havendo 
+pesquisas que comprovem casos de transmissão ver-
+tical, da mãe para o feto ou recém-nascido, a saúde 
+mental, emocional e física da gestante precisa ser 
+levada em consideração, pela própria condição cor-
+poral diferenciada48.
+Ansiedade, medo, estresse e preocupação são 
+sentidos por profissionais expostos, por não terem 
+sido afastados do trabalho, que se mostram conscien-
+tes, tanto dos riscos que correm – podendo inclusive 
+infectar seus familiares, especialmente filhos e pais 
+idosos – quanto dos riscos a que seus colegas estão 
+expostos – especialmente os que sofrem de comor-
+bidades e idosos. Conforme depoimento de uma 
+enfermeira: “As pessoas saem dos plantões e choram 
+ao volante, tem gente que nem consegue voltar para 
+casa. Uma tristeza.”25
+Além das condições de trabalho precárias, alguns 
+profissionais também apontam a convivência com o 
+próprio adoecimento e o dos colegas, assim como 
+a proximidade e o grande número de mortes que 
+vivenciam neste contexto da linha de frente:
+Eu fico muito preocupado porque, assim como o co-
+lega, eu sou [de] um grupo de risco, mas não posso 
+parar de trabalhar. E não sou assistido também, não 
+é? As únicas pessoas que estão sendo afastadas são os 
+maiores de 60 anos. Mas as pessoas que têm comor-
+bidade, as mulheres que estão gestantes, nenhuma 
+delas está sendo afastada. Hoje nós somos números, 
+agora os nossos números de matrículas estão sendo 
+substituídos por números de lápides29.
+Profissionais que estão na linha de frente e que 
+possuem um histórico de adoecimento por outras 
+Rev Bras Saude Ocup 2021;46:e1
+10/15
+doenças, portanto, são marcados por sentimentos 
+de medo e preocupação diante do cenário de uma 
+doença considerada relativamente nova e que, 
+ao mesmo tempo, adoece e provoca, por vezes, a 
+morte de profissionais. Esse contexto propicia soli-
+dariedade entre os(as) profissionais de saúde, pois 
+todos(as) se reconhecem enquanto uma coletividade, 
+a partir da responsabilidade profissional em face da 
+COVID-19, e também compartilham suas experiên-
+cias sobre os limites de seus corpos e emoções no 
+exercício profissional.
+Adoecimentos e morte no trabalho e em razão dele
+As condições de trabalho precárias resultam em 
+complicações na saúde de trabalhadores(as). Essa 
+afirmativa é corroborada pelas notícias levantadas 
+em nossa pesquisa, as quais relatam um alto número 
+de profissionais acometidos pela COVID-19 e de 
+mortes desses trabalhadores da saúde.
+Por conseguinte, concordamos com Maeno e 
+Carmo49 que analisam a COVID-19 como uma doença 
+ocupacional, independentemente de ser uma ocupa-
+ção em serviços essenciais ou não, pois ela pode ser 
+transmitida nos deslocamentos diários com o uso 
+de transportes públicos, no contato com pessoas no 
+ambiente de trabalho. Sintetizando: “COVID-19 em 
+quem trabalha é presumivelmente relacionada ao 
+trabalho” (p. 3) e, em especial, os(as) profissionais 
+de saúde devem ter a proteção necessária para a pre-
+venção da doença49. Também é fundamental a noti-
+ficação de todos os casos suspeitos ou positivados 
+para a doença49.
+Foram inúmeras as reportagens veiculadas sobre 
+as vivências dos(as) profissionais de saúde relativas 
+ao adoecimento e à morte. Um dos achados diz res-
+peito à necessidade de os órgãos responsáveis pela 
+gestão do trabalho em saúde realizarem ações para 
+a saúde e segurança dos(as) profissionais, inclusive 
+para garantir a continuidade do atendimento36. Em 
+alguns depoimentos, fica evidente a preocupação 
+do próprio profissional, de que o adoecimento do(a) 
+trabalhador(a) da saúde possa diminuir o número 
+de pessoas para o cuidado, como mostra o depoi-
+mento a seguir:
+Os profissionais de saúde estão na linha de frente e 
+precisam de todo o suporte das unidades de saúde 
+para atenderem bem os pacientes e não serem con-
+taminados. Quanto mais médicos infectados, menos 
+profissionais teremos para enfrentar essa batalha36.
+Em muitos relatos de trabalhadores(as) e de 
+representantes de sindicatos de diferentes categorias 
+foi destacado o número de trabalhadores(as) afasta-
+dos(as). Em alguns lugares do país representavam a 
+metade dos casos do município. Ressaltamos que a 
+área de saúde vem passando por precarização do tra-
+balho, com a escassa contratação de profissionais e 
+restrição de recursos materiais8,49, o que traz dificul-
+dades àqueles(as) que estão na linha de frente dos 
+atendimentos contra a COVID-1949.
+O cuidado com a assepsia e com a não contami-
+nação de si, de colegas e do próprio ambiente do 
+serviço de saúde também foram encontrados nas 
+matérias levantadas por este estudo, aumentando as 
+tensões, o estresse e o estigma de serem profissionais 
+de saúde e possíveis “transmissores do vírus”, o que 
+também foi relatado em outra pesquisa50.
+Os óbitos entre trabalhadores(as) também foram 
+destacados:
+Está morrendo muita gente, muita gente da enferma-
+gem, muita gente jovem, independentemente da idade. 
+Pessoas que deram a vida para cuidar do outro agora 
+estão morrendo, todo dia. A situação só piora34.
+Apesar de ser importante identificar a ocorrên-
+cia dos casos de COVID-19 entre os profissionais 
+de enfermagem para subsidiar a organização e o 
+desenvolvimento de ações de prevenção e con-
+trole da disseminação do vírus, uma representante 
+do Coren confirma em uma reportagem que há 
+subnotificação26.
+A precarização dos lugares de descanso tam-
+bém foi lembrada pelos profissionais de saúde. Em 
+um hospital de campanha de um dos estados não 
+havia lugar para os enfermeiros descansarem, tinha 
+que ser no chão molhado: “Está com sono, né? Oh, 
+meu Deus, não tem o direito ao descanso, está todo 
+molhado, né? Ô Jesus Cristo”24.
+Sendo assim, tal como trazido por Thébaud-
+Mony8, ressaltamos que as condições de trabalho 
+tanto podem favorecer a manutenção da saúde, como 
+promover e intensificar os adoecimentos dos(as) 
+trabalhadores(as).
+Acesso ao tratamento e afastamento do trabalho pela 
+COVID-19
+Segundo as mídias jornalísticas, diversas(os) 
+trabalhadoras(es) que atuam em unidades de saúde 
+foram afastadas(os) por suspeita de COVID-19 e, 
+mesmo assim, tiveram dificuldades em realizar exa-
+mes e/ou receber tratamento, como mostra o depoi-
+mento a seguir:
+É um dado que preocupa muito. Um quantitativo 
+enorme de profissionais com suspeita de coronaví-
+rus e menos de 30% destes profissionais estão sendo 
+testados para a COVID-19. Em apenas um mês, os 
+conselhos regionais de Medicina e Enfermagem de 
+um estado já receberam mais de 360 denúncias dos 
+profissionais de saúde21.
+Rev Bras Saude Ocup 2021;46:e1
+11/15
+Em abril de 2020, o Ministério da Saúde (MS) 
+emitiu documento sobre distribuição e oferta de tes-
+tes rápidos para a COVID-19 para estados e muni-
+cípios, assim como critérios estabelecidos para 
+contemplar seu uso, tendo como prioridade profis-
+sionais da saúde, profissionais da segurança pública 
+e população considerada grupo de risco51.
+Para a distribuição equitativa dos testes para 
+estados e municípios, foi realizada uma estimativa 
+do quantitativo profissional de trabalhadores(as) da 
+saúde em toda rede assistencial a partir de dados dis-
+poníveis no Departamento de Informática do Sistema 
+Único de Saúde (Datasus)51.
+Apesar do documento do MS51 elucidar o pla-
+nejamento para a oferta dos testes para COVID-19 
+para profissionais de saúde, muitas reportagens 
+relataram dificuldade no acesso e, consequente-
+mente, sua não realização:
+Um grande problema aqui é que nós ainda não fo-
+mos testados. Não está acontecendo na velocidade 
+adequada a testagem de pacientes e principalmente 
+daqueles profissionais que estão na linha de frente, 
+atendendo os pacientes dos hospitais30.
+Em caso de realização do teste com diagnóstico 
+positivo para a COVID-19, o(a) trabalhador(a) da 
+saúde é afastado(a) por 14 dias após início dos sin-
+tomas; o mesmo procedimento acontece em caso de 
+resultado positivo para o contato domiciliar do(a) 
+profissional de saúde51. Entretanto, sem a realização 
+do teste, somente a presença dos sintomas pode indi-
+car outro possível adoecimento, o que pode levar ao 
+afastamento com número de dias reduzido:
+De novo, não testaram para o coronavírus, mas a mé-
+dica receitou o Tamiflu (antiviral indicado para tratar 
+H1N1 em casos graves), e deu sete dias para ela ficar 
+em casa. Achei estranho, porque, mesmo sem resultado 
+e com toda essa pandemia, o certo seriam 15 [dias]37.
+Em outras reportagens foi mencionado o afas-
+tamento de profissionais com sintomas, mas sem 
+a realização do teste32,33. Além das dificuldades de 
+acesso ao teste para diagnóstico da COVID-19, algu-
+mas matérias mencionaram a limitação do acesso 
+ao tratamento do profissional da saúde acometido, 
+que não consegue atendimento sequer na unidade 
+de saúde onde trabalha. “Ela não resistiu. Morreu 
+em um hospital no sul do estado, porque não con-
+seguiu vaga na capital.”34
+Em outro documento do MS, há “recomenda-
+ções quanto à organização e estruturação do tra-
+balho em serviços de saúde para proteção dos(as) 
+profissionais de saúde e preservação da força labo-
+ral”(p.  37)52. No entanto, não há menção sobre 
+a garantia do acesso ao tratamento em caso de 
+infecção. De acordo com a familiar de uma profis-
+sional que trabalha na saúde: “ficamos à procura 
+da medicação por cinco dias. Não havia na rede 
+pública ou nas farmácias. Depois de muito procu-
+rarmos, conseguimos uma caixa por R$ 320.”37
+A desistência do trabalho e a atualização profissional 
+para a COVID-19
+Perante as condições de trabalho precárias, a desis-
+tência do trabalho foi encontrada nas vivências dos(as) 
+profissionais de saúde. Depois de trabalhar em apenas 
+quatro plantões, uma técnica de enfermagem revelou 
+ter pedido demissão após enfrentar condições de traba-
+lho precárias. Ela diz que há casos de ao menos outros 
+cinco profissionais que tomaram a mesma decisão, 
+destacando o alto número de pessoas atendidas, com 
+poucas pessoas para o cuidado39. Em outra matéria, 
+em um hospital, após a morte de duas trabalhadoras 
+da Enfermagem, foi noticiado que, em decorrência do 
+medo, muitos(as) estavam pedindo demissão19.
+O abandono do trabalho não é um assunto 
+relativamente novo, pois, de acordo com Codo e 
+Vasques-Menezes53, o burnout está associado com 
+as atividades de cuidado, especialmente entre os(as) 
+trabalhadores(as) da área de educação e saúde, e 
+refere-se à exaustão emocional (esgotamento de 
+energia e de vínculos afetivos e emocionais); à des-
+personalização (endurecimento das relações afetivas, 
+sentimentos e expressões negativas) e à ausência de 
+envolvimento emocional nas atividades (dificulda-
+des na realização do trabalho)53.
+Pesquisas internacionais evidenciam o aumento 
+das demandas de trabalho no atendimento dos casos 
+de COVID-19, o que pode levar ao esgotamento físico 
+e mental54. E, nesse sentido, há implicações para a 
+saúde dos(as) profissionais, que se sentem sobre-
+carregados(as), sobretudo ao vivenciarem mortes de 
+colegas, gerando medos e preocupações54.
+Se há um aumento da demanda de cuidado para 
+a COVID-19, existe também a necessidade de for-
+mação e/ou atualização dos saberes profissionais, 
+tanto para a Assistência em Saúde (protocolos de 
+atendimentos, solicitação de exames, controle da 
+disseminação do vírus etc.), quanto para o cuidado 
+de si, como no uso das proteções individuais e cole-
+tivas para a prevenção da doença. Algumas unida-
+des demonstram estar fazendo treinamentos in loco, 
+tentando identificar qual o momento em que acon-
+tece a contaminação e buscando a sua diminuição, 
+assim como a atualização dos trabalhadores sobre 
+os assuntos pertinentes à COVID-1922,26. Em outras 
+reportagens, são explicitadas as implicações de não 
+saber como lidar com os EPIs: “A gente não estava 
+tendo treinamentos adequados, estávamos fazendo 
+a retirada dos EPIs de forma errada”27.
+Rev Bras Saude Ocup 2021;46:e1
+12/15
+Outro ponto verificado foi a inserção de profissio-
+nais de outras áreas de cuidado na atividade direta 
+com pacientes com coronavírus, a contratação de 
+residentes médicos40. Encontramos também relatos 
+de casos em que a formação para os cuidados inten-
+sivos ocorre diretamente pelo exercício do trabalho, 
+à medida que a doença se propaga. No entanto, essa 
+necessidade acelerada de contratação impõe situa-
+ções como: “O problema são os contratados para a 
+pandemia, sem muito treinamento, sem EPIs… Essas 
+pessoas estão apavoradas.”25
+É necessário considerar que, se por um lado 
+existe a possibilidade de incentivar financeiramente 
+o oferecimento dos insumos materiais necessários 
+aos hospitais, por outro, é importante destacar que os 
+profissionais de saúde não são máquinas e, portanto, 
+precisam de um tempo para sua formação, sobretudo 
+sobre como devem realizar o cuidado da saúde e a 
+sua segurança profissional diante da COVID-19, que 
+devem ser prioridades e asseguradas inclusive com o 
+oferecimento e a garantia do uso do EPI55.
+Conclusões
+A atividade de cuidado é fundamental para a 
+produção de saúde e bem-estar de toda uma socie-
+dade. Os conhecimentos profissionais específicos e 
+de diversos campos de atuação, conjuntamente, são 
+capazes de proporcionar prevenção, promoção e cura 
+em saúde. No entanto, o trabalho em saúde não está 
+dissociado das contradições da sociedade capitalista 
+que, em determinados setores, explora o(a) trabalha-
+dor(a), pondo em risco a sua vida. Com isso, o que o 
+cenário pandêmico tem evidenciado é a necessidade 
+primordial do cuidado e da proteção daqueles(as) 
+que estão à frente da promoção da saúde.
+Os resultados aqui apresentados, baseados em 
+matérias publicadas em abril de 2020, no início da 
+pandemia no Brasil, apresentam situações em que 
+a precariedade no fornecimento dos EPIs foi rela-
+tada pelos(as) profissionais nas mídias jornalísticas. 
+Foi possível perceber as tensões entre a gestão do tra-
+balho em saúde e a classe trabalhadora, explicitadas 
+quando muitos(as) disseram não ter equipamentos 
+de proteção, ou serem inadequados, ou em número 
+insuficiente. De um lado, a gestão em saúde está 
+assegurando a proteção à sociedade, de outro, traba-
+lhadores(as) da saúde estão vivenciando a precarie-
+dade de suas condições de trabalho. Dessa maneira, 
+o que é preciso assegurar é a garantia da saúde des-
+ses(as) trabalhadores(as). É inadmissível que haja 
+mortes relacionadas à atividade profissional!
+Com relação ao uso das mídias jornalísticas para 
+a apreensão da realidade vivida pelos profissionais 
+de saúde, no cenário brasileiro do início da pande-
+mia, constatamos que elas foram enfáticas ao sinali-
+zarem as mortes e o adoecimento profissional, bem 
+como as precárias condições de trabalho. Também 
+foi possível constatar, em algumas delas, a possibili-
+dade do cuidado à saúde mental dos(as) trabalhado-
+res(as), como as inciativas de órgãos de classe e da 
+própria gestão do trabalho hospitalar, ao oferecerem 
+acompanhamento psicológico e/ou psiquiátrico aos 
+profissionais de saúde.
+Percebemos, ao longo desta pesquisa, que as 
+reportagens abordavam, sobretudo, o trabalho na 
+saúde pública. Portanto, um outro aspecto que con-
+sideramos importante, é a necessidade de as mídias 
+enfatizarem o Sistema Único de Saúde enquanto um 
+sistema de saúde que é público e universal. E, assim 
+sendo, requerer melhorias nas condições de traba-
+lho e investimentos na saúde pública é uma ação de 
+todos os setores, inclusive das mídias jornalísticas.
+No momento em que a COVID-19 trouxe a neces-
+sidade de tornar visíveis estes(as) profissionais que 
+trabalham cuidando da saúde da população, torna-
+-se um dever ético, moral e político da sociedade, 
+do Estado e das instituições responsáveis pela saúde 
+oferecer o cuidado em saúde para estes(as) profis-
+sionais, além do seu reconhecimento social, não 
+somente com palmas, mas com políticas públicas 
+que propiciem melhores condições de trabalho e que 
+vigorem mesmo após a pandemia de coronavírus.
+Contribuições de autoria
+Vedovato TG, Santos DL, Bitencourt SM contribuíram para a concepção, análise de dados, redação, revisão 
+do texto e aprovação da sua versão final. Andrade CB contribuiu para a concepção, coleta e análise de dados, 
+redação, revisão do texto e aprovação da sua versão final. Almeida LP e Sampaio JFS contribuíram para a 
+análise de dados, redação, revisão do texto e aprovação da sua versão final. Todas as autoras assumem integral 
+responsabilidade pelo estudo desenvolvido e pelo conteúdo aqui publicado.
+Rev Bras Saude Ocup 2021;46:e1
+13/15
+Referências
+1.	 Organização Pan-Americana de Saúde. Folha 
+informativa COVID-19 – Escritório da OPAS e da 
+OMS no Brasil [Internet]. 2020 [citado em 3 maio 
+2020]. Disponível em: https://www.paho.org/bra/
+index.php?option=com_content&view=article&id
+=6101:covid19&Itemid=875.
+2.	 Conselho Federal de Enfermagem (BR). 
+Observatório da Enfermagem [Internet]. 2020. 
+[citado em 10 ago 2020]. Disponível em: http://
+observatoriodaenfermagem.cofen.gov.br/.
+3.	 Catton H. Global challenges in health and health 
+care for nurses and midwives everywhere.  
+Int Nurs Rev. 2020;67(1):4-6.
+4.	 Theorell T. COVID-19 and Working Conditions 
+in Health Care. Psychother Psychosom. 
+2020;89(4):193-4.
+5.	 Wang J, Okoli CTC, He H, Feng F, Li J, Zhuang L,  
+et al. Factors associated with compassion satisfaction, 
+burnout, and secondary traumatic stress among 
+Chinese nurses in tertiary hospitals: A cross-sectional 
+study. Int J Nurs Stud. 2020;102:103472.
+6.	 Leão RF, Oliveira DA, Aparecida N. Entrevista –  
+La salud del profesional y las condiciones de 
+trabajo. Retratos da Escola. 2012;6(11):301-13.
+7.	 Damascena DM, Vale PRLF. Typologies of precarious 
+work in primary healthcare: a netnographic study. 
+Trab Educ Saude [Internet]. 2020 [citado em 8 ago 
+2020];18(3):e00273104. Disponível em: http://www.
+scielo.br/scielo.php?script=sci_abstract&pid=S1981-
+77462020000300503&lng=en&nrm=iso&tlng=pt.
+8.	 Thébaud-Mony A. Saúde no Trabalho. In: Hirata 
+H, Laborie F, Senotier D, organizadores. Dicionário 
+crítico do feminismo. São Paulo: Editora Unesp; 
+2009. p. 217-21.
+9.	 Sacramento I, Lerner K. Pandemia e biografia no 
+jornalismo: uma análise dos relatos pessoais da 
+experiência com a Influenza H1N1 em O Dia.  
+Rev Famecos (Online). 2015;22(4):55-70.
+10.	Bardin L. Análise de conteúdo. 3a. São Paulo: 
+Edições 70; 2016.
+11.	Minayo MCS. O desafio do conhecimento. 12a ed. 
+São Paulo: Hucitec; Rio de Janeiro: Abrasco; 2010. 
+269 p. (Saúde em debate).
+12.	Amorim F. Brasil confirma transmissão comunitária 
+de coronavírus; entenda o que é. Uol Notícias 
+[Internet]. 13 mar 2020 [citado em 2 nov 2020]. 
+Disponível em: https://noticias.uol.com.br/saude/
+ultimas-noticias/redacao/2020/03/13/brasil-
+confirma-transmissao-comunitaria-de-coronavirus-
+entenda-o-que-e.htm.
+13.	Supremo Tribunal Federal (BR). Arguição de 
+Descumprimento de Preceito Fundamental 
+672 [Internet]. 2020 [citado em 25 out 2020]. 
+Disponível em: http://www.stf.jus.br/arquivo/cms/
+noticiaNoticiaStf/anexo/ADPF672liminar.pdf
+14.	Fundação Oswaldo Cruz. Observatório COVID-19: 
+Informação para Ação [Internet]. 2020 [citado em 
+25 out 2020]. Disponível em: https://portal.fiocruz.
+br/observatorio-covid-19.
+15.	Benites A, Jucá B, Borges R. Mandetta é demitido 
+por Bolsonaro. El País [Internet]. 16 abr 2020 
+[citado em 2 nov 2020]. Disponível em: https://
+brasil.elpais.com/sociedade/2020-04-16/mandetta 
+-e-demitido-por-bolsonaro.html.
+16.	Junqueira C, Machida K. Após 29 dias no cargo, 
+Nelson Teich pede demissão do Ministério da Saúde. 
+CNN Brasil [Internet]. 15 maio 2020 [citado em 2 nov 
+2020]. Disponível em: https://www.cnnbrasil.com.br/
+politica/2020/05/15/nelson-teich-pede-demissao-do-
+ministerio-da-saude.
+17.	Agência Brasil. Eduardo Pazuello toma posse 
+como ministro da Saúde. Agência Brasil [Internet]. 
+16 set 2020 [citado em 2 nov 2020]. Disponível 
+em: https://agenciabrasil.ebc.com.br/saude/
+noticia/2020-09/ao-vivo-eduardo-pazuello-toma-
+posse-como-ministro-da-saude.
+18.	Brasil. Ministério da Saúde. COVID-19 – Boletim 
+Epidemiológico Diário, Brasília, 30 de abril de 
+2020 [Internet]. 2020 [citado em 24 out 2020]. 
+Disponível em: https://portalarquivos.saude.gov.
+br/images/pdf/2020/April/30/2020-04-30-COVID-
+19-COLETIVA.pdf.
+19.	Tv Bahia. Morte de técnicos do hospital da Osid 
+por Covid-19 gera apreensão entre profissionais: 
+“Funcionário está pedindo demissão”. G1 Bahia 
+[Internet]. 30 abr 2020 [citado em 14 dez 2020]. 
+Disponível em: https://g1.globo.com/ba/bahia/
+noticia/2020/04/30/morte-de-tecnicos-do-hospital-da-
+osid-por-covid-19-gera-apreensao-entre-profissionais-
+funcionario-esta-pedindo-demissao.ghtml.
+20.	Pimentel T. Quase 50% dos profissionais de 
+saúde ouvidos pelo MPT em MG denunciam que 
+trabalhadores com sintomas de COVID-19 não 
+são dispensados. G1 Minas Gerais [Internet].  
+30 abr 2020 [citado em 14 dez 2020]. Disponível 
+em: https://g1.globo.com/mg/minas-gerais/
+noticia/2020/04/30/quase-50percent-dos-
+profissionais-de-saude-ouvidos-pelo-mpt-em-mg-
+denunciam-que-trabalhadores-com-sintomas-de-
+covid-19-nao-sao-dispensados.ghtml.
+21.	Rouvenat F. Mais de 2,2 mil profissionais de saúde 
+do RJ foram afastados com suspeita de COVID-19 
+ou por serem parte de grupos de risco. G1 Rio de 
+Janeiro [Internet]. 30 abr 2020 [citado em 14 dez 
+2020]. Disponível em: https://g1.globo.com/rj/
+rio-de-janeiro/noticia/2020/04/30/profissionais-de-
+saude-do-rj-foram-afastados-por-suspeita-de-covid-
+19-ou-por-fazerem-parte-de-grupos-de-risco.ghtml.
+22.	G1 Piauí. Profissionais da enfermagem fazem 
+protesto denunciando falta de EPI para 
+atendimento de pacientes com COVID-19 
+[Internet]. 25 abr 2020 [citado em 14 dez 2020]. 
+Disponível em: https://g1.globo.com/pi/piaui/
+noticia/2020/04/25/profissionais-da-enfermagem-
+fazem-protesto-denunciando-falta-de-epis-para-
+atendimento-de-pacientes-com-covid-19.ghtml. 
+Rev Bras Saude Ocup 2021;46:e1
+14/15
+23.	G1 Maranhão. Mais de 250 profissionais da saúde 
+testaram positivo para COVID-19 no Maranhão 
+[Internet]. 25 abr 2020 [citado em 14 dez 2020]. 
+Disponível em: https://g1.globo.com/ma/maranhao/
+noticia/2020/04/25/mais-de-250-profissionais-
+da-saude-testaram-positivo-para-covid-19-no-
+maranhao.ghtml.
+24.	Profissionais de saúde lidam com medo e pressão no 
+combate ao coronavírus. G1 Fantástico [Internet]. 26 
+abr 2020 [citado em 14 dez 2020]. Disponível em: 
+https://g1.globo.com/fantastico/noticia/2020/04/26/
+profissionais-de-saude-lidam-com-medo-e-pressao-
+no-combate-ao-coronavirus.ghtml.
+25.	Teixeira P. A cada 11 minutos, um profissional de 
+enfermagem que trabalha no tratamento contra 
+a COVID-19 busca atendimento psicológico. G1 
+Rio de Janeiro [Internet]. 24 abr 2020 [citado em 
+14 dez 2020]. Disponível em: https://g1.globo.
+com/rj/rio-de-janeiro/noticia/2020/04/24/a-cada-
+11-minutos-um-profissional-de-enfermagem-que-
+trabalha-no-tratamento-contra-a-covid-19-busca-
+atendimento-psicologico.ghtml.
+26.	Bischoff W. Paraná tem 63 funcionários de 
+hospitais geridos pelo estado afastados por causa 
+da COVID-19. G1 Paraná [Internet]. 24 abr 2020 
+[citado em 14 dez 2020]. Disponível em: https://
+g1.globo.com/pr/parana/noticia/2020/04/24/parana-
+tem-63-funcionarios-de-hospitais-geridos-pelo-
+estado-afastados-por-causa-da-covid-19.ghtml.
+27.	Arpini N. Em dois dias, número de profissionais 
+da saúde com COVID-19 sobe 66% no ES. G1 
+Espírito Santo [Internet]. 22 abr 2020 [citado em 
+14 dez 2020]. Disponível em: https://g1.globo.com/
+es/espirito-santo/noticia/2020/04/22/em-dois-dias-
+numero-de-profissionais-da-saude-com-covid-19-
+sobe-66percent-no-es.ghtml.
+28.	Rouvenat F, Queiroz M. Profissionais do Hospital 
+Miguel Couto que fazem parte de grupos de risco da 
+COVID-19 dizem que não foram afastados. G1 Rio 
+de Janeiro [Internet]. 23 abr 2020 [citado em 14 dez 
+2020]. Disponível em: https://g1.globo.com/rj/rio-de-
+janeiro/noticia/2020/04/23/profissionais-do-hospital-
+miguel-couto-que-fazem-parte-de-grupos-de-risco-da-
+covid-19-dizem-que-nao-foram-afastados.ghtml.
+29.	Globonews. Coronavírus: enfermeiros do Rio alegam 
+falta de amparo e equipamentos em UTIs [Internet]. 
+Rio de Janeiro; 23 abr 2020 [citado em 14 dez 2020]. 
+Vídeo: 8 min. Disponível em: https://g1.globo.com/
+globonews/globonews-em-ponto/video/coronavirus-
+enfermeiros-do-rio-alegam-falta-de-amparo-e-
+equipamentos-em-utis-8503345.ghtml.
+30.	Bom dia Espírito Santo. Presidente da Associação 
+Médica fala sobre contaminação de profissionais 
+por COVID-19 [Internet]. Vitória; 23 abr 2020 
+[citado em 14 dez 2020]. Vídeo: 4 min. Disponível 
+em: https://globoplay.globo.com/v/8503276/.
+31.	G1 Paraíba. Número de profissionais de saúde com 
+COVID-19 na Paraíba sobe 66% em uma semana 
+[Internet]. 22 abr 2020 [citado em 14 dez 2020]. 
+Disponível em: https://g1.globo.com/pb/paraiba/
+noticia/2020/04/22/numero-de-profissionais-de-
+saude-com-covid-19-na-paraiba-sobe-66percent-
+em-uma-semana.ghtml.
+32.	G1 Amapá. Enfermeira de 58 anos é a primeira 
+profissional de saúde vítima da COVID-19 no 
+Amapá [Internet]. 22 abr 2020 [citado em 14 dez 
+2020]. Disponível em: https://g1.globo.com/ap/
+amapa/noticia/2020/04/22/enfermeira-de-57-anos-
+e-a-1a-profissional-da-saude-a-morrer-de-covid-19-
+no-amapa.ghtml.
+33.	G1 Espírito Santo. ES registra 101 novos casos e 
+chega a 1.313 infectados por COVID-19; 206 são 
+profissionais da saúde [Internet]. 21 abr 2020 
+[citado em 14 dez 2020]. Disponível em: https://
+g1.globo.com/es/espirito-santo/noticia/2020/04/21/
+es-registra-101-novos-casos-e-chega-a-1313-
+infectados-por-covid-19-206-sao-profissionais-da-
+saude.ghtml.
+34.	Freire F, Grael F. RJ tem 6 mortes e mais de 1,8 mil 
+profissionais da saúde afastados pela COVID-19: 
+‘Levou um pedaço nosso’, diz filha de vítima. G1 
+Rio de Janeiro [Internet]. 21 abr 2020 [citado em  
+14 dez 2020]. Disponível em: https://g1.globo.
+com/rj/rio-de-janeiro/noticia/2020/04/21/rj-tem-ao-
+menos-4-mortes-e-mais-de-18-mil-profissionais-da-
+saude-afastados-pela-covid-19-levou-um-pedaco-
+nosso-diz-filha-de-vitima.ghtml.
+35.	Globonews, G1 São Paulo. 12 profissionais de 
+saúde de São Paulo já morreram com COVID-19, 
+diz secretário municipal. G1 São Paulo 
+[Internet]. 21 abr 2020 [citado em 14 dez 2020]. 
+Disponível em: https://g1.globo.com/sp/sao-paulo/
+noticia/2020/04/21/12-profissionais-de-saude-de-
+sp-ja-morreram-com-covid-19-diz-secretario.ghtml.
+36.	Bom Dia Brasil. Mais de 4 mil profissionais de 
+enfermagem foram contaminados pela COVID-19 
+[Internet]. Rio de Janeiro; 20 abr 2020 [citado em 
+14 dez 2020]. Vídeo: 3 min. Disponível em: https://
+globoplay.globo.com/v/8494354/.
+37.	Souto L. Aos 68, faxineira de hospital tem direito, 
+mas não consegue teste para Covid. Uol Universa 
+[Internet]. 29 abr 2020 [citado em 14 dez 2020]. 
+Disponível em: https://www.uol.com.br/universa/
+noticias/redacao/2020/04/29/faxineira-em-hospital-
+teste-para-covid.htm.
+38.	Ribeiro F. No Pará, 42% dos casos confirmados de 
+coronavírus são da área da saúde. Uol [Internet].  
+29 abr 2020 [citado em 14 dez 2020]. Disponível em: 
+https://noticias.uol.com.br/ultimas-noticias/agencia-
+estado/2020/04/29/no-para-42-dos-casos-confirmados-
+de-covid-19-sao-da-area-da-saude.htm.
+39.	Barreto H Filho. Técnica pede demissão de hospital 
+no RJ: ‘Nunca vivenciei nada parecido’. Uol 
+[Internet]. 29 abr 2020 [citado em 14 dez 2020]. 
+Disponível em: https://noticias.uol.com.br/saude/
+ultimas-noticias/redacao/2020/04/29/vi-muitas-
+mortes-tecnica-de-enfermagem-pede-demissao-de-
+hospital-no-rj.htm.
+40.	Resk F. PE registra fila por UTI; profissional já 
+tem de optar por quem levar, diz secretário. Uol 
+[Internet]. 29 abr 2020 [citado em 14 dez 2020]. 
+Disponível em: https://noticias.uol.com.br/ultimas-
+Rev Bras Saude Ocup 2021;46:e1
+15/15
+noticias/agencia-estado/2020/04/29/pe-registra-fila-
+por-uti-profissional-ja-tem-de-optar-quem-levar-
+diz-secretario.htm.
+41.	World Health Organization. Health workers 
+exposure risk assessment and management in the 
+context of COVID-19 virus [Internet]. 2020 [citado 
+em 24 maio 2020]. Disponível em: https://apps.
+who.int/iris/bitstream/handle/10665/331340/WHO-
+2019-nCov-HCW_risk_assessment-2020.1-eng.
+pdf?sequence=1&isAllowed=y.
+42.	Occupational Safety and Health Administration 
+(USA). Healthcare Workers and Employers 
+[Internet]. 2020 [citado em 25 maio 2020]. 
+Disponível em: https://www.osha.gov/SLTC/
+covid-19/healthcare-workers.html.
+43.	Brasil. Ministério do Trabalho. Norma 
+Regulamentadora 6 [Internet]. 1978 [acesso em 01 
+ago 2020]. Disponível em: https://enit.trabalho.gov.
+br/portal/images/Arquivos_SST/SST_NR/NR-06.pdf.
+44.	Organização Pan-Americana de Saúde. Orientações 
+sobre o uso de máscaras no contexto da COVID-19 
+[Internet]. 2020. [citado em 8 ago 2020]. 
+Disponível em: https://iris.paho.org/bitstream/
+handle/10665.2/52254/OPASWBRACOVID-1920071_
+por.pdf?sequence=1&isAllowed=y.
+45.	Agência Nacional de Vigilância Sanitária (BR). 
+Nota Técnica GVIMS/GGTES/ANVISA  
+Nº 04/2020 [Internet]. 2020 [citado em 7 ago 
+2020]. Disponível em: https://www20.anvisa.gov.
+br/segurancadopaciente/index.php/alertas/item/
+covid-19.
+46.	Conselho Federal de Enfermagem (BR). Mais 86 mil 
+máscaras compradas pelo Cofen serão entregues 
+aos profissionais [Internet]. 2020 [citado em 7 ago 
+2020]. Disponível em: http://www.cofen.gov.br/
+mais-86-mil-mascaras-compradas-pelo-cofen-serao-
+entregues-aos-profissionais_80318.html.
+47.	Brasil. Ministério da Saúde. Secretaria de Vigilância 
+em Saúde. Recomendações de proteção aos 
+trabalhadores dos serviços de saúde no atendimento 
+de COVID-19 e outras síndromes gripais [Internet]. 
+2020 [citado em 11 ago 2020]. Disponível em: 
+https://portalarquivos.saude.gov.br/images/pdf/2020/
+April/16/01-recomendacoes-de-protecao.pdf.
+48.	Brasil. Ministério da Mulher, da Família e 
+dos Direitos Humanos. Ministério divulga 
+orientações sobre coronavírus a gestantes e 
+lactantes [Internet]. Notícias; 2020 [citado em 
+29 jun 2020]. Disponível em: https://www.
+gov.br/mdh/pt-br/assuntos/noticias/2020-2/
+abril/ministerio-divulga-orientacoes-sobre-
+coronavirus-a-gestantes-e-lactantes.
+49.	Maeno M, Carmo JC. A COVID-19 é uma 
+doença relacionada ao trabalho [Internet]. 2020 
+[citado em 17 maio 2020]. Disponível em: http://
+observatoriodamedicina.ensp.fiocruz.br/a-covid-19-
+e-uma-doenca-relacionada-ao-trabalho-por-maria-
+maeno-e-jose-carlos-do-carmo/.
+50.	Lotta G, Fernandez M, Corrêa MG, Magri G, Mello 
+CAC, Beck AL. Nota Técnica: A pandemia de 
+COVID-19 e os profissionais de Saúde Pública no 
+Brasil – 2a. fase [Internet]. São Paulo: FGV; NEB; 
+2020 [citado em 11 dez 2020]. Disponível em: 
+https://abori.com.br/wp-content/uploads/2020/07/
+rel05-saude-covid-19-fase2-v4.pdf.
+51.	Brasil. Ministério da Saúde. Secretaria de Atenção 
+Primária à Saúde. Departamento de Saúde da 
+Família. Nota Técnica Nº 11/2020-DESF/SAPS/MS 
+[Internet]. 2020 [citado em 5 ago 2020]. Disponível 
+em: http://www.saude.ba.gov.br/wp-content/
+uploads/2020/04/Nota_Tecnica__Informativa_
+Disponibilizacao_de_Testes.pdf.
+52.	Brasil. Ministério da Saúde. Orientações para 
+manejo de pacientes com COVID-19 [Internet]. 
+2020 [citado em 11 ago 2020]. Disponível em: 
+https://portalarquivos.saude.gov.br/images/
+pdf/2020/June/18/Covid19-Orientac--o--
+esManejoPacientes.pdf
+53.	Codo W, Vasques-Menezes I. O que é burnout? 
+In: Codo W, organizador. Educação: carinho e 
+trabalho. Brasília: UNB, CNTE; Petrópolis: Vozes; 
+1999. p. 237-54.
+54.	Ripp J, Peccoralo L, Charney D. Attending to the 
+Emotional Well-Being of the Health Care Workforce 
+in a New York City Health System During the 
+COVID-19 Pandemic. Acad Med. 2020;95(8):1136-9.
+55.	The Lancet. COVID-19: protecting health-care 
+workers. Lancet. 2020;395(10228):922
