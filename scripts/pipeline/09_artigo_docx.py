@@ -21,7 +21,7 @@ for s in d.sections:
     s.page_width, s.page_height = Cm(21), Cm(29.7)
     s.top_margin = s.bottom_margin = s.left_margin = s.right_margin = Cm(2.5)
 n = d.styles["Normal"]
-n.font.name = "Times New Roman"; n.font.size = Pt(11)
+n.font.name = "Times New Roman"; n.font.size = Pt(12)
 n.paragraph_format.space_after = Pt(0)
 n.paragraph_format.line_spacing = 1.5
 
@@ -530,19 +530,26 @@ for i, texto in enumerate(CORPO):
 # ======================== REFERÊNCIAS ==========================================
 par("[[b]]Referências[[/b]]", indent=False, size=10.5, before=6, after=2)
 REFS = [
- "BRASIL. [[b]]Lei nº 8.213, de 24 de julho de 1991[[/b]]. Dispõe sobre os Planos de Benefícios da Previdência Social. Brasília, DF, 1991.",
- "BRASIL. [[b]]Lei nº 9.478, de 6 de agosto de 1997[[/b]]. Dispõe sobre a política energética nacional. Brasília, DF, 1997.",
+ "BRASIL. [[b]]Lei nº 8.213, de 24 de julho de 1991[[/b]]. Dispõe sobre os Planos de Benefícios da Previdência Social. Brasília, DF, 1991. "
+ "Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm. Acesso em: 19 jul. 2026.",
+ "BRASIL. [[b]]Lei nº 9.478, de 6 de agosto de 1997[[/b]]. Dispõe sobre a política energética nacional. Brasília, DF, 1997. "
+ "Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l9478.htm. Acesso em: 19 jul. 2026.",
  "FRANÇA, Maria Júlia Paiva de. O pensamento de Antônio Gramsci na luta pela Saúde do Trabalhador. [[b]]Revista Em Pauta: teoria social e realidade contemporânea[[/b]], "
- "Rio de Janeiro, v. 11, n. 32, p. 89-113, 2014. DOI: 10.12957/rep.2013.10157.",
+ "Rio de Janeiro, v. 11, n. 32, p. 89-113, 2014. DOI: 10.12957/rep.2013.10157. "
+ "Disponível em: https://doi.org/10.12957/rep.2013.10157. Acesso em: 19 jul. 2026.",
  "MARTINS, Samuel; HASENCLEVER, Lia; MIRANDA, Caroline. A gestão da saúde à luz da instabilidade de financiamento e das propostas de governo. "
- "[[b]]Cadernos do Desenvolvimento Fluminense[[/b]], Rio de Janeiro, n. 27, 2024. DOI: 10.12957/cdf.2024.87352.",
+ "[[b]]Cadernos do Desenvolvimento Fluminense[[/b]], Rio de Janeiro, n. 27, 2024. DOI: 10.12957/cdf.2024.87352. "
+ "Disponível em: https://doi.org/10.12957/cdf.2024.87352. Acesso em: 19 jul. 2026.",
  "SILVA, J. E. M. da; HASENCLEVER, L. Ciclo do petróleo e desenvolvimento socioeconômico no município de Campos dos Goytacazes "
- "(1999-2014). [[b]]Desenvolvimento em Questão[[/b]], Ijuí, v. 17, n. 46, p. 314-332, 2019. DOI: 10.21527/2237-6453.2019.46.314-332.",
+ "(1999-2014). [[b]]Desenvolvimento em Questão[[/b]], Ijuí, v. 17, n. 46, p. 314-332, 2019. DOI: 10.21527/2237-6453.2019.46.314-332. "
+ "Disponível em: https://doi.org/10.21527/2237-6453.2019.46.314-332. Acesso em: 19 jul. 2026.",
  "SOUZA, D. O.; MELO, A. I. S. C.; VASCONCELLOS, L. C. F. Saúde do(s) trabalhador(es): do 'campo' à 'questão' ou do sujeito sanitário ao sujeito revolucionário. "
- "[[b]]Saúde em Debate[[/b]], Rio de Janeiro, v. 41, n. 113, p. 591-604, abr-jun 2017. DOI: 10.1590/0103-1104201711313.",
+ "[[b]]Saúde em Debate[[/b]], Rio de Janeiro, v. 41, n. 113, p. 591-604, abr-jun 2017. DOI: 10.1590/0103-1104201711313. "
+ "Disponível em: https://doi.org/10.1590/0103-1104201711313. Acesso em: 19 jul. 2026.",
  "VEDOVATO, T. G.; ANDRADE, C. B.; SANTOS, D. L.; BITENCOURT, S. M.; ALMEIDA, L. P. de; SAMPAIO, J. F. da S. Trabalhadores(as) da "
  "saúde e a COVID-19: condições de trabalho à deriva? [[b]]Revista Brasileira de Saúde Ocupacional[[/b]], São Paulo, v. 46, e1, 2021. "
- "DOI: 10.1590/2317-6369000028520.",
+ "DOI: 10.1590/2317-6369000028520. "
+ "Disponível em: https://doi.org/10.1590/2317-6369000028520. Acesso em: 19 jul. 2026.",
 ]
 for r in REFS:
     par(r, indent=False, just=False, size=8, after=1)
