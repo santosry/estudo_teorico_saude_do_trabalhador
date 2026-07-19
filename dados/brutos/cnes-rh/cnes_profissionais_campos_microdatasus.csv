@@ -1,0 +1,2094 @@
+"cbo_codigo","n_profissionais","ano","competencia","universo","categoria_estudo"
+"111220",1,2018,"2018-12","apoio_ou_outra",NA
+"121010",1,2018,"2018-12","apoio_ou_outra",NA
+"123105",11,2018,"2018-12","apoio_ou_outra",NA
+"123205",1,2018,"2018-12","apoio_ou_outra",NA
+"123605",3,2018,"2018-12","apoio_ou_outra",NA
+"123805",1,2018,"2018-12","apoio_ou_outra",NA
+"131205",30,2018,"2018-12","apoio_ou_outra",NA
+"131210",119,2018,"2018-12","apoio_ou_outra",NA
+"142105",12,2018,"2018-12","apoio_ou_outra",NA
+"142115",1,2018,"2018-12","apoio_ou_outra",NA
+"142205",1,2018,"2018-12","apoio_ou_outra",NA
+"142210",2,2018,"2018-12","apoio_ou_outra",NA
+"142340",2,2018,"2018-12","apoio_ou_outra",NA
+"142415",2,2018,"2018-12","apoio_ou_outra",NA
+"142530",1,2018,"2018-12","apoio_ou_outra",NA
+"203005",4,2018,"2018-12","apoio_ou_outra",NA
+"212310",1,2018,"2018-12","apoio_ou_outra",NA
+"212405",4,2018,"2018-12","apoio_ou_outra",NA
+"212415",1,2018,"2018-12","apoio_ou_outra",NA
+"213150",5,2018,"2018-12","apoio_ou_outra",NA
+"213155",5,2018,"2018-12","apoio_ou_outra",NA
+"214105",1,2018,"2018-12","apoio_ou_outra",NA
+"214325",1,2018,"2018-12","apoio_ou_outra",NA
+"214915",3,2018,"2018-12","apoio_ou_outra",NA
+"214935",1,2018,"2018-12","apoio_ou_outra",NA
+"221105",47,2018,"2018-12","multiprofissional","Biologia"
+"221205",1,2018,"2018-12","multiprofissional","Biomedicina"
+"2231F9",9,2018,"2018-12","principal","Medicina"
+"2231G1",1,2018,"2018-12","principal","Medicina"
+"223204",1,2018,"2018-12","principal","Odontologia e saúde bucal"
+"223208",572,2018,"2018-12","principal","Odontologia e saúde bucal"
+"223212",64,2018,"2018-12","principal","Odontologia e saúde bucal"
+"223220",2,2018,"2018-12","principal","Odontologia e saúde bucal"
+"223224",3,2018,"2018-12","principal","Odontologia e saúde bucal"
+"223228",2,2018,"2018-12","principal","Odontologia e saúde bucal"
+"223236",39,2018,"2018-12","principal","Odontologia e saúde bucal"
+"223240",58,2018,"2018-12","principal","Odontologia e saúde bucal"
+"223244",1,2018,"2018-12","principal","Odontologia e saúde bucal"
+"223248",33,2018,"2018-12","principal","Odontologia e saúde bucal"
+"223252",2,2018,"2018-12","principal","Odontologia e saúde bucal"
+"223256",45,2018,"2018-12","principal","Odontologia e saúde bucal"
+"223260",17,2018,"2018-12","principal","Odontologia e saúde bucal"
+"223268",44,2018,"2018-12","principal","Odontologia e saúde bucal"
+"223272",2,2018,"2018-12","principal","Odontologia e saúde bucal"
+"223280",1,2018,"2018-12","principal","Odontologia e saúde bucal"
+"223288",5,2018,"2018-12","principal","Odontologia e saúde bucal"
+"223293",18,2018,"2018-12","principal","Odontologia e saúde bucal"
+"223305",14,2018,"2018-12","apoio_ou_outra",NA
+"223405",125,2018,"2018-12","principal","Farmácia"
+"223415",35,2018,"2018-12","principal","Farmácia"
+"223445",1,2018,"2018-12","principal","Farmácia"
+"223505",835,2018,"2018-12","principal","Enfermagem – enfermeiros"
+"223510",8,2018,"2018-12","principal","Enfermagem – enfermeiros"
+"223520",1,2018,"2018-12","principal","Enfermagem – enfermeiros"
+"223525",2,2018,"2018-12","principal","Enfermagem – enfermeiros"
+"223530",11,2018,"2018-12","principal","Enfermagem – enfermeiros"
+"223535",4,2018,"2018-12","principal","Enfermagem – enfermeiros"
+"223545",11,2018,"2018-12","principal","Enfermagem – enfermeiros"
+"223550",3,2018,"2018-12","principal","Enfermagem – enfermeiros"
+"223560",1,2018,"2018-12","principal","Enfermagem – enfermeiros"
+"223565",26,2018,"2018-12","principal","Enfermagem – enfermeiros"
+"223570",7,2018,"2018-12","principal","Enfermagem – enfermeiros"
+"223605",510,2018,"2018-12","principal","Fisioterapia"
+"223630",1,2018,"2018-12","principal","Fisioterapia"
+"223650",1,2018,"2018-12","principal","Fisioterapia"
+"223710",96,2018,"2018-12","principal","Nutrição"
+"223810",102,2018,"2018-12","principal","Fonoaudiologia"
+"223905",24,2018,"2018-12","apoio_ou_outra",NA
+"224105",1,2018,"2018-12","multiprofissional","Educação física"
+"224120",1,2018,"2018-12","multiprofissional","Educação física"
+"2241E1",4,2018,"2018-12","multiprofissional","Educação física"
+"225103",28,2018,"2018-12","principal","Medicina"
+"225105",1,2018,"2018-12","principal","Medicina"
+"225109",50,2018,"2018-12","principal","Medicina"
+"225110",21,2018,"2018-12","principal","Medicina"
+"225112",60,2018,"2018-12","principal","Medicina"
+"225115",36,2018,"2018-12","principal","Medicina"
+"225118",5,2018,"2018-12","principal","Medicina"
+"225120",249,2018,"2018-12","principal","Medicina"
+"225121",47,2018,"2018-12","principal","Medicina"
+"225124",469,2018,"2018-12","principal","Medicina"
+"225125",703,2018,"2018-12","principal","Medicina"
+"225127",37,2018,"2018-12","principal","Medicina"
+"225133",61,2018,"2018-12","principal","Medicina"
+"225135",89,2018,"2018-12","principal","Medicina"
+"225136",37,2018,"2018-12","principal","Medicina"
+"225139",2,2018,"2018-12","principal","Medicina"
+"225140",32,2018,"2018-12","principal","Medicina"
+"225142",24,2018,"2018-12","principal","Medicina"
+"225148",11,2018,"2018-12","principal","Medicina"
+"225150",110,2018,"2018-12","principal","Medicina"
+"225151",153,2018,"2018-12","principal","Medicina"
+"225155",73,2018,"2018-12","principal","Medicina"
+"225160",3,2018,"2018-12","principal","Medicina"
+"225165",74,2018,"2018-12","principal","Medicina"
+"225175",1,2018,"2018-12","principal","Medicina"
+"225180",25,2018,"2018-12","principal","Medicina"
+"225185",24,2018,"2018-12","principal","Medicina"
+"225195",4,2018,"2018-12","principal","Medicina"
+"225203",36,2018,"2018-12","principal","Medicina"
+"225210",33,2018,"2018-12","principal","Medicina"
+"225215",11,2018,"2018-12","principal","Medicina"
+"225220",11,2018,"2018-12","principal","Medicina"
+"225225",188,2018,"2018-12","principal","Medicina"
+"225230",19,2018,"2018-12","principal","Medicina"
+"225235",35,2018,"2018-12","principal","Medicina"
+"225240",24,2018,"2018-12","principal","Medicina"
+"225250",352,2018,"2018-12","principal","Medicina"
+"225255",27,2018,"2018-12","principal","Medicina"
+"225260",39,2018,"2018-12","principal","Medicina"
+"225265",120,2018,"2018-12","principal","Medicina"
+"225270",170,2018,"2018-12","principal","Medicina"
+"225275",72,2018,"2018-12","principal","Medicina"
+"225280",42,2018,"2018-12","principal","Medicina"
+"225285",95,2018,"2018-12","principal","Medicina"
+"225290",16,2018,"2018-12","principal","Medicina"
+"225295",1,2018,"2018-12","principal","Medicina"
+"225305",5,2018,"2018-12","principal","Medicina"
+"225310",20,2018,"2018-12","principal","Medicina"
+"225315",5,2018,"2018-12","principal","Medicina"
+"225320",168,2018,"2018-12","principal","Medicina"
+"225325",2,2018,"2018-12","principal","Medicina"
+"225330",10,2018,"2018-12","principal","Medicina"
+"225335",8,2018,"2018-12","principal","Medicina"
+"225340",6,2018,"2018-12","principal","Medicina"
+"225345",2,2018,"2018-12","principal","Medicina"
+"226305",6,2018,"2018-12","apoio_ou_outra",NA
+"226310",1,2018,"2018-12","apoio_ou_outra",NA
+"232120",1,2018,"2018-12","apoio_ou_outra",NA
+"234410",2,2018,"2018-12","apoio_ou_outra",NA
+"239405",3,2018,"2018-12","apoio_ou_outra",NA
+"239415",4,2018,"2018-12","apoio_ou_outra",NA
+"239425",3,2018,"2018-12","apoio_ou_outra",NA
+"241005",1,2018,"2018-12","apoio_ou_outra",NA
+"251505",2,2018,"2018-12","multiprofissional","Psicologia"
+"251510",214,2018,"2018-12","multiprofissional","Psicologia"
+"251520",12,2018,"2018-12","multiprofissional","Psicologia"
+"251540",1,2018,"2018-12","multiprofissional","Psicologia"
+"251545",3,2018,"2018-12","multiprofissional","Psicologia"
+"251605",205,2018,"2018-12","multiprofissional","Serviço social"
+"252105",20,2018,"2018-12","apoio_ou_outra",NA
+"252205",4,2018,"2018-12","apoio_ou_outra",NA
+"252210",4,2018,"2018-12","apoio_ou_outra",NA
+"252305",10,2018,"2018-12","apoio_ou_outra",NA
+"252405",2,2018,"2018-12","apoio_ou_outra",NA
+"254310",1,2018,"2018-12","apoio_ou_outra",NA
+"261205",1,2018,"2018-12","apoio_ou_outra",NA
+"261305",1,2018,"2018-12","apoio_ou_outra",NA
+"301110",6,2018,"2018-12","apoio_ou_outra",NA
+"313105",2,2018,"2018-12","apoio_ou_outra",NA
+"313120",1,2018,"2018-12","apoio_ou_outra",NA
+"313205",1,2018,"2018-12","apoio_ou_outra",NA
+"313220",5,2018,"2018-12","apoio_ou_outra",NA
+"313415",1,2018,"2018-12","apoio_ou_outra",NA
+"317110",1,2018,"2018-12","apoio_ou_outra",NA
+"317205",2,2018,"2018-12","apoio_ou_outra",NA
+"317210",5,2018,"2018-12","apoio_ou_outra",NA
+"322105",1,2018,"2018-12","apoio_ou_outra",NA
+"322110",2,2018,"2018-12","apoio_ou_outra",NA
+"322205",2354,2018,"2018-12","principal","Enfermagem – técnicos e auxiliares"
+"322210",9,2018,"2018-12","principal","Enfermagem – técnicos e auxiliares"
+"322225",31,2018,"2018-12","principal","Enfermagem – técnicos e auxiliares"
+"322230",1028,2018,"2018-12","principal","Enfermagem – técnicos e auxiliares"
+"322235",2,2018,"2018-12","principal","Enfermagem – técnicos e auxiliares"
+"322245",33,2018,"2018-12","principal","Enfermagem – técnicos e auxiliares"
+"322405",11,2018,"2018-12","principal","Odontologia e saúde bucal"
+"322415",117,2018,"2018-12","principal","Odontologia e saúde bucal"
+"322430",10,2018,"2018-12","principal","Odontologia e saúde bucal"
+"322605",11,2018,"2018-12","principal","Instrumentação cirúrgica"
+"324115",211,2018,"2018-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324120",18,2018,"2018-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324205",215,2018,"2018-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324210",6,2018,"2018-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324220",3,2018,"2018-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"325105",6,2018,"2018-12","principal","Farmácia – técnicos e auxiliares"
+"325110",5,2018,"2018-12","principal","Farmácia – técnicos e auxiliares"
+"325115",110,2018,"2018-12","principal","Farmácia – técnicos e auxiliares"
+"325305",8,2018,"2018-12","apoio_ou_outra",NA
+"351105",1,2018,"2018-12","apoio_ou_outra",NA
+"351605",19,2018,"2018-12","apoio_ou_outra",NA
+"352205",2,2018,"2018-12","apoio_ou_outra",NA
+"352210",20,2018,"2018-12","apoio_ou_outra",NA
+"354205",1,2018,"2018-12","apoio_ou_outra",NA
+"371105",2,2018,"2018-12","apoio_ou_outra",NA
+"391205",1,2018,"2018-12","apoio_ou_outra",NA
+"391210",1,2018,"2018-12","apoio_ou_outra",NA
+"410105",16,2018,"2018-12","apoio_ou_outra",NA
+"410220",2,2018,"2018-12","apoio_ou_outra",NA
+"410235",3,2018,"2018-12","apoio_ou_outra",NA
+"411005",269,2018,"2018-12","apoio_ou_outra",NA
+"411010",351,2018,"2018-12","apoio_ou_outra",NA
+"412110",40,2018,"2018-12","apoio_ou_outra",NA
+"413110",2,2018,"2018-12","apoio_ou_outra",NA
+"413115",30,2018,"2018-12","apoio_ou_outra",NA
+"414105",3,2018,"2018-12","apoio_ou_outra",NA
+"415105",2,2018,"2018-12","apoio_ou_outra",NA
+"420130",6,2018,"2018-12","apoio_ou_outra",NA
+"422105",91,2018,"2018-12","apoio_ou_outra",NA
+"422110",147,2018,"2018-12","apoio_ou_outra",NA
+"422205",51,2018,"2018-12","apoio_ou_outra",NA
+"422220",4,2018,"2018-12","apoio_ou_outra",NA
+"513115",1,2018,"2018-12","apoio_ou_outra",NA
+"513220",4,2018,"2018-12","apoio_ou_outra",NA
+"513405",1,2018,"2018-12","apoio_ou_outra",NA
+"513425",2,2018,"2018-12","apoio_ou_outra",NA
+"513430",9,2018,"2018-12","apoio_ou_outra",NA
+"514225",1,2018,"2018-12","apoio_ou_outra",NA
+"514320",81,2018,"2018-12","apoio_ou_outra",NA
+"515105",215,2018,"2018-12","principal","Agentes comunitários de saúde e afins"
+"515110",8,2018,"2018-12","principal","Agentes comunitários de saúde e afins"
+"515120",4,2018,"2018-12","principal","Agentes comunitários de saúde e afins"
+"515135",14,2018,"2018-12","principal","Agentes comunitários de saúde e afins"
+"515140",432,2018,"2018-12","principal","Agentes comunitários de saúde e afins"
+"515210",12,2018,"2018-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"515215",20,2018,"2018-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"516220",1,2018,"2018-12","apoio_ou_outra",NA
+"516345",2,2018,"2018-12","apoio_ou_outra",NA
+"517310",10,2018,"2018-12","apoio_ou_outra",NA
+"517330",1,2018,"2018-12","apoio_ou_outra",NA
+"519305",1,2018,"2018-12","apoio_ou_outra",NA
+"521130",23,2018,"2018-12","apoio_ou_outra",NA
+"715610",1,2018,"2018-12","apoio_ou_outra",NA
+"715615",1,2018,"2018-12","apoio_ou_outra",NA
+"716610",1,2018,"2018-12","apoio_ou_outra",NA
+"763215",1,2018,"2018-12","apoio_ou_outra",NA
+"766150",3,2018,"2018-12","apoio_ou_outra",NA
+"766420",2,2018,"2018-12","apoio_ou_outra",NA
+"782305",8,2018,"2018-12","apoio_ou_outra",NA
+"782310",2,2018,"2018-12","apoio_ou_outra",NA
+"782320",243,2018,"2018-12","apoio_ou_outra",NA
+"862120",1,2018,"2018-12","apoio_ou_outra",NA
+"915305",1,2018,"2018-12","apoio_ou_outra",NA
+"951105",2,2018,"2018-12","apoio_ou_outra",NA
+"111220",1,2019,"2019-12","apoio_ou_outra",NA
+"121010",2,2019,"2019-12","apoio_ou_outra",NA
+"123105",12,2019,"2019-12","apoio_ou_outra",NA
+"123205",1,2019,"2019-12","apoio_ou_outra",NA
+"123605",3,2019,"2019-12","apoio_ou_outra",NA
+"123805",1,2019,"2019-12","apoio_ou_outra",NA
+"131205",31,2019,"2019-12","apoio_ou_outra",NA
+"131210",126,2019,"2019-12","apoio_ou_outra",NA
+"131310",10,2019,"2019-12","apoio_ou_outra",NA
+"142105",10,2019,"2019-12","apoio_ou_outra",NA
+"142115",1,2019,"2019-12","apoio_ou_outra",NA
+"142205",1,2019,"2019-12","apoio_ou_outra",NA
+"142210",2,2019,"2019-12","apoio_ou_outra",NA
+"142340",1,2019,"2019-12","apoio_ou_outra",NA
+"142415",2,2019,"2019-12","apoio_ou_outra",NA
+"142520",1,2019,"2019-12","apoio_ou_outra",NA
+"142530",1,2019,"2019-12","apoio_ou_outra",NA
+"203005",4,2019,"2019-12","apoio_ou_outra",NA
+"212310",1,2019,"2019-12","apoio_ou_outra",NA
+"212405",4,2019,"2019-12","apoio_ou_outra",NA
+"212415",1,2019,"2019-12","apoio_ou_outra",NA
+"212420",1,2019,"2019-12","apoio_ou_outra",NA
+"213150",3,2019,"2019-12","apoio_ou_outra",NA
+"213155",4,2019,"2019-12","apoio_ou_outra",NA
+"214105",1,2019,"2019-12","apoio_ou_outra",NA
+"214325",1,2019,"2019-12","apoio_ou_outra",NA
+"214915",4,2019,"2019-12","apoio_ou_outra",NA
+"221105",47,2019,"2019-12","multiprofissional","Biologia"
+"221205",1,2019,"2019-12","multiprofissional","Biomedicina"
+"2231F9",23,2019,"2019-12","principal","Medicina"
+"2231G1",1,2019,"2019-12","principal","Medicina"
+"223204",1,2019,"2019-12","principal","Odontologia e saúde bucal"
+"223208",580,2019,"2019-12","principal","Odontologia e saúde bucal"
+"223212",67,2019,"2019-12","principal","Odontologia e saúde bucal"
+"223220",2,2019,"2019-12","principal","Odontologia e saúde bucal"
+"223224",3,2019,"2019-12","principal","Odontologia e saúde bucal"
+"223228",1,2019,"2019-12","principal","Odontologia e saúde bucal"
+"223236",41,2019,"2019-12","principal","Odontologia e saúde bucal"
+"223240",59,2019,"2019-12","principal","Odontologia e saúde bucal"
+"223244",1,2019,"2019-12","principal","Odontologia e saúde bucal"
+"223248",33,2019,"2019-12","principal","Odontologia e saúde bucal"
+"223252",1,2019,"2019-12","principal","Odontologia e saúde bucal"
+"223256",42,2019,"2019-12","principal","Odontologia e saúde bucal"
+"223260",17,2019,"2019-12","principal","Odontologia e saúde bucal"
+"223268",46,2019,"2019-12","principal","Odontologia e saúde bucal"
+"223272",2,2019,"2019-12","principal","Odontologia e saúde bucal"
+"223280",1,2019,"2019-12","principal","Odontologia e saúde bucal"
+"223288",5,2019,"2019-12","principal","Odontologia e saúde bucal"
+"223293",17,2019,"2019-12","principal","Odontologia e saúde bucal"
+"223305",14,2019,"2019-12","apoio_ou_outra",NA
+"223405",128,2019,"2019-12","principal","Farmácia"
+"223415",37,2019,"2019-12","principal","Farmácia"
+"223445",2,2019,"2019-12","principal","Farmácia"
+"223505",841,2019,"2019-12","principal","Enfermagem – enfermeiros"
+"223510",11,2019,"2019-12","principal","Enfermagem – enfermeiros"
+"223520",1,2019,"2019-12","principal","Enfermagem – enfermeiros"
+"223525",28,2019,"2019-12","principal","Enfermagem – enfermeiros"
+"223530",11,2019,"2019-12","principal","Enfermagem – enfermeiros"
+"223535",4,2019,"2019-12","principal","Enfermagem – enfermeiros"
+"223545",11,2019,"2019-12","principal","Enfermagem – enfermeiros"
+"223550",3,2019,"2019-12","principal","Enfermagem – enfermeiros"
+"223560",1,2019,"2019-12","principal","Enfermagem – enfermeiros"
+"223565",25,2019,"2019-12","principal","Enfermagem – enfermeiros"
+"223570",8,2019,"2019-12","principal","Enfermagem – enfermeiros"
+"223605",548,2019,"2019-12","principal","Fisioterapia"
+"223630",1,2019,"2019-12","principal","Fisioterapia"
+"223650",1,2019,"2019-12","principal","Fisioterapia"
+"223710",120,2019,"2019-12","principal","Nutrição"
+"223810",104,2019,"2019-12","principal","Fonoaudiologia"
+"223905",24,2019,"2019-12","apoio_ou_outra",NA
+"224105",1,2019,"2019-12","multiprofissional","Educação física"
+"224120",2,2019,"2019-12","multiprofissional","Educação física"
+"2241E1",5,2019,"2019-12","multiprofissional","Educação física"
+"225103",27,2019,"2019-12","principal","Medicina"
+"225105",1,2019,"2019-12","principal","Medicina"
+"225109",51,2019,"2019-12","principal","Medicina"
+"225110",23,2019,"2019-12","principal","Medicina"
+"225112",64,2019,"2019-12","principal","Medicina"
+"225115",37,2019,"2019-12","principal","Medicina"
+"225118",6,2019,"2019-12","principal","Medicina"
+"225120",258,2019,"2019-12","principal","Medicina"
+"225121",43,2019,"2019-12","principal","Medicina"
+"225124",490,2019,"2019-12","principal","Medicina"
+"225125",718,2019,"2019-12","principal","Medicina"
+"225127",37,2019,"2019-12","principal","Medicina"
+"225130",1,2019,"2019-12","principal","Medicina"
+"225133",55,2019,"2019-12","principal","Medicina"
+"225135",92,2019,"2019-12","principal","Medicina"
+"225136",38,2019,"2019-12","principal","Medicina"
+"225139",2,2019,"2019-12","principal","Medicina"
+"225140",38,2019,"2019-12","principal","Medicina"
+"225142",16,2019,"2019-12","principal","Medicina"
+"225148",12,2019,"2019-12","principal","Medicina"
+"225150",119,2019,"2019-12","principal","Medicina"
+"225151",159,2019,"2019-12","principal","Medicina"
+"225155",78,2019,"2019-12","principal","Medicina"
+"225160",4,2019,"2019-12","principal","Medicina"
+"225165",84,2019,"2019-12","principal","Medicina"
+"225175",1,2019,"2019-12","principal","Medicina"
+"225180",24,2019,"2019-12","principal","Medicina"
+"225185",23,2019,"2019-12","principal","Medicina"
+"225195",4,2019,"2019-12","principal","Medicina"
+"225203",39,2019,"2019-12","principal","Medicina"
+"225210",34,2019,"2019-12","principal","Medicina"
+"225215",11,2019,"2019-12","principal","Medicina"
+"225220",12,2019,"2019-12","principal","Medicina"
+"225225",198,2019,"2019-12","principal","Medicina"
+"225230",24,2019,"2019-12","principal","Medicina"
+"225235",34,2019,"2019-12","principal","Medicina"
+"225240",21,2019,"2019-12","principal","Medicina"
+"225250",384,2019,"2019-12","principal","Medicina"
+"225255",26,2019,"2019-12","principal","Medicina"
+"225260",39,2019,"2019-12","principal","Medicina"
+"225265",122,2019,"2019-12","principal","Medicina"
+"225270",167,2019,"2019-12","principal","Medicina"
+"225275",76,2019,"2019-12","principal","Medicina"
+"225280",45,2019,"2019-12","principal","Medicina"
+"225285",111,2019,"2019-12","principal","Medicina"
+"225290",16,2019,"2019-12","principal","Medicina"
+"225295",1,2019,"2019-12","principal","Medicina"
+"225305",5,2019,"2019-12","principal","Medicina"
+"225310",19,2019,"2019-12","principal","Medicina"
+"225315",5,2019,"2019-12","principal","Medicina"
+"225320",182,2019,"2019-12","principal","Medicina"
+"225325",2,2019,"2019-12","principal","Medicina"
+"225330",10,2019,"2019-12","principal","Medicina"
+"225335",8,2019,"2019-12","principal","Medicina"
+"225340",7,2019,"2019-12","principal","Medicina"
+"225345",2,2019,"2019-12","principal","Medicina"
+"226305",6,2019,"2019-12","apoio_ou_outra",NA
+"226310",1,2019,"2019-12","apoio_ou_outra",NA
+"232120",1,2019,"2019-12","apoio_ou_outra",NA
+"234410",1,2019,"2019-12","apoio_ou_outra",NA
+"239405",3,2019,"2019-12","apoio_ou_outra",NA
+"239415",4,2019,"2019-12","apoio_ou_outra",NA
+"239425",6,2019,"2019-12","apoio_ou_outra",NA
+"241005",1,2019,"2019-12","apoio_ou_outra",NA
+"251505",2,2019,"2019-12","multiprofissional","Psicologia"
+"251510",239,2019,"2019-12","multiprofissional","Psicologia"
+"251520",12,2019,"2019-12","multiprofissional","Psicologia"
+"251530",1,2019,"2019-12","multiprofissional","Psicologia"
+"251540",1,2019,"2019-12","multiprofissional","Psicologia"
+"251545",3,2019,"2019-12","multiprofissional","Psicologia"
+"251605",214,2019,"2019-12","multiprofissional","Serviço social"
+"252105",19,2019,"2019-12","apoio_ou_outra",NA
+"252205",6,2019,"2019-12","apoio_ou_outra",NA
+"252210",4,2019,"2019-12","apoio_ou_outra",NA
+"252305",9,2019,"2019-12","apoio_ou_outra",NA
+"252405",2,2019,"2019-12","apoio_ou_outra",NA
+"254310",1,2019,"2019-12","apoio_ou_outra",NA
+"261205",1,2019,"2019-12","apoio_ou_outra",NA
+"261305",2,2019,"2019-12","apoio_ou_outra",NA
+"301110",5,2019,"2019-12","apoio_ou_outra",NA
+"313105",2,2019,"2019-12","apoio_ou_outra",NA
+"313120",1,2019,"2019-12","apoio_ou_outra",NA
+"313205",1,2019,"2019-12","apoio_ou_outra",NA
+"313220",5,2019,"2019-12","apoio_ou_outra",NA
+"313415",1,2019,"2019-12","apoio_ou_outra",NA
+"317110",1,2019,"2019-12","apoio_ou_outra",NA
+"317205",2,2019,"2019-12","apoio_ou_outra",NA
+"317210",5,2019,"2019-12","apoio_ou_outra",NA
+"322105",1,2019,"2019-12","apoio_ou_outra",NA
+"322110",2,2019,"2019-12","apoio_ou_outra",NA
+"322205",2384,2019,"2019-12","principal","Enfermagem – técnicos e auxiliares"
+"322210",8,2019,"2019-12","principal","Enfermagem – técnicos e auxiliares"
+"322225",44,2019,"2019-12","principal","Enfermagem – técnicos e auxiliares"
+"322230",987,2019,"2019-12","principal","Enfermagem – técnicos e auxiliares"
+"322235",2,2019,"2019-12","principal","Enfermagem – técnicos e auxiliares"
+"322245",32,2019,"2019-12","principal","Enfermagem – técnicos e auxiliares"
+"322405",10,2019,"2019-12","principal","Odontologia e saúde bucal"
+"322415",125,2019,"2019-12","principal","Odontologia e saúde bucal"
+"322430",10,2019,"2019-12","principal","Odontologia e saúde bucal"
+"322605",9,2019,"2019-12","principal","Instrumentação cirúrgica"
+"324115",223,2019,"2019-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324120",10,2019,"2019-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324205",251,2019,"2019-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324210",6,2019,"2019-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324220",7,2019,"2019-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"325105",9,2019,"2019-12","principal","Farmácia – técnicos e auxiliares"
+"325110",5,2019,"2019-12","principal","Farmácia – técnicos e auxiliares"
+"325115",119,2019,"2019-12","principal","Farmácia – técnicos e auxiliares"
+"325205",3,2019,"2019-12","apoio_ou_outra",NA
+"325305",9,2019,"2019-12","apoio_ou_outra",NA
+"351105",1,2019,"2019-12","apoio_ou_outra",NA
+"351605",20,2019,"2019-12","apoio_ou_outra",NA
+"352205",2,2019,"2019-12","apoio_ou_outra",NA
+"352210",20,2019,"2019-12","apoio_ou_outra",NA
+"354205",1,2019,"2019-12","apoio_ou_outra",NA
+"371105",2,2019,"2019-12","apoio_ou_outra",NA
+"391205",1,2019,"2019-12","apoio_ou_outra",NA
+"391210",6,2019,"2019-12","apoio_ou_outra",NA
+"410105",16,2019,"2019-12","apoio_ou_outra",NA
+"410220",2,2019,"2019-12","apoio_ou_outra",NA
+"410235",3,2019,"2019-12","apoio_ou_outra",NA
+"411005",267,2019,"2019-12","apoio_ou_outra",NA
+"411010",371,2019,"2019-12","apoio_ou_outra",NA
+"411030",3,2019,"2019-12","apoio_ou_outra",NA
+"412110",43,2019,"2019-12","apoio_ou_outra",NA
+"412205",1,2019,"2019-12","apoio_ou_outra",NA
+"413110",4,2019,"2019-12","apoio_ou_outra",NA
+"413115",38,2019,"2019-12","apoio_ou_outra",NA
+"414105",4,2019,"2019-12","apoio_ou_outra",NA
+"415105",3,2019,"2019-12","apoio_ou_outra",NA
+"420130",6,2019,"2019-12","apoio_ou_outra",NA
+"422105",108,2019,"2019-12","apoio_ou_outra",NA
+"422110",158,2019,"2019-12","apoio_ou_outra",NA
+"422205",50,2019,"2019-12","apoio_ou_outra",NA
+"422220",4,2019,"2019-12","apoio_ou_outra",NA
+"512115",1,2019,"2019-12","apoio_ou_outra",NA
+"513115",3,2019,"2019-12","apoio_ou_outra",NA
+"513220",4,2019,"2019-12","apoio_ou_outra",NA
+"513405",1,2019,"2019-12","apoio_ou_outra",NA
+"513425",2,2019,"2019-12","apoio_ou_outra",NA
+"513430",8,2019,"2019-12","apoio_ou_outra",NA
+"513505",2,2019,"2019-12","apoio_ou_outra",NA
+"514225",5,2019,"2019-12","apoio_ou_outra",NA
+"514230",1,2019,"2019-12","apoio_ou_outra",NA
+"514320",84,2019,"2019-12","apoio_ou_outra",NA
+"515105",221,2019,"2019-12","principal","Agentes comunitários de saúde e afins"
+"515110",10,2019,"2019-12","principal","Agentes comunitários de saúde e afins"
+"515120",2,2019,"2019-12","principal","Agentes comunitários de saúde e afins"
+"515135",14,2019,"2019-12","principal","Agentes comunitários de saúde e afins"
+"515140",479,2019,"2019-12","principal","Agentes comunitários de saúde e afins"
+"515210",11,2019,"2019-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"515215",20,2019,"2019-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"516210",5,2019,"2019-12","apoio_ou_outra",NA
+"516220",1,2019,"2019-12","apoio_ou_outra",NA
+"516345",5,2019,"2019-12","apoio_ou_outra",NA
+"517310",10,2019,"2019-12","apoio_ou_outra",NA
+"517330",3,2019,"2019-12","apoio_ou_outra",NA
+"519305",1,2019,"2019-12","apoio_ou_outra",NA
+"521130",30,2019,"2019-12","apoio_ou_outra",NA
+"715610",1,2019,"2019-12","apoio_ou_outra",NA
+"715615",1,2019,"2019-12","apoio_ou_outra",NA
+"716610",1,2019,"2019-12","apoio_ou_outra",NA
+"763215",1,2019,"2019-12","apoio_ou_outra",NA
+"766150",3,2019,"2019-12","apoio_ou_outra",NA
+"766420",2,2019,"2019-12","apoio_ou_outra",NA
+"782305",13,2019,"2019-12","apoio_ou_outra",NA
+"782310",2,2019,"2019-12","apoio_ou_outra",NA
+"782320",229,2019,"2019-12","apoio_ou_outra",NA
+"784205",6,2019,"2019-12","apoio_ou_outra",NA
+"840105",2,2019,"2019-12","apoio_ou_outra",NA
+"862120",1,2019,"2019-12","apoio_ou_outra",NA
+"915305",1,2019,"2019-12","apoio_ou_outra",NA
+"951105",2,2019,"2019-12","apoio_ou_outra",NA
+"111220",2,2020,"2020-12","apoio_ou_outra",NA
+"121010",2,2020,"2020-12","apoio_ou_outra",NA
+"123105",11,2020,"2020-12","apoio_ou_outra",NA
+"123115",1,2020,"2020-12","apoio_ou_outra",NA
+"123605",3,2020,"2020-12","apoio_ou_outra",NA
+"123805",1,2020,"2020-12","apoio_ou_outra",NA
+"131205",30,2020,"2020-12","apoio_ou_outra",NA
+"131210",129,2020,"2020-12","apoio_ou_outra",NA
+"131310",10,2020,"2020-12","apoio_ou_outra",NA
+"142105",12,2020,"2020-12","apoio_ou_outra",NA
+"142115",1,2020,"2020-12","apoio_ou_outra",NA
+"142205",1,2020,"2020-12","apoio_ou_outra",NA
+"142210",2,2020,"2020-12","apoio_ou_outra",NA
+"142415",2,2020,"2020-12","apoio_ou_outra",NA
+"142520",1,2020,"2020-12","apoio_ou_outra",NA
+"203005",4,2020,"2020-12","apoio_ou_outra",NA
+"212310",1,2020,"2020-12","apoio_ou_outra",NA
+"212405",4,2020,"2020-12","apoio_ou_outra",NA
+"212415",1,2020,"2020-12","apoio_ou_outra",NA
+"212420",1,2020,"2020-12","apoio_ou_outra",NA
+"213150",3,2020,"2020-12","apoio_ou_outra",NA
+"213155",4,2020,"2020-12","apoio_ou_outra",NA
+"214105",1,2020,"2020-12","apoio_ou_outra",NA
+"214325",1,2020,"2020-12","apoio_ou_outra",NA
+"214915",4,2020,"2020-12","apoio_ou_outra",NA
+"221105",57,2020,"2020-12","multiprofissional","Biologia"
+"221205",2,2020,"2020-12","multiprofissional","Biomedicina"
+"2231F9",26,2020,"2020-12","principal","Medicina"
+"2231G1",1,2020,"2020-12","principal","Medicina"
+"223204",1,2020,"2020-12","principal","Odontologia e saúde bucal"
+"223208",587,2020,"2020-12","principal","Odontologia e saúde bucal"
+"223212",70,2020,"2020-12","principal","Odontologia e saúde bucal"
+"223220",2,2020,"2020-12","principal","Odontologia e saúde bucal"
+"223224",3,2020,"2020-12","principal","Odontologia e saúde bucal"
+"223228",1,2020,"2020-12","principal","Odontologia e saúde bucal"
+"223236",37,2020,"2020-12","principal","Odontologia e saúde bucal"
+"223240",56,2020,"2020-12","principal","Odontologia e saúde bucal"
+"223244",1,2020,"2020-12","principal","Odontologia e saúde bucal"
+"223248",36,2020,"2020-12","principal","Odontologia e saúde bucal"
+"223256",39,2020,"2020-12","principal","Odontologia e saúde bucal"
+"223260",17,2020,"2020-12","principal","Odontologia e saúde bucal"
+"223268",46,2020,"2020-12","principal","Odontologia e saúde bucal"
+"223272",2,2020,"2020-12","principal","Odontologia e saúde bucal"
+"223280",1,2020,"2020-12","principal","Odontologia e saúde bucal"
+"223288",5,2020,"2020-12","principal","Odontologia e saúde bucal"
+"223293",20,2020,"2020-12","principal","Odontologia e saúde bucal"
+"223305",13,2020,"2020-12","apoio_ou_outra",NA
+"223405",140,2020,"2020-12","principal","Farmácia"
+"223415",36,2020,"2020-12","principal","Farmácia"
+"223445",2,2020,"2020-12","principal","Farmácia"
+"223505",863,2020,"2020-12","principal","Enfermagem – enfermeiros"
+"223510",11,2020,"2020-12","principal","Enfermagem – enfermeiros"
+"223520",1,2020,"2020-12","principal","Enfermagem – enfermeiros"
+"223525",28,2020,"2020-12","principal","Enfermagem – enfermeiros"
+"223530",10,2020,"2020-12","principal","Enfermagem – enfermeiros"
+"223535",4,2020,"2020-12","principal","Enfermagem – enfermeiros"
+"223545",14,2020,"2020-12","principal","Enfermagem – enfermeiros"
+"223550",3,2020,"2020-12","principal","Enfermagem – enfermeiros"
+"223560",1,2020,"2020-12","principal","Enfermagem – enfermeiros"
+"223565",25,2020,"2020-12","principal","Enfermagem – enfermeiros"
+"223570",12,2020,"2020-12","principal","Enfermagem – enfermeiros"
+"223605",591,2020,"2020-12","principal","Fisioterapia"
+"223630",1,2020,"2020-12","principal","Fisioterapia"
+"223650",1,2020,"2020-12","principal","Fisioterapia"
+"223710",122,2020,"2020-12","principal","Nutrição"
+"223810",125,2020,"2020-12","principal","Fonoaudiologia"
+"223905",27,2020,"2020-12","apoio_ou_outra",NA
+"224105",1,2020,"2020-12","multiprofissional","Educação física"
+"224120",2,2020,"2020-12","multiprofissional","Educação física"
+"2241E1",6,2020,"2020-12","multiprofissional","Educação física"
+"225103",28,2020,"2020-12","principal","Medicina"
+"225105",1,2020,"2020-12","principal","Medicina"
+"225109",53,2020,"2020-12","principal","Medicina"
+"225110",23,2020,"2020-12","principal","Medicina"
+"225112",60,2020,"2020-12","principal","Medicina"
+"225115",37,2020,"2020-12","principal","Medicina"
+"225118",6,2020,"2020-12","principal","Medicina"
+"225120",255,2020,"2020-12","principal","Medicina"
+"225121",48,2020,"2020-12","principal","Medicina"
+"225124",471,2020,"2020-12","principal","Medicina"
+"225125",768,2020,"2020-12","principal","Medicina"
+"225127",36,2020,"2020-12","principal","Medicina"
+"225130",1,2020,"2020-12","principal","Medicina"
+"225133",59,2020,"2020-12","principal","Medicina"
+"225135",90,2020,"2020-12","principal","Medicina"
+"225136",41,2020,"2020-12","principal","Medicina"
+"225139",1,2020,"2020-12","principal","Medicina"
+"225140",36,2020,"2020-12","principal","Medicina"
+"225142",24,2020,"2020-12","principal","Medicina"
+"225148",11,2020,"2020-12","principal","Medicina"
+"225150",126,2020,"2020-12","principal","Medicina"
+"225151",159,2020,"2020-12","principal","Medicina"
+"225155",80,2020,"2020-12","principal","Medicina"
+"225160",4,2020,"2020-12","principal","Medicina"
+"225165",87,2020,"2020-12","principal","Medicina"
+"225170",1,2020,"2020-12","principal","Medicina"
+"225175",1,2020,"2020-12","principal","Medicina"
+"225180",25,2020,"2020-12","principal","Medicina"
+"225185",24,2020,"2020-12","principal","Medicina"
+"225195",4,2020,"2020-12","principal","Medicina"
+"225203",39,2020,"2020-12","principal","Medicina"
+"225210",35,2020,"2020-12","principal","Medicina"
+"225215",12,2020,"2020-12","principal","Medicina"
+"225220",12,2020,"2020-12","principal","Medicina"
+"225225",201,2020,"2020-12","principal","Medicina"
+"225230",26,2020,"2020-12","principal","Medicina"
+"225235",34,2020,"2020-12","principal","Medicina"
+"225240",20,2020,"2020-12","principal","Medicina"
+"225250",384,2020,"2020-12","principal","Medicina"
+"225255",25,2020,"2020-12","principal","Medicina"
+"225260",46,2020,"2020-12","principal","Medicina"
+"225265",124,2020,"2020-12","principal","Medicina"
+"225270",159,2020,"2020-12","principal","Medicina"
+"225275",75,2020,"2020-12","principal","Medicina"
+"225280",45,2020,"2020-12","principal","Medicina"
+"225285",104,2020,"2020-12","principal","Medicina"
+"225290",17,2020,"2020-12","principal","Medicina"
+"225295",1,2020,"2020-12","principal","Medicina"
+"225305",4,2020,"2020-12","principal","Medicina"
+"225310",22,2020,"2020-12","principal","Medicina"
+"225315",5,2020,"2020-12","principal","Medicina"
+"225320",178,2020,"2020-12","principal","Medicina"
+"225325",2,2020,"2020-12","principal","Medicina"
+"225330",11,2020,"2020-12","principal","Medicina"
+"225335",8,2020,"2020-12","principal","Medicina"
+"225340",7,2020,"2020-12","principal","Medicina"
+"225345",2,2020,"2020-12","principal","Medicina"
+"226305",6,2020,"2020-12","apoio_ou_outra",NA
+"226310",1,2020,"2020-12","apoio_ou_outra",NA
+"232120",1,2020,"2020-12","apoio_ou_outra",NA
+"239405",3,2020,"2020-12","apoio_ou_outra",NA
+"239415",4,2020,"2020-12","apoio_ou_outra",NA
+"239425",8,2020,"2020-12","apoio_ou_outra",NA
+"241005",1,2020,"2020-12","apoio_ou_outra",NA
+"251505",2,2020,"2020-12","multiprofissional","Psicologia"
+"251510",248,2020,"2020-12","multiprofissional","Psicologia"
+"251520",12,2020,"2020-12","multiprofissional","Psicologia"
+"251530",2,2020,"2020-12","multiprofissional","Psicologia"
+"251540",1,2020,"2020-12","multiprofissional","Psicologia"
+"251545",3,2020,"2020-12","multiprofissional","Psicologia"
+"251605",216,2020,"2020-12","multiprofissional","Serviço social"
+"252105",21,2020,"2020-12","apoio_ou_outra",NA
+"252205",7,2020,"2020-12","apoio_ou_outra",NA
+"252210",4,2020,"2020-12","apoio_ou_outra",NA
+"252305",9,2020,"2020-12","apoio_ou_outra",NA
+"252405",2,2020,"2020-12","apoio_ou_outra",NA
+"254310",1,2020,"2020-12","apoio_ou_outra",NA
+"261205",1,2020,"2020-12","apoio_ou_outra",NA
+"261305",2,2020,"2020-12","apoio_ou_outra",NA
+"301110",4,2020,"2020-12","apoio_ou_outra",NA
+"313105",1,2020,"2020-12","apoio_ou_outra",NA
+"313120",1,2020,"2020-12","apoio_ou_outra",NA
+"313205",1,2020,"2020-12","apoio_ou_outra",NA
+"313220",6,2020,"2020-12","apoio_ou_outra",NA
+"313415",1,2020,"2020-12","apoio_ou_outra",NA
+"317110",1,2020,"2020-12","apoio_ou_outra",NA
+"317205",2,2020,"2020-12","apoio_ou_outra",NA
+"317210",2,2020,"2020-12","apoio_ou_outra",NA
+"322105",1,2020,"2020-12","apoio_ou_outra",NA
+"322110",2,2020,"2020-12","apoio_ou_outra",NA
+"322205",2880,2020,"2020-12","principal","Enfermagem – técnicos e auxiliares"
+"322210",8,2020,"2020-12","principal","Enfermagem – técnicos e auxiliares"
+"322225",53,2020,"2020-12","principal","Enfermagem – técnicos e auxiliares"
+"322230",983,2020,"2020-12","principal","Enfermagem – técnicos e auxiliares"
+"322235",2,2020,"2020-12","principal","Enfermagem – técnicos e auxiliares"
+"322245",35,2020,"2020-12","principal","Enfermagem – técnicos e auxiliares"
+"322405",9,2020,"2020-12","principal","Odontologia e saúde bucal"
+"322415",122,2020,"2020-12","principal","Odontologia e saúde bucal"
+"322430",13,2020,"2020-12","principal","Odontologia e saúde bucal"
+"322605",9,2020,"2020-12","principal","Instrumentação cirúrgica"
+"324115",217,2020,"2020-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324120",10,2020,"2020-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324205",251,2020,"2020-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324210",18,2020,"2020-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324220",9,2020,"2020-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"325105",7,2020,"2020-12","principal","Farmácia – técnicos e auxiliares"
+"325110",4,2020,"2020-12","principal","Farmácia – técnicos e auxiliares"
+"325115",123,2020,"2020-12","principal","Farmácia – técnicos e auxiliares"
+"325205",3,2020,"2020-12","apoio_ou_outra",NA
+"325305",9,2020,"2020-12","apoio_ou_outra",NA
+"351105",2,2020,"2020-12","apoio_ou_outra",NA
+"351605",19,2020,"2020-12","apoio_ou_outra",NA
+"352205",1,2020,"2020-12","apoio_ou_outra",NA
+"352210",19,2020,"2020-12","apoio_ou_outra",NA
+"354205",1,2020,"2020-12","apoio_ou_outra",NA
+"354210",2,2020,"2020-12","apoio_ou_outra",NA
+"371105",2,2020,"2020-12","apoio_ou_outra",NA
+"391205",1,2020,"2020-12","apoio_ou_outra",NA
+"391210",7,2020,"2020-12","apoio_ou_outra",NA
+"410105",18,2020,"2020-12","apoio_ou_outra",NA
+"410215",1,2020,"2020-12","apoio_ou_outra",NA
+"410220",2,2020,"2020-12","apoio_ou_outra",NA
+"410235",3,2020,"2020-12","apoio_ou_outra",NA
+"411005",260,2020,"2020-12","apoio_ou_outra",NA
+"411010",415,2020,"2020-12","apoio_ou_outra",NA
+"411030",2,2020,"2020-12","apoio_ou_outra",NA
+"412110",37,2020,"2020-12","apoio_ou_outra",NA
+"412205",2,2020,"2020-12","apoio_ou_outra",NA
+"413105",1,2020,"2020-12","apoio_ou_outra",NA
+"413110",7,2020,"2020-12","apoio_ou_outra",NA
+"413115",44,2020,"2020-12","apoio_ou_outra",NA
+"414105",2,2020,"2020-12","apoio_ou_outra",NA
+"415105",2,2020,"2020-12","apoio_ou_outra",NA
+"420125",1,2020,"2020-12","apoio_ou_outra",NA
+"420130",6,2020,"2020-12","apoio_ou_outra",NA
+"422105",156,2020,"2020-12","apoio_ou_outra",NA
+"422110",152,2020,"2020-12","apoio_ou_outra",NA
+"422205",50,2020,"2020-12","apoio_ou_outra",NA
+"422220",4,2020,"2020-12","apoio_ou_outra",NA
+"513115",3,2020,"2020-12","apoio_ou_outra",NA
+"513220",4,2020,"2020-12","apoio_ou_outra",NA
+"513405",1,2020,"2020-12","apoio_ou_outra",NA
+"513425",2,2020,"2020-12","apoio_ou_outra",NA
+"513430",8,2020,"2020-12","apoio_ou_outra",NA
+"513505",2,2020,"2020-12","apoio_ou_outra",NA
+"514225",5,2020,"2020-12","apoio_ou_outra",NA
+"514230",1,2020,"2020-12","apoio_ou_outra",NA
+"514320",108,2020,"2020-12","apoio_ou_outra",NA
+"515105",225,2020,"2020-12","principal","Agentes comunitários de saúde e afins"
+"515110",8,2020,"2020-12","principal","Agentes comunitários de saúde e afins"
+"515120",2,2020,"2020-12","principal","Agentes comunitários de saúde e afins"
+"515135",14,2020,"2020-12","principal","Agentes comunitários de saúde e afins"
+"515140",422,2020,"2020-12","principal","Agentes comunitários de saúde e afins"
+"515210",10,2020,"2020-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"515215",19,2020,"2020-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"516210",13,2020,"2020-12","apoio_ou_outra",NA
+"516220",1,2020,"2020-12","apoio_ou_outra",NA
+"516345",4,2020,"2020-12","apoio_ou_outra",NA
+"517310",13,2020,"2020-12","apoio_ou_outra",NA
+"517330",3,2020,"2020-12","apoio_ou_outra",NA
+"517420",13,2020,"2020-12","apoio_ou_outra",NA
+"519305",1,2020,"2020-12","apoio_ou_outra",NA
+"521130",32,2020,"2020-12","apoio_ou_outra",NA
+"715610",1,2020,"2020-12","apoio_ou_outra",NA
+"715615",1,2020,"2020-12","apoio_ou_outra",NA
+"716610",1,2020,"2020-12","apoio_ou_outra",NA
+"763215",1,2020,"2020-12","apoio_ou_outra",NA
+"766150",3,2020,"2020-12","apoio_ou_outra",NA
+"766420",2,2020,"2020-12","apoio_ou_outra",NA
+"782305",18,2020,"2020-12","apoio_ou_outra",NA
+"782310",2,2020,"2020-12","apoio_ou_outra",NA
+"782320",157,2020,"2020-12","apoio_ou_outra",NA
+"784205",6,2020,"2020-12","apoio_ou_outra",NA
+"840105",2,2020,"2020-12","apoio_ou_outra",NA
+"862120",1,2020,"2020-12","apoio_ou_outra",NA
+"915305",1,2020,"2020-12","apoio_ou_outra",NA
+"951105",2,2020,"2020-12","apoio_ou_outra",NA
+"992210",1,2020,"2020-12","apoio_ou_outra",NA
+"111220",2,2021,"2021-12","apoio_ou_outra",NA
+"121010",1,2021,"2021-12","apoio_ou_outra",NA
+"123105",11,2021,"2021-12","apoio_ou_outra",NA
+"123115",1,2021,"2021-12","apoio_ou_outra",NA
+"123605",4,2021,"2021-12","apoio_ou_outra",NA
+"123805",1,2021,"2021-12","apoio_ou_outra",NA
+"131205",30,2021,"2021-12","apoio_ou_outra",NA
+"131210",127,2021,"2021-12","apoio_ou_outra",NA
+"131310",10,2021,"2021-12","apoio_ou_outra",NA
+"141615",3,2021,"2021-12","apoio_ou_outra",NA
+"142105",14,2021,"2021-12","apoio_ou_outra",NA
+"142115",1,2021,"2021-12","apoio_ou_outra",NA
+"142205",2,2021,"2021-12","apoio_ou_outra",NA
+"142210",2,2021,"2021-12","apoio_ou_outra",NA
+"142415",2,2021,"2021-12","apoio_ou_outra",NA
+"142520",1,2021,"2021-12","apoio_ou_outra",NA
+"203005",3,2021,"2021-12","apoio_ou_outra",NA
+"212310",1,2021,"2021-12","apoio_ou_outra",NA
+"212405",6,2021,"2021-12","apoio_ou_outra",NA
+"212410",1,2021,"2021-12","apoio_ou_outra",NA
+"212415",1,2021,"2021-12","apoio_ou_outra",NA
+"212420",1,2021,"2021-12","apoio_ou_outra",NA
+"213150",3,2021,"2021-12","apoio_ou_outra",NA
+"213155",4,2021,"2021-12","apoio_ou_outra",NA
+"214105",1,2021,"2021-12","apoio_ou_outra",NA
+"214325",1,2021,"2021-12","apoio_ou_outra",NA
+"214915",4,2021,"2021-12","apoio_ou_outra",NA
+"221105",66,2021,"2021-12","multiprofissional","Biologia"
+"221205",2,2021,"2021-12","multiprofissional","Biomedicina"
+"2231F9",25,2021,"2021-12","principal","Medicina"
+"2231G1",1,2021,"2021-12","principal","Medicina"
+"223204",1,2021,"2021-12","principal","Odontologia e saúde bucal"
+"223208",587,2021,"2021-12","principal","Odontologia e saúde bucal"
+"223212",65,2021,"2021-12","principal","Odontologia e saúde bucal"
+"223220",1,2021,"2021-12","principal","Odontologia e saúde bucal"
+"223224",3,2021,"2021-12","principal","Odontologia e saúde bucal"
+"223228",1,2021,"2021-12","principal","Odontologia e saúde bucal"
+"223236",35,2021,"2021-12","principal","Odontologia e saúde bucal"
+"223240",56,2021,"2021-12","principal","Odontologia e saúde bucal"
+"223244",1,2021,"2021-12","principal","Odontologia e saúde bucal"
+"223248",33,2021,"2021-12","principal","Odontologia e saúde bucal"
+"223256",39,2021,"2021-12","principal","Odontologia e saúde bucal"
+"223260",17,2021,"2021-12","principal","Odontologia e saúde bucal"
+"223268",47,2021,"2021-12","principal","Odontologia e saúde bucal"
+"223272",1,2021,"2021-12","principal","Odontologia e saúde bucal"
+"223280",1,2021,"2021-12","principal","Odontologia e saúde bucal"
+"223288",6,2021,"2021-12","principal","Odontologia e saúde bucal"
+"223293",18,2021,"2021-12","principal","Odontologia e saúde bucal"
+"223305",12,2021,"2021-12","apoio_ou_outra",NA
+"223405",153,2021,"2021-12","principal","Farmácia"
+"223415",35,2021,"2021-12","principal","Farmácia"
+"223445",1,2021,"2021-12","principal","Farmácia"
+"223505",845,2021,"2021-12","principal","Enfermagem – enfermeiros"
+"223510",9,2021,"2021-12","principal","Enfermagem – enfermeiros"
+"223520",1,2021,"2021-12","principal","Enfermagem – enfermeiros"
+"223525",28,2021,"2021-12","principal","Enfermagem – enfermeiros"
+"223530",10,2021,"2021-12","principal","Enfermagem – enfermeiros"
+"223535",4,2021,"2021-12","principal","Enfermagem – enfermeiros"
+"223545",13,2021,"2021-12","principal","Enfermagem – enfermeiros"
+"223550",3,2021,"2021-12","principal","Enfermagem – enfermeiros"
+"223560",1,2021,"2021-12","principal","Enfermagem – enfermeiros"
+"223565",38,2021,"2021-12","principal","Enfermagem – enfermeiros"
+"223570",14,2021,"2021-12","principal","Enfermagem – enfermeiros"
+"223605",596,2021,"2021-12","principal","Fisioterapia"
+"223630",1,2021,"2021-12","principal","Fisioterapia"
+"223650",1,2021,"2021-12","principal","Fisioterapia"
+"223710",124,2021,"2021-12","principal","Nutrição"
+"223810",131,2021,"2021-12","principal","Fonoaudiologia"
+"223905",24,2021,"2021-12","apoio_ou_outra",NA
+"224105",1,2021,"2021-12","multiprofissional","Educação física"
+"224120",3,2021,"2021-12","multiprofissional","Educação física"
+"2241E1",6,2021,"2021-12","multiprofissional","Educação física"
+"225103",29,2021,"2021-12","principal","Medicina"
+"225105",1,2021,"2021-12","principal","Medicina"
+"225109",57,2021,"2021-12","principal","Medicina"
+"225110",24,2021,"2021-12","principal","Medicina"
+"225112",62,2021,"2021-12","principal","Medicina"
+"225115",38,2021,"2021-12","principal","Medicina"
+"225118",8,2021,"2021-12","principal","Medicina"
+"225120",249,2021,"2021-12","principal","Medicina"
+"225121",53,2021,"2021-12","principal","Medicina"
+"225124",453,2021,"2021-12","principal","Medicina"
+"225125",792,2021,"2021-12","principal","Medicina"
+"225127",36,2021,"2021-12","principal","Medicina"
+"225130",2,2021,"2021-12","principal","Medicina"
+"225133",61,2021,"2021-12","principal","Medicina"
+"225135",89,2021,"2021-12","principal","Medicina"
+"225136",41,2021,"2021-12","principal","Medicina"
+"225139",1,2021,"2021-12","principal","Medicina"
+"225140",40,2021,"2021-12","principal","Medicina"
+"225142",28,2021,"2021-12","principal","Medicina"
+"225148",12,2021,"2021-12","principal","Medicina"
+"225150",124,2021,"2021-12","principal","Medicina"
+"225151",160,2021,"2021-12","principal","Medicina"
+"225155",79,2021,"2021-12","principal","Medicina"
+"225160",4,2021,"2021-12","principal","Medicina"
+"225165",86,2021,"2021-12","principal","Medicina"
+"225170",1,2021,"2021-12","principal","Medicina"
+"225175",3,2021,"2021-12","principal","Medicina"
+"225180",25,2021,"2021-12","principal","Medicina"
+"225185",31,2021,"2021-12","principal","Medicina"
+"225195",4,2021,"2021-12","principal","Medicina"
+"225203",39,2021,"2021-12","principal","Medicina"
+"225210",32,2021,"2021-12","principal","Medicina"
+"225215",13,2021,"2021-12","principal","Medicina"
+"225220",13,2021,"2021-12","principal","Medicina"
+"225225",202,2021,"2021-12","principal","Medicina"
+"225230",27,2021,"2021-12","principal","Medicina"
+"225235",29,2021,"2021-12","principal","Medicina"
+"225240",28,2021,"2021-12","principal","Medicina"
+"225250",349,2021,"2021-12","principal","Medicina"
+"225255",25,2021,"2021-12","principal","Medicina"
+"225260",50,2021,"2021-12","principal","Medicina"
+"225265",127,2021,"2021-12","principal","Medicina"
+"225270",183,2021,"2021-12","principal","Medicina"
+"225275",79,2021,"2021-12","principal","Medicina"
+"225280",45,2021,"2021-12","principal","Medicina"
+"225285",117,2021,"2021-12","principal","Medicina"
+"225290",19,2021,"2021-12","principal","Medicina"
+"225295",1,2021,"2021-12","principal","Medicina"
+"225305",4,2021,"2021-12","principal","Medicina"
+"225310",24,2021,"2021-12","principal","Medicina"
+"225315",6,2021,"2021-12","principal","Medicina"
+"225320",179,2021,"2021-12","principal","Medicina"
+"225325",3,2021,"2021-12","principal","Medicina"
+"225330",11,2021,"2021-12","principal","Medicina"
+"225335",8,2021,"2021-12","principal","Medicina"
+"225340",11,2021,"2021-12","principal","Medicina"
+"225345",1,2021,"2021-12","principal","Medicina"
+"226305",4,2021,"2021-12","apoio_ou_outra",NA
+"226310",1,2021,"2021-12","apoio_ou_outra",NA
+"232120",1,2021,"2021-12","apoio_ou_outra",NA
+"239405",3,2021,"2021-12","apoio_ou_outra",NA
+"239415",6,2021,"2021-12","apoio_ou_outra",NA
+"239425",6,2021,"2021-12","apoio_ou_outra",NA
+"251505",2,2021,"2021-12","multiprofissional","Psicologia"
+"251510",271,2021,"2021-12","multiprofissional","Psicologia"
+"251520",11,2021,"2021-12","multiprofissional","Psicologia"
+"251530",2,2021,"2021-12","multiprofissional","Psicologia"
+"251540",1,2021,"2021-12","multiprofissional","Psicologia"
+"251545",3,2021,"2021-12","multiprofissional","Psicologia"
+"251605",222,2021,"2021-12","multiprofissional","Serviço social"
+"252105",21,2021,"2021-12","apoio_ou_outra",NA
+"252205",7,2021,"2021-12","apoio_ou_outra",NA
+"252210",4,2021,"2021-12","apoio_ou_outra",NA
+"252305",10,2021,"2021-12","apoio_ou_outra",NA
+"252405",1,2021,"2021-12","apoio_ou_outra",NA
+"254310",1,2021,"2021-12","apoio_ou_outra",NA
+"261205",1,2021,"2021-12","apoio_ou_outra",NA
+"261305",1,2021,"2021-12","apoio_ou_outra",NA
+"301110",4,2021,"2021-12","apoio_ou_outra",NA
+"313105",1,2021,"2021-12","apoio_ou_outra",NA
+"313120",1,2021,"2021-12","apoio_ou_outra",NA
+"313220",4,2021,"2021-12","apoio_ou_outra",NA
+"313415",1,2021,"2021-12","apoio_ou_outra",NA
+"317110",1,2021,"2021-12","apoio_ou_outra",NA
+"317205",2,2021,"2021-12","apoio_ou_outra",NA
+"317210",3,2021,"2021-12","apoio_ou_outra",NA
+"322105",1,2021,"2021-12","apoio_ou_outra",NA
+"322110",2,2021,"2021-12","apoio_ou_outra",NA
+"322120",1,2021,"2021-12","apoio_ou_outra",NA
+"322205",2791,2021,"2021-12","principal","Enfermagem – técnicos e auxiliares"
+"322210",8,2021,"2021-12","principal","Enfermagem – técnicos e auxiliares"
+"322225",62,2021,"2021-12","principal","Enfermagem – técnicos e auxiliares"
+"322230",976,2021,"2021-12","principal","Enfermagem – técnicos e auxiliares"
+"322235",2,2021,"2021-12","principal","Enfermagem – técnicos e auxiliares"
+"322245",40,2021,"2021-12","principal","Enfermagem – técnicos e auxiliares"
+"322405",11,2021,"2021-12","principal","Odontologia e saúde bucal"
+"322415",120,2021,"2021-12","principal","Odontologia e saúde bucal"
+"322430",16,2021,"2021-12","principal","Odontologia e saúde bucal"
+"322605",9,2021,"2021-12","principal","Instrumentação cirúrgica"
+"324110",1,2021,"2021-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324115",211,2021,"2021-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324120",10,2021,"2021-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324205",265,2021,"2021-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324210",20,2021,"2021-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324220",9,2021,"2021-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"325105",7,2021,"2021-12","principal","Farmácia – técnicos e auxiliares"
+"325110",3,2021,"2021-12","principal","Farmácia – técnicos e auxiliares"
+"325115",128,2021,"2021-12","principal","Farmácia – técnicos e auxiliares"
+"325205",3,2021,"2021-12","apoio_ou_outra",NA
+"325305",7,2021,"2021-12","apoio_ou_outra",NA
+"351105",2,2021,"2021-12","apoio_ou_outra",NA
+"351605",17,2021,"2021-12","apoio_ou_outra",NA
+"352205",1,2021,"2021-12","apoio_ou_outra",NA
+"352210",2,2021,"2021-12","apoio_ou_outra",NA
+"354210",2,2021,"2021-12","apoio_ou_outra",NA
+"371105",2,2021,"2021-12","apoio_ou_outra",NA
+"391205",2,2021,"2021-12","apoio_ou_outra",NA
+"391210",11,2021,"2021-12","apoio_ou_outra",NA
+"410105",28,2021,"2021-12","apoio_ou_outra",NA
+"410215",1,2021,"2021-12","apoio_ou_outra",NA
+"410220",2,2021,"2021-12","apoio_ou_outra",NA
+"410235",3,2021,"2021-12","apoio_ou_outra",NA
+"411005",253,2021,"2021-12","apoio_ou_outra",NA
+"411010",436,2021,"2021-12","apoio_ou_outra",NA
+"411030",2,2021,"2021-12","apoio_ou_outra",NA
+"412110",39,2021,"2021-12","apoio_ou_outra",NA
+"412205",2,2021,"2021-12","apoio_ou_outra",NA
+"413105",1,2021,"2021-12","apoio_ou_outra",NA
+"413110",7,2021,"2021-12","apoio_ou_outra",NA
+"413115",48,2021,"2021-12","apoio_ou_outra",NA
+"414105",3,2021,"2021-12","apoio_ou_outra",NA
+"415105",3,2021,"2021-12","apoio_ou_outra",NA
+"420125",1,2021,"2021-12","apoio_ou_outra",NA
+"420130",6,2021,"2021-12","apoio_ou_outra",NA
+"422105",213,2021,"2021-12","apoio_ou_outra",NA
+"422110",157,2021,"2021-12","apoio_ou_outra",NA
+"422205",49,2021,"2021-12","apoio_ou_outra",NA
+"422220",5,2021,"2021-12","apoio_ou_outra",NA
+"513115",2,2021,"2021-12","apoio_ou_outra",NA
+"513220",1,2021,"2021-12","apoio_ou_outra",NA
+"513425",1,2021,"2021-12","apoio_ou_outra",NA
+"513430",5,2021,"2021-12","apoio_ou_outra",NA
+"514225",5,2021,"2021-12","apoio_ou_outra",NA
+"514230",2,2021,"2021-12","apoio_ou_outra",NA
+"514310",1,2021,"2021-12","apoio_ou_outra",NA
+"514320",150,2021,"2021-12","apoio_ou_outra",NA
+"515105",228,2021,"2021-12","principal","Agentes comunitários de saúde e afins"
+"515110",21,2021,"2021-12","principal","Agentes comunitários de saúde e afins"
+"515120",1,2021,"2021-12","principal","Agentes comunitários de saúde e afins"
+"515135",14,2021,"2021-12","principal","Agentes comunitários de saúde e afins"
+"515140",441,2021,"2021-12","principal","Agentes comunitários de saúde e afins"
+"515210",10,2021,"2021-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"515215",31,2021,"2021-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"515315",1,2021,"2021-12","apoio_ou_outra",NA
+"516210",2,2021,"2021-12","apoio_ou_outra",NA
+"516220",1,2021,"2021-12","apoio_ou_outra",NA
+"516335",1,2021,"2021-12","apoio_ou_outra",NA
+"516345",4,2021,"2021-12","apoio_ou_outra",NA
+"517310",9,2021,"2021-12","apoio_ou_outra",NA
+"517330",4,2021,"2021-12","apoio_ou_outra",NA
+"517410",3,2021,"2021-12","apoio_ou_outra",NA
+"517420",42,2021,"2021-12","apoio_ou_outra",NA
+"519110",3,2021,"2021-12","apoio_ou_outra",NA
+"519305",3,2021,"2021-12","apoio_ou_outra",NA
+"521130",44,2021,"2021-12","apoio_ou_outra",NA
+"715610",1,2021,"2021-12","apoio_ou_outra",NA
+"715615",3,2021,"2021-12","apoio_ou_outra",NA
+"716610",1,2021,"2021-12","apoio_ou_outra",NA
+"717020",1,2021,"2021-12","apoio_ou_outra",NA
+"763215",1,2021,"2021-12","apoio_ou_outra",NA
+"766150",3,2021,"2021-12","apoio_ou_outra",NA
+"766420",1,2021,"2021-12","apoio_ou_outra",NA
+"782305",21,2021,"2021-12","apoio_ou_outra",NA
+"782320",136,2021,"2021-12","apoio_ou_outra",NA
+"784205",10,2021,"2021-12","apoio_ou_outra",NA
+"840105",2,2021,"2021-12","apoio_ou_outra",NA
+"862120",1,2021,"2021-12","apoio_ou_outra",NA
+"915305",1,2021,"2021-12","apoio_ou_outra",NA
+"951105",2,2021,"2021-12","apoio_ou_outra",NA
+"992210",3,2021,"2021-12","apoio_ou_outra",NA
+"111220",4,2022,"2022-12","apoio_ou_outra",NA
+"121010",1,2022,"2022-12","apoio_ou_outra",NA
+"123105",13,2022,"2022-12","apoio_ou_outra",NA
+"123115",1,2022,"2022-12","apoio_ou_outra",NA
+"123605",2,2022,"2022-12","apoio_ou_outra",NA
+"123805",1,2022,"2022-12","apoio_ou_outra",NA
+"131205",34,2022,"2022-12","apoio_ou_outra",NA
+"131210",137,2022,"2022-12","apoio_ou_outra",NA
+"131310",10,2022,"2022-12","apoio_ou_outra",NA
+"141615",3,2022,"2022-12","apoio_ou_outra",NA
+"142105",14,2022,"2022-12","apoio_ou_outra",NA
+"142205",2,2022,"2022-12","apoio_ou_outra",NA
+"142210",2,2022,"2022-12","apoio_ou_outra",NA
+"142415",3,2022,"2022-12","apoio_ou_outra",NA
+"142520",1,2022,"2022-12","apoio_ou_outra",NA
+"203005",3,2022,"2022-12","apoio_ou_outra",NA
+"212310",1,2022,"2022-12","apoio_ou_outra",NA
+"212405",7,2022,"2022-12","apoio_ou_outra",NA
+"212410",1,2022,"2022-12","apoio_ou_outra",NA
+"212415",1,2022,"2022-12","apoio_ou_outra",NA
+"212420",1,2022,"2022-12","apoio_ou_outra",NA
+"213150",2,2022,"2022-12","apoio_ou_outra",NA
+"213155",6,2022,"2022-12","apoio_ou_outra",NA
+"214105",1,2022,"2022-12","apoio_ou_outra",NA
+"214325",1,2022,"2022-12","apoio_ou_outra",NA
+"214915",5,2022,"2022-12","apoio_ou_outra",NA
+"221105",69,2022,"2022-12","multiprofissional","Biologia"
+"221205",2,2022,"2022-12","multiprofissional","Biomedicina"
+"2231F9",33,2022,"2022-12","principal","Medicina"
+"2231G1",1,2022,"2022-12","principal","Medicina"
+"223204",1,2022,"2022-12","principal","Odontologia e saúde bucal"
+"223208",599,2022,"2022-12","principal","Odontologia e saúde bucal"
+"223212",67,2022,"2022-12","principal","Odontologia e saúde bucal"
+"223220",1,2022,"2022-12","principal","Odontologia e saúde bucal"
+"223224",3,2022,"2022-12","principal","Odontologia e saúde bucal"
+"223228",1,2022,"2022-12","principal","Odontologia e saúde bucal"
+"223236",34,2022,"2022-12","principal","Odontologia e saúde bucal"
+"223240",53,2022,"2022-12","principal","Odontologia e saúde bucal"
+"223244",1,2022,"2022-12","principal","Odontologia e saúde bucal"
+"223248",31,2022,"2022-12","principal","Odontologia e saúde bucal"
+"223252",1,2022,"2022-12","principal","Odontologia e saúde bucal"
+"223256",40,2022,"2022-12","principal","Odontologia e saúde bucal"
+"223260",17,2022,"2022-12","principal","Odontologia e saúde bucal"
+"223268",49,2022,"2022-12","principal","Odontologia e saúde bucal"
+"223272",1,2022,"2022-12","principal","Odontologia e saúde bucal"
+"223288",10,2022,"2022-12","principal","Odontologia e saúde bucal"
+"223293",17,2022,"2022-12","principal","Odontologia e saúde bucal"
+"223305",17,2022,"2022-12","apoio_ou_outra",NA
+"223405",161,2022,"2022-12","principal","Farmácia"
+"223415",36,2022,"2022-12","principal","Farmácia"
+"223445",2,2022,"2022-12","principal","Farmácia"
+"223505",887,2022,"2022-12","principal","Enfermagem – enfermeiros"
+"223510",8,2022,"2022-12","principal","Enfermagem – enfermeiros"
+"223520",1,2022,"2022-12","principal","Enfermagem – enfermeiros"
+"223525",28,2022,"2022-12","principal","Enfermagem – enfermeiros"
+"223530",9,2022,"2022-12","principal","Enfermagem – enfermeiros"
+"223535",4,2022,"2022-12","principal","Enfermagem – enfermeiros"
+"223545",11,2022,"2022-12","principal","Enfermagem – enfermeiros"
+"223560",1,2022,"2022-12","principal","Enfermagem – enfermeiros"
+"223565",43,2022,"2022-12","principal","Enfermagem – enfermeiros"
+"223570",14,2022,"2022-12","principal","Enfermagem – enfermeiros"
+"223605",621,2022,"2022-12","principal","Fisioterapia"
+"223625",1,2022,"2022-12","principal","Fisioterapia"
+"223630",1,2022,"2022-12","principal","Fisioterapia"
+"223650",1,2022,"2022-12","principal","Fisioterapia"
+"223710",133,2022,"2022-12","principal","Nutrição"
+"223810",135,2022,"2022-12","principal","Fonoaudiologia"
+"223905",24,2022,"2022-12","apoio_ou_outra",NA
+"224105",1,2022,"2022-12","multiprofissional","Educação física"
+"224120",3,2022,"2022-12","multiprofissional","Educação física"
+"224140",7,2022,"2022-12","multiprofissional","Educação física"
+"225103",29,2022,"2022-12","principal","Medicina"
+"225105",1,2022,"2022-12","principal","Medicina"
+"225109",66,2022,"2022-12","principal","Medicina"
+"225110",23,2022,"2022-12","principal","Medicina"
+"225112",63,2022,"2022-12","principal","Medicina"
+"225115",40,2022,"2022-12","principal","Medicina"
+"225118",9,2022,"2022-12","principal","Medicina"
+"225120",254,2022,"2022-12","principal","Medicina"
+"225121",53,2022,"2022-12","principal","Medicina"
+"225124",463,2022,"2022-12","principal","Medicina"
+"225125",814,2022,"2022-12","principal","Medicina"
+"225127",35,2022,"2022-12","principal","Medicina"
+"225130",2,2022,"2022-12","principal","Medicina"
+"225133",62,2022,"2022-12","principal","Medicina"
+"225135",95,2022,"2022-12","principal","Medicina"
+"225136",42,2022,"2022-12","principal","Medicina"
+"225139",1,2022,"2022-12","principal","Medicina"
+"225140",40,2022,"2022-12","principal","Medicina"
+"225142",32,2022,"2022-12","principal","Medicina"
+"225148",12,2022,"2022-12","principal","Medicina"
+"225150",134,2022,"2022-12","principal","Medicina"
+"225151",177,2022,"2022-12","principal","Medicina"
+"225155",88,2022,"2022-12","principal","Medicina"
+"225160",2,2022,"2022-12","principal","Medicina"
+"225165",93,2022,"2022-12","principal","Medicina"
+"225170",1,2022,"2022-12","principal","Medicina"
+"225175",3,2022,"2022-12","principal","Medicina"
+"225180",28,2022,"2022-12","principal","Medicina"
+"225185",33,2022,"2022-12","principal","Medicina"
+"225195",4,2022,"2022-12","principal","Medicina"
+"225203",43,2022,"2022-12","principal","Medicina"
+"225210",30,2022,"2022-12","principal","Medicina"
+"225215",12,2022,"2022-12","principal","Medicina"
+"225220",12,2022,"2022-12","principal","Medicina"
+"225225",207,2022,"2022-12","principal","Medicina"
+"225230",27,2022,"2022-12","principal","Medicina"
+"225235",28,2022,"2022-12","principal","Medicina"
+"225240",30,2022,"2022-12","principal","Medicina"
+"225250",364,2022,"2022-12","principal","Medicina"
+"225255",25,2022,"2022-12","principal","Medicina"
+"225260",52,2022,"2022-12","principal","Medicina"
+"225265",130,2022,"2022-12","principal","Medicina"
+"225270",194,2022,"2022-12","principal","Medicina"
+"225275",84,2022,"2022-12","principal","Medicina"
+"225280",45,2022,"2022-12","principal","Medicina"
+"225285",118,2022,"2022-12","principal","Medicina"
+"225290",21,2022,"2022-12","principal","Medicina"
+"225295",1,2022,"2022-12","principal","Medicina"
+"225305",4,2022,"2022-12","principal","Medicina"
+"225310",27,2022,"2022-12","principal","Medicina"
+"225315",6,2022,"2022-12","principal","Medicina"
+"225320",181,2022,"2022-12","principal","Medicina"
+"225325",4,2022,"2022-12","principal","Medicina"
+"225330",11,2022,"2022-12","principal","Medicina"
+"225335",8,2022,"2022-12","principal","Medicina"
+"225340",11,2022,"2022-12","principal","Medicina"
+"225345",1,2022,"2022-12","principal","Medicina"
+"226305",4,2022,"2022-12","apoio_ou_outra",NA
+"226310",1,2022,"2022-12","apoio_ou_outra",NA
+"232120",1,2022,"2022-12","apoio_ou_outra",NA
+"239405",4,2022,"2022-12","apoio_ou_outra",NA
+"239415",8,2022,"2022-12","apoio_ou_outra",NA
+"239425",6,2022,"2022-12","apoio_ou_outra",NA
+"251505",3,2022,"2022-12","multiprofissional","Psicologia"
+"251510",288,2022,"2022-12","multiprofissional","Psicologia"
+"251520",3,2022,"2022-12","multiprofissional","Psicologia"
+"251530",2,2022,"2022-12","multiprofissional","Psicologia"
+"251540",2,2022,"2022-12","multiprofissional","Psicologia"
+"251545",3,2022,"2022-12","multiprofissional","Psicologia"
+"251605",241,2022,"2022-12","multiprofissional","Serviço social"
+"252105",26,2022,"2022-12","apoio_ou_outra",NA
+"252205",5,2022,"2022-12","apoio_ou_outra",NA
+"252210",4,2022,"2022-12","apoio_ou_outra",NA
+"252305",7,2022,"2022-12","apoio_ou_outra",NA
+"254310",1,2022,"2022-12","apoio_ou_outra",NA
+"261205",1,2022,"2022-12","apoio_ou_outra",NA
+"261305",1,2022,"2022-12","apoio_ou_outra",NA
+"262405",1,2022,"2022-12","apoio_ou_outra",NA
+"301110",4,2022,"2022-12","apoio_ou_outra",NA
+"313120",1,2022,"2022-12","apoio_ou_outra",NA
+"313220",8,2022,"2022-12","apoio_ou_outra",NA
+"313415",1,2022,"2022-12","apoio_ou_outra",NA
+"317110",2,2022,"2022-12","apoio_ou_outra",NA
+"317205",2,2022,"2022-12","apoio_ou_outra",NA
+"317210",2,2022,"2022-12","apoio_ou_outra",NA
+"322105",1,2022,"2022-12","apoio_ou_outra",NA
+"322110",2,2022,"2022-12","apoio_ou_outra",NA
+"322120",1,2022,"2022-12","apoio_ou_outra",NA
+"322205",2846,2022,"2022-12","principal","Enfermagem – técnicos e auxiliares"
+"322210",7,2022,"2022-12","principal","Enfermagem – técnicos e auxiliares"
+"322215",1,2022,"2022-12","principal","Enfermagem – técnicos e auxiliares"
+"322225",71,2022,"2022-12","principal","Enfermagem – técnicos e auxiliares"
+"322230",941,2022,"2022-12","principal","Enfermagem – técnicos e auxiliares"
+"322235",2,2022,"2022-12","principal","Enfermagem – técnicos e auxiliares"
+"322245",52,2022,"2022-12","principal","Enfermagem – técnicos e auxiliares"
+"322405",11,2022,"2022-12","principal","Odontologia e saúde bucal"
+"322415",120,2022,"2022-12","principal","Odontologia e saúde bucal"
+"322430",16,2022,"2022-12","principal","Odontologia e saúde bucal"
+"322605",6,2022,"2022-12","principal","Instrumentação cirúrgica"
+"324115",210,2022,"2022-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324120",15,2022,"2022-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324205",261,2022,"2022-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324220",9,2022,"2022-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"325105",7,2022,"2022-12","principal","Farmácia – técnicos e auxiliares"
+"325110",3,2022,"2022-12","principal","Farmácia – técnicos e auxiliares"
+"325115",139,2022,"2022-12","principal","Farmácia – técnicos e auxiliares"
+"325205",3,2022,"2022-12","apoio_ou_outra",NA
+"333110",1,2022,"2022-12","apoio_ou_outra",NA
+"351105",2,2022,"2022-12","apoio_ou_outra",NA
+"351605",17,2022,"2022-12","apoio_ou_outra",NA
+"352210",2,2022,"2022-12","apoio_ou_outra",NA
+"354210",2,2022,"2022-12","apoio_ou_outra",NA
+"371105",2,2022,"2022-12","apoio_ou_outra",NA
+"391115",5,2022,"2022-12","apoio_ou_outra",NA
+"391205",2,2022,"2022-12","apoio_ou_outra",NA
+"391210",8,2022,"2022-12","apoio_ou_outra",NA
+"410105",31,2022,"2022-12","apoio_ou_outra",NA
+"410205",1,2022,"2022-12","apoio_ou_outra",NA
+"410215",1,2022,"2022-12","apoio_ou_outra",NA
+"410220",2,2022,"2022-12","apoio_ou_outra",NA
+"410235",3,2022,"2022-12","apoio_ou_outra",NA
+"411005",277,2022,"2022-12","apoio_ou_outra",NA
+"411010",532,2022,"2022-12","apoio_ou_outra",NA
+"411030",2,2022,"2022-12","apoio_ou_outra",NA
+"412110",45,2022,"2022-12","apoio_ou_outra",NA
+"412205",3,2022,"2022-12","apoio_ou_outra",NA
+"413105",2,2022,"2022-12","apoio_ou_outra",NA
+"413110",6,2022,"2022-12","apoio_ou_outra",NA
+"413115",46,2022,"2022-12","apoio_ou_outra",NA
+"414105",3,2022,"2022-12","apoio_ou_outra",NA
+"414125",1,2022,"2022-12","apoio_ou_outra",NA
+"415105",3,2022,"2022-12","apoio_ou_outra",NA
+"420125",1,2022,"2022-12","apoio_ou_outra",NA
+"420130",6,2022,"2022-12","apoio_ou_outra",NA
+"422105",226,2022,"2022-12","apoio_ou_outra",NA
+"422110",152,2022,"2022-12","apoio_ou_outra",NA
+"422205",49,2022,"2022-12","apoio_ou_outra",NA
+"422220",5,2022,"2022-12","apoio_ou_outra",NA
+"510205",1,2022,"2022-12","apoio_ou_outra",NA
+"512115",1,2022,"2022-12","apoio_ou_outra",NA
+"513115",4,2022,"2022-12","apoio_ou_outra",NA
+"513220",1,2022,"2022-12","apoio_ou_outra",NA
+"513425",3,2022,"2022-12","apoio_ou_outra",NA
+"513430",4,2022,"2022-12","apoio_ou_outra",NA
+"514110",3,2022,"2022-12","apoio_ou_outra",NA
+"514225",5,2022,"2022-12","apoio_ou_outra",NA
+"514230",2,2022,"2022-12","apoio_ou_outra",NA
+"514310",1,2022,"2022-12","apoio_ou_outra",NA
+"514320",166,2022,"2022-12","apoio_ou_outra",NA
+"515105",221,2022,"2022-12","principal","Agentes comunitários de saúde e afins"
+"515110",21,2022,"2022-12","principal","Agentes comunitários de saúde e afins"
+"515120",1,2022,"2022-12","principal","Agentes comunitários de saúde e afins"
+"515135",14,2022,"2022-12","principal","Agentes comunitários de saúde e afins"
+"515140",412,2022,"2022-12","principal","Agentes comunitários de saúde e afins"
+"515210",9,2022,"2022-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"515215",50,2022,"2022-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"515315",1,2022,"2022-12","apoio_ou_outra",NA
+"516210",5,2022,"2022-12","apoio_ou_outra",NA
+"516220",1,2022,"2022-12","apoio_ou_outra",NA
+"516320",1,2022,"2022-12","apoio_ou_outra",NA
+"516335",1,2022,"2022-12","apoio_ou_outra",NA
+"516345",4,2022,"2022-12","apoio_ou_outra",NA
+"517310",2,2022,"2022-12","apoio_ou_outra",NA
+"517330",7,2022,"2022-12","apoio_ou_outra",NA
+"517410",7,2022,"2022-12","apoio_ou_outra",NA
+"517420",68,2022,"2022-12","apoio_ou_outra",NA
+"519110",4,2022,"2022-12","apoio_ou_outra",NA
+"519305",3,2022,"2022-12","apoio_ou_outra",NA
+"521130",45,2022,"2022-12","apoio_ou_outra",NA
+"715610",1,2022,"2022-12","apoio_ou_outra",NA
+"715615",3,2022,"2022-12","apoio_ou_outra",NA
+"716610",1,2022,"2022-12","apoio_ou_outra",NA
+"717020",1,2022,"2022-12","apoio_ou_outra",NA
+"763215",1,2022,"2022-12","apoio_ou_outra",NA
+"766150",3,2022,"2022-12","apoio_ou_outra",NA
+"766420",1,2022,"2022-12","apoio_ou_outra",NA
+"782305",19,2022,"2022-12","apoio_ou_outra",NA
+"782320",140,2022,"2022-12","apoio_ou_outra",NA
+"784205",11,2022,"2022-12","apoio_ou_outra",NA
+"818110",1,2022,"2022-12","apoio_ou_outra",NA
+"840105",2,2022,"2022-12","apoio_ou_outra",NA
+"862120",1,2022,"2022-12","apoio_ou_outra",NA
+"915305",1,2022,"2022-12","apoio_ou_outra",NA
+"951105",2,2022,"2022-12","apoio_ou_outra",NA
+"992210",3,2022,"2022-12","apoio_ou_outra",NA
+"030205",2,2023,"2023-12","apoio_ou_outra",NA
+"111220",2,2023,"2023-12","apoio_ou_outra",NA
+"111510",1,2023,"2023-12","apoio_ou_outra",NA
+"121010",1,2023,"2023-12","apoio_ou_outra",NA
+"123105",13,2023,"2023-12","apoio_ou_outra",NA
+"123115",1,2023,"2023-12","apoio_ou_outra",NA
+"123605",2,2023,"2023-12","apoio_ou_outra",NA
+"123805",1,2023,"2023-12","apoio_ou_outra",NA
+"131205",35,2023,"2023-12","apoio_ou_outra",NA
+"131210",147,2023,"2023-12","apoio_ou_outra",NA
+"131310",10,2023,"2023-12","apoio_ou_outra",NA
+"141615",3,2023,"2023-12","apoio_ou_outra",NA
+"142105",12,2023,"2023-12","apoio_ou_outra",NA
+"142205",1,2023,"2023-12","apoio_ou_outra",NA
+"142210",4,2023,"2023-12","apoio_ou_outra",NA
+"142415",3,2023,"2023-12","apoio_ou_outra",NA
+"142505",1,2023,"2023-12","apoio_ou_outra",NA
+"142520",1,2023,"2023-12","apoio_ou_outra",NA
+"203005",1,2023,"2023-12","apoio_ou_outra",NA
+"212310",1,2023,"2023-12","apoio_ou_outra",NA
+"212405",7,2023,"2023-12","apoio_ou_outra",NA
+"212410",1,2023,"2023-12","apoio_ou_outra",NA
+"212415",1,2023,"2023-12","apoio_ou_outra",NA
+"212420",1,2023,"2023-12","apoio_ou_outra",NA
+"213150",2,2023,"2023-12","apoio_ou_outra",NA
+"213155",6,2023,"2023-12","apoio_ou_outra",NA
+"214105",1,2023,"2023-12","apoio_ou_outra",NA
+"214325",1,2023,"2023-12","apoio_ou_outra",NA
+"214915",5,2023,"2023-12","apoio_ou_outra",NA
+"221105",71,2023,"2023-12","multiprofissional","Biologia"
+"221205",1,2023,"2023-12","multiprofissional","Biomedicina"
+"2231F9",69,2023,"2023-12","principal","Medicina"
+"2231G1",1,2023,"2023-12","principal","Medicina"
+"223204",1,2023,"2023-12","principal","Odontologia e saúde bucal"
+"223208",591,2023,"2023-12","principal","Odontologia e saúde bucal"
+"223212",65,2023,"2023-12","principal","Odontologia e saúde bucal"
+"223220",1,2023,"2023-12","principal","Odontologia e saúde bucal"
+"223224",3,2023,"2023-12","principal","Odontologia e saúde bucal"
+"223228",1,2023,"2023-12","principal","Odontologia e saúde bucal"
+"223236",36,2023,"2023-12","principal","Odontologia e saúde bucal"
+"223240",55,2023,"2023-12","principal","Odontologia e saúde bucal"
+"223244",1,2023,"2023-12","principal","Odontologia e saúde bucal"
+"223248",29,2023,"2023-12","principal","Odontologia e saúde bucal"
+"223252",1,2023,"2023-12","principal","Odontologia e saúde bucal"
+"223256",41,2023,"2023-12","principal","Odontologia e saúde bucal"
+"223260",17,2023,"2023-12","principal","Odontologia e saúde bucal"
+"223268",48,2023,"2023-12","principal","Odontologia e saúde bucal"
+"223272",1,2023,"2023-12","principal","Odontologia e saúde bucal"
+"223280",4,2023,"2023-12","principal","Odontologia e saúde bucal"
+"223288",11,2023,"2023-12","principal","Odontologia e saúde bucal"
+"223293",17,2023,"2023-12","principal","Odontologia e saúde bucal"
+"223305",23,2023,"2023-12","apoio_ou_outra",NA
+"223405",174,2023,"2023-12","principal","Farmácia"
+"223415",32,2023,"2023-12","principal","Farmácia"
+"223445",10,2023,"2023-12","principal","Farmácia"
+"223505",1107,2023,"2023-12","principal","Enfermagem – enfermeiros"
+"223510",6,2023,"2023-12","principal","Enfermagem – enfermeiros"
+"223520",1,2023,"2023-12","principal","Enfermagem – enfermeiros"
+"223525",29,2023,"2023-12","principal","Enfermagem – enfermeiros"
+"223530",10,2023,"2023-12","principal","Enfermagem – enfermeiros"
+"223535",4,2023,"2023-12","principal","Enfermagem – enfermeiros"
+"223545",10,2023,"2023-12","principal","Enfermagem – enfermeiros"
+"223565",50,2023,"2023-12","principal","Enfermagem – enfermeiros"
+"223570",12,2023,"2023-12","principal","Enfermagem – enfermeiros"
+"223605",668,2023,"2023-12","principal","Fisioterapia"
+"223625",1,2023,"2023-12","principal","Fisioterapia"
+"223630",1,2023,"2023-12","principal","Fisioterapia"
+"223650",1,2023,"2023-12","principal","Fisioterapia"
+"223710",155,2023,"2023-12","principal","Nutrição"
+"223810",145,2023,"2023-12","principal","Fonoaudiologia"
+"223815",1,2023,"2023-12","principal","Fonoaudiologia"
+"223905",27,2023,"2023-12","apoio_ou_outra",NA
+"223910",1,2023,"2023-12","apoio_ou_outra",NA
+"223915",2,2023,"2023-12","apoio_ou_outra",NA
+"224105",1,2023,"2023-12","multiprofissional","Educação física"
+"224120",2,2023,"2023-12","multiprofissional","Educação física"
+"224140",8,2023,"2023-12","multiprofissional","Educação física"
+"225103",29,2023,"2023-12","principal","Medicina"
+"225105",1,2023,"2023-12","principal","Medicina"
+"225109",68,2023,"2023-12","principal","Medicina"
+"225110",26,2023,"2023-12","principal","Medicina"
+"225112",69,2023,"2023-12","principal","Medicina"
+"225115",37,2023,"2023-12","principal","Medicina"
+"225118",10,2023,"2023-12","principal","Medicina"
+"225120",257,2023,"2023-12","principal","Medicina"
+"225121",50,2023,"2023-12","principal","Medicina"
+"225124",467,2023,"2023-12","principal","Medicina"
+"225125",768,2023,"2023-12","principal","Medicina"
+"225127",37,2023,"2023-12","principal","Medicina"
+"225130",3,2023,"2023-12","principal","Medicina"
+"225133",68,2023,"2023-12","principal","Medicina"
+"225135",83,2023,"2023-12","principal","Medicina"
+"225136",40,2023,"2023-12","principal","Medicina"
+"225139",1,2023,"2023-12","principal","Medicina"
+"225140",38,2023,"2023-12","principal","Medicina"
+"225142",75,2023,"2023-12","principal","Medicina"
+"225148",13,2023,"2023-12","principal","Medicina"
+"225150",130,2023,"2023-12","principal","Medicina"
+"225151",174,2023,"2023-12","principal","Medicina"
+"225155",91,2023,"2023-12","principal","Medicina"
+"225160",2,2023,"2023-12","principal","Medicina"
+"225165",93,2023,"2023-12","principal","Medicina"
+"225170",1,2023,"2023-12","principal","Medicina"
+"225175",3,2023,"2023-12","principal","Medicina"
+"225180",28,2023,"2023-12","principal","Medicina"
+"225185",32,2023,"2023-12","principal","Medicina"
+"225195",4,2023,"2023-12","principal","Medicina"
+"225203",44,2023,"2023-12","principal","Medicina"
+"225210",31,2023,"2023-12","principal","Medicina"
+"225215",10,2023,"2023-12","principal","Medicina"
+"225220",13,2023,"2023-12","principal","Medicina"
+"225225",206,2023,"2023-12","principal","Medicina"
+"225230",26,2023,"2023-12","principal","Medicina"
+"225235",28,2023,"2023-12","principal","Medicina"
+"225240",28,2023,"2023-12","principal","Medicina"
+"225250",370,2023,"2023-12","principal","Medicina"
+"225255",23,2023,"2023-12","principal","Medicina"
+"225260",53,2023,"2023-12","principal","Medicina"
+"225265",133,2023,"2023-12","principal","Medicina"
+"225270",192,2023,"2023-12","principal","Medicina"
+"225275",82,2023,"2023-12","principal","Medicina"
+"225280",43,2023,"2023-12","principal","Medicina"
+"225285",120,2023,"2023-12","principal","Medicina"
+"225290",22,2023,"2023-12","principal","Medicina"
+"225295",1,2023,"2023-12","principal","Medicina"
+"225305",4,2023,"2023-12","principal","Medicina"
+"225310",26,2023,"2023-12","principal","Medicina"
+"225315",6,2023,"2023-12","principal","Medicina"
+"225320",191,2023,"2023-12","principal","Medicina"
+"225325",4,2023,"2023-12","principal","Medicina"
+"225330",12,2023,"2023-12","principal","Medicina"
+"225335",8,2023,"2023-12","principal","Medicina"
+"225340",11,2023,"2023-12","principal","Medicina"
+"225345",2,2023,"2023-12","principal","Medicina"
+"225355",1,2023,"2023-12","principal","Medicina"
+"226305",4,2023,"2023-12","apoio_ou_outra",NA
+"226310",2,2023,"2023-12","apoio_ou_outra",NA
+"232120",1,2023,"2023-12","apoio_ou_outra",NA
+"239405",4,2023,"2023-12","apoio_ou_outra",NA
+"239410",1,2023,"2023-12","apoio_ou_outra",NA
+"239415",8,2023,"2023-12","apoio_ou_outra",NA
+"239425",5,2023,"2023-12","apoio_ou_outra",NA
+"239440",2,2023,"2023-12","apoio_ou_outra",NA
+"251505",3,2023,"2023-12","multiprofissional","Psicologia"
+"251510",322,2023,"2023-12","multiprofissional","Psicologia"
+"251520",3,2023,"2023-12","multiprofissional","Psicologia"
+"251530",2,2023,"2023-12","multiprofissional","Psicologia"
+"251540",4,2023,"2023-12","multiprofissional","Psicologia"
+"251545",5,2023,"2023-12","multiprofissional","Psicologia"
+"251605",243,2023,"2023-12","multiprofissional","Serviço social"
+"252105",29,2023,"2023-12","apoio_ou_outra",NA
+"252205",5,2023,"2023-12","apoio_ou_outra",NA
+"252210",4,2023,"2023-12","apoio_ou_outra",NA
+"252305",9,2023,"2023-12","apoio_ou_outra",NA
+"254310",1,2023,"2023-12","apoio_ou_outra",NA
+"261205",1,2023,"2023-12","apoio_ou_outra",NA
+"261305",1,2023,"2023-12","apoio_ou_outra",NA
+"262405",2,2023,"2023-12","apoio_ou_outra",NA
+"301110",4,2023,"2023-12","apoio_ou_outra",NA
+"312105",1,2023,"2023-12","apoio_ou_outra",NA
+"313120",1,2023,"2023-12","apoio_ou_outra",NA
+"313220",7,2023,"2023-12","apoio_ou_outra",NA
+"313415",1,2023,"2023-12","apoio_ou_outra",NA
+"317110",2,2023,"2023-12","apoio_ou_outra",NA
+"317205",2,2023,"2023-12","apoio_ou_outra",NA
+"317210",1,2023,"2023-12","apoio_ou_outra",NA
+"322105",1,2023,"2023-12","apoio_ou_outra",NA
+"322110",2,2023,"2023-12","apoio_ou_outra",NA
+"322120",2,2023,"2023-12","apoio_ou_outra",NA
+"322205",3334,2023,"2023-12","principal","Enfermagem – técnicos e auxiliares"
+"322210",5,2023,"2023-12","principal","Enfermagem – técnicos e auxiliares"
+"322215",1,2023,"2023-12","principal","Enfermagem – técnicos e auxiliares"
+"322225",73,2023,"2023-12","principal","Enfermagem – técnicos e auxiliares"
+"322230",845,2023,"2023-12","principal","Enfermagem – técnicos e auxiliares"
+"322235",2,2023,"2023-12","principal","Enfermagem – técnicos e auxiliares"
+"322245",51,2023,"2023-12","principal","Enfermagem – técnicos e auxiliares"
+"322405",11,2023,"2023-12","principal","Odontologia e saúde bucal"
+"322415",120,2023,"2023-12","principal","Odontologia e saúde bucal"
+"322430",15,2023,"2023-12","principal","Odontologia e saúde bucal"
+"322605",8,2023,"2023-12","principal","Instrumentação cirúrgica"
+"324115",214,2023,"2023-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324120",15,2023,"2023-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324205",253,2023,"2023-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324220",8,2023,"2023-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"325105",6,2023,"2023-12","principal","Farmácia – técnicos e auxiliares"
+"325110",2,2023,"2023-12","principal","Farmácia – técnicos e auxiliares"
+"325115",146,2023,"2023-12","principal","Farmácia – técnicos e auxiliares"
+"325205",3,2023,"2023-12","apoio_ou_outra",NA
+"333110",1,2023,"2023-12","apoio_ou_outra",NA
+"351105",2,2023,"2023-12","apoio_ou_outra",NA
+"351505",1,2023,"2023-12","apoio_ou_outra",NA
+"351605",17,2023,"2023-12","apoio_ou_outra",NA
+"352210",2,2023,"2023-12","apoio_ou_outra",NA
+"354210",2,2023,"2023-12","apoio_ou_outra",NA
+"371105",2,2023,"2023-12","apoio_ou_outra",NA
+"391115",2,2023,"2023-12","apoio_ou_outra",NA
+"391205",3,2023,"2023-12","apoio_ou_outra",NA
+"391210",5,2023,"2023-12","apoio_ou_outra",NA
+"410105",33,2023,"2023-12","apoio_ou_outra",NA
+"410205",2,2023,"2023-12","apoio_ou_outra",NA
+"410215",1,2023,"2023-12","apoio_ou_outra",NA
+"410220",2,2023,"2023-12","apoio_ou_outra",NA
+"410235",2,2023,"2023-12","apoio_ou_outra",NA
+"411005",271,2023,"2023-12","apoio_ou_outra",NA
+"411010",622,2023,"2023-12","apoio_ou_outra",NA
+"411030",2,2023,"2023-12","apoio_ou_outra",NA
+"412110",42,2023,"2023-12","apoio_ou_outra",NA
+"412205",3,2023,"2023-12","apoio_ou_outra",NA
+"413105",1,2023,"2023-12","apoio_ou_outra",NA
+"413110",6,2023,"2023-12","apoio_ou_outra",NA
+"413115",50,2023,"2023-12","apoio_ou_outra",NA
+"414105",10,2023,"2023-12","apoio_ou_outra",NA
+"414125",2,2023,"2023-12","apoio_ou_outra",NA
+"415105",3,2023,"2023-12","apoio_ou_outra",NA
+"420130",4,2023,"2023-12","apoio_ou_outra",NA
+"422105",218,2023,"2023-12","apoio_ou_outra",NA
+"422110",141,2023,"2023-12","apoio_ou_outra",NA
+"422205",22,2023,"2023-12","apoio_ou_outra",NA
+"422220",2,2023,"2023-12","apoio_ou_outra",NA
+"510105",1,2023,"2023-12","apoio_ou_outra",NA
+"512115",3,2023,"2023-12","apoio_ou_outra",NA
+"513115",4,2023,"2023-12","apoio_ou_outra",NA
+"513205",2,2023,"2023-12","apoio_ou_outra",NA
+"513220",9,2023,"2023-12","apoio_ou_outra",NA
+"513315",6,2023,"2023-12","apoio_ou_outra",NA
+"513425",3,2023,"2023-12","apoio_ou_outra",NA
+"513430",20,2023,"2023-12","apoio_ou_outra",NA
+"514110",3,2023,"2023-12","apoio_ou_outra",NA
+"514225",5,2023,"2023-12","apoio_ou_outra",NA
+"514230",4,2023,"2023-12","apoio_ou_outra",NA
+"514310",1,2023,"2023-12","apoio_ou_outra",NA
+"514320",275,2023,"2023-12","apoio_ou_outra",NA
+"515105",219,2023,"2023-12","principal","Agentes comunitários de saúde e afins"
+"515110",25,2023,"2023-12","principal","Agentes comunitários de saúde e afins"
+"515120",1,2023,"2023-12","principal","Agentes comunitários de saúde e afins"
+"515140",407,2023,"2023-12","principal","Agentes comunitários de saúde e afins"
+"515210",4,2023,"2023-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"515215",51,2023,"2023-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"515305",8,2023,"2023-12","apoio_ou_outra",NA
+"515315",1,2023,"2023-12","apoio_ou_outra",NA
+"516210",8,2023,"2023-12","apoio_ou_outra",NA
+"516220",19,2023,"2023-12","apoio_ou_outra",NA
+"516320",1,2023,"2023-12","apoio_ou_outra",NA
+"516335",1,2023,"2023-12","apoio_ou_outra",NA
+"516345",7,2023,"2023-12","apoio_ou_outra",NA
+"517330",9,2023,"2023-12","apoio_ou_outra",NA
+"517410",18,2023,"2023-12","apoio_ou_outra",NA
+"517420",107,2023,"2023-12","apoio_ou_outra",NA
+"519110",4,2023,"2023-12","apoio_ou_outra",NA
+"519305",4,2023,"2023-12","apoio_ou_outra",NA
+"521130",39,2023,"2023-12","apoio_ou_outra",NA
+"710205",1,2023,"2023-12","apoio_ou_outra",NA
+"715210",2,2023,"2023-12","apoio_ou_outra",NA
+"715505",1,2023,"2023-12","apoio_ou_outra",NA
+"715615",3,2023,"2023-12","apoio_ou_outra",NA
+"716610",1,2023,"2023-12","apoio_ou_outra",NA
+"717020",3,2023,"2023-12","apoio_ou_outra",NA
+"763010",2,2023,"2023-12","apoio_ou_outra",NA
+"763215",1,2023,"2023-12","apoio_ou_outra",NA
+"766150",3,2023,"2023-12","apoio_ou_outra",NA
+"766420",1,2023,"2023-12","apoio_ou_outra",NA
+"782305",35,2023,"2023-12","apoio_ou_outra",NA
+"782310",3,2023,"2023-12","apoio_ou_outra",NA
+"782320",130,2023,"2023-12","apoio_ou_outra",NA
+"784205",11,2023,"2023-12","apoio_ou_outra",NA
+"818110",1,2023,"2023-12","apoio_ou_outra",NA
+"840105",2,2023,"2023-12","apoio_ou_outra",NA
+"862120",1,2023,"2023-12","apoio_ou_outra",NA
+"915305",1,2023,"2023-12","apoio_ou_outra",NA
+"951105",2,2023,"2023-12","apoio_ou_outra",NA
+"992210",3,2023,"2023-12","apoio_ou_outra",NA
+"030205",2,2024,"2024-12","apoio_ou_outra",NA
+"111220",2,2024,"2024-12","apoio_ou_outra",NA
+"121010",3,2024,"2024-12","apoio_ou_outra",NA
+"123105",12,2024,"2024-12","apoio_ou_outra",NA
+"123115",1,2024,"2024-12","apoio_ou_outra",NA
+"123305",1,2024,"2024-12","apoio_ou_outra",NA
+"123405",1,2024,"2024-12","apoio_ou_outra",NA
+"123605",2,2024,"2024-12","apoio_ou_outra",NA
+"131205",34,2024,"2024-12","apoio_ou_outra",NA
+"131210",156,2024,"2024-12","apoio_ou_outra",NA
+"131215",1,2024,"2024-12","apoio_ou_outra",NA
+"131310",10,2024,"2024-12","apoio_ou_outra",NA
+"141615",3,2024,"2024-12","apoio_ou_outra",NA
+"142105",15,2024,"2024-12","apoio_ou_outra",NA
+"142205",1,2024,"2024-12","apoio_ou_outra",NA
+"142210",4,2024,"2024-12","apoio_ou_outra",NA
+"142305",1,2024,"2024-12","apoio_ou_outra",NA
+"142335",1,2024,"2024-12","apoio_ou_outra",NA
+"142415",3,2024,"2024-12","apoio_ou_outra",NA
+"142505",1,2024,"2024-12","apoio_ou_outra",NA
+"142520",1,2024,"2024-12","apoio_ou_outra",NA
+"203005",1,2024,"2024-12","apoio_ou_outra",NA
+"212310",1,2024,"2024-12","apoio_ou_outra",NA
+"212405",7,2024,"2024-12","apoio_ou_outra",NA
+"212410",1,2024,"2024-12","apoio_ou_outra",NA
+"212415",1,2024,"2024-12","apoio_ou_outra",NA
+"212420",2,2024,"2024-12","apoio_ou_outra",NA
+"213150",2,2024,"2024-12","apoio_ou_outra",NA
+"213155",6,2024,"2024-12","apoio_ou_outra",NA
+"214105",1,2024,"2024-12","apoio_ou_outra",NA
+"214325",1,2024,"2024-12","apoio_ou_outra",NA
+"214915",7,2024,"2024-12","apoio_ou_outra",NA
+"221105",72,2024,"2024-12","multiprofissional","Biologia"
+"221205",2,2024,"2024-12","multiprofissional","Biomedicina"
+"2231F9",83,2024,"2024-12","principal","Medicina"
+"2231G1",1,2024,"2024-12","principal","Medicina"
+"223204",1,2024,"2024-12","principal","Odontologia e saúde bucal"
+"223208",601,2024,"2024-12","principal","Odontologia e saúde bucal"
+"223212",66,2024,"2024-12","principal","Odontologia e saúde bucal"
+"223220",1,2024,"2024-12","principal","Odontologia e saúde bucal"
+"223224",3,2024,"2024-12","principal","Odontologia e saúde bucal"
+"223228",1,2024,"2024-12","principal","Odontologia e saúde bucal"
+"223236",36,2024,"2024-12","principal","Odontologia e saúde bucal"
+"223240",58,2024,"2024-12","principal","Odontologia e saúde bucal"
+"223244",1,2024,"2024-12","principal","Odontologia e saúde bucal"
+"223248",28,2024,"2024-12","principal","Odontologia e saúde bucal"
+"223252",1,2024,"2024-12","principal","Odontologia e saúde bucal"
+"223256",41,2024,"2024-12","principal","Odontologia e saúde bucal"
+"223260",17,2024,"2024-12","principal","Odontologia e saúde bucal"
+"223268",48,2024,"2024-12","principal","Odontologia e saúde bucal"
+"223272",1,2024,"2024-12","principal","Odontologia e saúde bucal"
+"223280",3,2024,"2024-12","principal","Odontologia e saúde bucal"
+"223288",11,2024,"2024-12","principal","Odontologia e saúde bucal"
+"223293",20,2024,"2024-12","principal","Odontologia e saúde bucal"
+"223305",25,2024,"2024-12","apoio_ou_outra",NA
+"223405",183,2024,"2024-12","principal","Farmácia"
+"223415",27,2024,"2024-12","principal","Farmácia"
+"223445",8,2024,"2024-12","principal","Farmácia"
+"223505",1219,2024,"2024-12","principal","Enfermagem – enfermeiros"
+"223510",10,2024,"2024-12","principal","Enfermagem – enfermeiros"
+"223520",1,2024,"2024-12","principal","Enfermagem – enfermeiros"
+"223525",9,2024,"2024-12","principal","Enfermagem – enfermeiros"
+"223530",9,2024,"2024-12","principal","Enfermagem – enfermeiros"
+"223535",5,2024,"2024-12","principal","Enfermagem – enfermeiros"
+"223545",8,2024,"2024-12","principal","Enfermagem – enfermeiros"
+"223565",70,2024,"2024-12","principal","Enfermagem – enfermeiros"
+"223570",14,2024,"2024-12","principal","Enfermagem – enfermeiros"
+"223605",733,2024,"2024-12","principal","Fisioterapia"
+"223625",1,2024,"2024-12","principal","Fisioterapia"
+"223630",2,2024,"2024-12","principal","Fisioterapia"
+"223650",1,2024,"2024-12","principal","Fisioterapia"
+"223710",180,2024,"2024-12","principal","Nutrição"
+"223810",151,2024,"2024-12","principal","Fonoaudiologia"
+"223815",1,2024,"2024-12","principal","Fonoaudiologia"
+"223830",1,2024,"2024-12","principal","Fonoaudiologia"
+"223905",27,2024,"2024-12","apoio_ou_outra",NA
+"223910",1,2024,"2024-12","apoio_ou_outra",NA
+"223915",3,2024,"2024-12","apoio_ou_outra",NA
+"224105",1,2024,"2024-12","multiprofissional","Educação física"
+"224120",1,2024,"2024-12","multiprofissional","Educação física"
+"224140",10,2024,"2024-12","multiprofissional","Educação física"
+"225103",30,2024,"2024-12","principal","Medicina"
+"225105",1,2024,"2024-12","principal","Medicina"
+"225109",73,2024,"2024-12","principal","Medicina"
+"225110",28,2024,"2024-12","principal","Medicina"
+"225112",71,2024,"2024-12","principal","Medicina"
+"225115",42,2024,"2024-12","principal","Medicina"
+"225118",10,2024,"2024-12","principal","Medicina"
+"225120",255,2024,"2024-12","principal","Medicina"
+"225121",51,2024,"2024-12","principal","Medicina"
+"225124",475,2024,"2024-12","principal","Medicina"
+"225125",840,2024,"2024-12","principal","Medicina"
+"225127",37,2024,"2024-12","principal","Medicina"
+"225130",8,2024,"2024-12","principal","Medicina"
+"225133",68,2024,"2024-12","principal","Medicina"
+"225135",89,2024,"2024-12","principal","Medicina"
+"225136",40,2024,"2024-12","principal","Medicina"
+"225139",1,2024,"2024-12","principal","Medicina"
+"225140",36,2024,"2024-12","principal","Medicina"
+"225142",73,2024,"2024-12","principal","Medicina"
+"225148",13,2024,"2024-12","principal","Medicina"
+"225150",108,2024,"2024-12","principal","Medicina"
+"225151",175,2024,"2024-12","principal","Medicina"
+"225155",99,2024,"2024-12","principal","Medicina"
+"225160",2,2024,"2024-12","principal","Medicina"
+"225165",92,2024,"2024-12","principal","Medicina"
+"225170",1,2024,"2024-12","principal","Medicina"
+"225175",3,2024,"2024-12","principal","Medicina"
+"225180",27,2024,"2024-12","principal","Medicina"
+"225185",31,2024,"2024-12","principal","Medicina"
+"225195",4,2024,"2024-12","principal","Medicina"
+"225203",47,2024,"2024-12","principal","Medicina"
+"225210",30,2024,"2024-12","principal","Medicina"
+"225215",10,2024,"2024-12","principal","Medicina"
+"225220",15,2024,"2024-12","principal","Medicina"
+"225225",210,2024,"2024-12","principal","Medicina"
+"225230",26,2024,"2024-12","principal","Medicina"
+"225235",29,2024,"2024-12","principal","Medicina"
+"225240",30,2024,"2024-12","principal","Medicina"
+"225250",376,2024,"2024-12","principal","Medicina"
+"225255",24,2024,"2024-12","principal","Medicina"
+"225260",51,2024,"2024-12","principal","Medicina"
+"225265",133,2024,"2024-12","principal","Medicina"
+"225270",200,2024,"2024-12","principal","Medicina"
+"225275",84,2024,"2024-12","principal","Medicina"
+"225280",41,2024,"2024-12","principal","Medicina"
+"225285",119,2024,"2024-12","principal","Medicina"
+"225290",22,2024,"2024-12","principal","Medicina"
+"225295",2,2024,"2024-12","principal","Medicina"
+"225305",4,2024,"2024-12","principal","Medicina"
+"225310",24,2024,"2024-12","principal","Medicina"
+"225315",7,2024,"2024-12","principal","Medicina"
+"225320",201,2024,"2024-12","principal","Medicina"
+"225325",4,2024,"2024-12","principal","Medicina"
+"225330",12,2024,"2024-12","principal","Medicina"
+"225335",7,2024,"2024-12","principal","Medicina"
+"225340",10,2024,"2024-12","principal","Medicina"
+"225345",2,2024,"2024-12","principal","Medicina"
+"225355",1,2024,"2024-12","principal","Medicina"
+"226305",6,2024,"2024-12","apoio_ou_outra",NA
+"226310",4,2024,"2024-12","apoio_ou_outra",NA
+"232120",1,2024,"2024-12","apoio_ou_outra",NA
+"239405",4,2024,"2024-12","apoio_ou_outra",NA
+"239410",1,2024,"2024-12","apoio_ou_outra",NA
+"239415",7,2024,"2024-12","apoio_ou_outra",NA
+"239425",6,2024,"2024-12","apoio_ou_outra",NA
+"239440",4,2024,"2024-12","apoio_ou_outra",NA
+"251505",3,2024,"2024-12","multiprofissional","Psicologia"
+"251510",355,2024,"2024-12","multiprofissional","Psicologia"
+"251520",2,2024,"2024-12","multiprofissional","Psicologia"
+"251530",2,2024,"2024-12","multiprofissional","Psicologia"
+"251540",3,2024,"2024-12","multiprofissional","Psicologia"
+"251545",8,2024,"2024-12","multiprofissional","Psicologia"
+"251605",249,2024,"2024-12","multiprofissional","Serviço social"
+"252105",32,2024,"2024-12","apoio_ou_outra",NA
+"252205",5,2024,"2024-12","apoio_ou_outra",NA
+"252210",4,2024,"2024-12","apoio_ou_outra",NA
+"252305",10,2024,"2024-12","apoio_ou_outra",NA
+"261205",1,2024,"2024-12","apoio_ou_outra",NA
+"261305",1,2024,"2024-12","apoio_ou_outra",NA
+"262405",2,2024,"2024-12","apoio_ou_outra",NA
+"271105",1,2024,"2024-12","apoio_ou_outra",NA
+"301110",3,2024,"2024-12","apoio_ou_outra",NA
+"312105",1,2024,"2024-12","apoio_ou_outra",NA
+"313120",1,2024,"2024-12","apoio_ou_outra",NA
+"313220",6,2024,"2024-12","apoio_ou_outra",NA
+"313415",1,2024,"2024-12","apoio_ou_outra",NA
+"314115",1,2024,"2024-12","apoio_ou_outra",NA
+"317110",4,2024,"2024-12","apoio_ou_outra",NA
+"317205",2,2024,"2024-12","apoio_ou_outra",NA
+"317210",1,2024,"2024-12","apoio_ou_outra",NA
+"322105",1,2024,"2024-12","apoio_ou_outra",NA
+"322110",2,2024,"2024-12","apoio_ou_outra",NA
+"322120",2,2024,"2024-12","apoio_ou_outra",NA
+"322125",1,2024,"2024-12","apoio_ou_outra",NA
+"322205",3560,2024,"2024-12","principal","Enfermagem – técnicos e auxiliares"
+"322210",4,2024,"2024-12","principal","Enfermagem – técnicos e auxiliares"
+"322215",1,2024,"2024-12","principal","Enfermagem – técnicos e auxiliares"
+"322225",80,2024,"2024-12","principal","Enfermagem – técnicos e auxiliares"
+"322230",803,2024,"2024-12","principal","Enfermagem – técnicos e auxiliares"
+"322235",2,2024,"2024-12","principal","Enfermagem – técnicos e auxiliares"
+"322245",75,2024,"2024-12","principal","Enfermagem – técnicos e auxiliares"
+"322255",185,2024,"2024-12","principal","Enfermagem – técnicos e auxiliares"
+"322405",8,2024,"2024-12","principal","Odontologia e saúde bucal"
+"322415",122,2024,"2024-12","principal","Odontologia e saúde bucal"
+"322430",15,2024,"2024-12","principal","Odontologia e saúde bucal"
+"322605",10,2024,"2024-12","principal","Instrumentação cirúrgica"
+"324115",216,2024,"2024-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324120",16,2024,"2024-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324205",289,2024,"2024-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324220",8,2024,"2024-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"325105",19,2024,"2024-12","principal","Farmácia – técnicos e auxiliares"
+"325110",4,2024,"2024-12","principal","Farmácia – técnicos e auxiliares"
+"325115",170,2024,"2024-12","principal","Farmácia – técnicos e auxiliares"
+"325205",3,2024,"2024-12","apoio_ou_outra",NA
+"331105",1,2024,"2024-12","apoio_ou_outra",NA
+"333110",1,2024,"2024-12","apoio_ou_outra",NA
+"351105",2,2024,"2024-12","apoio_ou_outra",NA
+"351505",2,2024,"2024-12","apoio_ou_outra",NA
+"351605",20,2024,"2024-12","apoio_ou_outra",NA
+"352210",2,2024,"2024-12","apoio_ou_outra",NA
+"354125",1,2024,"2024-12","apoio_ou_outra",NA
+"354205",1,2024,"2024-12","apoio_ou_outra",NA
+"354210",2,2024,"2024-12","apoio_ou_outra",NA
+"354705",1,2024,"2024-12","apoio_ou_outra",NA
+"371105",2,2024,"2024-12","apoio_ou_outra",NA
+"391115",2,2024,"2024-12","apoio_ou_outra",NA
+"391205",3,2024,"2024-12","apoio_ou_outra",NA
+"391210",4,2024,"2024-12","apoio_ou_outra",NA
+"410105",38,2024,"2024-12","apoio_ou_outra",NA
+"410205",1,2024,"2024-12","apoio_ou_outra",NA
+"410215",1,2024,"2024-12","apoio_ou_outra",NA
+"410220",2,2024,"2024-12","apoio_ou_outra",NA
+"410235",2,2024,"2024-12","apoio_ou_outra",NA
+"411005",309,2024,"2024-12","apoio_ou_outra",NA
+"411010",658,2024,"2024-12","apoio_ou_outra",NA
+"411030",4,2024,"2024-12","apoio_ou_outra",NA
+"412110",40,2024,"2024-12","apoio_ou_outra",NA
+"412205",4,2024,"2024-12","apoio_ou_outra",NA
+"413105",1,2024,"2024-12","apoio_ou_outra",NA
+"413110",8,2024,"2024-12","apoio_ou_outra",NA
+"413115",48,2024,"2024-12","apoio_ou_outra",NA
+"414105",11,2024,"2024-12","apoio_ou_outra",NA
+"414125",4,2024,"2024-12","apoio_ou_outra",NA
+"415105",4,2024,"2024-12","apoio_ou_outra",NA
+"420130",4,2024,"2024-12","apoio_ou_outra",NA
+"421125",1,2024,"2024-12","apoio_ou_outra",NA
+"422105",255,2024,"2024-12","apoio_ou_outra",NA
+"422110",131,2024,"2024-12","apoio_ou_outra",NA
+"422205",23,2024,"2024-12","apoio_ou_outra",NA
+"422220",2,2024,"2024-12","apoio_ou_outra",NA
+"510105",1,2024,"2024-12","apoio_ou_outra",NA
+"512115",4,2024,"2024-12","apoio_ou_outra",NA
+"513115",5,2024,"2024-12","apoio_ou_outra",NA
+"513205",3,2024,"2024-12","apoio_ou_outra",NA
+"513220",8,2024,"2024-12","apoio_ou_outra",NA
+"513315",5,2024,"2024-12","apoio_ou_outra",NA
+"513405",1,2024,"2024-12","apoio_ou_outra",NA
+"513425",4,2024,"2024-12","apoio_ou_outra",NA
+"513430",28,2024,"2024-12","apoio_ou_outra",NA
+"513505",7,2024,"2024-12","apoio_ou_outra",NA
+"514110",1,2024,"2024-12","apoio_ou_outra",NA
+"514120",1,2024,"2024-12","apoio_ou_outra",NA
+"514225",3,2024,"2024-12","apoio_ou_outra",NA
+"514230",4,2024,"2024-12","apoio_ou_outra",NA
+"514310",1,2024,"2024-12","apoio_ou_outra",NA
+"514320",327,2024,"2024-12","apoio_ou_outra",NA
+"515105",36,2024,"2024-12","principal","Agentes comunitários de saúde e afins"
+"515110",23,2024,"2024-12","principal","Agentes comunitários de saúde e afins"
+"515120",2,2024,"2024-12","principal","Agentes comunitários de saúde e afins"
+"515140",531,2024,"2024-12","principal","Agentes comunitários de saúde e afins"
+"515210",3,2024,"2024-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"515215",76,2024,"2024-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"515305",7,2024,"2024-12","apoio_ou_outra",NA
+"516210",6,2024,"2024-12","apoio_ou_outra",NA
+"516220",18,2024,"2024-12","apoio_ou_outra",NA
+"516335",1,2024,"2024-12","apoio_ou_outra",NA
+"516345",8,2024,"2024-12","apoio_ou_outra",NA
+"517330",6,2024,"2024-12","apoio_ou_outra",NA
+"517410",12,2024,"2024-12","apoio_ou_outra",NA
+"517420",128,2024,"2024-12","apoio_ou_outra",NA
+"519110",5,2024,"2024-12","apoio_ou_outra",NA
+"519305",4,2024,"2024-12","apoio_ou_outra",NA
+"521130",28,2024,"2024-12","apoio_ou_outra",NA
+"710205",1,2024,"2024-12","apoio_ou_outra",NA
+"715210",2,2024,"2024-12","apoio_ou_outra",NA
+"715505",1,2024,"2024-12","apoio_ou_outra",NA
+"715615",3,2024,"2024-12","apoio_ou_outra",NA
+"716610",2,2024,"2024-12","apoio_ou_outra",NA
+"717020",3,2024,"2024-12","apoio_ou_outra",NA
+"763010",2,2024,"2024-12","apoio_ou_outra",NA
+"763215",1,2024,"2024-12","apoio_ou_outra",NA
+"766150",3,2024,"2024-12","apoio_ou_outra",NA
+"766420",1,2024,"2024-12","apoio_ou_outra",NA
+"782305",40,2024,"2024-12","apoio_ou_outra",NA
+"782310",1,2024,"2024-12","apoio_ou_outra",NA
+"782320",120,2024,"2024-12","apoio_ou_outra",NA
+"784205",11,2024,"2024-12","apoio_ou_outra",NA
+"818110",1,2024,"2024-12","apoio_ou_outra",NA
+"840105",2,2024,"2024-12","apoio_ou_outra",NA
+"862120",1,2024,"2024-12","apoio_ou_outra",NA
+"915305",1,2024,"2024-12","apoio_ou_outra",NA
+"951105",2,2024,"2024-12","apoio_ou_outra",NA
+"992210",3,2024,"2024-12","apoio_ou_outra",NA
+"030205",2,2025,"2025-12","apoio_ou_outra",NA
+"111220",1,2025,"2025-12","apoio_ou_outra",NA
+"121010",3,2025,"2025-12","apoio_ou_outra",NA
+"123105",12,2025,"2025-12","apoio_ou_outra",NA
+"123115",1,2025,"2025-12","apoio_ou_outra",NA
+"123305",1,2025,"2025-12","apoio_ou_outra",NA
+"123405",2,2025,"2025-12","apoio_ou_outra",NA
+"123605",2,2025,"2025-12","apoio_ou_outra",NA
+"131205",42,2025,"2025-12","apoio_ou_outra",NA
+"131210",174,2025,"2025-12","apoio_ou_outra",NA
+"131215",1,2025,"2025-12","apoio_ou_outra",NA
+"131310",10,2025,"2025-12","apoio_ou_outra",NA
+"141605",1,2025,"2025-12","apoio_ou_outra",NA
+"141615",2,2025,"2025-12","apoio_ou_outra",NA
+"142105",17,2025,"2025-12","apoio_ou_outra",NA
+"142205",3,2025,"2025-12","apoio_ou_outra",NA
+"142210",3,2025,"2025-12","apoio_ou_outra",NA
+"142305",1,2025,"2025-12","apoio_ou_outra",NA
+"142335",1,2025,"2025-12","apoio_ou_outra",NA
+"142415",3,2025,"2025-12","apoio_ou_outra",NA
+"142505",1,2025,"2025-12","apoio_ou_outra",NA
+"142520",1,2025,"2025-12","apoio_ou_outra",NA
+"142705",1,2025,"2025-12","apoio_ou_outra",NA
+"203005",1,2025,"2025-12","apoio_ou_outra",NA
+"212310",1,2025,"2025-12","apoio_ou_outra",NA
+"212405",6,2025,"2025-12","apoio_ou_outra",NA
+"212410",1,2025,"2025-12","apoio_ou_outra",NA
+"212415",1,2025,"2025-12","apoio_ou_outra",NA
+"212420",4,2025,"2025-12","apoio_ou_outra",NA
+"213150",2,2025,"2025-12","apoio_ou_outra",NA
+"213155",6,2025,"2025-12","apoio_ou_outra",NA
+"214005",1,2025,"2025-12","apoio_ou_outra",NA
+"214105",1,2025,"2025-12","apoio_ou_outra",NA
+"214325",1,2025,"2025-12","apoio_ou_outra",NA
+"214915",8,2025,"2025-12","apoio_ou_outra",NA
+"221105",76,2025,"2025-12","multiprofissional","Biologia"
+"221205",4,2025,"2025-12","multiprofissional","Biomedicina"
+"2231F9",62,2025,"2025-12","principal","Medicina"
+"2231G1",1,2025,"2025-12","principal","Medicina"
+"223204",1,2025,"2025-12","principal","Odontologia e saúde bucal"
+"223208",592,2025,"2025-12","principal","Odontologia e saúde bucal"
+"223212",67,2025,"2025-12","principal","Odontologia e saúde bucal"
+"223220",1,2025,"2025-12","principal","Odontologia e saúde bucal"
+"223224",3,2025,"2025-12","principal","Odontologia e saúde bucal"
+"223228",1,2025,"2025-12","principal","Odontologia e saúde bucal"
+"223236",36,2025,"2025-12","principal","Odontologia e saúde bucal"
+"223240",57,2025,"2025-12","principal","Odontologia e saúde bucal"
+"223244",1,2025,"2025-12","principal","Odontologia e saúde bucal"
+"223248",27,2025,"2025-12","principal","Odontologia e saúde bucal"
+"223252",1,2025,"2025-12","principal","Odontologia e saúde bucal"
+"223256",40,2025,"2025-12","principal","Odontologia e saúde bucal"
+"223260",17,2025,"2025-12","principal","Odontologia e saúde bucal"
+"223268",50,2025,"2025-12","principal","Odontologia e saúde bucal"
+"223272",1,2025,"2025-12","principal","Odontologia e saúde bucal"
+"223280",3,2025,"2025-12","principal","Odontologia e saúde bucal"
+"223288",11,2025,"2025-12","principal","Odontologia e saúde bucal"
+"223293",19,2025,"2025-12","principal","Odontologia e saúde bucal"
+"223305",25,2025,"2025-12","apoio_ou_outra",NA
+"223405",200,2025,"2025-12","principal","Farmácia"
+"223415",26,2025,"2025-12","principal","Farmácia"
+"223445",6,2025,"2025-12","principal","Farmácia"
+"223505",1197,2025,"2025-12","principal","Enfermagem – enfermeiros"
+"223510",12,2025,"2025-12","principal","Enfermagem – enfermeiros"
+"223520",1,2025,"2025-12","principal","Enfermagem – enfermeiros"
+"223525",8,2025,"2025-12","principal","Enfermagem – enfermeiros"
+"223530",9,2025,"2025-12","principal","Enfermagem – enfermeiros"
+"223535",5,2025,"2025-12","principal","Enfermagem – enfermeiros"
+"223545",8,2025,"2025-12","principal","Enfermagem – enfermeiros"
+"223565",72,2025,"2025-12","principal","Enfermagem – enfermeiros"
+"223570",14,2025,"2025-12","principal","Enfermagem – enfermeiros"
+"223605",766,2025,"2025-12","principal","Fisioterapia"
+"223625",1,2025,"2025-12","principal","Fisioterapia"
+"223630",2,2025,"2025-12","principal","Fisioterapia"
+"223650",1,2025,"2025-12","principal","Fisioterapia"
+"223705",1,2025,"2025-12","principal","Nutrição"
+"223710",188,2025,"2025-12","principal","Nutrição"
+"223810",161,2025,"2025-12","principal","Fonoaudiologia"
+"223815",1,2025,"2025-12","principal","Fonoaudiologia"
+"223830",1,2025,"2025-12","principal","Fonoaudiologia"
+"223905",40,2025,"2025-12","apoio_ou_outra",NA
+"223910",1,2025,"2025-12","apoio_ou_outra",NA
+"223915",6,2025,"2025-12","apoio_ou_outra",NA
+"224105",1,2025,"2025-12","multiprofissional","Educação física"
+"224120",3,2025,"2025-12","multiprofissional","Educação física"
+"224140",12,2025,"2025-12","multiprofissional","Educação física"
+"225103",32,2025,"2025-12","principal","Medicina"
+"225105",1,2025,"2025-12","principal","Medicina"
+"225109",77,2025,"2025-12","principal","Medicina"
+"225110",32,2025,"2025-12","principal","Medicina"
+"225112",73,2025,"2025-12","principal","Medicina"
+"225115",45,2025,"2025-12","principal","Medicina"
+"225118",11,2025,"2025-12","principal","Medicina"
+"225120",260,2025,"2025-12","principal","Medicina"
+"225121",51,2025,"2025-12","principal","Medicina"
+"225124",506,2025,"2025-12","principal","Medicina"
+"225125",931,2025,"2025-12","principal","Medicina"
+"225127",37,2025,"2025-12","principal","Medicina"
+"225130",9,2025,"2025-12","principal","Medicina"
+"225133",71,2025,"2025-12","principal","Medicina"
+"225135",98,2025,"2025-12","principal","Medicina"
+"225136",43,2025,"2025-12","principal","Medicina"
+"225139",1,2025,"2025-12","principal","Medicina"
+"225140",37,2025,"2025-12","principal","Medicina"
+"225142",74,2025,"2025-12","principal","Medicina"
+"225145",1,2025,"2025-12","principal","Medicina"
+"225148",13,2025,"2025-12","principal","Medicina"
+"225150",126,2025,"2025-12","principal","Medicina"
+"225151",182,2025,"2025-12","principal","Medicina"
+"225155",105,2025,"2025-12","principal","Medicina"
+"225160",2,2025,"2025-12","principal","Medicina"
+"225165",108,2025,"2025-12","principal","Medicina"
+"225170",1,2025,"2025-12","principal","Medicina"
+"225175",3,2025,"2025-12","principal","Medicina"
+"225180",31,2025,"2025-12","principal","Medicina"
+"225185",33,2025,"2025-12","principal","Medicina"
+"225195",4,2025,"2025-12","principal","Medicina"
+"225203",49,2025,"2025-12","principal","Medicina"
+"225210",31,2025,"2025-12","principal","Medicina"
+"225215",10,2025,"2025-12","principal","Medicina"
+"225220",16,2025,"2025-12","principal","Medicina"
+"225225",221,2025,"2025-12","principal","Medicina"
+"225230",27,2025,"2025-12","principal","Medicina"
+"225235",29,2025,"2025-12","principal","Medicina"
+"225240",31,2025,"2025-12","principal","Medicina"
+"225250",379,2025,"2025-12","principal","Medicina"
+"225255",25,2025,"2025-12","principal","Medicina"
+"225260",55,2025,"2025-12","principal","Medicina"
+"225265",143,2025,"2025-12","principal","Medicina"
+"225270",204,2025,"2025-12","principal","Medicina"
+"225275",94,2025,"2025-12","principal","Medicina"
+"225280",43,2025,"2025-12","principal","Medicina"
+"225285",121,2025,"2025-12","principal","Medicina"
+"225290",23,2025,"2025-12","principal","Medicina"
+"225295",2,2025,"2025-12","principal","Medicina"
+"225305",4,2025,"2025-12","principal","Medicina"
+"225310",24,2025,"2025-12","principal","Medicina"
+"225315",7,2025,"2025-12","principal","Medicina"
+"225320",202,2025,"2025-12","principal","Medicina"
+"225325",4,2025,"2025-12","principal","Medicina"
+"225330",12,2025,"2025-12","principal","Medicina"
+"225335",8,2025,"2025-12","principal","Medicina"
+"225340",9,2025,"2025-12","principal","Medicina"
+"225345",2,2025,"2025-12","principal","Medicina"
+"225355",1,2025,"2025-12","principal","Medicina"
+"226305",7,2025,"2025-12","apoio_ou_outra",NA
+"226310",6,2025,"2025-12","apoio_ou_outra",NA
+"232120",1,2025,"2025-12","apoio_ou_outra",NA
+"239405",3,2025,"2025-12","apoio_ou_outra",NA
+"239410",1,2025,"2025-12","apoio_ou_outra",NA
+"239415",6,2025,"2025-12","apoio_ou_outra",NA
+"239425",17,2025,"2025-12","apoio_ou_outra",NA
+"239440",3,2025,"2025-12","apoio_ou_outra",NA
+"251505",3,2025,"2025-12","multiprofissional","Psicologia"
+"251510",389,2025,"2025-12","multiprofissional","Psicologia"
+"251520",6,2025,"2025-12","multiprofissional","Psicologia"
+"251530",1,2025,"2025-12","multiprofissional","Psicologia"
+"251535",1,2025,"2025-12","multiprofissional","Psicologia"
+"251540",5,2025,"2025-12","multiprofissional","Psicologia"
+"251545",12,2025,"2025-12","multiprofissional","Psicologia"
+"251550",3,2025,"2025-12","multiprofissional","Psicologia"
+"251555",2,2025,"2025-12","multiprofissional","Psicologia"
+"251605",237,2025,"2025-12","multiprofissional","Serviço social"
+"252105",33,2025,"2025-12","apoio_ou_outra",NA
+"252205",5,2025,"2025-12","apoio_ou_outra",NA
+"252210",4,2025,"2025-12","apoio_ou_outra",NA
+"252305",10,2025,"2025-12","apoio_ou_outra",NA
+"252510",1,2025,"2025-12","apoio_ou_outra",NA
+"261205",1,2025,"2025-12","apoio_ou_outra",NA
+"261305",1,2025,"2025-12","apoio_ou_outra",NA
+"262405",2,2025,"2025-12","apoio_ou_outra",NA
+"271105",1,2025,"2025-12","apoio_ou_outra",NA
+"300305",1,2025,"2025-12","apoio_ou_outra",NA
+"301110",3,2025,"2025-12","apoio_ou_outra",NA
+"312105",1,2025,"2025-12","apoio_ou_outra",NA
+"313120",1,2025,"2025-12","apoio_ou_outra",NA
+"313215",1,2025,"2025-12","apoio_ou_outra",NA
+"313220",5,2025,"2025-12","apoio_ou_outra",NA
+"313305",1,2025,"2025-12","apoio_ou_outra",NA
+"314115",1,2025,"2025-12","apoio_ou_outra",NA
+"314405",1,2025,"2025-12","apoio_ou_outra",NA
+"317110",4,2025,"2025-12","apoio_ou_outra",NA
+"317205",2,2025,"2025-12","apoio_ou_outra",NA
+"317210",3,2025,"2025-12","apoio_ou_outra",NA
+"322105",1,2025,"2025-12","apoio_ou_outra",NA
+"322110",3,2025,"2025-12","apoio_ou_outra",NA
+"322120",3,2025,"2025-12","apoio_ou_outra",NA
+"322125",1,2025,"2025-12","apoio_ou_outra",NA
+"322205",3453,2025,"2025-12","principal","Enfermagem – técnicos e auxiliares"
+"322210",4,2025,"2025-12","principal","Enfermagem – técnicos e auxiliares"
+"322215",1,2025,"2025-12","principal","Enfermagem – técnicos e auxiliares"
+"322225",85,2025,"2025-12","principal","Enfermagem – técnicos e auxiliares"
+"322230",779,2025,"2025-12","principal","Enfermagem – técnicos e auxiliares"
+"322235",2,2025,"2025-12","principal","Enfermagem – técnicos e auxiliares"
+"322245",85,2025,"2025-12","principal","Enfermagem – técnicos e auxiliares"
+"322255",184,2025,"2025-12","principal","Enfermagem – técnicos e auxiliares"
+"322305",1,2025,"2025-12","apoio_ou_outra",NA
+"322405",8,2025,"2025-12","principal","Odontologia e saúde bucal"
+"322415",110,2025,"2025-12","principal","Odontologia e saúde bucal"
+"322430",22,2025,"2025-12","principal","Odontologia e saúde bucal"
+"322605",8,2025,"2025-12","principal","Instrumentação cirúrgica"
+"324115",231,2025,"2025-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324120",16,2025,"2025-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324205",292,2025,"2025-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"324220",1,2025,"2025-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"325105",27,2025,"2025-12","principal","Farmácia – técnicos e auxiliares"
+"325110",4,2025,"2025-12","principal","Farmácia – técnicos e auxiliares"
+"325115",179,2025,"2025-12","principal","Farmácia – técnicos e auxiliares"
+"325205",1,2025,"2025-12","apoio_ou_outra",NA
+"331105",1,2025,"2025-12","apoio_ou_outra",NA
+"333110",1,2025,"2025-12","apoio_ou_outra",NA
+"351105",2,2025,"2025-12","apoio_ou_outra",NA
+"351505",1,2025,"2025-12","apoio_ou_outra",NA
+"351605",19,2025,"2025-12","apoio_ou_outra",NA
+"352210",2,2025,"2025-12","apoio_ou_outra",NA
+"354125",2,2025,"2025-12","apoio_ou_outra",NA
+"354205",1,2025,"2025-12","apoio_ou_outra",NA
+"354210",2,2025,"2025-12","apoio_ou_outra",NA
+"354705",1,2025,"2025-12","apoio_ou_outra",NA
+"371105",2,2025,"2025-12","apoio_ou_outra",NA
+"371410",1,2025,"2025-12","apoio_ou_outra",NA
+"391115",2,2025,"2025-12","apoio_ou_outra",NA
+"391205",2,2025,"2025-12","apoio_ou_outra",NA
+"391210",5,2025,"2025-12","apoio_ou_outra",NA
+"410105",45,2025,"2025-12","apoio_ou_outra",NA
+"410205",1,2025,"2025-12","apoio_ou_outra",NA
+"410215",2,2025,"2025-12","apoio_ou_outra",NA
+"410220",2,2025,"2025-12","apoio_ou_outra",NA
+"410235",2,2025,"2025-12","apoio_ou_outra",NA
+"411005",324,2025,"2025-12","apoio_ou_outra",NA
+"411010",625,2025,"2025-12","apoio_ou_outra",NA
+"411030",7,2025,"2025-12","apoio_ou_outra",NA
+"412110",33,2025,"2025-12","apoio_ou_outra",NA
+"412205",1,2025,"2025-12","apoio_ou_outra",NA
+"413105",1,2025,"2025-12","apoio_ou_outra",NA
+"413110",13,2025,"2025-12","apoio_ou_outra",NA
+"413115",59,2025,"2025-12","apoio_ou_outra",NA
+"414105",10,2025,"2025-12","apoio_ou_outra",NA
+"414125",10,2025,"2025-12","apoio_ou_outra",NA
+"415105",4,2025,"2025-12","apoio_ou_outra",NA
+"420130",4,2025,"2025-12","apoio_ou_outra",NA
+"421125",1,2025,"2025-12","apoio_ou_outra",NA
+"422105",315,2025,"2025-12","apoio_ou_outra",NA
+"422110",130,2025,"2025-12","apoio_ou_outra",NA
+"422205",26,2025,"2025-12","apoio_ou_outra",NA
+"422220",1,2025,"2025-12","apoio_ou_outra",NA
+"510105",1,2025,"2025-12","apoio_ou_outra",NA
+"510115",1,2025,"2025-12","apoio_ou_outra",NA
+"512115",4,2025,"2025-12","apoio_ou_outra",NA
+"513115",6,2025,"2025-12","apoio_ou_outra",NA
+"513205",4,2025,"2025-12","apoio_ou_outra",NA
+"513220",11,2025,"2025-12","apoio_ou_outra",NA
+"513315",3,2025,"2025-12","apoio_ou_outra",NA
+"513405",8,2025,"2025-12","apoio_ou_outra",NA
+"513425",7,2025,"2025-12","apoio_ou_outra",NA
+"513430",29,2025,"2025-12","apoio_ou_outra",NA
+"513505",10,2025,"2025-12","apoio_ou_outra",NA
+"514110",3,2025,"2025-12","apoio_ou_outra",NA
+"514120",1,2025,"2025-12","apoio_ou_outra",NA
+"514225",6,2025,"2025-12","apoio_ou_outra",NA
+"514230",4,2025,"2025-12","apoio_ou_outra",NA
+"514310",1,2025,"2025-12","apoio_ou_outra",NA
+"514320",349,2025,"2025-12","apoio_ou_outra",NA
+"515105",138,2025,"2025-12","principal","Agentes comunitários de saúde e afins"
+"515110",26,2025,"2025-12","principal","Agentes comunitários de saúde e afins"
+"515120",1,2025,"2025-12","principal","Agentes comunitários de saúde e afins"
+"515140",380,2025,"2025-12","principal","Agentes comunitários de saúde e afins"
+"515205",1,2025,"2025-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"515210",3,2025,"2025-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"515215",79,2025,"2025-12","principal","Diagnóstico e laboratório – técnicos e auxiliares"
+"515305",4,2025,"2025-12","apoio_ou_outra",NA
+"516210",5,2025,"2025-12","apoio_ou_outra",NA
+"516220",12,2025,"2025-12","apoio_ou_outra",NA
+"516335",3,2025,"2025-12","apoio_ou_outra",NA
+"516345",15,2025,"2025-12","apoio_ou_outra",NA
+"517110",2,2025,"2025-12","apoio_ou_outra",NA
+"517330",5,2025,"2025-12","apoio_ou_outra",NA
+"517410",11,2025,"2025-12","apoio_ou_outra",NA
+"517420",136,2025,"2025-12","apoio_ou_outra",NA
+"519110",7,2025,"2025-12","apoio_ou_outra",NA
+"519305",3,2025,"2025-12","apoio_ou_outra",NA
+"521130",32,2025,"2025-12","apoio_ou_outra",NA
+"715125",1,2025,"2025-12","apoio_ou_outra",NA
+"715210",2,2025,"2025-12","apoio_ou_outra",NA
+"715505",1,2025,"2025-12","apoio_ou_outra",NA
+"715615",4,2025,"2025-12","apoio_ou_outra",NA
+"716610",2,2025,"2025-12","apoio_ou_outra",NA
+"717020",3,2025,"2025-12","apoio_ou_outra",NA
+"724110",1,2025,"2025-12","apoio_ou_outra",NA
+"763010",2,2025,"2025-12","apoio_ou_outra",NA
+"763210",1,2025,"2025-12","apoio_ou_outra",NA
+"763215",1,2025,"2025-12","apoio_ou_outra",NA
+"766150",3,2025,"2025-12","apoio_ou_outra",NA
+"766420",1,2025,"2025-12","apoio_ou_outra",NA
+"782305",37,2025,"2025-12","apoio_ou_outra",NA
+"782310",5,2025,"2025-12","apoio_ou_outra",NA
+"782320",106,2025,"2025-12","apoio_ou_outra",NA
+"784205",14,2025,"2025-12","apoio_ou_outra",NA
+"818110",1,2025,"2025-12","apoio_ou_outra",NA
+"840105",2,2025,"2025-12","apoio_ou_outra",NA
+"862120",1,2025,"2025-12","apoio_ou_outra",NA
+"915305",1,2025,"2025-12","apoio_ou_outra",NA
+"951105",2,2025,"2025-12","apoio_ou_outra",NA
+"992210",3,2025,"2025-12","apoio_ou_outra",NA

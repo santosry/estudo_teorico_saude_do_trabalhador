@@ -148,7 +148,7 @@ CORPO = [
  "processados com detecção automática de delimitador. Como a RAIS captura apenas "
  "vínculos celetistas ativos em 31 de dezembro de cada ano, seus denominadores são "
  "comensuráveis com o numerador da CAT, que também cobre majoritariamente celetistas. "
- "Denominadores complementares do CNES foram obtidos do TABNET/DATASUS e sustentam "
+ "Denominadores complementares do CNES-PF foram obtidos com o pacote microdatasus (R) e sustentam "
  "razões exploratórias de densidade de comunicação. Todos os totais foram reproduzidos "
  "por rotina independente, com convergência integral. Células com menos de cinco "
  "registros foram agregadas.",
@@ -210,10 +210,10 @@ CORPO = [
  "de notificação. A robustez interna é alta. A predominância da enfermagem e a "
  "hierarquia das categorias mantêm-se em todos os cenários de sensibilidade, com "
  "participação da enfermagem entre 84,4% e 86,3%. As razões exploratórias com "
- "denominadores do CNES (9.803 profissionais em 2018, 13.275 em 2025) reforçam o "
- "gradiente. Nos anos de cobertura integral (2019 a 2021 e 2023) houve de 29,5 a "
- "43,5 CATs por 1.000 técnicos e auxiliares de enfermagem ao ano, de 19,4 a 32,7 "
- "por 1.000 enfermeiros e, na medicina, no máximo 3,6, com valores suprimidos nos "
+ "denominadores do CNES (13.839 profissionais em 2018, 18.382 em 2025) reforçam o "
+ "gradiente. Nos anos de cobertura integral (2019 a 2021 e 2023) houve de 25,0 a "
+ "36,6 CATs por 1.000 técnicos e auxiliares de enfermagem ao ano, de 16,5 a 28,0 "
+ "por 1.000 enfermeiros e 1,2 por 1.000 médicos em 2019, com valores suprimidos nos "
  "demais anos por contagens inferiores a cinco.",
 
  # §10 - Implicações
