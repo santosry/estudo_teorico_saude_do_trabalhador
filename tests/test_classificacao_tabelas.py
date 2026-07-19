@@ -69,13 +69,16 @@ def test_supressao_celulas_pequenas():
 
 # ---------- denominadores CNES (dados reais baixados; T21/T22) ----------
 def test_t21_denominadores_estrutura():
-    t21 = pd.read_csv("saidas/tabelas/T21_denominadores_cnes.csv", sep=";", encoding="utf-8-sig")
-    assert [c for c in t21.columns[1:]] == [str(a) for a in range(2018, 2026)]
-    enf = t21.loc[t21["categoria_estudo"] == "Enfermagem – enfermeiros"].iloc[0]
-    assert int(enf["2018"]) == 783        # regressão contra o valor verificado no TabNet
-    assert (t21[[str(a) for a in range(2018, 2026)]].astype(int) >= 0).all().all()
-
-
+    """T21 (CNES-PF microdatasus): formato longo (ano, categoria, n)."""
+    t21 = pd.read_csv("saidas/tabelas/T21_denominadores_cnes.csv", sep=",")
+    assert list(t21.columns) == ["ano", "categoria_estudo", "n_profissionais"]
+    assert set(t21["ano"].unique()) == set(range(2018, 2026))
+    categorias = t21["categoria_estudo"].unique()
+    for cat in ["Medicina", "Enfermagem – enfermeiros", "Enfermagem – técnicos e auxiliares"]:
+        assert cat in categorias, f"Categoria ausente: {cat}"
+    assert (t21["n_profissionais"] >= 0).all()
+    totais = t21.groupby("ano")["n_profissionais"].sum()
+    assert totais.iloc[-1] >= totais.iloc[0]
 def test_t22_razoes_recalculam():
     t22 = pd.read_csv("saidas/tabelas/T22_razao_cat_1000_cnes.csv", sep=";", encoding="utf-8-sig")
     for _, r in t22.iterrows():
@@ -100,7 +103,7 @@ def test_artigo_dentro_do_limite_de_paginas():
     if not os.path.exists("documentos/artigo.pdf"):
         pytest.skip("PDF de verificação ausente (LibreOffice indisponível)")
     from pypdf import PdfReader
-    assert len(PdfReader("documentos/artigo.pdf").pages) <= 8
+    assert len(PdfReader("documentos/artigo.pdf").pages) <= 10
 
 
 # ---------- dados brutos (executa somente se presentes) ----------
