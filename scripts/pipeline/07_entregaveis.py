@@ -255,7 +255,6 @@ RAIS/eSocial permanece como denominador prioritário (bloqueio documentado em
 ## Distribuição dos dados brutos
 `python scripts/ferramentas/empacotar_dados_brutos.py` gera ZIPs por ano em `distribuicao/`
 (+ SHA-256 em `metadados/SHA256SUMS_distribuicao.txt`) para anexar a uma release do GitHub
-(`gh release create v1.0.0 distribuicao/*.zip`) ou depósito Zenodo.
 `python scripts/ferramentas/restaurar_dados_brutos.py` extrai os ZIPs e confere cada CSV
 contra o manifesto antes de liberar a reprodução.
 

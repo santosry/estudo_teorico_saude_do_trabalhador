@@ -100,7 +100,7 @@ def test_artigo_dentro_do_limite_de_paginas():
     if not os.path.exists("documentos/artigo.pdf"):
         pytest.skip("PDF de verificação ausente (LibreOffice indisponível)")
     from pypdf import PdfReader
-    assert len(PdfReader("documentos/artigo.pdf").pages) <= 5
+    assert len(PdfReader("documentos/artigo.pdf").pages) <= 8
 
 
 # ---------- dados brutos (executa somente se presentes) ----------

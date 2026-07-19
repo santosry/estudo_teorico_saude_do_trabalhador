@@ -1,0 +1,246 @@
+---
+title: "Trabalho e desgaste nas profissões da saúde de Campos dos Goytacazes"
+subtitle: "Comunicações de Acidente de Trabalho (CAT), regimes previdenciários e determinação social do processo saúde-doença, 2018-2025"
+author: "Ryan Santos"
+date: "Julho de 2026"
+output:
+  ioslides_presentation:
+    widescreen: true
+    smaller: true
+---
+
+## Estrutura
+
+1. Por que este estudo
+2. Campos dos Goytacazes: território e desigualdade
+3. Duplo regime previdenciário municipal
+4. Fontes e método
+5. Quem se acidenta
+6. O que causa os acidentes
+7. A epidemia invisível
+8. Implicações e limites
+
+---
+
+## Por que este estudo
+
+**O trabalho é um processo social, econômico e político historicamente determinado** (Oliveira, 2004)
+
+- A Saúde do Trabalhador afirma a determinação social do processo saúde-doença
+- No setor saúde, o cuidado se realiza sob divisão social e técnica do trabalho
+- 30% a 50% dos vínculos do SUS são precários
+- A CAT registra apenas o universo celetista
+
+> Mendes & Dias (1991); Cecilio & Lacaz (2012)
+
+---
+
+## Campos dos Goytacazes
+
+```{r, echo=FALSE, fig.width=8, fig.height=4}
+dados <- data.frame(
+  Indicador = c("População (2022)", "IDHM (2010)", "PIB per capita (2023)", 
+                "Pobreza (<½ SM, 2010)", "Quilombolas", "Indígenas"),
+  Valor = c("483.540 hab.", "0,716", "R$ 88.831", "37,7%", "3.083", "363")
+)
+barplot(rep(1,6), names.arg=dados$Indicador, horiz=TRUE, las=1, col="steelblue")
+```
+
+- Maior município fluminense (4.032,5 km²)
+- IDHM abaixo da média estadual (RJ = 0,761)
+- Economia dependente do petróleo
+- 16.776 empresas, 15.002 postos na saúde
+
+---
+
+## Duplo regime previdenciário
+
+**A prefeitura de Campos mantém dois regimes:** 
+
+```{r, echo=FALSE}
+library(ggplot2)
+df <- data.frame(
+  Regime = c("RPPS (estatutários)", "INSS (celetistas)"),
+  Contribuicoes = c(61.2, 18.3)
+)
+ggplot(df, aes(x=Regime, y=Contribuicoes, fill=Regime)) +
+  geom_col() + ylab("R$ milhões (2024)") + theme_minimal()
+```
+
+- **RPPS**: R$ 61,2 milhões + R$ 2,5 mi de aporte atuarial
+- **INSS**: R$ 18,3 milhões
+- A CAT cobre apenas o INSS. Estatutários ficam invisíveis
+- Dados do Portal da Transparência, 2020-2024
+
+---
+
+## Mortalidade como indicador social
+
+```{r, echo=FALSE}
+anos <- 2019:2024
+obitos <- c(4299, 4831, 5635, 4608, 4199, 4346)
+taxas <- c(8.5, 9.5, 10.9, 9.5, 8.1, 8.4)
+plot(anos, taxas, type="b", col="darkred", lwd=2, pch=19,
+     main="Taxa bruta de mortalidade (por 1.000 hab.)",
+     ylim=c(7,12), xlab="Ano", ylab="Taxa/1.000")
+abline(v=2021, lty=2, col="gray")
+text(2021, 11.2, "Pico covid-19", cex=0.8)
+```
+
+- **2021**: doenças infecciosas tornaram-se a 1ª causa (27,5%)
+- Fonte: SIM/DATASUS, processado com microdatasus (R)
+
+---
+
+## Fontes e método
+
+| Fonte | Acesso | Período |
+|-------|--------|---------|
+| CAT/INSS | Portal de Dados Abertos | 2018-2025 |
+| RAIS | FTP do MTE | 2018-2025 |
+| SIM | DATASUS (microdatasus) | 2019-2024 |
+| CNES | TABNET/DATASUS | 2018-2025 |
+| CEMPRE, SIDRA | IBGE | 2022-2024 |
+| Finanças, RPPS | Siconfi, Portal Transparência | 2013-2024 |
+
+- Pipeline reprodutível (Python + R), 12 scripts, 38 testes
+- 938 duplicados removidos (401 hashes SHA-256)
+- 458 CBOs com dicionário auditado
+
+---
+
+## Quem se acidenta: 1.144 CATs (2018-2025)
+
+```{r, echo=FALSE}
+cats <- c(803, 163, 78, 30, 20, 14, 12, 24)
+nomes <- c("Téc. enf.", "Enfermeiros", "Diag./lab.", "Fisioterapia",
+           "Farm. téc.", "ACS", "Medicina", "Demais")
+pie(cats, labels=paste(nomes, cats), col=rainbow(8), main="Distribuição das CATs")
+```
+
+- **84,4% concentrados na enfermagem**
+- 85,7% mulheres, idade mediana 36 anos
+- 81,9% acidentes típicos, 1,0% doenças
+
+---
+
+## Medicina invisível
+
+```{r, echo=FALSE}
+anos <- 2018:2025
+medicos_rais <- c(1393, 1346, 1252, 1208, 1237, 1156, 1121, 1099)
+medicos_cat <- c(4, 5, 1, 0, 0, 0, 2, 0)
+plot(anos, medicos_rais, type="b", col="blue", lwd=2, ylim=c(0,1500),
+     main="Médicos: RAIS vs CAT", ylab="Número")
+lines(anos, medicos_cat*100, type="b", col="red", lwd=2)
+legend("topright", c("Vínculos RAIS", "CATs x100"), col=c("blue","red"), lwd=2, cex=0.7)
+```
+
+- **1.099 a 1.393 médicos celetistas ativos** (RAIS 2018-2025)
+- **12 CATs em 8 anos**
+- Vínculos estatutários e PJ fora do alcance da CAT
+- Desigualdade de proteção e de reconhecimento
+
+---
+
+## O que causa os acidentes
+
+```{r, echo=FALSE}
+ library(ggplot2)
+ df <- data.frame(
+   Causa = c("Dedo", "Biológico/Infeccioso", "S61 (ferimento)", "Z20 (exposição)"),
+   Pct = c(43.9, 26.9, 25.1, 21.9)
+ )
+ ggplot(df, aes(x=reorder(Causa, Pct), y=Pct)) +
+   geom_col(fill="steelblue") + coord_flip() +
+   ylab("% dos registros") + xlab("") + theme_minimal()
+```
+
+- Perfurocortantes + exposição biológica = padrão da enfermagem
+- 95,4% em estabelecimentos CNAE 86-87 (76,8% hospitais)
+- Empregador emite 97,0% das CATs, mediana de 1 dia
+
+---
+
+## Evolução temporal
+
+```{r, echo=FALSE}
+periodos <- c("Pré-covid\n(jul/2018-fev/2020)", "Crítico\n(mar/2020-dez/2021)", "Pós\n(2022-2023)")
+medias <- c(13.8, 14.5, 11.9)
+barplot(medias, names.arg=periodos, col=c("gray60", "darkred", "gray60"),
+        main="Média mensal de CATs por período", ylab="Registros/mês")
+```
+
+- Elevação modesta durante a pandemia (+0,7/mês)
+- Oscilações também refletem cobertura da fonte
+- A fonte é a CAT, não o acidente
+
+---
+
+## A epidemia invisível
+
+**Subnotificação seletiva:**
+
+- Doenças: apenas 1,0% das CATs
+- O sistema captura a lesão aguda e visível
+- Adoecimento crônico (LER/DORT, transtornos mentais) permanece oculto
+- ACS e ACE: 14 registros em 8 anos
+- Servidores estatutários (RPPS): sem base consolidada nacional
+
+**A CAT é uma fotografia parcial do desgaste**
+
+---
+
+## Implicações
+
+1. **Proteger a base técnica da enfermagem**
+   Perfurocortantes e exposição biológica são prioritários
+
+2. **Romper a invisibilidade previdenciária**
+   Articular CAT, SINAN, RAIS, CNES e registros do RPPS municipal
+
+3. **Qualificar os registros**
+   3,6% sem CBO válido, concentrados em 2021-2023
+
+4. **Reconhecer a dependência fiscal**
+   71% das receitas são transferências. O financiamento da saúde oscila com o petróleo
+
+---
+
+## Limitações
+
+- A CAT não é a totalidade dos acidentes
+- Cobre essencialmente celetistas
+- Cobertura irregular da fonte (2018, 2022, 2024-2025)
+- Sem denominadores plenamente compatíveis
+- RPPS municipal sem base consolidada de acesso público
+- Desenho descritivo, sem inferência causal
+
+**Próximo passo:** acessar os registros de acidentes e adoecimentos do RPPS municipal para comparar os dois regimes
+
+---
+
+## Referências
+
+<small>
+ANTUNES, R. **O privilégio da servidão**. Boitempo, 2018.
+CECILIO, L. C. O.; LACAZ, F. A. C. **O trabalho em saúde**. Cebes, 2012.
+LEMOS, M. R. Estratificação social na teoria de Max Weber. **Revista Iluminart**, 2012.
+MARTINS, S.; HASENCLEVER, L.; MIRANDA, C. A gestão da saúde... **Cad. Desenvolv. Fluminense**, 2024.
+MENDES, R.; DIAS, E. C. Da medicina do trabalho à saúde do trabalhador. **Rev. Saúde Pública**, 1991.
+OLIVEIRA, E. M. Transformações no mundo do trabalho. **Caminhos de Geografia**, 2004.
+SILVA, J. E. M.; HASENCLEVER, L. Ciclo do petróleo... **Desenvolvimento em Questão**, 2019.
+VEDOVATO, T. G. *et al.* Trabalhadores(as) da saúde e a COVID-19. **Rev. Bras. Saúde Ocup.**, 2021.
+</small>
+
+---
+
+## Obrigado
+
+**Ryan Santos**
+
+Repositório: `github.com/santosry/estudo_te-rico-sa-de_do_trabalhador`
+
+**Pipeline reprodutível, auditado e validado**
+12 scripts + 38 testes
+Python + R + LibreOffice

@@ -1,0 +1,16 @@
+{
+ "fonte": "SIM/DATASUS — CSVs filtrados para Campos (CODMUNRES=330100)",
+ "arquivos_origem": [
+  "dados/brutos/sim/SIM_Campos_2019.csv",
+  "dados/brutos/sim/SIM_Campos_2020.csv",
+  "dados/brutos/sim/SIM_Campos_2021.csv",
+  "dados/brutos/sim/SIM_Campos_2022.csv",
+  "dados/brutos/sim/SIM_Campos_2023.csv",
+  "dados/brutos/sim/SIM_Campos_2024.csv"
+ ],
+ "periodo": "2019-2024",
+ "municipio": "Campos dos Goytacazes (330100)",
+ "proveniencia_csvs": "Baixados via TABNET (http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/obt10RJ.def) — Linha=Município, Coluna=Ano do Óbito, Conteúdo=Óbitos por Residência, filtro CODMUNRES=330100",
+ "nota_populacao_2023": "População 2023 interpolada linearmente: (2021 + 2024) / 2 = 516.827. A estimativa oficial 2023 do IBGE não consta no arquivo SIDRA baixado.",
+ "execucao": "2026-07-18T20:49:23"
+}

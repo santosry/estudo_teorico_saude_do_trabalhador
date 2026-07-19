@@ -1,71 +1,153 @@
-# Saúde do Trabalhador em Campos dos Goytacazes — CAT/INSS 2018–2025
+# Trabalho e desgaste nas profissões da saúde de Campos dos Goytacazes
 
-Reconstrução integral e auditada da análise das Comunicações de Acidente de Trabalho (CAT/INSS)
-vinculadas a empregadores de Campos dos Goytacazes/RJ (código 330100), 2018–2025, para **todas as
-profissões da saúde** (CBO 2002), articulada à formação histórico-social e econômica do município.
-Etapa SmartLab excluída por decisão metodológica (nenhum arquivo dessa origem no projeto).
-A análise legada (medicina x enfermagem) foi catalogada e auditada em `scripts/legado/`, sem
-reaproveitamento de resultados.
+Estudo teórico-conceitual e documental com pipeline reprodutível e auditado. Analisa as Comunicações de Acidente de Trabalho (CAT) do INSS entre profissões da saúde, à luz da formação histórico-social do município, do duplo regime previdenciário (RPPS e INSS) e dos indicadores de mortalidade e finanças públicas.
+
+---
+
+## Fontes de dados
+
+| Base | Fonte | Período | Método | Variáveis principais | Valor-chave no estudo |
+|------|-------|---------|--------|---------------------|----------------------|
+| **CAT/INSS** | Portal de Dados Abertos ([dados.gov.br](https://dados.gov.br)) | jul/2018 a out/2025 (58 arquivos) | Download direto CSV, leitura posicional (4 esquemas) | CBO, CID-10, CNAE, data do acidente, município do empregador, sexo, tipo de acidente | **1.144 CATs** de profissões da saúde em Campos; **84,4%** concentrados na enfermagem |
+| **RAIS/PDET** | FTP do MTE ([ftp.mtps.gov.br](ftp://ftp.mtps.gov.br/pdet/microdados/RAIS)) | 2018-2025 (8 anos) | `ftplib` (Python), extração `py7zr`, streaming, auto-detecção de delimitador (`;` ou `,`) | CBO 2002 (col. 7), CNAE 2.0 (col. 8), Vínculo Ativo 31/12 (col. 11), Município (col. 25) | **1.099 a 1.393** médicos celetistas ativos em Campos; denominadores comensuráveis com a CAT |
+| **SIM/DATASUS** | FTP do DATASUS + `microdatasus` (R, v2.5.0) | 2019-2024 (6 anos) | Download .DBC, conversão via `read.dbc` (CRAN), filtragem CODMUNRES = 330100 | CAUSABAS (CID-10), CODMUNRES, IDADE, SEXO | **4.199 a 5.635** óbitos/ano; **10,9/1.000** em 2021 (pico); infecciosas como 1ª causa |
+| **CNES** | TABNET/DATASUS ([tabnet.datasus.gov.br](http://tabnet.datasus.gov.br)) | dez/2018 a dez/2025 | Download manual CSV pelo TABNET | CBO 2002, quantidade de profissionais, competência | **9.803** profissionais em 2018; **13.275** em 2025; razões exploratórias CAT/CNES |
+| **IBGE/SIDRA** | [SIDRA](https://sidra.ibge.gov.br) | Censo 2022 + estimativas | Download manual CSV | População, PIB, área, densidade, alfabetização | **483.540** hab. (2022); IDHM **0,716**; PIB per capita **R$ 88.831** |
+| **CEMPRE** | [IBGE Cidades](https://cidades.ibge.gov.br) | 2024 | Download manual CSV | Empresas, pessoal ocupado, salários, setor CNAE | **16.776** empresas; saúde: **1.544** estab. / **15.002** pessoas |
+| **Siconfi/STN** | [Siconfi](https://siconfi.tesouro.gov.br) | 2013-2024 | Download manual CSV | Receitas, despesas, transferências | Receitas **R$ 2,95 bi** (71% transferências); despesas **R$ 3,31 bi** |
+| **Portal da Transparência** | [Prefeitura de Campos](https://transparencia.campos.rj.gov.br) | 2020-2024 | Download manual CSV (despesas por natureza econômica) | Contribuições patronais RPPS e INSS, pessoal, custeio | RPPS: **R$ 61,2 mi** (estatutários); INSS: **R$ 18,3 mi** (celetistas); déficit atuarial RPPS: **R$ 2,5 mi** |
+
+### Notas sobre as fontes
+
+- **CAT e RAIS** capturam majoritariamente vínculos celetistas. Seus denominadores são **comensuráveis** (mesmo universo).
+- **CNES** inclui estatutários, autônomos e PJ, não cobertos pela CAT. Gera apenas **razões exploratórias**.
+- **SIM** foi processado com o pacote R `microdatasus` (GitHub `rfsaldanha/microdatasus`), que baixa arquivos .DBC do FTP do DATASUS e os converte com `read.dbc`.
+- **RPPS municipal**: não há base nacional consolidada de acidentes e adoecimentos de servidores estatutários. Os dados de contribuições previdenciárias foram obtidos do Portal da Transparência, mas os registros de afastamentos por acidente/doença de estatutários não são publicizados como microdados.
+- **RAIS 2023-2025**: o delimitador mudou de `;` (2018-2022) para `,` (2023+). O pipeline detecta automaticamente.
+
+---
 
 ## Estrutura do repositório
+
 ```
-artigos-fonte/        # PDFs teóricos (NÃO versionados — direitos autorais; ver README local)
-dados/
-  brutos/cat-inss/    # 58 CSV CAT/INSS (NÃO versionados — 1,8 GB; ver README local p/ download)
-  brutos/sidra-campos/# tabelas SIDRA/IBGE (versionadas)
-  manifesto/          # inventário com SHA-256 de todos os arquivos-fonte
-  processados/        # bases processadas (CSV/Parquet) e logs de decisão
-documentos/           # artigo.docx (≤5 págs) + 3 relatórios (metodológico e auditorias)
-logs/                 # logs de execução, auditoria, qualidade e validação independente
-metadados/            # dicionários (variáveis, CBO-saúde), matriz teórica, fluxo, versões
-referencias/          # referências verificadas, dicionário oficial da fonte, espelho CBO
-saidas/tabelas|figuras/
-scripts/pipeline/     # 01–09 (executar em ordem)
-scripts/legado/       # scripts originais catalogados + cópias auditadas comentadas
+.
+├── scripts/pipeline/          # 12 scripts numerados
+├── dados/
+│   ├── brutos/                # Dados brutos baixados
+│   │   ├── cat-inss/          # 58 CSVs da CAT (jul/2018 a out/2025)
+│   │   ├── rais/              # RAIS (microdados de vínculos, 7z)
+│   │   ├── sim/               # SIM (óbitos, CSVs processados)
+│   │   ├── cnes-rh/           # CNES (profissionais por ocupação)
+│   │   ├── sidra-campos/      # IBGE/SIDRA (Censo, PIB, população)
+│   │   └── ibge/              # CEMPRE, Finanças públicas
+│   ├── processados/           # Dados processados
+│   └── manifesto/             # Manifesto de arquivos (hashes)
+├── despesas campos/           # Portal da Transparência (2020-2024)
+├── saidas/
+│   ├── tabelas/               # Tabelas finais (CSV)
+│   └── figuras/               # Figuras (PNG + SVG)
+├── documentos/                # Artigo .docx e .pdf
+├── apresentacao/              # Slides RMarkdown (ioslides)
+├── logs/                      # Logs de execução
+├── metadados/                 # Dicionários, matriz de revisão teórica
+├── testes/                    # 38 testes automatizados (pytest)
+└── artigos-fonte/             # PDFs de artigos de referência
 ```
 
-## Reprodução
+---
+
+## Pipeline de processamento
+
+| Script | Função |
+|--------|--------|
+| `01_inventario.py` | Inventaria os 58 arquivos CAT (esquema, codificação, datas) |
+| `02_ingestao_cat.py` | Leitura posicional, hash SHA-256, detecção de duplicidades |
+| `03_processamento_campos.py` | Filtro municipal (330100 + UF=RJ), limpeza, parsing de datas |
+| `04_dicionario_cbo_classificacao.py` | Dicionário auditado de 458 CBOs, classificação em universos |
+| `05_analises.py` | Análises descritivas, tabelas e figuras |
+| `06_validacao_independente.py` | Rotina independente de verificação (convergência integral) |
+| `07_entregaveis.py` | Geração das tabelas e gráficos finais |
+| `08_relatorios_docx.py` | Relatórios complementares em DOCX |
+| `09_artigo_docx.py` | Geração do artigo (A4, Times New Roman 11, espaçamento 1,5) |
+| `10_denominadores_cnes.py` | Denominadores CNES (razões exploratórias) |
+| `11_denominadores_rais.py` | Denominadores RAIS (vínculos celetistas, denominadores comensuráveis) |
+| `12_sim_mortalidade.R` | SIM/DATASUS via microdatasus (R) — mortalidade e taxas |
+
+---
+
+## Auditoria e qualidade
+
+- **938 registros duplicados removidos** entre arquivos de cobertura sobreposta (401 hashes SHA-256 distintos)
+- **12 registros excluídos** por UF divergente do código 330100
+- **458 códigos CBO** com dicionário auditado (descrição oficial, família, nível de formação)
+- **184 registros sem CBO válido** (3,6%), mantidos em categoria própria
+- **38 testes automatizados** (pytest) para classificação e integridade
+- Verificação de **travessão/meia-risca** proibidos no texto
+- Verificação automática de **número de páginas** via LibreOffice headless
+
+---
+
+## Como reproduzir
+
+### Requisitos
+- Python 3.10+ com pandas, py7zr, python-docx, pypdf, dbfread
+- R 4.0+ com microdatasus, read.dbc
+- LibreOffice (para verificação de páginas do artigo)
+
+### Execução
+
 ```bash
-pip install -r metadados/requirements.txt
+# Pipeline CAT completo
 python scripts/pipeline/01_inventario.py
 python scripts/pipeline/02_ingestao_cat.py
 python scripts/pipeline/03_processamento_campos.py
 python scripts/pipeline/04_dicionario_cbo_classificacao.py
 python scripts/pipeline/05_analises.py
-python scripts/pipeline/06_validacao_independente.py   # exit 1 se totais divergirem
+python scripts/pipeline/06_validacao_independente.py
 python scripts/pipeline/07_entregaveis.py
-python scripts/pipeline/08_relatorios_docx.py
-python scripts/pipeline/09_artigo_docx.py              # requer LibreOffice p/ conferir páginas
-python scripts/pipeline/10_denominadores_cnes.py       # denominadores reais CNES/TabNet (rede)
+
+# Denominadores
+python scripts/pipeline/10_denominadores_cnes.py
+python scripts/pipeline/11_denominadores_rais.py
+
+# SIM (mortalidade)
+Rscript scripts/pipeline/12_sim_mortalidade.R
+
+# Artigo
+python scripts/pipeline/09_artigo_docx.py
+
+# Testes
+python -m pytest tests/ -v
 ```
-Caminhos relativos à raiz; sem procedimentos aleatórios; logs em `logs/`.
-Os dados brutos da CAT devem ser obtidos conforme `dados/brutos/cat-inss/README.md` e conferidos
-pelos hashes de `dados/manifesto/manifesto_arquivos.csv`.
 
-## Testes e integração contínua
-`python -m pytest tests -q` — 38+ testes sobre os DADOS REAIS versionados (filtro municipal,
-deduplicação, classificação CBO, tabelas, supressão, denominadores, limite de páginas do artigo).
-Testes que exigem os brutos (não versionados) são pulados automaticamente — nunca simulados.
-O workflow `.github/workflows/ci.yml` roda os testes, reprocessa os estágios deriváveis e exige
-que os CSVs regenerados sejam idênticos aos versionados (determinismo).
+---
 
-## Denominadores (CNES) e razões exploratórias
-`10_denominadores_cnes.py` baixa do TabNet/DataSUS os profissionais (indivíduos) por ocupação
-CBO 2002 em Campos (330100), dez/2018–dez/2025, com verificação dupla de totais e brutos em
-`dados/brutos/cnes-rh/`. As razões CAT/1.000 profissionais (T22) são EXPLORATÓRIAS: o CNES
-inclui vínculos estatutários/autônomos/PJ, fora da cobertura da CAT — não são incidência.
-RAIS/eSocial permanece como denominador prioritário (bloqueio documentado em
-`logs/log_10_denominadores.json`).
+## Artigo
 
-## Distribuição dos dados brutos
-`python scripts/ferramentas/empacotar_dados_brutos.py` gera ZIPs por ano em `distribuicao/`
-(+ SHA-256 em `metadados/SHA256SUMS_distribuicao.txt`) para anexar a uma release do GitHub
-(`gh release create v1.0.0 distribuicao/*.zip`) ou depósito Zenodo.
-`python scripts/ferramentas/restaurar_dados_brutos.py` extrai os ZIPs e confere cada CSV
-contra o manifesto antes de liberar a reprodução.
+- **Título:** Trabalho e desgaste nas profissões da saúde de Campos dos Goytacazes
+- **Formato:** A4, Times New Roman 11, espaçamento 1,5, margens 2,5 cm
+- **7 páginas** (limite: 8)
+- **4 tabelas + 2 figuras + 9 referências**
+- **Normas:** ABNT NBR 10520:2023 (citações), ABNT NBR 6023:2025 (referências)
+- Arquivos: `documentos/artigo.docx` e `documentos/artigo.pdf`
 
-## Advertência interpretativa
-CAT = comunicações registradas (emprego formal celetista), não a totalidade dos acidentes; sem
-denominadores (RAIS/eSocial-PDET; CNES) não se calculam incidência/risco/taxa. Coberturas parciais
-da fonte: 2018 (competências desde jul.), 2022 (carga irregular), 2024 (set–dez atípicos) e 2025
-(parcial até out.).
+---
+
+## Apresentação
+
+Slides em RMarkdown (formato ioslides): `apresentacao/slides.Rmd`
+
+```bash
+cd apresentacao
+Rscript -e "rmarkdown::render('slides.Rmd')"
+```
+
+---
+
+## Licença
+
+MIT.
+
+## Citação
+
+SANTOS, Ryan. **Trabalho e desgaste nas profissões da saúde de Campos dos Goytacazes**. 2026. `github.com/santosry/estudo_te-rico-sa-de_do_trabalhador`.

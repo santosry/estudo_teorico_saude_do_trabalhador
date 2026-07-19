@@ -4,6 +4,11 @@ dados/brutos/cat-inss/*.csv
 # Material teórico protegido por direitos autorais — não redistribuir
 artigos-fonte/*.pdf
 
+# Dados brutos de grande volume — obter conforme documentação de cada fonte
+dados/brutos/rais/*.7z
+dados/brutos/sim/*.dbc
+dados/brutos/sim/*.dbf
+
 # Artefatos locais
 __pycache__/
 *.pyc
@@ -14,3 +19,4 @@ Thumbs.db
 *.tmp
 distribuicao/
 .pytest_cache/
+*.part

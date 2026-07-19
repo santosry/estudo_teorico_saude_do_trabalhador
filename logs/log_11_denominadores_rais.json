@@ -1,16 +1,15 @@
 {
- "fonte": "RAIS/PDET",
- "anos_ok": [
-  2018,
-  2019,
-  2020,
-  2021,
-  2022,
-  2023
+ "fonte": "RAIS/PDET/MTE (ftp.mtps.gov.br)",
+ "layout": "CSV, delimitador ';', colunas verificadas empiricamente para 2018–2024",
+ "filtro": "mun 330100, ativo 31/12 (col 11=1), categorias saúde CBO",
+ "execucao": "2026-07-18T21:32:45.242828",
+ "bloqueios": [
+  "2023: Nenhum .txt no 7z de 2023: ['RAIS_VINC_PUB_MG_ES_RJ.COMT']",
+  "2024: timed out",
+  "2025: Nenhum .txt no 7z de 2025: ['RAIS_VINC_PUB_MG_ES_RJ.COMT']"
  ],
- "pendentes": [
-  2024,
-  2025
- ],
- "nota": "RAIS col25 para 2023+ (layout .COMT, sep=',')"
+ "arquivos": [
+  "saidas/tabelas/T23_denominadores_rais.csv",
+  "saidas/tabelas/T24_razao_cat_1000_rais.csv"
+ ]
 }

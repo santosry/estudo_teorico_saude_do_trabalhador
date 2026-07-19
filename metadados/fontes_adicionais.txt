@@ -1,0 +1,85 @@
+# Fontes adicionais de dados citados no artigo
+# Data de auditoria: 2026-07-18
+# 
+# Nem todos os dados citados no artigo constam dos CSVs do SIDRA versionados em
+# dados/brutos/sidra-campos/. As fontes abaixo complementam a caracterização municipal.
+# O log de download (log_download_sidra.csv) documenta 8 tabelas que falharam.
+
+# ---- Dados do IBGE Cidades (https://cidades.ibge.gov.br) ----
+# URL base: https://cidades.ibge.gov.br/brasil/rj/campos-dos-goytacazes/panorama
+# Data de consulta: 2026-07-18
+
+idhm_2010 = 0.716
+# Fonte: IBGE Cidades, panorama. O IDHM não está nos CSVs do SIDRA (tabela específica
+# do PNUD/Atlas Brasil, não do SIDRA).
+
+salario_medio_mensal_2023 = 2.1  # salários mínimos
+pessoal_ocupado_formal_2023 = 114135
+# Fonte: IBGE Cidades > Trabalho e Rendimento (Cadastro Central de Empresas - CEMPRE)
+
+densidade_demografica_2022 = 119.9  # hab/km²
+area_territorial = 4032.5  # km²
+# Fonte: IBGE, Censo 2022 / Malha Municipal
+
+# ---- Dados do Censo 2022 (tabelas SIDRA que falharam) ----
+# Tabelas 9518 (alfabetização), 9519 (rendimento), 9520 (trabalho),
+# 9607 (domicílios), 9609 (esgotamento), 9610 (destino lixo)
+# Estas tabelas NÃO foram baixadas (erro "This table does not exists" ou
+# "Parâmetro N6 incompatível"). Os dados correspondentes no artigo foram
+# obtidos diretamente do site do IBGE Cidades ou do Censo 2022 via
+# https://cidades.ibge.gov.br/brasil/rj/campos-dos-goytacazes/pesquisa/23/25207
+
+taxa_alfabetizacao_15_anos_ou_mais = 95.1  # %
+# Fonte: IBGE Cidades (Censo 2022)
+
+populacao_renda_ate_meio_sm_2010 = 37.7  # %
+# Fonte: IBGE Cidades (Censo 2010). Observação: o Censo 2022 não divulga
+# este indicador com a mesma metodologia.
+
+# ---- Dados do Cadastro Central de Empresas ----
+# Arquivo: dados/brutos/ibge/Cadastro Central de Empresas - Campos dos Goytacazes.csv
+empresas_atuantes_2024 = 16776
+unidades_locais_2024 = 18159
+pessoal_ocupado_total_2024 = 114466
+pessoal_ocupado_assalariado_2024 = 93366
+saude_unidades_2024 = 1544
+saude_pessoal_ocupado_2024 = 15002
+# Fonte: IBGE, CEMPRE 2024 (arquivo presente no repositório)
+
+# ---- Dados de Finanças Públicas ----
+# Arquivo: dados/brutos/ibge/Finanças públicas - Campos dos Goytacazes.csv
+receitas_brutas_2024 = 2950000000  # ~R$ 2,95 bilhões
+transferencias_correntes_pct_2024 = 71.0
+despesas_empenhadas_2024 = 3310000000  # ~R$ 3,31 bilhões
+# Fonte: Siconfi/STN (arquivo presente no repositório)
+
+# ---- PIB municipal ----
+# Arquivo: dados/brutos/sidra-campos/pib_municipal.csv (tabela SIDRA 5938)
+# PIB 2013: R$ 58,4 bi; PIB 2020: R$ 23,9 bi; PIB 2023: R$ 43,0 bi
+# Fonte: IBGE/SIDRA, tabela 5938, preços correntes (arquivo presente no repositório)
+
+# ---- PIB per capita ----
+# Calculado como PIB (tabela 5938) ÷ população (tabela 6579)
+# 2023: R$ 43.026.680.000 / 484.415* ≈ R$ 88.831,26
+# * População 2023 usada no cálculo do IBGE pode diferir da estimativa interpolada.
+pib_per_capita_2023 = 88831.26
+# Fonte: IBGE/SIDRA (cálculo próprio com dados das tabelas 5938 e 6579)
+
+# ---- População quilombola e indígena ----
+# Arquivo: dados/brutos/sidra-campos/populacao_cor_raca_censo_2022.csv (tabela SIDRA 9606)
+populacao_quilombola_2022 = 3083
+populacao_indigena_2022 = 363
+# Fonte: IBGE, Censo 2022 (arquivo presente no repositório)
+
+# ---- Cor/raça ----
+# Arquivo: dados/brutos/sidra-campos/populacao_cor_raca_censo_2022.csv
+pop_branca_pct_2022 = 42.1
+pop_parda_pct_2022 = 40.1
+pop_preta_pct_2022 = 17.7
+# Fonte: IBGE, Censo 2022 (arquivo presente no repositório)
+
+# ---- População (denominador para taxas de mortalidade) ----
+# 2019: 507.548; 2020: 511.168; 2021: 514.643
+# 2022: 483.540 (Censo); 2023: 516.827 (interpolado); 2024: 519.011
+# Fonte: IBGE, estimativas populacionais (tabela SIDRA 6579) + Censo 2022.
+# NOTA: 2023 interpolado = (514.643 + 519.011) / 2. Ver logs/log_12_sim_mortalidade.json.

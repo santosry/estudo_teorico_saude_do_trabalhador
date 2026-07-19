@@ -2,7 +2,6 @@
 """
 empacotar_dados_brutos.py — Empacota os 58 CSV CAT/INSS (não versionáveis no Git) em ZIPs
 por ano de competência, prontos para anexar a uma release do GitHub (limite 2 GB/arquivo)
-ou a um depósito Zenodo. Gera SHA-256 dos ZIPs em metadados/SHA256SUMS_distribuicao.txt.
 Nenhum dado é alterado: os ZIPs contêm os bytes originais (hashes do manifesto preservados).
 """
 import os, re, sys, hashlib, zipfile, datetime
@@ -61,7 +60,6 @@ def main():
     print("\nPublicação (exemplos):")
     print("  gh release create v1.0.0 distribuicao/*.zip -t 'Dados brutos CAT/INSS 2018-2025' "
           "-n 'CSVs originais do INSS/PDA; conferir hashes em metadados/SHA256SUMS_distribuicao.txt'")
-    print("  (ou depósito Zenodo, obtendo DOI; citar a política de dados abertos do INSS)")
 
 if __name__ == "__main__":
     main()

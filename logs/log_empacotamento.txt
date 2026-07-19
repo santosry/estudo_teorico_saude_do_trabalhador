@@ -4,6 +4,5 @@ cat-inss-2023.zip: 12 arquivos, 36.7 MB
 cat-inss-2024.zip: 12 arquivos, 32.2 MB
 cat-inss-2025.zip: 12 arquivos, 39.3 MB
 
-Publicação (exemplos):
+Publicaï¿½ï¿½o (exemplos):
   gh release create v1.0.0 distribuicao/*.zip -t 'Dados brutos CAT/INSS 2018-2025' -n 'CSVs originais do INSS/PDA; conferir hashes em metadados/SHA256SUMS_distribuicao.txt'
-  (ou depósito Zenodo, obtendo DOI; citar a política de dados abertos do INSS)

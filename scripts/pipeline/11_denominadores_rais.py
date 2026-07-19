@@ -66,11 +66,17 @@ def extrair(ano, path):
     with tempfile.TemporaryDirectory() as td:
         with py7zr.SevenZipFile(path, "r") as z:
             z.extractall(td)
-        txts = [f for f in os.listdir(td) if f.upper().endswith(".TXT")]
+        txts = [f for f in os.listdir(td) if f.upper().endswith(".TXT") or f.upper().endswith(".COMT")]
         if not txts:
-            raise RuntimeError(f"Nenhum .txt no 7z de {ano}: {os.listdir(td)[:10]}")
+            txts = [f for f in os.listdir(td) if not f.startswith('.')]
+        if not txts:
+            raise RuntimeError(f"Nenhum arquivo no 7z de {ano}: {os.listdir(td)[:10]}")
         with open(os.path.join(td, txts[0]), "r", encoding="latin-1", errors="replace") as fh:
-            rd = csv.reader(fh, delimiter=";")
+            header_line = fh.readline()
+            # Auto-detectar delimitador: 2018-2022 usa ';', 2023+ usa ','
+            delim = ',' if header_line.count(',') > header_line.count(';') else ';'
+            fh.seek(0)
+            rd = csv.reader(fh, delimiter=delim, quotechar='"')
             next(rd)  # cabeçalho
             for row in rd:
                 try:
