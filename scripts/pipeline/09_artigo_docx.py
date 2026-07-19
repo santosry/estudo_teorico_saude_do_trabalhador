@@ -43,7 +43,7 @@ def par(texto, indent=True, just=True, size=11, before=0, after=0, center=False)
     return p
 
 # ======================== TÍTULO ==============================================
-par("[[b]]Trabalho, saúde e profissão em Campos dos Goytacazes (RJ)[[/b]]",
+par("[[b]]Panorama da saúde do trabalhador em Campos dos Goytacazes (RJ)[[/b]]",
     indent=False, center=True, size=12, after=6)
 
 # ======================== CORPO ================================================
