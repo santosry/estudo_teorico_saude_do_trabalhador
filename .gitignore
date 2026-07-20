@@ -12,6 +12,8 @@ banco de dados/sinan/*.dbc
 banco de dados/beneficios-inss/*.csv
 banco de dados/anp/*.xlsx
 banco de dados/sih/*.dbc
+banco de dados/caged/*.7z
+banco de dados/caged/*.zip
 
 # Processados grandes (>50MB) - regenerar com scripts do pipeline
 dados/processados/sih_campos_2018_2025.csv
