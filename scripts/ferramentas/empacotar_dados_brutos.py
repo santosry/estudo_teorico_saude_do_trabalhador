@@ -8,7 +8,7 @@ import os, re, sys, hashlib, zipfile, datetime
 
 RAIZ = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 os.chdir(RAIZ)
-ORIGEM = os.path.join("dados", "brutos", "cat-inss")
+ORIGEM = os.path.join("dados", "brutos", "banco de dados/cat-inss")
 DESTINO = "distribuicao"
 
 GRUPOS = {  # nome_zip -> função que decide se o arquivo pertence ao grupo

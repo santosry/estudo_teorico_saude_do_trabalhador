@@ -294,7 +294,6 @@ try:
     ax.legend(handles=legend_elements, fontsize=6, loc="lower right")
     fig.tight_layout(pad=0.4)
     fig.savefig("saidas/figuras/F6_grafo_ocupacao_cid.png", bbox_inches="tight", facecolor="white")
-    fig.savefig("saidas/figuras/F6_grafo_ocupacao_cid.svg", bbox_inches="tight", facecolor="white")
     plt.close(fig)
     print("  Figura F6 gerada.")
 
@@ -333,7 +332,6 @@ cbar.set_label("%", fontsize=6.5)
 ax.set_title("Perfil de diagnósticos (CID-10) por categoria profissional", fontsize=7, pad=6)
 fig.tight_layout(pad=0.4)
 fig.savefig("saidas/figuras/F7_heatmap_ocupacao_cid.png", bbox_inches="tight", facecolor="white")
-fig.savefig("saidas/figuras/F7_heatmap_ocupacao_cid.svg", bbox_inches="tight", facecolor="white")
 plt.close(fig)
 
 # ========== 5. ESTATÍSTICAS DE ASSOCIAÇÃO (Chi^2, V de Cramér) ==========
@@ -430,7 +428,6 @@ ax2.tick_params(labelsize=5.8)
 
 fig.tight_layout(pad=1.5)
 fig.savefig("saidas/figuras/F8_fluxo_ocupacao_agente_cid.png", bbox_inches="tight", facecolor="white")
-fig.savefig("saidas/figuras/F8_fluxo_ocupacao_agente_cid.svg", bbox_inches="tight", facecolor="white")
 plt.close(fig)
 
 # ========== LOG ==========

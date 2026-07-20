@@ -11,7 +11,7 @@ import os, csv, hashlib, datetime, sys
 
 RAIZ = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 os.chdir(RAIZ)
-PASTAS_FONTE = ["artigos-fonte", "cat-inss", "rais", "sim", "cnes", "sidra-campos", "ibge", "despesas campos", "referencias"]
+PASTAS_FONTE = ["artigos-fonte", "banco de dados/cat-inss", "banco de dados/rais", "banco de dados/sim", "banco de dados/cnes", "banco de dados/sidra-campos", "banco de dados/ibge", "banco de dados/despesas campos", "referencias"]
 SAIDA = os.path.join("dados", "manifesto", "manifesto_arquivos.csv")
 
 def sha256(path, bloco=1 << 20):

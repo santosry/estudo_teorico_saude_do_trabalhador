@@ -1,0 +1,107 @@
+[
+  {
+    "valor": "69,7%",
+    "indicador": "POPULAÇÃO DE 16 A 64 ANOS OCUPADA QUE SE DESLOCA ENTRE CASA-TRABALHO SOBRE O TOTAL DA POPULAÇÃO DE 16 A 64 ANOS",
+    "fonte": "(IBGE - Censo Demográfico, 2010)",
+    "dimensao": "Conciliacao Trabalho-Vida Pessoal",
+    "dimensao_id": "conciliacao"
+  },
+  {
+    "valor": "39,6%",
+    "indicador": "MULHERES DE 16 A 49 ANOS OCUPADAS COM FILHOS DE 0 A 3 ANOS EM RELAÇÃO À FREQUÊNCIA A CRECHE - NENHUM FILHO FREQUENTA CRECHE",
+    "fonte": "(IBGE - Censo Demográfico, 2010)",
+    "dimensao": "Conciliacao Trabalho-Vida Pessoal",
+    "dimensao_id": "conciliacao"
+  },
+  {
+    "valor": "3,6%",
+    "indicador": "MULHERES DE 16 A 49 ANOS OCUPADAS COM FILHOS DE 4 A 6 ANOS EM RELAÇÃO À FREQUÊNCIA A CRECHE - NENHUM FILHO FREQUENTA CRECHE",
+    "fonte": "(IBGE - Censo Demográfico, 2010)",
+    "dimensao": "Conciliacao Trabalho-Vida Pessoal",
+    "dimensao_id": "conciliacao"
+  },
+  {
+    "valor": "3.434",
+    "indicador": "TRABALHADORAS COM FILHOS DE 0 A 3 ANOS QUE NÃO FREQUENTAM CRECHE 39,6%",
+    "fonte": "",
+    "dimensao": "Conciliacao Trabalho-Vida Pessoal",
+    "dimensao_id": "conciliacao"
+  },
+  {
+    "valor": "300",
+    "indicador": "TRABALHADORAS COM FILHOS DE 4 A 6 ANOS QUE NÃO FREQUENTAM CRECHE 3,6%",
+    "fonte": "",
+    "dimensao": "Conciliacao Trabalho-Vida Pessoal",
+    "dimensao_id": "conciliacao"
+  },
+  {
+    "valor": "5.239",
+    "indicador": "TRABALHADORAS COM FILHOS DE 0 A 3 ANOS QUE FREQUENTAM CRECHE 60,4%",
+    "fonte": "",
+    "dimensao": "Conciliacao Trabalho-Vida Pessoal",
+    "dimensao_id": "conciliacao"
+  },
+  {
+    "valor": "7.972",
+    "indicador": "TRABALHADORAS COM FILHOS DE 4 A 6 ANOS QUE FREQUENTAM CRECHE 96,4%",
+    "fonte": "",
+    "dimensao": "Conciliacao Trabalho-Vida Pessoal",
+    "dimensao_id": "conciliacao"
+  },
+  {
+    "valor": "96,4%",
+    "indicador": "Em destaque, o número de mulheres ocupadas, em 2010, de 16 a 49 anos de idade, que possuíam crianças de 0 a 3, ou de 4 a 6 anos de idade, ou seja, que deveriam ter acesso à creche ou à pré-escola. Em destaque também a quantidade de trabalhadoras com crianças, no momento do recenseamento, que possuíam efetivamente acesso, ou não, à creche. Os gráficos complementam essas informações ao mostrar os valores relativos de cobertura de acesso à creche para ambas as faixas etárias das crianças. Esta informação é relevante porque o acesso a creche é um dos principais facilitadores da conciliação entre trabalho e vida pessoal para mulheres, junto com a participação ativa de pais ou cônjuges nos afazeres domésticos e no cuidado reprodutivo. Além disso, do ponto de vista prático, o acesso a creche é um serviço que, fundamentalmente, permite o acesso de mulheres com filhos ou filhas, em domicílios monoparentais, ao mercado de trabalho. Fonte: IBGE - Censo Demográfico",
+    "fonte": "",
+    "dimensao": "Conciliacao Trabalho-Vida Pessoal",
+    "dimensao_id": "conciliacao"
+  },
+  {
+    "valor": "69,7%",
+    "indicador": "SE DESLOCAM ENTRE CASA E TRABALHO",
+    "fonte": "",
+    "dimensao": "Conciliacao Trabalho-Vida Pessoal",
+    "dimensao_id": "conciliacao"
+  },
+  {
+    "valor": "73,6%",
+    "indicador": "DESLOCAMENTO NA UF 46,8%",
+    "fonte": "",
+    "dimensao": "Conciliacao Trabalho-Vida Pessoal",
+    "dimensao_id": "conciliacao"
+  },
+  {
+    "valor": "46,8%",
+    "indicador": "DESLOCAMENTO NO PAÍS Em destaque, a porcentagem de pessoas de 16 a 64 anos que se deslocavam entre casa e o local de trabalho dentre toda a população ocupada de mesma faixa etária no município, e esses valores para a unidade federativa e o país. No gráfico, a divisão do tempo gasto no deslocamento em categorias de até 30 minutos, entre 30 minutos a 1 hora, de 1 a 2 horas e mais de 2 horas.",
+    "fonte": "",
+    "dimensao": "Conciliacao Trabalho-Vida Pessoal",
+    "dimensao_id": "conciliacao"
+  },
+  {
+    "valor": "297",
+    "indicador": "VÍNCULOS DE EMPREGO - ADMISSÕES - TRABALHO INTERMITENTE 105",
+    "fonte": "",
+    "dimensao": "Estabilidade e Seguranca no Trabalho",
+    "dimensao_id": "estabilidade"
+  },
+  {
+    "valor": "105",
+    "indicador": "VÍNCULOS DE EMPREGO - ADMISSÕES - TEMPO PARCIAL 25,9%",
+    "fonte": "",
+    "dimensao": "Estabilidade e Seguranca no Trabalho",
+    "dimensao_id": "estabilidade"
+  },
+  {
+    "valor": "25,9%",
+    "indicador": "VÍNCULOS EMPREGATÍCIOS - ATÉ 1 ANO",
+    "fonte": "(ME - RAIS, 2015)",
+    "dimensao": "Estabilidade e Seguranca no Trabalho",
+    "dimensao_id": "estabilidade"
+  },
+  {
+    "valor": "36,2%",
+    "indicador": "VÍNCULOS EMPREGATÍCIOS - ATÉ 1 ANO",
+    "fonte": "(ME - RAIS, 2003)",
+    "dimensao": "Estabilidade e Seguranca no Trabalho",
+    "dimensao_id": "estabilidade"
+  }
+]

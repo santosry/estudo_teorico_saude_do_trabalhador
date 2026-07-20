@@ -95,7 +95,7 @@ def test_proveniencia_cnes():
     assert j["verificacoes"]["2019"]["consistente"] is True
     assert "330100 CAMPOS DOS GOYTACAZES" in j["verificacoes"]["controle_2018"]
     # brutos preservados
-    assert os.path.exists("cnes/cnes_rh_campos_201812_ocupacoes.prn")
+    assert os.path.exists("banco de dados/cnes/cnes_rh_campos_201812_ocupacoes.prn")
 
 
 # ---------- artigo ----------

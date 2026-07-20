@@ -17,15 +17,15 @@ inv["nome_join"] = inv["nome"]
 inv = inv.merge(est[["arquivo", "esquema", "linhas_malformadas"]], left_on="nome", right_on="arquivo", how="left").drop(columns=["arquivo", "nome_join"])
 def condicao(row):
     p = row["caminho_relativo"]
-    if "cat-inss" in p: return "bruto (fonte INSS/PDA)"
-    if "sidra-campos" in p: return "bruto (fonte IBGE/SIDRA)"
+    if "banco de dados/cat-inss" in p: return "bruto (fonte INSS/PDA)"
+    if "banco de dados/sidra-campos" in p: return "bruto (fonte IBGE/SIDRA)"
     if "CBO2002" in p: return "tabela de validação CBO (espelho público)"
     if "dicionario-cat" in p: return "documentação da fonte (INSS)"
     if p.startswith("artigos-fonte"): return "material teórico (lido integralmente)"
     return "intermediário/derivado legado"
 inv["condicao"] = inv.apply(condicao, axis=1)
 inv["scripts_associados"] = inv["caminho_relativo"].map(
-    lambda p: "scripts/pipeline 02–06; legado: scripts/legado/CAT-INSS_script_original.R" if "cat-inss" in p
+    lambda p: "scripts/pipeline 02–06; legado: scripts/legado/CAT-INSS_script_original.R" if "banco de dados/cat-inss" in p
     else ("legado: scripts/legado/CARACTERIZACAO_script_original.R" if "sidra" in p else ""))
 inv.to_excel("dados/manifesto/manifesto_arquivos.xlsx", index=False)
 inv.to_excel("metadados/inventario_arquivos.xlsx", index=False)

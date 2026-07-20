@@ -18,7 +18,7 @@ FTP_HOST = "ftp.mtps.gov.br"
 FTP_DIR = "pdet/microdados/RAIS"
 ARQ_RAIS = "RAIS_VINC_PUB_MG_ES_RJ.7z"
 MUN_COD = "330100"
-DIR_RAIS = os.path.join("dados", "brutos", "rais")
+DIR_RAIS = os.path.join("dados", "brutos", "banco de dados/rais")
 os.makedirs(DIR_RAIS, exist_ok=True)
 COL = {"cbo": 7, "cnae": 8, "ativo": 11, "mun": 24}
 

@@ -128,24 +128,24 @@ add("Excluindo 2025 (parcial)", saude[saude["ano"] < 2025])
 add("Somente meses jan–out (todos os anos)", saude[saude["mes"].str.slice(5).astype(int) <= 10])
 add("Excluindo acidentes de trajeto", saude[saude["tipo_acidente"] != "Trajeto"])
 add("Somente acidentes típicos", saude[saude["tipo_acidente"] == "Típico"])
-add("Universo restrito: profissões da saúde em CNAE 86/87", saude[saude["cnae_saude"] == "sim"])
+add("Universo restrito: profissões da saúde em CNAE 86/87", saude[saude["cnae_saude"] == "banco de dados/sim"])
 add("Multiprofissionais (todas)", multi)
-add("Multiprofissionais restritas a CNAE 86/87", multi[multi["cnae_saude"] == "sim"])
+add("Multiprofissionais restritas a CNAE 86/87", multi[multi["cnae_saude"] == "banco de dados/sim"])
 sens.append({"cenario": "Antes da remoção de duplicidades entre arquivos (candidatos brutos c/ código 330100)",
              "n_saude_principal": "-", "nota": f"{fluxo3['fluxo']['duplicidades_entre_arquivos_removidas']} duplicidades removidas na base geral de candidatos"})
 T["T17_sensibilidade"] = pd.DataFrame(sens)
 
 # T18 — apoio: outras ocupações em CNAE saúde (86/87)
-apoio_cnae = outros[outros["cnae_saude"] == "sim"]
+apoio_cnae = outros[outros["cnae_saude"] == "banco de dados/sim"]
 t18 = apoio_cnae.groupby(["cbo_codigo", "cbo_titulo_oficial"]).size().rename("n").reset_index().sort_values("n", ascending=False)
 T["T18_apoio_em_cnae_saude"] = t18.head(25)
 T["T18b_resumo_apoio"] = pd.DataFrame([{
     "outras_ocupacoes_total": len(outros),
     "outras_ocupacoes_em_cnae_saude": len(apoio_cnae),
     "nao_classificados_total": len(nclass),
-    "nao_classificados_em_cnae_saude": int((nclass["cnae_saude"] == "sim").sum()),
-    "saude_principal_fora_cnae_saude": int((saude["cnae_saude"] != "sim").sum()),
-    "saude_principal_pct_em_cnae_saude": round(100 * (saude["cnae_saude"] == "sim").mean(), 1)}])
+    "nao_classificados_em_cnae_saude": int((nclass["cnae_saude"] == "banco de dados/sim").sum()),
+    "saude_principal_fora_cnae_saude": int((saude["cnae_saude"] != "banco de dados/sim").sum()),
+    "saude_principal_pct_em_cnae_saude": round(100 * (saude["cnae_saude"] == "banco de dados/sim").mean(), 1)}])
 
 # T19 — fluxo de seleção
 f = fluxo3["fluxo"]
@@ -218,7 +218,7 @@ ax.legend(ncol=3, fontsize=6.2, loc="upper left", bbox_to_anchor=(0, 1.02),
           borderaxespad=0)
 fig.tight_layout(pad=0.4)
 fig.savefig("saidas/figuras/F1_cat_ano_categorias.png", bbox_inches="tight", facecolor="white")
-fig.savefig("saidas/figuras/F1_cat_ano_categorias.svg", bbox_inches="tight", facecolor="white")
+
 plt.close(fig)
 
 # F2: série mensal com faixa do período crítico e médias por período (rotulagem direta)
@@ -248,7 +248,7 @@ ax.set_ylabel("CATs por mês (n)")
 ax.spines[["top", "right"]].set_visible(False)
 fig.tight_layout(pad=0.4)
 fig.savefig("saidas/figuras/F2_serie_mensal_saude.png", bbox_inches="tight", facecolor="white")
-fig.savefig("saidas/figuras/F2_serie_mensal_saude.svg", bbox_inches="tight", facecolor="white")
+
 plt.close(fig)
 
 print("tabelas:", len(T), "| saúde:", len(saude), "| multi:", len(multi), "| nclass:", len(nclass))

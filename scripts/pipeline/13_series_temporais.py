@@ -1,15 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-13_series_temporais.py — Análise de séries temporais das CATs de profissões da saúde,
+13_series_temporais.py — Analise de series temporais das CATs de profissoes da saude,
 Campos dos Goytacazes (RJ), 2018-2025.
 
 Etapas:
-1. Decomposição clássica (tendência + sazonalidade + resíduo) da série mensal
-2. Teste de quebra estrutural (Chow test) comparando pré-pandemia vs pandemia vs pós-pandemia
-3. Suavização LOESS para visualização de tendência não linear
-4. Teste de Mann-Kendall para tendência monotônica
-5. Modelagem ARIMA simples com previsão para 2026 (projeção condicional)
-6. Análise de intervenção: impacto da covid-19 modelado como função degrau + pulso
+1. Decomposicao classica (tendencia + sazonalidade + residuo) da serie mensal
+2. Teste de Mann-Kendall para tendencia monotonica
+3. Teste de Dickey-Fuller para estacionariedade
+4. Suavizacao LOESS para visualizacao de tendencia nao linear
+5. Estatisticas descritivas por periodo (pre-pandemia, pandemia, pos-pandemia)
+  (SEM analise preditiva)
 """
 import os, json, warnings
 import pandas as pd
@@ -20,7 +20,6 @@ import matplotlib.pyplot as plt
 from scipy import stats
 from statsmodels.tsa.seasonal import seasonal_decompose
 from statsmodels.tsa.stattools import adfuller
-from statsmodels.tsa.arima.model import ARIMA
 from statsmodels.nonparametric.smoothers_lowess import lowess
 import pymannkendall as mk
 
@@ -75,53 +74,9 @@ print("\n=== 4. Suavização LOESS ===")
 x = np.arange(len(serie))
 loess_smooth = lowess(serie.values, x, frac=0.30, return_sorted=False)
 
-# ========== 5. MODELO ARIMA com intervenção ==========
-print("\n=== 5. Modelo ARIMA com intervenção covid-19 ===")
-# Criar variáveis de intervenção
-n = len(serie)
-covid_step = np.zeros(n)    # degrau: 1 a partir de mar/2020
-covid_pulse = np.zeros(n)   # pulso: 1 apenas em mar-abr/2020 (choque inicial)
-for i, d in enumerate(datas):
-    if d >= pd.Timestamp("2020-03-01"):
-        covid_step[i] = 1
-    if pd.Timestamp("2020-03-01") <= d <= pd.Timestamp("2020-05-01"):
-        covid_pulse[i] = 1
-
-# ARIMA(1,0,1)(1,0,0)[12] com intervenção
-try:
-    exog = np.column_stack([covid_step, covid_pulse])
-    model = ARIMA(serie.values, order=(1, 0, 1), seasonal_order=(1, 0, 0, 12), exog=exog)
-    fitted = model.fit()
-    print(f"  AIC: {fitted.aic:.1f}, BIC: {fitted.bic:.1f}")
-    print(f"  Coeficientes:")
-    for nome, val, pval in zip(
-        ["ar.L1", "ma.L1", "ar.S.L12", "sigma2", "covid_step", "covid_pulse"],
-        fitted.params, fitted.pvalues
-    ):
-        sig = "***" if pval < 0.001 else ("**" if pval < 0.01 else ("*" if pval < 0.05 else ""))
-        print(f"    {nome}: {val:.4f} (p={pval:.4f}) {sig}")
-
-    # Previsão condicional para 2026 (manter covid_step=1, covid_pulse=0)
-    future_exog = np.column_stack([np.ones(12), np.zeros(12)])  # 12 meses de 2026
-    forecast = fitted.forecast(steps=12, exog=future_exog)
-    forecast_ci = fitted.get_forecast(steps=12, exog=future_exog).conf_int(alpha=0.05)
-
-    arima_ok = True
-except Exception as e:
-    print(f"  ARIMA falhou: {e}")
-    print("  Tentando ARIMA simples sem exog...")
-    try:
-        model = ARIMA(serie.values, order=(1, 0, 1), seasonal_order=(1, 0, 0, 12))
-        fitted = model.fit()
-        forecast = fitted.forecast(steps=12)
-        forecast_ci = fitted.get_forecast(steps=12).conf_int(alpha=0.05)
-        arima_ok = True
-        print(f"  AIC: {fitted.aic:.1f}")
-        covid_step, covid_pulse = None, None
-    except:
-        arima_ok = False
-        forecast = None
-        print("  ARIMA indisponível.")
+# ========== 5. SEM ANALISE PREDITIVA ==========
+print("\n=== 5. Sem analise preditiva (ARIMA removido por decisao metodologica) ===")
+# (Bloco ARIMA removido - sem analise preditiva)
 
 # ========== 6. TAXA DE VARIAÇÃO POR PERÍODO ==========
 print("\n=== 6. Médias e taxas de variação ===")
@@ -180,16 +135,7 @@ t_testes = pd.DataFrame([
 ], columns=["teste", "estatística", "p-valor", "resultado", "nota"])
 t_testes.to_csv("saidas/tabelas/T27_testes_estatisticos.csv", sep=";", index=False, encoding="utf-8-sig", lineterminator="\n")
 
-# Salvar previsão
-if arima_ok and forecast is not None:
-    fut_idx = pd.date_range("2026-01-01", periods=12, freq="MS")
-    t_forecast = pd.DataFrame({
-        "mes": fut_idx.strftime("%Y-%m"),
-        "previsto": forecast.round(1),
-        "ic_inferior": forecast_ci[:, 0].round(1),
-        "ic_superior": forecast_ci[:, 1].round(1),
-    })
-    t_forecast.to_csv("saidas/tabelas/T28_previsao_arima_2026.csv", sep=";", index=False, encoding="utf-8-sig", lineterminator="\n")
+# T28 removida - sem analise preditiva
 
 # ========== FIGURAS ==========
 plt.rcParams.update({
@@ -222,7 +168,7 @@ axes[0].annotate("covid-19", (pd.Timestamp("2020-12-01"), axes[0].get_ylim()[1] 
                  ha="center", fontsize=6, color="#8C5A3A")
 fig.tight_layout(pad=0.4)
 fig.savefig("saidas/figuras/F3_decomposicao_temporal.png", bbox_inches="tight", facecolor="white")
-fig.savefig("saidas/figuras/F3_decomposicao_temporal.svg", bbox_inches="tight", facecolor="white")
+
 plt.close(fig)
 
 # F4: LOESS + tendência com bandas de confiança bootstrap
@@ -247,31 +193,10 @@ ax.spines[["top", "right"]].set_visible(False)
 ax.legend(fontsize=6.2, loc="upper left")
 fig.tight_layout(pad=0.4)
 fig.savefig("saidas/figuras/F4_tendencia_loess.png", bbox_inches="tight", facecolor="white")
-fig.savefig("saidas/figuras/F4_tendencia_loess.svg", bbox_inches="tight", facecolor="white")
+
 plt.close(fig)
 
-# F5: Previsão ARIMA 2026 (se disponível)
-if arima_ok and forecast is not None:
-    fig, ax = plt.subplots(figsize=(6.6, 2.4), dpi=600)
-    # Dados observados (2022 em diante para zoom)
-    plot_start = pd.Timestamp("2022-01-01")
-    mask = datas >= plot_start
-    ax.plot(datas[mask], serie.values[mask], lw=1.0, color="#2166AC", label="Observado")
-    # Previsão
-    fut_datas = pd.date_range("2026-01-01", periods=12, freq="MS")
-    ax.plot(fut_datas, forecast, lw=1.2, color="#B2182B", linestyle="--", label="Previsto (ARIMA)")
-    ax.fill_between(fut_datas, forecast_ci[:, 0], forecast_ci[:, 1],
-                    alpha=0.2, color="#B2182B", lw=0)
-    ax.axvline(x=pd.Timestamp("2026-01-01"), color="#757575", lw=0.6, linestyle=":")
-    ax.annotate("projeção →", (pd.Timestamp("2026-01-15"), ax.get_ylim()[1] * 0.9),
-                fontsize=6.5, color="#757575", ha="left")
-    ax.set_ylabel("CATs por mês (n)")
-    ax.spines[["top", "right"]].set_visible(False)
-    ax.legend(fontsize=6.5, loc="upper left")
-    fig.tight_layout(pad=0.4)
-    fig.savefig("saidas/figuras/F5_previsao_arima_2026.png", bbox_inches="tight", facecolor="white")
-    fig.savefig("saidas/figuras/F5_previsao_arima_2026.svg", bbox_inches="tight", facecolor="white")
-    plt.close(fig)
+# F5: Previsão ARIMA 2026 - REMOVIDA (sem análise preditiva)
 
 # ========== LOG ==========
 log = {
@@ -279,7 +204,7 @@ log = {
     "serie": {"inicio": "2018-01", "fim": "2025-10", "n_meses": int(len(serie)), "total_cats": int(serie.sum())},
     "mann_kendall": {"trend": mk_result.trend, "p": float(mk_result.p), "tau": float(mk_result.Tau), "slope": float(mk_result.slope)},
     "adf": {"estatistica": float(adf[0]), "p": float(adf[1]), "lags": int(adf[2])},
-    "arima": {"disponivel": arima_ok, "aic": float(fitted.aic) if arima_ok else None},
+    "arima": {"disponivel": False, "nota": "Analise preditiva removida por decisao metodologica"},
     "periodos": {e["periodo"]: {"media_mensal": e["media_mensal"], "dp": e["desvio_padrao"]} for e in estatisticas},
 }
 json.dump(log, open("logs/log_13_series_temporais.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)

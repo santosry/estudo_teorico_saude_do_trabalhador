@@ -1,13 +1,23 @@
-# Dados brutos CAT/INSS (~1,8 GB) — obter conforme cat-inss/README.md
-cat-inss/*.csv
+# Dados brutos CAT/INSS (~1,8 GB) — obter conforme banco de dados/cat-inss/README.md
+banco de dados/cat-inss/*.csv
 
 # Material teórico protegido por direitos autorais — não redistribuir
 artigos-fonte/*.pdf
 
 # Dados brutos de grande volume — obter conforme documentação de cada fonte
-rais/*.7z
-sim/*.dbc
-sim/*.dbf
+banco de dados/rais/*.7z
+banco de dados/sim/*.dbc
+banco de dados/sim/*.dbf
+banco de dados/sinan/*.dbc
+banco de dados/beneficios-inss/*.csv
+banco de dados/anp/*.xlsx
+banco de dados/sih/*.dbc
+
+# Processados grandes (>50MB) - regenerar com scripts do pipeline
+dados/processados/sih_campos_2018_2025.csv
+dados/processados/sim_campos_obitos_trabalho_2018_2025.csv
+dados/processados/sinan_campos_2018_2025.csv
+dados/processados/caged_campos_2018_2019.csv
 
 # Artefatos locais
 __pycache__/

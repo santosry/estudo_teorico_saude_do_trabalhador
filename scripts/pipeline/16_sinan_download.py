@@ -26,10 +26,11 @@ RAIZ = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 os.chdir(RAIZ)
 
 FTP_HOST = "ftp.datasus.gov.br"
-FTP_DIR = "dissemin/publicos/SINAN/DADOS/FINAIS"
+FTP_DIR_FINAIS = "dissemin/publicos/SINAN/DADOS/FINAIS"
+FTP_DIR_PRELIM = "dissemin/publicos/SINAN/DADOS/PRELIM"
 MUN_COD = "330100"
 UF = "RJ"
-ANOS = list(range(2018, 2026))
+ANOS = list(range(2018, 2026))  # 2018-2025
 
 AGRAVOS = {
     "ACGR": "Acidente de Trabalho Grave",
@@ -48,55 +49,66 @@ DIR_PROC = os.path.join("dados", "processados")
 os.makedirs(DIR_SINAN, exist_ok=True)
 os.makedirs(DIR_PROC, exist_ok=True)
 
-# ========== ETAPA 1: Inventariar arquivos no FTP ==========
+# ========== ETAPA 1: Inventariar arquivos no FTP (FINAIS + PRELIM) ==========
 print("=" * 60)
 print("ETAPA 1: Inventariando arquivos SINAN no FTP DATASUS...")
+print("  FINAIS: dados consolidados 2006-2022")
+print("  PRELIM: dados preliminares 2023-2026")
 print("=" * 60)
 
-ftp = ftplib.FTP(FTP_HOST, timeout=30)
-ftp.login()
-ftp.cwd(FTP_DIR)
-
-todos_arquivos = []
-ftp.retrlines("LIST", lambda line: todos_arquivos.append(line))
-
 arquivos_baixar = []
-for linha in todos_arquivos:
-    partes = linha.split()
-    if len(partes) < 4:
-        continue
-    nome = partes[-1]
-    if not nome.upper().endswith(".DBC"):
-        continue
-    
-    prefixo = nome[:4].upper()
-    if prefixo not in AGRAVOS:
-        continue
-    
-    # Extrair ano do nome: prefixoBRAA.dbc onde AA = 06-25
-    try:
-        ano_sufix = int(nome[6:8]) if len(nome) >= 8 and nome[6:8].isdigit() else None
-    except:
-        ano_sufix = None
-    
-    if ano_sufix is None:
-        continue
-    
-    ano = 2000 + ano_sufix if ano_sufix < 50 else 1900 + ano_sufix
-    
-    if ano not in ANOS:
-        continue
-    
-    tamanho = int(partes[3]) if len(partes) > 3 and partes[3].isdigit() else 0
-    arquivos_baixar.append({
-        "agravo": prefixo,
-        "agravo_nome": AGRAVOS[prefixo],
-        "ano": ano,
-        "arquivo": nome,
-        "tamanho_mb": round(tamanho / 1e6, 1),
-    })
 
-ftp.quit()
+for dir_ftp, dir_label in [(FTP_DIR_FINAIS, "FINAIS"), (FTP_DIR_PRELIM, "PRELIM")]:
+    ftp = ftplib.FTP(FTP_HOST, timeout=30)
+    ftp.login()
+    try:
+        ftp.cwd(dir_ftp)
+    except Exception as e:
+        print(f"  {dir_label}: diretorio indisponivel ({e})")
+        ftp.quit()
+        continue
+    
+    todos_arquivos = []
+    ftp.retrlines("LIST", lambda line: todos_arquivos.append(line))
+    
+    for linha in todos_arquivos:
+        partes = linha.split()
+        if len(partes) < 4:
+            continue
+        nome = partes[-1]
+        if not nome.upper().endswith(".DBC"):
+            continue
+        
+        prefixo = nome[:4].upper()
+        if prefixo not in AGRAVOS:
+            continue
+        
+        # Extrair ano do nome: prefixoBRAA.dbc onde AA = 06-25
+        try:
+            ano_sufix = int(nome[6:8]) if len(nome) >= 8 and nome[6:8].isdigit() else None
+        except:
+            ano_sufix = None
+        
+        if ano_sufix is None:
+            continue
+        
+        ano = 2000 + ano_sufix if ano_sufix < 50 else 1900 + ano_sufix
+        
+        if ano not in ANOS:
+            continue
+        
+        tamanho = int(partes[3]) if len(partes) > 3 and partes[3].isdigit() else 0
+        arquivos_baixar.append({
+            "agravo": prefixo,
+            "agravo_nome": AGRAVOS[prefixo],
+            "ano": ano,
+            "arquivo": nome,
+            "tamanho_mb": round(tamanho / 1e6, 1),
+            "ftp_dir": dir_ftp,
+            "ftp_label": dir_label,
+        })
+    
+    ftp.quit()
 
 arquivos_baixar.sort(key=lambda x: (x["agravo"], x["ano"]))
 print(f"\nTotal: {len(arquivos_baixar)} arquivos de {len(AGRAVOS)} agravos, {len(ANOS)} anos")
@@ -105,40 +117,50 @@ for a in arquivos_baixar:
 
 # Salvar inventario
 with open(os.path.join(DIR_SINAN, "inventario_sinan.csv"), "w", newline="", encoding="utf-8-sig") as f:
-    w = csv.DictWriter(f, fieldnames=["agravo", "agravo_nome", "ano", "arquivo", "tamanho_mb"], delimiter=";")
+    w = csv.DictWriter(f, fieldnames=["agravo", "agravo_nome", "ano", "arquivo", "tamanho_mb", "ftp_label"], delimiter=";")
     w.writeheader()
-    w.writerows(arquivos_baixar)
+    for a in arquivos_baixar:
+        row = {k: a.get(k, "") for k in ["agravo", "agravo_nome", "ano", "arquivo", "tamanho_mb", "ftp_label"]}
+        w.writerow(row)
 
 # ========== ETAPA 2: Download ==========
 print("\n" + "=" * 60)
 print("ETAPA 2: Baixando arquivos...")
 print("=" * 60)
 
-ftp = ftplib.FTP(FTP_HOST, timeout=120)
-ftp.login()
-ftp.cwd(FTP_DIR)
-
 baixados = []
-for i, a in enumerate(arquivos_baixar):
-    local = os.path.join(DIR_SINAN, a["arquivo"])
-    
-    if os.path.exists(local) and os.path.getsize(local) > 1000:
-        print(f"  [{i+1}/{len(arquivos_baixar)}] {a['arquivo']} - ja existe ({a['tamanho_mb']} MB)")
-        baixados.append({"path": local, **a})
-        continue
-    
-    try:
-        print(f"  [{i+1}/{len(arquivos_baixar)}] Baixando {a['arquivo']} ({a['tamanho_mb']} MB)...", end=" ", flush=True)
-        with open(local, "wb") as f:
-            ftp.retrbinary(f"RETR {a['arquivo']}", f.write)
-        real = round(os.path.getsize(local) / 1e6, 1)
-        print(f"OK ({real} MB)")
-        baixados.append({"path": local, **a})
-    except Exception as e:
-        print(f"ERRO: {e}")
-    time.sleep(0.3)
+# Agrupar por diretório FTP para evitar reconexões
+from itertools import groupby
+arquivos_ordenados = sorted(arquivos_baixar, key=lambda x: x["ftp_dir"])
 
-ftp.quit()
+for ftp_dir, grupo in groupby(arquivos_ordenados, key=lambda x: x["ftp_dir"]):
+    grupo_lista = list(grupo)
+    ftp = ftplib.FTP(FTP_HOST, timeout=120)
+    ftp.login()
+    ftp.cwd(ftp_dir)
+    
+    for a in grupo_lista:
+        i = len(baixados)
+        local = os.path.join(DIR_SINAN, a["arquivo"])
+        
+        if os.path.exists(local) and os.path.getsize(local) > 1000:
+            print(f"  [{i+1}/{len(arquivos_baixar)}] [{a['ftp_label']}] {a['arquivo']} - ja existe ({a['tamanho_mb']} MB)")
+            baixados.append({"path": local, **a})
+            continue
+        
+        try:
+            print(f"  [{i+1}/{len(arquivos_baixar)}] [{a['ftp_label']}] Baixando {a['arquivo']} ({a['tamanho_mb']} MB)...", end=" ", flush=True)
+            with open(local, "wb") as f:
+                ftp.retrbinary(f"RETR {a['arquivo']}", f.write)
+            real = round(os.path.getsize(local) / 1e6, 1)
+            print(f"OK ({real} MB)")
+            baixados.append({"path": local, **a})
+        except Exception as e:
+            print(f"ERRO: {e}")
+        time.sleep(0.3)
+    
+    ftp.quit()
+
 print(f"\nBaixados: {len(baixados)}/{len(arquivos_baixar)}")
 
 if not baixados:
@@ -277,7 +299,7 @@ pd.DataFrame(resumo_rows).to_csv(
 # Log
 log = {
     "fonte": "SINAN/DATASUS via FTP",
-    "ftp": f"ftp://{FTP_HOST}/{FTP_DIR}",
+    "ftp": f"ftp://{FTP_HOST}/{FTP_DIR_FINAIS} + {FTP_DIR_PRELIM}",
     "periodo": f"{min(ANOS)}-{max(ANOS)}",
     "municipio": "Campos dos Goytacazes (330100)",
     "arquivos_baixados": len(baixados),

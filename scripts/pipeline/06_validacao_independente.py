@@ -64,7 +64,7 @@ def ordem_arquivo(nome):
 def main():
     tot_linhas = 0
     frames = []
-    for path in sorted(glob.glob(os.path.join("dados", "brutos", "cat-inss", "*.csv"))):
+    for path in sorted(glob.glob(os.path.join("dados", "brutos", "banco de dados/cat-inss", "*.csv"))):
         df = pd.read_csv(path, sep=";", dtype=str, header=0, encoding=enc_de(path),
                          quoting=3, keep_default_na=False, engine="c")
         tot_linhas += len(df)

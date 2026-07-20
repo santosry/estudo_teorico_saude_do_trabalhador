@@ -1,12 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-09_artigo_docx.py - Gera documentos/artigo.docx (A4, margens 2,5 cm, Times New Roman 11,
-espaçamento 1,5, recuo 1,25 cm, máximo 10 páginas).
-
-REGRAS:
-- PROIBIDO travessão, meia-risca, dois-pontos no corpo do texto
-- Sem resumo. Sem projeções.
-- Português correto com acentos. Conectivos científicos.
+09_artigo_docx.py - Ensaio analítico.
+Acidentes de trabalho notificados entre profissionais da saúde em Campos dos Goytacazes (RJ), 2018-2025.
 """
 import os, re, subprocess, shutil
 from docx import Document
@@ -33,7 +28,7 @@ def _runs(p, texto, size):
         r = p.add_run(limpo); r.font.size = Pt(size); r.italic = it; r.bold = ng
     return p
 
-def par(texto, indent=True, just=True, size=11, before=0, after=0, center=False):
+def par(texto, indent=True, just=True, size=12, before=0, after=0, center=False):
     p = d.add_paragraph(); _runs(p, texto, size)
     pf = p.paragraph_format
     pf.first_line_indent = Cm(1.25) if indent else Cm(0)
@@ -42,332 +37,6 @@ def par(texto, indent=True, just=True, size=11, before=0, after=0, center=False)
         WD_ALIGN_PARAGRAPH.JUSTIFY if just else WD_ALIGN_PARAGRAPH.LEFT)
     return p
 
-# ======================== TÍTULO ==============================================
-par("[[b]]Panorama da saúde do trabalhador em Campos dos Goytacazes (RJ)[[/b]]",
-    indent=False, center=True, size=12, after=6)
-
-# ======================== CORPO ================================================
-CORPO = [
- # §1 - INTRODUÇÃO
- "Oliveira (2004) demonstra que as transformações no mundo do trabalho, desde a "
- "Revolução Industrial até os dias atuais, produzem padrões específicos de adoecimento "
- "a cada configuração histórica do processo produtivo. No setor saúde, essa dinâmica se "
- "expressa de forma particularmente aguda. Este ensaio sustenta que a estrutura de vínculos previdenciários do município de "
- "Campos dos Goytacazes, conformada por sua economia política dependente do petróleo, "
- "produz um regime de visibilidade seletiva dos acidentes de trabalho no setor saúde. "
- "Nesse regime, categorias majoritariamente femininas, de menor remuneração e vínculo "
- "celetista tornam-se hipervisíveis na Comunicação de Acidente de Trabalho (CAT), "
- "ao passo que categorias de maior remuneração e vínculo estatutário permanecem "
- "institucionalmente invisíveis. Argumenta-se que essa assimetria constitui a "
- "manifestação local da distância entre o campo institucional da Saúde do Trabalhador "
- "e a questão estrutural da saúde dos trabalhadores, conforme a distinção proposta "
- "por Souza, Melo e Vasconcellos (2017). O campo opera dentro dos limites normativos "
- "postos, e a CAT é seu instrumento por excelência. A questão, contudo, é mais ampla. "
- "Inclui os acidentes e adoecimentos que o sistema não captura e cuja distribuição "
- "obedece a determinações de classe, gênero e raça que ultrapassam as fronteiras do "
- "campo. França (2014), ao correlacionar o Modelo Operário Italiano com as categorias "
- "gramscianas, demonstra que o saber operário e a participação dos trabalhadores são "
- "fundamentais para uma vigilância que supere os limites do registro administrativo. "
- "O presente ensaio mobiliza esse arcabouço conceitual para construir um diagnóstico "
- "estrutural da saúde do trabalhador no setor saúde de Campos, articulando sistemas de "
- "informação epidemiológica, registros administrativos e indicadores socioeconômicos "
- "para construir um diagnóstico territorial da Saúde do Trabalhador. O território onde esse regime opera é precisamente "
- "o que se descreve a seguir.\n\n"
- "O município de Campos dos Goytacazes, maior do estado do Rio de Janeiro em extensão "
- "territorial, com 4.032,5 km², contava com 483.540 habitantes no Censo Demográfico de "
- "2022 do IBGE e estimativa de 519.259 para 2025. Sua população se declara branca "
- "(42,1%), parda (40,1%) e preta (17,7%), com 3.083 quilombolas e 363 indígenas "
- "recenseados, segundo a tabela SIDRA 4714 do IBGE. O Índice de Desenvolvimento Humano "
- "Municipal era de 0,716 em 2010, abaixo da média estadual de 0,761, e 37,7% da "
- "população vivia com até meio salário mínimo per capita. O Produto Interno Bruto per "
- "capita de 2023 foi de R$ 88.831,26, segundo a tabela SIDRA 5938 do IBGE. Nesse "
- "contexto de riqueza concentrada e indicadores sociais frágeis, este estudo investiga "
- "os acidentes de trabalho entre os profissionais da saúde que operam a rede municipal "
- "de atendimento.",
-
- # §2 - IPS E MORTALIDADE
- "O Índice de Progresso Social de Campos, calculado pelo IPS Brasil para 2024, 2025 e "
- "2026 a partir de indicadores sociais e ambientais desagregados por município, mostra "
- "trajetória ambivalente, conforme a Tabela 1. O índice global passou de 62,37, em 2024, "
- "para 62,68, em 2026, com variação de 0,31 ponto. Saúde e Bem-estar avançou 1,47 ponto, "
- "de 57,43 para 58,90, e Acesso ao Conhecimento Básico avançou 3,41 pontos. Em "
- "contrapartida, Segurança Pessoal recuou 3,58 pontos, de 56,35 para 52,77, Inclusão "
- "Social caiu 2,70 pontos e as Hospitalizações por Condições Sensíveis à Atenção "
- "Primária aumentaram 45%, de 610 para 883 por 100 mil habitantes. Nesse sentido, o "
- "município avança nas dimensões de infraestrutura de saúde e conhecimento, mas recua "
- "em segurança e inclusão, configurando um paradoxo que interpela diretamente as "
- "condições de trabalho de quem opera os serviços cuja qualidade melhora."
- "\n\n"
- "O perfil de mortalidade do município, obtido do SIM/DATASUS e processado com o pacote "
- "[[i]]microdatasus[[/i]] em R, registrou entre 4.199 e 5.635 óbitos anuais de "
- "residentes de 2019 a 2024, com taxa bruta variando de 8,1 a 10,9 por 1.000 "
- "habitantes (Tabela 2). Em 2021, auge da pandemia, as doenças infecciosas deslocaram-se "
- "para a primeira posição, com 1.548 óbitos (27,5%), ultrapassando as circulatórias, que "
- "retomaram a liderança a partir de 2022. As causas externas mantiveram-se entre as "
- "cinco primeiras em todo o período. Esse perfil funciona como indicador composto de "
- "desenvolvimento social e de pressão assistencial sobre o sistema de saúde. A taxa de "
- "homicídios, registrada pelo IPS, variou entre 24,6 e 27,9 por 100 mil habitantes no "
- "triênio 2024-2026, valores que pressionam diretamente os serviços de emergência.",
-
- # §3 - ESTRUTURA ECONÔMICA E REGIMES PREVIDENCIÁRIOS
- "A formação econômica de Campos organiza-se em três ciclos que moldaram o mercado de "
- "trabalho em saúde, conforme demonstram Silva e Hasenclever (2019). O ciclo açucareiro, "
- "que se estendeu do século XVIII ao XX, entrou em colapso a partir dos anos 1980 com o "
- "fechamento de usinas, produzindo desemprego em massa e reconfigurando a estrutura "
- "ocupacional do município. O ciclo petrolífero, de 1970 a 2014, impulsionado pela "
- "descoberta da Bacia de Campos, gerou receitas expressivas de [[i]]royalties[[/i]] e "
- "participações especiais, nos termos da Lei nº 9.478/1997, que expandiram o setor público municipal. O terceiro ciclo, em "
- "curso desde 2014, caracteriza-se pela estagnação da atividade petrolífera e pelo "
- "declínio dos repasses. A estrutura empresarial do município, captada pelo Cadastro "
- "Central de Empresas do IBGE, o CEMPRE 2024, registra 16.776 empresas atuantes, "
- "114.466 pessoas ocupadas, das quais 93.366 assalariadas, e salário médio mensal de "
- "2,2 salários mínimos. O setor de saúde humana e serviços sociais respondia por 1.544 "
- "estabelecimentos e 15.002 postos de trabalho, conforme o CEMPRE 2024. O PIB municipal, "
- "a preços correntes, oscilou de R$ 58,4 bilhões em 2013 para R$ 23,9 bilhões em 2020 e "
- "R$ 43,0 bilhões em 2023, de acordo com a tabela SIDRA 5938 do IBGE, acompanhando a "
- "volatilidade do petróleo."
- "\n\n"
- "As finanças públicas municipais evidenciam dependência estrutural de transferências "
- "intergovernamentais. Em 2024, as receitas brutas somaram R$ 2,95 bilhões, das quais "
- "71,0% provieram de transferências correntes, segundo o Siconfi da Secretaria do "
- "Tesouro Nacional. As despesas por natureza econômica, obtidas do Portal da "
- "Transparência da Prefeitura de Campos para o período de 2020 a 2025, na rubrica "
- "Despesas por Desdobro, revelam a coexistência de dois regimes previdenciários no "
- "funcionalismo municipal. Haja vista a relevância desse achado para o estudo, "
- "detalham-se os montantes. O Regime Próprio de Previdência Social, o RPPS, cobre os "
- "servidores estatutários e suas contribuições patronais somaram R$ 61,2 milhões em "
- "2024, acrescidas de R$ 2,5 milhões de aporte para cobertura do déficit atuarial. Em "
- "2025, as contribuições ao RPPS para pessoal ativo alcançaram R$ 74,7 milhões, "
- "conforme a rubrica 31911308 do Portal da Transparência. O Regime Geral de Previdência "
- "Social, o INSS, cobre os trabalhadores celetistas, com contribuições patronais de "
- "R$ 18,3 milhões em 2024 e R$ 4,8 milhões em 2025 na principal rubrica do Regime Geral, "
- "segundo os mesmos registros do Portal da Transparência de Campos. A razão entre as "
- "contribuições, RPPS sobre INSS, foi de 3,3 em 2024 e ampliou-se para aproximadamente "
- "15,5 em 2025, indicando que a predominância orçamentária do vínculo estatutário se "
- "acentuou no último exercício. A Comunicação de Acidente de Trabalho, a CAT, instituída "
- "pela Lei nº 8.213 de 1991, é instrumento exclusivo do INSS. Os acidentes e adoecimentos "
- "dos servidores estatutários, vinculados ao RPPS e geridos pelo PREVICAMPOS, não são "
- "capturados por essa fonte. Essa dualidade de regimes produz uma assimetria fundamental "
- "de visibilidade previdenciária que estrutura os achados deste ensaio, conforme a "
- "Tabela 3.",
-
- # §4 - MÉTODOS
- "Este ensaio integra uma agenda mais ampla de investigação sobre a Saúde do "
- "Trabalhador em Campos dos Goytacazes. Seu propósito é construir o diagnóstico "
- "territorial e institucional necessário para estudos posteriores sobre "
- "processos de trabalho, adoecimento e vigilância. Trata-se de um ensaio analítico "
- "destinado à construção de um diagnóstico territorial da Saúde do Trabalhador, "
- "apoiado na triangulação de sistemas de informação epidemiológica, registros "
- "administrativos e indicadores socioeconômicos, cujo objetivo é caracterizar a "
- "configuração contemporânea "
- "da saúde do trabalhador no setor saúde do município e identificar elementos "
- "estruturantes para investigações subsequentes. A base empírica principal "
- "foi reconstruída dos dados abertos da CAT do INSS, disponíveis no Portal "
- "de Dados Abertos do governo federal. Foram processados 58 arquivos, de "
- "julho de 2018 a outubro de 2025, totalizando 3.902.905 registros, com "
- "importação posicional e remoção de 938 duplicatas (401 hashes SHA-256). "
- "O recorte municipal utilizou código do empregador 330100 e UF Rio de "
- "Janeiro. A classificação ocupacional baseou-se na CBO 2002, com dicionário "
- "auditado de 458 códigos."
-
- "\n\n"
- "O denominador primário de força de trabalho proveio da RAIS, a Relação Anual de "
- "Informações Sociais, disponível no FTP do Ministério do Trabalho e Emprego. Como a "
- "RAIS captura vínculos celetistas ativos em 31 de dezembro de cada ano e a CAT cobre "
- "exclusivamente celetistas, numerador e denominador são comensuráveis. O denominador "
- "secundário proveio do CNES-PF, o Cadastro Nacional de Estabelecimentos de Saúde, "
- "obtido com o pacote [[i]]microdatasus[[/i]] em R para a competência de dezembro de "
- "cada ano, acessado via FTP do DATASUS. O CNES-PF, por incluir vínculos estatutários, "
- "autônomos e de pessoa jurídica, não é comensurável com a CAT, sendo utilizado como "
- "ferramenta de triangulação para estimar a fração de vínculos não capturados. Células "
- "com menos de cinco registros foram suprimidas."
- "\n\n"
-"Para examinar como o regime de visibilidade previdenciária se manifesta nos "
- "registros da CAT, três estratégias analíticas complementares foram "
- "empregadas. A primeira compreendeu a descrição do perfil das CATs das "
- "profissões da saúde, com teste de sensibilidade em seis cenários para "
- "verificar a estabilidade dos achados. A segunda consistiu na análise da "
- "série temporal mensal de CATs (janeiro de 2018 a outubro de 2025), com "
- "decomposição clássica, Mann-Kendall, Dickey-Fuller e suavização LOESS com "
- "intervalo de confiança [[i]]bootstrap[[/i]] de 200 reamostragens. A terceira "
- "compreendeu a identificação de padrões de associação entre ocupação, agente "
- "causador e diagnóstico, utilizando o algoritmo Apriori (métricas de suporte, "
- "confiança e [[i]]lift[[/i]]), grafos bipartidos e teste qui-quadrado com "
- "V de Cramér. Essas abordagens identificam regularidades que contribuam "
- "para a caracterização do regime de visibilidade previdenciária. "
- "Adicionalmente, 46 arquivos do SINAN/DATASUS (126,5 MB, nove agravos "
- "relacionados ao trabalho, 2018-2022, FTP do DATASUS) foram obtidos para "
- "cotejo futuro entre notificação compulsória e comunicação de acidente.\n\n"
- # §5 - RESULTADOS DESCRITIVOS
- "Das 5.066 CATs vinculadas a empregadores de Campos dos Goytacazes entre 2018 e 2025, "
- "1.144, equivalentes a 22,6%, correspondem às profissões da saúde, 26 às "
- "multiprofissionais, 184, ou 3,6%, a registros sem CBO válido e 3.712 às demais "
- "ocupações, das quais 427 em estabelecimentos de saúde. A distribuição é fortemente "
- "assimétrica, conforme a Tabela 4. A enfermagem concentra 84,4% dos registros, sendo "
- "70,2% de técnicos e auxiliares e 14,2% de enfermeiros. Seguem-se os técnicos de "
- "diagnóstico e laboratório, com 6,8%, e a fisioterapia, com 2,6%. A medicina responde "
- "por 1,0%, o que representa 12 CATs em oito anos. Predominam mulheres, com 85,7%, e a "
- "idade mediana é de 36 anos. Os acidentes típicos somam 81,9% e os de trajeto, 17,1%. "
- "Ferimentos de punho e mãos lideram os diagnósticos, CID-10 S61, com 25,1%, sendo o "
- "dedo a parte atingida em 43,9% dos casos, seguidos da exposição a doenças "
- "transmissíveis, código Z20, com 21,9%. Agentes infecciosos respondem por 26,9% dos "
- "causadores. Quase todos os empregadores pertencem à CNAE 86-87, com 95,4%, e há "
- "dominância hospitalar, CNAE 8610, com 76,8%. O empregador emitiu 97,0% das CATs, "
- "com mediana de um dia entre o acidente e a emissão. Houve um óbito e 1,0% de "
- "doenças relacionadas ao trabalho."
- "\n\n"
- "A análise de sensibilidade em seis cenários confirmou a estabilidade dos achados, "
- "conforme a Tabela 5. Em todos os cenários, a participação da enfermagem variou entre "
- "84,4% e 86,3% e a hierarquia das três principais categorias, a saber, técnicos de "
- "enfermagem, enfermeiros e profissionais de diagnóstico e laboratório, permaneceu "
- "inalterada. As Figuras 1 e 2 ilustram esses resultados.",
-
- # §6 - SÉRIES TEMPORAIS
- "A série mensal de CATs das profissões da saúde, abrangendo 94 meses de janeiro de "
- "2018 a outubro de 2025, totalizou 1.144 registros, com média geral de 12,2 CATs por "
- "mês e desvio padrão de 6,9. A decomposição clássica evidenciou componente sazonal "
- "discreto e tendência estável, com elevação durante o período pandêmico. O teste de "
- "Mann-Kendall não detectou tendência monotônica significativa na série completa, com "
- "tau de Kendall igual a 0,06 e p igual a 0,41. No entanto, a análise por subperíodo "
- "revelou tendência de aumento significativa durante a pandemia, mais precisamente de "
- "março de 2020 a dezembro de 2021, com p igual a 0,002 e [[i]]slope[[/i]] de 0,50 "
- "CATs por mês, achado compatível com a intensificação da exposição ocupacional no "
- "período crítico da covid-19, conforme descrito por Vedovato [[i]]et al.[[/i]] (2021). "
- "Nos períodos pré-pandemia, de janeiro de 2018 a fevereiro de 2020, e pós-pandemia, de "
- "janeiro de 2022 a outubro de 2025, a tendência não foi significativa, com p igual a "
- "0,21 e p igual a 0,40, respectivamente."
- "\n\n"
- "O teste de Dickey-Fuller aumentado rejeitou a hipótese de raiz unitária, com ADF igual "
- "a -5,80 e p inferior a 0,001, indicando que a série é estacionária. A média mensal de "
- "CATs foi de 13,8 no período pré-pandemia, de julho de 2018 a fevereiro de 2020, 14,5 "
- "no período crítico da covid-19 e 10,9 no biênio pós-pandemia, de 2022 a 2023. O teste "
- "t de Welch detectou diferença significativa apenas entre os períodos crítico e "
- "pós-pandemia, com t igual a 2,04 e p igual a 0,048. O coeficiente de variação "
- "aumentou de 37,5% no pré-pandemia para 63,3% no pós-pandemia, indicando maior "
- "irregularidade das notificações nos anos recentes, possivelmente associada às "
- "oscilações de cobertura da fonte. A Tabela 6 e as Figuras 3 e 4 apresentam esses "
- "resultados.",
-
- # §7 - REDES DE ASSOCIAÇÃO
- "A mineração de regras de associação revelou duas cadeias de acidentes estruturalmente "
- "distintas, conforme a Tabela 7 e a Figura 5. A primeira associa ferramenta manual, "
- "enfermagem de nível técnico, ferimento de punho e mão, código S61 da CID-10, e lesão "
- "imediata, com [[i]]lift[[/i]] de 6,29 e confiança de 85% na direção reversa. A "
- "segunda associa agente biológico, enfermagem de nível técnico e exposição a doenças "
- "transmissíveis, código Z20 da CID-10. O teste qui-quadrado de independência entre "
- "ocupação e grupo CID-10 foi significativo, com qui-quadrado igual a 352,6, 268 graus "
- "de liberdade, p inferior a 0,001 e V de Cramér igual a 0,28, confirmando que o perfil "
- "diagnóstico não é homogêneo entre as categorias profissionais. A enfermagem de nível "
- "técnico apresentou prevalência três vezes maior de causas externas, código Y da "
- "CID-10, com razão de prevalência de 3,02, e de traumatismos de punho e mão, códigos "
- "S60 a S69, com razão de prevalência de 2,97, em comparação com as demais categorias. "
- "A exposição a doenças transmissíveis, código Z20, também foi mais prevalente na "
- "enfermagem técnica, com razão de prevalência de 1,37. A análise de cadeias completas, "
- "envolvendo ocupação, agente, CID e tipo de acidente, confirmou que as cinco combinações "
- "mais frequentes envolvem a enfermagem técnica. A principal delas corresponde a agente "
- "biológico associado a exposição a doenças transmissíveis em acidente típico, com 116 "
- "ocorrências, seguida por agente biológico com ferimento de mão em acidente típico, "
- "com 84 ocorrências, e ferramenta manual com ferimento de mão em acidente típico, com "
- "80 ocorrências.",
-
- # §8 - SINAN
- "Os dados do SINAN para Campos (2018-2022), obtidos do FTP do DATASUS, abrangem "
- "nove agravos relacionados ao trabalho em 46 arquivos nacionais (126,5 MB). A "
- "comparação entre as notificações do SINAN e as comunicações da CAT para o mesmo "
- "município permite antever a complementaridade entre os sistemas. Enquanto a CAT "
- "captura majoritariamente acidentes entre celetistas, o SINAN registra agravos de "
- "notificação compulsória independentemente do vínculo, oferecendo uma janela para "
- "adoecimentos crônicos relacionados ao trabalho que a CAT não alcança.",
-
- # §9 - DISCUSSÃO
- "Os achados convergem para a demonstração de que o perfil de acidentes capturado "
- "pela CAT constitui, antes de tudo, um perfil do regime de visibilidade previdenciária "
- "do município. A concentração de 84,4% das CATs na enfermagem de nível técnico expressa, "
- "simultaneamente, a exposição diferencial ao risco determinada por um processo de "
- "trabalho que concentra a execução manual do cuidado em categorias subordinadas na "
- "hierarquia ocupacional, e a captura diferencial pelo sistema de informação "
- "determinada pelo regime previdenciário. Duas cadeias predominantes de risco "
- "prevenível emergem dessa concentração. A cadeia perfurocortante, que articula "
- "ferramenta manual ao código S61, e a cadeia biológica, que articula agente infeccioso "
- "ao código Z20, dependem de dispositivos de segurança e de disponibilidade contínua de "
- "equipamentos de proteção individual. A razão de prevalência elevada de causas externas, "
- "de 3,02, na enfermagem técnica é consistente com a execução manual e corporal do "
- "cuidado, que envolve punção venosa, administração de medicamentos e manipulação de "
- "perfurocortantes."
- "\n\n"
- "A concentração das CATs na "
- "enfermagem e a quase ausência da medicina, com apenas 1,0%, refletem a estrutura "
- "de vínculos previdenciários do município. A razão RPPS sobre INSS, que passou de 3,3 em 2024 "
- "para aproximadamente 15,5 em 2025, conforme os dados do Portal da Transparência de "
- "Campos, materializa essa assimetria e indica seu agravamento recente. As densidades "
- "de comunicação calculadas com denominador RAIS, que é comensurável com a CAT por "
- "ambos cobrirem celetistas, situaram-se entre 30,3 e 43,9 CATs por 1.000 vínculos "
- "ativos de técnicos de enfermagem, conforme a RAIS disponível no FTP do Ministério "
- "do Trabalho, e em apenas 3,7 por 1.000 para a medicina em 2019, único ano com "
- "numerador igual ou superior a cinco nessa categoria. As densidades com denominador "
- "CNES, que não é comensurável por incluir todos os vínculos, foram sistematicamente "
- "menores, mas a razão entre as densidades RAIS e CNES quantifica a fração de acidentes "
- "ocultos pelo desenho institucional da CAT."
- "\n\n"
- "Conforme exposto na abertura deste ensaio, Souza, Melo e Vasconcellos (2017) "
- "oferecem uma distinção entre campo e questão que ilumina esses achados. A CAT "
- "constitui um instrumento do campo, pois captura o que o desenho "
- "institucional permite ver. A questão, contudo, é mais ampla, uma vez que os "
- "acidentes e adoecimentos dos estatutários, autônomos, informais e terceirizados "
- "existem independentemente de sua captura pelo sistema. A dualidade de regimes "
- "previdenciários em Campos, com uma razão RPPS sobre INSS que se ampliou de 3,3 "
- "para 15,5 entre 2024 e 2025, é a manifestação local dessa distância entre o campo "
- "e a questão."
- "\n\n"
- "O pensamento de Antonio Gramsci, particularmente sua concepção do trabalho como "
- "princípio educativo e dos trabalhadores como produtores de conhecimento, oferece "
- "fundamentos para uma vigilância que articule processo de trabalho, determinação "
- "social da saúde e participação dos trabalhadores. França (2014), ao correlacionar "
- "o Modelo Operário Italiano com as categorias gramscianas, demonstra que o saber "
- "operário e a socialização do conhecimento foram fundamentais na construção de uma "
- "metodologia de ação contra a nocividade no trabalho protagonizada pelo próprio "
- "trabalhador. A saúde, nessa perspectiva, é algo a ser construído com participação "
- "direta. A vigilância baseada exclusivamente "
- "nos registros da CAT opera na institucionalidade consolidada, ao passo que a "
- "vigilância que incorpora a participação ativa dos trabalhadores na identificação "
- "dos riscos e na proposição de soluções avança na direção contra-hegemônica "
- "demonstrada pela experiência do Modelo Operário Italiano.",
-
- # §10 - LIMITAÇÕES
- "A CAT capta comunicações, não a totalidade dos acidentes e adoecimentos, e cobre "
- "essencialmente o emprego formal celetista, excluindo informais, autônomos e "
- "estatutários. A cobertura da fonte é parcial em 2018, com competências apenas desde "
- "julho, irregular em 2022, atípica de setembro a dezembro de 2024 e incompleta em "
- "2025, com dados até outubro, o que introduz ruído nas séries temporais. Registros "
- "sem CBO válido, que somam 3,6% do total, podem subestimar as profissões da saúde "
- "entre 2021 e 2023. O desenho exploratório do ensaio não comporta inferência causal. "
- "O CNES-PF como denominador não é comensurável com o numerador da CAT, limitação "
- "enfrentada com a utilização da RAIS como denominador primário comensurável e a "
- "transformação do CNES em ferramenta de triangulação. Ademais, a indisponibilidade "
- "dos registros de afastamento do RPPS municipal, geridos pelo PREVICAMPOS, em base "
- "pública consolidada impede a comparação direta entre os dois regimes previdenciários "
- "para as mesmas categorias profissionais. Por fim, o ensaio não contempla análise "
- "direta do processo de trabalho, lacuna que demanda estudos qualitativos "
- "complementares com participação dos trabalhadores, nos moldes do Modelo Operário "
- "Italiano (França, 2014).",
-
- # §11 - IMPLICAÇÕES
- "Para a Vigilância em Saúde do Trabalhador e para a gestão municipal, os resultados "
- "indicam quatro prioridades. A primeira consiste em proteger a base técnica da "
- "enfermagem, que concentra 84,4% dos registros, com dispositivos de segurança para "
- "perfurocortantes e disponibilidade contínua de equipamentos de proteção individual. "
- "A segunda reside na integração dos registros de afastamento do RPPS, geridos pelo "
- "PREVICAMPOS, à base da CAT, superando a assimetria de visibilidade que impede "
- "dimensionar a carga real de acidentes. A terceira concerne à incorporação da análise "
- "de séries temporais e de redes de associação à rotina da vigilância, haja vista que "
- "cadeias específicas de acidentes permitem intervenções mais efetivas que abordagens "
- "genéricas. A quarta diz respeito ao planejamento da força de trabalho, reconhecendo "
- "que a dependência fiscal do município, com 71% de transferências correntes segundo "
- "o Siconfi, torna o emprego em saúde vulnerável à volatilidade dos [[i]]royalties[[/i]] "
- "do petróleo (Martins, Hasenclever e Miranda, 2024).",
-]
-
-# ======================== TABELAS E FIGURAS ====================================
 def tabela(dados_tab, fonte_txt):
     t = d.add_table(rows=0, cols=len(dados_tab[0])); t.style = "Table Grid"
     for i, row in enumerate(dados_tab):
@@ -385,192 +54,379 @@ def figura(path, caption):
     pf.add_run().add_picture(path, width=Cm(10.5))
     par(caption, indent=False, size=8, after=3)
 
-# Tabela 1 - IPS
+# ============================ TÍTULO ===========================================
+par("[[b]]Panorama da saúde do trabalhador em Campos dos Goytacazes (RJ)[[/b]]",
+    indent=False, center=True, size=14, after=8)
+
+# ============================ ENSAIO ===========================================
+CORPO = [
+
+ # =======================================================================
+ # 1. INTRODUÇÃO
+ # =======================================================================
+ "Campos dos Goytacazes, maior município do estado do Rio de Janeiro, "
+ "contava com 483.540 habitantes no Censo de 2022 (IBGE). Sua economia "
+ "organiza-se em três ciclos. O ciclo açucareiro entrou em colapso nos anos "
+ "1980. O ciclo petrolífero (1970-2014), impulsionado pela Bacia de Campos, "
+ "gerou R$ 339,7 milhões em [[i]]royalties[[/i]] entre 2018 e 2025 (ANP). "
+ "O terceiro ciclo, em curso desde 2014, é de estagnação. Silva e Hasenclever "
+ "(2019) demonstram que a riqueza petrolífera não superou o "
+ "subdesenvolvimento histórico: em 2024, 71% das receitas provieram de "
+ "transferências (Siconfi/STN), com PIB per capita de R$ 88.831 contrastando "
+ "com IDHM de 0,716 e 37,7% da população com até meio salário mínimo. "
+ "O setor saúde responde por 15.002 postos de trabalho (CEMPRE 2024).",
+
+ # =======================================================================
+ # 2. REGIMES PREVIDENCIÁRIOS E A CAT
+ # =======================================================================
+ "O funcionalismo público de Campos opera sob dois regimes previdenciários. "
+ "O Regime Próprio (RPPS) cobre estatutários, com contribuições patronais "
+ "de R$ 74,7 milhões em 2025. O INSS cobre celetistas, com R$ 4,8 milhões "
+ "no mesmo ano (Portal da Transparência). A razão RPPS/INSS passou de 3,3 "
+ "para 15,5 entre 2024 e 2025. A Comunicação de Acidente de Trabalho (CAT), "
+ "instituída pela Lei nº 8.213/1991, é instrumento exclusivo do INSS: "
+ "acidentes de estatutários não são capturados. A literatura documenta "
+ "limitações estruturais de cobertura da CAT (ALMEIDA; BINDER; FISCHER, "
+ "2000) e fatores associados à subnotificação como informalidade e "
+ "desconhecimento de direitos (GALDINO; SANTANA; FERRITE, 2012).",
+
+ # =======================================================================
+ # 3. REFERENCIAL TEÓRICO
+ # =======================================================================
+ "Oliveira (2004) demonstra que cada regime de acumulação capitalista "
+ "produz formas específicas de desgaste da força de trabalho. Antunes e "
+ "Praun (2015) mostram que a epidemia de agravos ocupacionais no Brasil é "
+ "componente estrutural do padrão de acumulação flexível. No setor saúde, "
+ "o trabalho é relacional e corporal: envolve perfurocortantes, fluidos "
+ "biológicos, movimentação de pacientes e sofrimento psíquico contínuo. A "
+ "OIT estima 2,3 milhões de mortes anuais por acidentes e doenças do "
+ "trabalho (ILO, 2023) e a OMS reconhece trabalhadores da saúde como grupo "
+ "de alto risco (WHO, 2020)."
+
+ "\n\n"
+ "Souza, Melo e Vasconcellos (2017) distinguem o [[i]]campo[[/i]] "
+ "institucional da Saúde do Trabalhador - normas, políticas e sistemas de "
+ "informação - da [[i]]questão[[/i]] mais ampla dos acidentes que o sistema "
+ "não captura. Essa distinção é pertinente a Campos, onde a dualidade "
+ "RPPS/INSS produz uma segmentação institucional que determina quais "
+ "acidentes se tornam estatisticamente visíveis. Gomez, Vasconcellos e "
+ "Machado (2018) apontam que a fragmentação dos sistemas de informação "
+ "compromete a capacidade de produzir conhecimento acionável. "
+
+ "\n\n"
+ "Este ensaio analítico descreve o perfil e as taxas de notificação de "
+ "acidentes de trabalho entre profissionais da saúde com vínculo celetista "
+ "em Campos dos Goytacazes, de 2018 a 2025, contextualizando os achados "
+ "à luz da literatura sobre sistemas de informação em saúde do trabalhador. "
+ "Não se pretende testar hipóteses causais, mas identificar padrões que "
+ "contribuam para a discussão sobre vigilância e subnotificação.",
+
+ # =======================================================================
+ # 4. MÉTODO
+ # =======================================================================
+ "A base principal é a CAT do INSS (Portal de Dados Abertos): 58 arquivos "
+ "de julho de 2018 a outubro de 2025, dos quais 5.066 vinculados a "
+ "empregadores de Campos e 1.144 atribuídos às profissões da saúde celetistas "
+ "classificadas pela CBO 2002. O denominador é a RAIS (Ministério do "
+ "Trabalho), que registra 83.938 vínculos celetistas ativos em 31 de "
+ "dezembro das mesmas categorias, sendo comensurável com a CAT. Ambos "
+ "capturam exclusivamente celetistas."
+
+ "\n\n"
+ "Bases complementares incluem: SINAN (DATASUS, 72 arquivos, 2018-2025, "
+ "filtro SIT_TRAB=01 para acidentes e TRAB_DOE=1 para doenças); SIH/SUS "
+ "([[i]]microdatasus[[/i]], R, 255.254 internações com CID de trabalho "
+ "baseados na lista do Ministério da Saúde, Brasil, 1999); benefícios "
+ "acidentários do INSS, B91-B94 (Portal de Dados Abertos, 48.528 "
+ "concessões, todas as ocupações); e 42 indicadores do SmartLab/MPT "
+ "(extração automatizada)."
+
+ "\n\n"
+ "As taxas de notificação foram calculadas por 1.000 vínculos RAIS, com "
+ "intervalos de confiança binomiais exatos a 95%. Células com menos de "
+ "cinco eventos ou denominador inferior a 30 foram suprimidas. Três "
+ "limitações metodológicas devem ser explicitadas. Primeira, o "
+ "delineamento é ecológico: os dados são agregados por categoria "
+ "profissional e ano, sem informação individual sobre o regime "
+ "previdenciário do trabalhador acidentado (MORGENSTERN, 1995). Segunda, "
+ "a cobertura temporal da CAT é irregular (2018 apenas julho-dezembro; "
+ "2025 até outubro; lacunas em 2022). Terceira, o SINAN combina arquivos "
+ "FINAIS (2018-2022) e PRELIM (2023-2025), cuja completude não é "
+ "equivalente. Os resultados referem-se exclusivamente a trabalhadores "
+ "celetistas da saúde; não são generalizáveis a estatutários, autônomos "
+ "ou pessoas jurídicas.",
+
+ # =======================================================================
+ # 5. RESULTADOS
+ # =======================================================================
+ "Das 1.144 CATs de profissionais celetistas da saúde (Tabela 1), a "
+ "enfermagem de nível técnico concentra 70,2% dos registros "
+ "(IC 95%: 67,5-72,8%), seguida por enfermeiros (14,2%; IC 95%: "
+ "12,2-16,3%). A medicina responde por 1,0% (12 notificações em oito anos; "
+ "IC 95%: 0,5-1,7%). Predominam mulheres (85,7%; IC 95%: 83,7-87,7%), "
+ "idade mediana de 36 anos e acidentes típicos (81,9%). Ferimentos de "
+ "punho e mãos (CID S61, 25,1%) e exposição a doenças transmissíveis "
+ "(Z20, 21,9%) lideram os diagnósticos. Agentes infecciosos respondem por "
+ "26,9% dos causadores e 95,4% dos empregadores pertencem à CNAE 86-87."
+
+ "\n\n"
+ "As taxas de notificação por 1.000 vínculos RAIS (Tabela 2) revelam "
+ "heterogeneidade expressiva. A enfermagem técnica apresenta 24,9 "
+ "notificações por 1.000 vínculos, seguida por enfermeiros (20,4/1.000) "
+ "e técnicos de diagnóstico (16,7/1.000). A medicina registra a menor "
+ "taxa entre categorias com denominador suficiente: 1,2 por 1.000 "
+ "vínculos. A Figura 1 mostra que o padrão de concentração na enfermagem "
+ "técnica se repete em todos os anos, com pico de 64 notificações em 2021, "
+ "durante o período mais agudo da pandemia de COVID-19 (VEDOVATO et al., "
+ "2021).",
+
+ # =======================================================================
+ # 6. DEMAIS SISTEMAS DE INFORMAÇÃO
+ # =======================================================================
+ "O SINAN registrou 11.634 notificações de agravos relacionados ao "
+ "trabalho em Campos (Tabela 3). Os acidentes somaram 10.213 "
+ "notificações. As doenças ocupacionais com nexo confirmado somaram "
+ "apenas 26 casos em oito anos (9 LER/DORT, 14 transtorno mental, "
+ "2 câncer, 1 pneumoconiose), com zero registros de dermatose ocupacional "
+ "e PAIR. Galdino, Santana e Ferrite (2012) documentam a subnotificação "
+ "expressiva desses agravos no Brasil. A razão entre as 11.634 "
+ "notificações do SINAN e as 1.144 CATs da saúde (aproximadamente 10:1) "
+ "fornece uma estimativa indireta da magnitude de acidentes que não geram "
+ "CAT, embora os universos de cobertura não sejam idênticos.",
+
+ "\n\n"
+ "As internações do SIH/SUS (Tabela 4) totalizaram 255.254, das quais "
+ "286 (0,11%) com CIDs do escopo da saúde ocupacional: distúrbios "
+ "osteomusculares (M75, M65, M79, n=272), dermatoses ocupacionais "
+ "(L23-L25, n=11), PAIR (H83.3, n=1) e asma ocupacional (J45.0, n=2). "
+ "Foram utilizados exclusivamente códigos com relação direta ao trabalho, "
+ "excluindo-se traumatismos, queimaduras, fraturas e intoxicações. "
+ "Os distúrbios osteomusculares predominam (95%), compatíveis com a "
+ "elevada prevalência de LER/DORT em trabalhadores brasileiros. "
+ "Não foram registrados óbitos com esses CIDs no SIM (2018-2024).",
+
+ "\n\n"
+ "Os benefícios acidentários do INSS (B91-B94) totalizaram 48.528 "
+ "concessões (Tabela 5). O pico de 2020 (10.631) coincide com a pandemia "
+ "e pode refletir tanto aumento real de acidentes quanto mudanças "
+ "administrativas nos procedimentos de concessão durante a emergência "
+ "sanitária. A oscilação entre 286 (2022) e 13.607 (2025) provavelmente "
+ "incorpora efeitos de alterações normativas e de capacidade operacional "
+ "do INSS, não apenas variação na incidência de acidentes. Estes "
+ "benefícios cobrem todas as ocupações do município, não apenas a saúde, "
+ "e a base não contém a Classificação Brasileira de Ocupações, impedindo "
+ "estratificação por categoria profissional.",
+
+ # =======================================================================
+ # 7. DISCUSSÃO
+ # =======================================================================
+ "Os resultados revelam heterogeneidade substancial nas taxas de "
+ "notificação de acidentes de trabalho entre as categorias profissionais "
+ "celetistas da saúde em Campos. A taxa de 24,9/1.000 para técnicos de "
+ "enfermagem contrasta com 1,2/1.000 para a medicina. Essa diferença "
+ "de aproximadamente 21 vezes não pode ser atribuída a um único fator.",
+
+ "\n\n"
+ "A literatura oferece múltiplos fatores que podem contribuir, sem que "
+ "os dados permitam estabelecer a contribuição relativa de cada um. "
+ "O processo de trabalho concentra a execução manual do cuidado na "
+ "enfermagem técnica, com maior volume de procedimentos envolvendo "
+ "risco perfurocortante e exposição biológica. Diferenças na utilização "
+ "de equipamentos de proteção, na exposição temporal a procedimentos de "
+ "risco e na propensão a notificar acidentes entre categorias são "
+ "documentadas (ALMEIDA; BINDER; FISCHER, 2000; GALDINO; SANTANA; "
+ "FERRITE, 2012). Parte dos médicos atua como pessoa jurídica, forma "
+ "de vínculo sem CAT. Os estatutários, independentemente da categoria, "
+ "estão excluídos do sistema CAT. O delineamento ecológico impede "
+ "isolar a contribuição de cada fator.",
+
+ "\n\n"
+ "A triangulação com os demais sistemas de informação oferece estimativas "
+ "indiretas da subnotificação. A razão SINAN/CAT de aproximadamente 10:1 "
+ "é compatível com a existência de um universo de acidentes de trabalho "
+ "que não são comunicados via CAT. As 5.585 internações com CID de "
+ "ocupacional no SIH, com 286 internações em oito anos (0,11%), "
+ "das quais 95% são distúrbios osteomusculares (LER/DORT), reforça "
+ "o predomínio desses agravos também na rede hospitalar. A virtual "
+ "ausência de doenças ocupacionais crônicas "
+ "confirmadas no SINAN (26 casos em oito anos) é consistente com a "
+ "dificuldade estrutural de estabelecer nexo entre adoecimento crônico "
+ "e trabalho (GALDINO; SANTANA; FERRITE, 2012). Esses padrões "
+ "convergentes sugerem que a subnotificação de acidentes e, sobretudo, "
+ "de doenças ocupacionais é expressiva em Campos, embora sua magnitude "
+ "exata não possa ser quantificada com os dados disponíveis.",
+
+ # =======================================================================
+ # 8. LIMITAÇÕES E IMPLICAÇÕES
+ # =======================================================================
+ "Este ensaio apresenta limitações que devem ser consideradas. O "
+ "delineamento ecológico impede inferências sobre mecanismos individuais "
+ "(MORGENSTERN, 1995). Os denominadores RAIS restringem-se a celetistas; "
+ "os achados não se aplicam a estatutários, autônomos ou PJ. A cobertura "
+ "temporal da CAT é irregular. A classificação de CIDs de trabalho no "
+ "SIH não valida causalidade ocupacional individual. Os dados do SmartLab "
+ "são majoritariamente do Censo 2010. Os benefícios do INSS cobrem "
+ "universo distinto do das CATs analisadas. Apesar dessas limitações, a "
+ "convergência de múltiplas fontes independentes sugere que os padrões "
+ "descritos são robustos.",
+
+ "\n\n"
+ "Para a vigilância em saúde do trabalhador, os resultados indicam que "
+ "a enfermagem de nível técnico concentra a maior carga de notificações "
+ "e apresenta a maior taxa por vínculo. Medidas de proteção dirigidas a "
+ "essa categoria - dispositivos de segurança para perfurocortantes e "
+ "disponibilidade contínua de EPI - têm potencial de impacto "
+ "desproporcional. A integração dos registros do RPPS municipal às bases "
+ "nacionais permitiria dimensionar a carga de acidentes entre "
+ "estatutários, atualmente invisível ao sistema CAT. Pesquisas futuras "
+ "com dados individuais que vinculem o acidente ao regime previdenciário "
+ "poderão superar as limitações do delineamento ecológico e quantificar "
+ "a contribuição relativa dos múltiplos fatores aqui discutidos.",
+]
+
+# ============================ TABELAS ==========================================
+
 T1 = [
- ("Indicador IPS", "2024", "2025", "2026", "Variação", "Fonte"),
- ("IPS Global", "62,37", "62,19", "62,68", "+0,31", "IPS Brasil"),
- ("Saúde e Bem-estar", "57,43", "58,59", "58,90", "+1,47", "IPS Brasil"),
- ("Acesso ao Conhecimento", "66,07", "66,17", "69,48", "+3,41", "IPS Brasil"),
- ("Direitos Individuais", "46,39", "44,62", "51,92", "+5,53", "IPS Brasil"),
- ("Segurança Pessoal", "56,35", "54,53", "52,77", "-3,58", "IPS Brasil"),
- ("Inclusão Social", "50,25", "50,67", "47,55", "-2,70", "IPS Brasil"),
- ("Hospitalizações CSAP", "610", "883", "883", "+273", "IPS Brasil"),
- ("Homicídios (100 mil)", "24,6", "27,9", "25,3", "+0,7", "IPS Brasil"),
+ ("Categoria profissional", "n", "%", "IC 95%"),
+ ("Enfermagem, técnicos e auxiliares", "803", "70,2", "67,5-72,8"),
+ ("Enfermagem, enfermeiros", "163", "14,2", "12,2-16,3"),
+ ("Diagnóstico/lab., técnicos", "78", "6,8", "5,4-8,3"),
+ ("Fisioterapia", "30", "2,6", "1,7-3,6"),
+ ("Farmácia, técnicos", "20", "1,7", "1,0-2,5"),
+ ("ACS e afins", "14", "1,2", "0,6-1,9"),
+ ("Medicina", "12", "1,0", "0,5-1,7"),
+ ("Demais (n<5, agregados)", "24", "2,1", "-"),
+ ("Feminino", "980", "85,7", "83,7-87,7"),
 ]
 
-# Tabela 2 - Mortalidade
 T2 = [
- ("Ano", "Óbitos", "Taxa/1.000", "1ª causa", "2ª causa", "Fonte"),
- ("2019", "4.299", "8,5", "Circulatórias", "Neoplasias", "SIM/DATASUS"),
- ("2020", "4.831", "9,5", "Circulatórias", "Infecciosas", "SIM/DATASUS"),
- ("2021", "5.635", "10,9", "Infecciosas", "Circulatórias", "SIM/DATASUS"),
- ("2022", "4.608", "9,5", "Circulatórias", "Neoplasias", "SIM/DATASUS"),
- ("2023", "4.199", "8,1", "Circulatórias", "Respiratórias", "SIM/DATASUS"),
- ("2024", "4.346", "8,4", "Circulatórias", "Respiratórias", "SIM/DATASUS"),
+ ("Categoria", "CATs", "RAIS", "Taxa/1.000"),
+ ("Enfermagem, técnicos e auxiliares", "803", "32.263", "24,9"),
+ ("Enfermagem, enfermeiros", "163", "7.979", "20,4"),
+ ("Diagnóstico/lab., técnicos", "78", "4.664", "16,7"),
+ ("Fisioterapia", "30", "3.360", "8,9"),
+ ("Farmácia, técnicos", "20", "2.381", "8,4"),
+ ("ACS e afins", "14", "3.701", "3,8"),
+ ("Medicina", "12", "9.892", "1,2"),
 ]
 
-# Tabela 3 - Estrutura e regimes
 T3 = [
- ("Indicador", "2024", "2025", "Fonte"),
- ("Receitas brutas", "R$ 2,95 bi", "-", "Siconfi/STN"),
- ("Transferências correntes", "71,0%", "-", "Siconfi/STN"),
- ("Pessoal ocupado na saúde", "15.002", "-", "IBGE, CEMPRE 2024"),
- ("Contribuições RPPS", "R$ 63,7 mi", "R$ 74,7 mi", "Portal Transparência Campos"),
- ("Contribuições INSS", "R$ 18,3 mi", "R$ 4,8 mi", "Portal Transparência Campos"),
- ("Razão RPPS/INSS", "3,3", "~15,5", "Portal Transparência Campos"),
+ ("Agravo", "Total 2018-2025"),
+ ("Acidente de Trabalho", "10.213"),
+ ("Acid. c/ Material Biológico", "695"),
+ ("Animais Peçonhentos (trabalho)", "700"),
+ ("LER/DORT", "9"),
+ ("Transtorno Mental", "14"),
+ ("Câncer / Pneumoconiose", "2 / 1"),
+ ("Dermatose / PAIR", "0 / 0"),
+ ("Total", "11.634"),
 ]
 
-# Tabela 4 - CATs
 T4 = [
- ("Característica", "n (%)", "Fonte"),
- ("Enfermagem - técnicos e auxiliares", "803 (70,2)", "CAT/INSS"),
- ("Enfermagem - enfermeiros", "163 (14,2)", "CAT/INSS"),
- ("Diagnóstico/lab. - técnicos", "78 (6,8)", "CAT/INSS"),
- ("Fisioterapia", "30 (2,6)", "CAT/INSS"),
- ("Farmácia - técnicos", "20 (1,7)", "CAT/INSS"),
- ("ACS e afins", "14 (1,2)", "CAT/INSS"),
- ("Medicina", "12 (1,0)", "CAT/INSS"),
- ("Demais (n<5 agregados)", "24 (2,1)", "CAT/INSS"),
- ("Sexo feminino", "980 (85,7)", "CAT/INSS"),
- ("Típico / trajeto / doença", "937 / 196 / 11", "CAT/INSS"),
- ("Dedo", "502 (43,9)", "CAT/INSS"),
- ("Agente biológico", "308 (26,9)", "CAT/INSS"),
- ("CID-10 S61 / Z20", "287 / 250", "CAT/INSS"),
- ("CNAE 86-87 / 8610", "1.091 / 879", "CAT/INSS"),
- ("CAT pelo empregador", "1.110 (97,0)", "CAT/INSS"),
+ ("Ano", "Internações", "CID ocupacional"),
+ ("2018", "28.941", "22"),
+ ("2019", "27.856", "40"),
+ ("2020", "25.386", "12"),
+ ("2021", "28.579", "6"),
+ ("2022", "34.145", "95"),
+ ("2023", "35.103", "42"),
+ ("2024", "36.998", "40"),
+ ("2025", "38.246", "29"),
+ ("Total", "255.254", "286"),
 ]
 
-# Tabela 5 - Sensibilidade
 T5 = [
- ("Cenário", "n", "Enfermagem (%)", "Fonte"),
- ("Base completa 2018-2025", "1.144", "84,4", "CAT/INSS"),
- ("Excluindo 2025", "1.011", "84,5", "CAT/INSS"),
- ("Somente janeiro a outubro", "994", "84,4", "CAT/INSS"),
- ("Excluindo trajeto", "948", "85,1", "CAT/INSS"),
- ("Somente típicos", "937", "85,0", "CAT/INSS"),
- ("Típicos em CNAE 86-87", "937", "86,3", "CAT/INSS"),
+ ("Ano", "Benefícios (B91-B94)"),
+ ("2018", "465"),
+ ("2019", "366"),
+ ("2020", "10.631"),
+ ("2021", "4.061"),
+ ("2022", "286"),
+ ("2023", "8.660"),
+ ("2024", "10.452"),
+ ("2025", "13.607"),
+ ("Total", "48.528"),
 ]
 
-# Tabela 6 - Séries temporais
-T6 = [
- ("Teste", "Estatística", "p-valor", "Interpretação"),
- ("Mann-Kendall (série completa)", "tau = 0,06", "0,4116", "Sem tendência global"),
- ("Mann-Kendall (pandemia)", "slope = 0,50/mês", "0,0020", "Aumento na pandemia"),
- ("Dickey-Fuller Aumentado", "ADF = -5,80", "< 0,001", "Série estacionária"),
- ("t-test covid vs pós-pandemia", "t = 2,04", "0,0480", "Diferença significativa"),
- ("CV pré-pandemia / pós", "37,5% / 63,3%", "-", "Maior irregularidade recente"),
-]
-
-# Tabela 7 - Regras de associação
-T7 = [
- ("Regra de associação", "Confiança", "Lift", "n", "Fonte"),
- ("Ferramenta manual → Enf. técnica + S61", "0,36", "6,29", "55", "CAT/INSS"),
- ("S61 + Lesão imediata → Ferramenta manual", "0,81", "6,00", "63", "CAT/INSS"),
- ("Ag. biológico + Enf. técnica → Z20", "0,82", "2,45", "116", "CAT/INSS"),
- ("Enf. técnica + Ag. biológico → Típico", "0,97", "1,18", "188", "CAT/INSS"),
- ("Ferramenta manual + Típico → S61", "0,93", "3,63", "94", "CAT/INSS"),
-]
-
-# ======================== MONTAGEM ============================================
+# ============================ MONTAGEM =========================================
 for i, texto in enumerate(CORPO):
-    # Split on \n\n to create separate paragraphs with individual indent
     partes = texto.split("\n\n")
-    for j, parte in enumerate(partes):
+    for parte in partes:
         if parte.strip():
             par(parte, indent=True, after=2)
-    if i == 1:
-        par("[[b]]Tabela 1.[[/b]] Evolução do IPS de Campos dos Goytacazes (RJ), 2024-2026",
-            indent=False, size=9.5, before=4, after=2)
-        tabela(T1, "Fonte dos dados brutos: IPS Brasil 2024, 2025 e 2026 (https://ipsbrasil.org.br). "
-                   "CSAP = Condições Sensíveis à Atenção Primária, por 100 mil habitantes.")
-        par("[[b]]Tabela 2.[[/b]] Mortalidade geral de residentes, Campos dos Goytacazes (RJ), 2019-2024",
-            indent=False, size=9.5, before=2, after=2)
-        tabela(T2, "Fonte dos dados brutos: SIM/DATASUS, processados com microdatasus (R). "
-                   "Denominadores populacionais do IBGE, Estimativas Populacionais, SIDRA.")
-    if i == 2:
-        par("[[b]]Tabela 3.[[/b]] Estrutura econômica e regimes previdenciários, Campos dos Goytacazes (RJ)",
-            indent=False, size=9.5, before=4, after=2)
-        tabela(T3, "Fontes: IBGE (Censo 2022, SIDRA 5938, CEMPRE 2024); Siconfi/STN; "
-                   "Portal da Transparência de Campos (Despesas por Desdobro, 2020-2025). "
-                   "RPPS 2025 = rubrica 31911308. INSS 2025 = rubrica 31901302. (nd = não disponível).")
-    if i == 4:
-        par("[[b]]Tabela 4.[[/b]] Características das CATs das profissões da saúde, Campos dos Goytacazes (RJ), "
-            "2018-2025 (n = 1.144)", indent=False, size=9.5, before=4, after=2)
-        tabela(T4, "Fonte dos dados brutos: INSS, CAT, Portal de Dados Abertos (https://dados.gov.br). "
-                   "Idade mediana = 36 anos. Sexo ignorado em 4 registros. Um óbito.")
-        figura("saidas/figuras/F1_cat_ano_categorias.png",
-               "[[b]]Figura 1.[[/b]] CATs de profissões da saúde (n = 1.144) por ano do acidente e categoria "
-               "profissional, Campos dos Goytacazes (RJ), 2018-2025. Asterisco indica cobertura parcial ou "
-               "irregular da fonte. Fonte dos dados brutos: CAT/INSS, Portal de Dados Abertos.")
-        figura("saidas/figuras/F2_serie_mensal_saude.png",
-               "[[b]]Figura 2.[[/b]] Distribuição mensal das CATs de profissões da saúde (n = 1.144), "
-               "Campos dos Goytacazes (RJ), janeiro de 2018 a dezembro de 2025. Destaque para o período "
-               "crítico da covid-19 e médias mensais por período. Fonte dos dados brutos: CAT/INSS.")
-        par("[[b]]Tabela 5.[[/b]] Análise de sensibilidade, Campos dos Goytacazes (RJ), 2018-2025",
-            indent=False, size=9.5, before=4, after=2)
-        tabela(T5, "Fonte dos dados brutos: INSS, CAT, Portal de Dados Abertos. Em todos os cenários "
-                   "a hierarquia das categorias manteve-se inalterada.")
-    if i == 5:
-        par("[[b]]Tabela 6.[[/b]] Testes estatísticos da série temporal de CATs, Campos dos Goytacazes (RJ), "
-            "2018-2025", indent=False, size=9.5, before=4, after=2)
-        tabela(T6, "Fonte: elaborada pelo autor. Mann-Kendall com correção de ties. "
-                   "t-test de Welch para variâncias desiguais. CV = coeficiente de variação.")
-        figura("saidas/figuras/F4_tendencia_loess.png",
-               "[[b]]Figura 3.[[/b]] Suavização LOESS (fração = 0,30) com intervalo de confiança "
-               "[[i]]bootstrap[[/i]] de 200 reamostragens e 95% de confiança, Campos dos Goytacazes (RJ), "
-               "2018-2025. Fonte dos dados brutos: CAT/INSS.")
-        figura("saidas/figuras/F3_decomposicao_temporal.png",
-               "[[b]]Figura 4.[[/b]] Decomposição clássica da série mensal de CATs. Componentes observado, "
-               "tendência por média móvel de 12 meses, sazonalidade e resíduo. Área sombreada indica período "
-               "crítico da covid-19. Fonte dos dados brutos: CAT/INSS.")
-    if i == 6:
-        par("[[b]]Tabela 7.[[/b]] Principais regras de associação (Apriori), CATs das profissões da saúde, "
-            "Campos dos Goytacazes (RJ), 2018-2025", indent=False, size=9.5, before=4, after=2)
-        tabela(T7, "Fonte dos dados brutos: INSS, CAT, Portal de Dados Abertos. Suporte mínimo = 3%. "
-                   "Confiança mínima = 30%. Lift mínimo = 1,2. n = 1.144. S61 = ferimento de punho e mão. "
-                   "Z20 = exposição a doenças transmissíveis.")
-        figura("saidas/figuras/F6_grafo_ocupacao_cid.png",
-               "[[b]]Figura 5.[[/b]] Grafo bipartido de associação entre categorias profissionais e grupos "
-               "diagnósticos da CID-10. Tamanho do nó proporcional ao número de CATs. Arestas com peso igual "
-               "ou superior a três co-ocorrências. Fonte dos dados brutos: CAT/INSS.")
 
-# ======================== REFERÊNCIAS ==========================================
-par("[[b]]Referências[[/b]]", indent=False, size=10.5, before=6, after=2)
+    if i == 4:
+        par("[[b]]Tabela 1.[[/b]] CATs das profissões celetistas da saúde, "
+            "Campos dos Goytacazes (RJ), 2018-2025 (n = 1.144).",
+            indent=False, size=10, before=4, after=2)
+        tabela(T1, "Fonte: CAT/INSS. IC 95% binomial exato. Cobertura: jul/2018-out/2025, parcial em 2018, 2022, 2024-2025.")
+        par("[[b]]Tabela 2.[[/b]] Taxa de notificação por 1.000 vínculos RAIS celetistas, "
+            "profissões da saúde, Campos (RJ), 2018-2025.",
+            indent=False, size=10, before=2, after=2)
+        tabela(T2, "Fontes: CAT/INSS e RAIS/MTE. Denominador: vínculos celetistas ativos em 31/12. "
+               "Ambos capturam exclusivamente celetistas. Células com n<5 ou denominador<30 suprimidas.")
+        figura("saidas/figuras/F1_cat_ano_categorias.png",
+               "[[b]]Figura 1.[[/b]] CATs de profissionais celetistas da saúde (n = 1.144) por ano e "
+               "categoria. Asterisco = cobertura parcial. Fonte: CAT/INSS.")
+
+    if i == 5:
+        par("[[b]]Tabela 3.[[/b]] SINAN, agravos relacionados ao trabalho, Campos (RJ), 2018-2025.",
+            indent=False, size=10, before=4, after=2)
+        tabela(T3, "Fonte: SINAN/DATASUS (FINAIS 2018-2022 + PRELIM 2023-2025). "
+               "Filtro: SIT_TRAB=01 (acidentes), TRAB_DOE=1 (doenças). "
+               "Observar que PRELIM têm completude inferior a FINAIS.")
+        par("[[b]]Tabela 4.[[/b]] Internações SIH/SUS com CID de trabalho, residentes de Campos (RJ), 2018-2025.",
+            indent=False, size=10, before=2, after=2)
+        tabela(T4, "Fonte: SIH/SUS (microdatasus, R). CIDs: LER/DORT (M75,M65,M79), dermatoses (L23-L25), "
+               "PAIR (H83.3), asma ocupacional (J45.0), exposicao (Z57), fatores trabalho (Y96), "
+               "exames ocupacionais (Z10.0). SIM: 0 obitos com esses CIDs.")
+        par("[[b]]Tabela 5.[[/b]] Benefícios acidentários (B91-B94) concedidos, Campos (RJ), 2018-2025.",
+            indent=False, size=10, before=2, after=2)
+        tabela(T5, "Fonte: INSS, Portal de Dados Abertos. Universo: todas as ocupações do município. "
+               "Oscilações em 2020-2022 podem refletir mudanças administrativas além de variação epidemiológica. "
+               "B91=auxílio-doença; B92=aposentadoria invalidez; B93=pensão morte; B94=auxílio-acidente.")
+
+# ============================ REFERÊNCIAS ======================================
+par("[[b]]Referências[[/b]]", indent=False, size=10.5, before=8, after=4)
 REFS = [
- "BRASIL. [[b]]Lei nº 8.213, de 24 de julho de 1991[[/b]]. Dispõe sobre os Planos de Benefícios da Previdência Social. Brasília, DF, 1991. "
- "Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm. Acesso em: 19 jul. 2026.",
- "BRASIL. [[b]]Lei nº 9.478, de 6 de agosto de 1997[[/b]]. Dispõe sobre a política energética nacional. Brasília, DF, 1997. "
- "Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l9478.htm. Acesso em: 19 jul. 2026.",
- "OLIVEIRA, E. M. Transformações no mundo do trabalho, da Revolução Industrial aos nossos dias. "
- "[[b]]Caminhos de Geografia[[/b]], Uberlândia, v. 6, n. 11, p. 84-96, fev. 2004. DOI: 10.14393/rcg51115327. "
- "Disponível em: https://doi.org/10.14393/rcg51115327. Acesso em: 19 jul. 2026.",
- "FRANÇA, Maria Júlia Paiva de. O pensamento de Antônio Gramsci na luta pela Saúde do Trabalhador. [[b]]Revista Em Pauta: teoria social e realidade contemporânea[[/b]], "
- "Rio de Janeiro, v. 11, n. 32, p. 89-113, 2014. DOI: 10.12957/rep.2013.10157. "
- "Disponível em: https://doi.org/10.12957/rep.2013.10157. Acesso em: 19 jul. 2026.",
- "MARTINS, Samuel; HASENCLEVER, Lia; MIRANDA, Caroline. A gestão da saúde à luz da instabilidade de financiamento e das propostas de governo. "
- "[[b]]Cadernos do Desenvolvimento Fluminense[[/b]], Rio de Janeiro, n. 27, 2024. DOI: 10.12957/cdf.2024.87352. "
- "Disponível em: https://doi.org/10.12957/cdf.2024.87352. Acesso em: 19 jul. 2026.",
- "SILVA, J. E. M. da; HASENCLEVER, L. Ciclo do petróleo e desenvolvimento socioeconômico no município de Campos dos Goytacazes "
- "(1999-2014). [[b]]Desenvolvimento em Questão[[/b]], Ijuí, v. 17, n. 46, p. 314-332, 2019. DOI: 10.21527/2237-6453.2019.46.314-332. "
- "Disponível em: https://doi.org/10.21527/2237-6453.2019.46.314-332. Acesso em: 19 jul. 2026.",
- "SOUZA, D. O.; MELO, A. I. S. C.; VASCONCELLOS, L. C. F. Saúde do(s) trabalhador(es): do 'campo' à 'questão' ou do sujeito sanitário ao sujeito revolucionário. "
- "[[b]]Saúde em Debate[[/b]], Rio de Janeiro, v. 41, n. 113, p. 591-604, abr-jun 2017. DOI: 10.1590/0103-1104201711313. "
- "Disponível em: https://doi.org/10.1590/0103-1104201711313. Acesso em: 19 jul. 2026.",
- "VEDOVATO, T. G.; ANDRADE, C. B.; SANTOS, D. L.; BITENCOURT, S. M.; ALMEIDA, L. P. de; SAMPAIO, J. F. da S. Trabalhadores(as) da "
- "saúde e a COVID-19: condições de trabalho à deriva? [[b]]Revista Brasileira de Saúde Ocupacional[[/b]], São Paulo, v. 46, e1, 2021. "
- "DOI: 10.1590/2317-6369000028520. "
- "Disponível em: https://doi.org/10.1590/2317-6369000028520. Acesso em: 19 jul. 2026.",
+ "ALMEIDA, I. M.; BINDER, M. C. P.; FISCHER, F. M. Acidentes de trabalho e sua "
+ "notificação. [[b]]Revista Brasileira de Saúde Ocupacional[[/b]], v. 25, p. 17-31, 2000.",
+ "ANTUNES, R.; PRAUN, L. A sociedade dos adoecimentos no trabalho. [[b]]Serviço Social "
+ "& Sociedade[[/b]], n. 123, p. 407-427, 2015.",
+ "BRASIL. [[b]]Lei nº 8.213/1991[[/b]]. Planos de Benefícios da Previdência Social.",
+ "BRASIL. Ministério da Saúde. [[b]]Portaria nº 1.339/1999[[/b]]. Lista de doenças "
+ "relacionadas ao trabalho.",
+ "GALDINO, A.; SANTANA, V. S.; FERRITE, S. Fatores associados à subnotificação de "
+ "acidentes. [[b]]Cadernos de Saúde Pública[[/b]], v. 28, n. 4, p. 733-742, 2012.",
+ "GOMEZ, C. M.; VASCONCELLOS, L. C. F.; MACHADO, J. M. H. Saúde do trabalhador no "
+ "SUS. [[b]]Ciência & Saúde Coletiva[[/b]], v. 23, n. 6, p. 1963-1970, 2018.",
+ "ILO. [[b]]World Statistic: Occupational Safety and Health[[/b]]. 2023.",
+ "LACAZ, F. A. C. O campo Saúde do Trabalhador. [[b]]Cadernos de Saúde Pública[[/b]], "
+ "v. 23, n. 4, p. 757-766, 2007.",
+ "MARTINS, S.; HASENCLEVER, L.; MIRANDA, C. A gestão da saúde e instabilidade de "
+ "financiamento. [[b]]Cadernos do Desenvolvimento Fluminense[[/b]], n. 27, 2024.",
+ "MORGENSTERN, H. Ecologic studies in epidemiology. [[b]]Annual Review of Public "
+ "Health[[/b]], v. 16, p. 61-81, 1995.",
+ "OLIVEIRA, E. M. Transformações no mundo do trabalho. [[b]]Caminhos de Geografia[[/b]], "
+ "v. 6, n. 11, p. 84-96, 2004.",
+ "SILVA, J. E. M.; HASENCLEVER, L. Ciclo do petróleo e desenvolvimento socioeconômico "
+ "em Campos. [[b]]Desenvolvimento em Questão[[/b]], v. 17, n. 46, p. 314-332, 2019.",
+ "SOUZA, D. O.; MELO, A. I. S. C.; VASCONCELLOS, L. C. F. Saúde do(s) trabalhador(es): "
+ "do 'campo' à 'questão'. [[b]]Saúde em Debate[[/b]], v. 41, n. 113, p. 591-604, 2017.",
+ "VEDOVATO, T. G. et al. Trabalhadores(as) da saúde e a COVID-19. [[b]]Revista "
+ "Brasileira de Saúde Ocupacional[[/b]], v. 46, e1, 2021.",
+ "WHO. [[b]]Occupational health: health workers[[/b]]. 2020.",
 ]
 for r in REFS:
     par(r, indent=False, just=False, size=8, after=1)
 
-# ======================== VERIFICAÇÕES =========================================
-TRAVESSAO, MEIA_RISCA, DOIS_PONTOS = chr(8212), chr(8211), ":"
+# ============================ VERIFICAÇÕES =====================================
 conteudo = " ".join(CORPO) + " ".join(REFS)
-conteudo += " ".join(v for linha in T1 + T2 + T3 + T4 + T5 + T6 + T7 for v in linha)
-for proibido, nome in ((TRAVESSAO, "travessão"), (MEIA_RISCA, "meia-risca")):
+for l in T1+T2+T3+T4+T5:
+    conteudo += " ".join(str(v) for v in l)
+for proibido, nome in ((chr(8212), "travessão"), (chr(8211), "meia-risca")):
     if proibido in conteudo:
-        raise SystemExit(f"PROIBIDO: {nome} encontrado no texto.")
+        raise SystemExit(f"PROIBIDO: {nome} encontrado.")
 
 os.makedirs("documentos", exist_ok=True)
 d.save("documentos/artigo.docx")
@@ -581,6 +437,6 @@ if os.path.exists(soffice):
                     "documentos/artigo.docx"], capture_output=True, timeout=300)
     from pypdf import PdfReader
     npag = len(PdfReader("documentos/artigo.pdf").pages)
-    print(f"artigo.docx gerado com {npag} página(s).")
+    print(f"ensaio.docx gerado com {npag} pagina(s).")
 else:
     print("AVISO: LibreOffice ausente.")

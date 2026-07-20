@@ -1,46 +1,73 @@
-﻿agravo;agravo_nome;ano;arquivo;tamanho_mb
-ACBI;Acid Trab Exposicao Material Biologico;2018;ACBIBR18.dbc;0.0
-ACBI;Acid Trab Exposicao Material Biologico;2019;ACBIBR19.dbc;0.0
-ACBI;Acid Trab Exposicao Material Biologico;2020;ACBIBR20.dbc;0.0
-ACBI;Acid Trab Exposicao Material Biologico;2021;ACBIBR21.dbc;0.0
-ACBI;Acid Trab Exposicao Material Biologico;2022;ACBIBR22.dbc;0.0
-ACGR;Acidente de Trabalho Grave;2018;ACGRBR18.dbc;0.0
-ACGR;Acidente de Trabalho Grave;2019;ACGRBR19.dbc;0.0
-ACGR;Acidente de Trabalho Grave;2020;ACGRBR20.dbc;0.0
-ACGR;Acidente de Trabalho Grave;2021;ACGRBR21.dbc;0.0
-ACGR;Acidente de Trabalho Grave;2022;ACGRBR22.dbc;0.0
-ANIM;Acidente por Animais Peconhentos;2018;ANIMBR18.dbc;0.0
-ANIM;Acidente por Animais Peconhentos;2019;ANIMBR19.dbc;0.0
-ANIM;Acidente por Animais Peconhentos;2020;ANIMBR20.dbc;0.0
-ANIM;Acidente por Animais Peconhentos;2021;ANIMBR21.dbc;0.0
-ANIM;Acidente por Animais Peconhentos;2022;ANIMBR22.dbc;0.0
-CANC;Cancer Relacionado ao Trabalho;2018;CANCBR18.dbc;0.0
-CANC;Cancer Relacionado ao Trabalho;2019;CANCBR19.dbc;0.0
-CANC;Cancer Relacionado ao Trabalho;2020;CANCBR20.dbc;0.0
-CANC;Cancer Relacionado ao Trabalho;2021;CANCBR21.dbc;0.0
-CANC;Cancer Relacionado ao Trabalho;2022;CANCBR22.dbc;0.0
-DERM;Dermatose Relacionada ao Trabalho;2018;DERMBR18.dbc;0.0
-DERM;Dermatose Relacionada ao Trabalho;2019;DERMBR19.dbc;0.0
-DERM;Dermatose Relacionada ao Trabalho;2020;DERMBR20.dbc;0.0
-DERM;Dermatose Relacionada ao Trabalho;2021;DERMBR21.dbc;0.0
-DERM;Dermatose Relacionada ao Trabalho;2022;DERMBR22.dbc;0.0
-LERD;LER/DORT;2018;LERDBR18.dbc;0.0
-LERD;LER/DORT;2019;LERDBR19.dbc;0.0
-LERD;LER/DORT;2020;LERDBR20.dbc;0.0
-LERD;LER/DORT;2021;LERDBR21.dbc;0.0
-LERD;LER/DORT;2022;LERDBR22.dbc;0.0
-MENT;Transtorno Mental Relacionado ao Trabalho;2018;MENTBR18.dbc;0.0
-MENT;Transtorno Mental Relacionado ao Trabalho;2019;MENTBR19.dbc;0.0
-MENT;Transtorno Mental Relacionado ao Trabalho;2020;MENTBR20.dbc;0.0
-MENT;Transtorno Mental Relacionado ao Trabalho;2021;MENTBR21.dbc;0.0
-MENT;Transtorno Mental Relacionado ao Trabalho;2022;MENTBR22.dbc;0.0
-PAIR;PAIR Relacionado ao Trabalho;2018;PAIRBR18.dbc;0.0
-PAIR;PAIR Relacionado ao Trabalho;2019;PAIRBR19.dbc;0.0
-PAIR;PAIR Relacionado ao Trabalho;2020;PAIRBR20.dbc;0.0
-PAIR;PAIR Relacionado ao Trabalho;2021;PAIRBR21.dbc;0.0
-PAIR;PAIR Relacionado ao Trabalho;2022;PAIRBR22.dbc;0.0
-PNEU;Pneumoconiose Relacionada ao Trabalho;2018;PNEUBR18.dbc;0.0
-PNEU;Pneumoconiose Relacionada ao Trabalho;2019;PNEUBR19.dbc;0.0
-PNEU;Pneumoconiose Relacionada ao Trabalho;2020;PNEUBR20.dbc;0.0
-PNEU;Pneumoconiose Relacionada ao Trabalho;2021;PNEUBR21.dbc;0.0
-PNEU;Pneumoconiose Relacionada ao Trabalho;2022;PNEUBR22.dbc;0.0
+﻿agravo;agravo_nome;ano;arquivo;tamanho_mb;ftp_label
+ACBI;Acid Trab Exposicao Material Biologico;2018;ACBIBR18.dbc;0.0;FINAIS
+ACBI;Acid Trab Exposicao Material Biologico;2019;ACBIBR19.dbc;0.0;FINAIS
+ACBI;Acid Trab Exposicao Material Biologico;2020;ACBIBR20.dbc;0.0;FINAIS
+ACBI;Acid Trab Exposicao Material Biologico;2021;ACBIBR21.dbc;0.0;FINAIS
+ACBI;Acid Trab Exposicao Material Biologico;2022;ACBIBR22.dbc;0.0;FINAIS
+ACBI;Acid Trab Exposicao Material Biologico;2023;ACBIBR23.dbc;0.0;PRELIM
+ACBI;Acid Trab Exposicao Material Biologico;2024;ACBIBR24.dbc;0.0;PRELIM
+ACBI;Acid Trab Exposicao Material Biologico;2025;ACBIBR25.dbc;0.0;PRELIM
+ACGR;Acidente de Trabalho Grave;2018;ACGRBR18.dbc;0.0;FINAIS
+ACGR;Acidente de Trabalho Grave;2019;ACGRBR19.dbc;0.0;FINAIS
+ACGR;Acidente de Trabalho Grave;2020;ACGRBR20.dbc;0.0;FINAIS
+ACGR;Acidente de Trabalho Grave;2021;ACGRBR21.dbc;0.0;FINAIS
+ACGR;Acidente de Trabalho Grave;2022;ACGRBR22.dbc;0.0;FINAIS
+ACGR;Acidente de Trabalho Grave;2023;ACGRBR23.dbc;0.0;PRELIM
+ACGR;Acidente de Trabalho Grave;2024;ACGRBR24.dbc;0.0;PRELIM
+ACGR;Acidente de Trabalho Grave;2025;ACGRBR25.dbc;0.0;PRELIM
+ANIM;Acidente por Animais Peconhentos;2018;ANIMBR18.dbc;0.0;FINAIS
+ANIM;Acidente por Animais Peconhentos;2019;ANIMBR19.dbc;0.0;FINAIS
+ANIM;Acidente por Animais Peconhentos;2020;ANIMBR20.dbc;0.0;FINAIS
+ANIM;Acidente por Animais Peconhentos;2021;ANIMBR21.dbc;0.0;FINAIS
+ANIM;Acidente por Animais Peconhentos;2022;ANIMBR22.dbc;0.0;FINAIS
+ANIM;Acidente por Animais Peconhentos;2023;ANIMBR23.dbc;0.0;PRELIM
+ANIM;Acidente por Animais Peconhentos;2024;ANIMBR24.dbc;0.0;PRELIM
+ANIM;Acidente por Animais Peconhentos;2025;ANIMBR25.dbc;0.0;PRELIM
+CANC;Cancer Relacionado ao Trabalho;2018;CANCBR18.dbc;0.0;FINAIS
+CANC;Cancer Relacionado ao Trabalho;2019;CANCBR19.dbc;0.0;FINAIS
+CANC;Cancer Relacionado ao Trabalho;2020;CANCBR20.dbc;0.0;FINAIS
+CANC;Cancer Relacionado ao Trabalho;2021;CANCBR21.dbc;0.0;FINAIS
+CANC;Cancer Relacionado ao Trabalho;2022;CANCBR22.dbc;0.0;FINAIS
+CANC;Cancer Relacionado ao Trabalho;2023;CANCBR23.dbc;0.0;PRELIM
+CANC;Cancer Relacionado ao Trabalho;2024;CANCBR24.dbc;0.0;PRELIM
+CANC;Cancer Relacionado ao Trabalho;2025;CANCBR25.dbc;0.0;PRELIM
+DERM;Dermatose Relacionada ao Trabalho;2018;DERMBR18.dbc;0.0;FINAIS
+DERM;Dermatose Relacionada ao Trabalho;2019;DERMBR19.dbc;0.0;FINAIS
+DERM;Dermatose Relacionada ao Trabalho;2020;DERMBR20.dbc;0.0;FINAIS
+DERM;Dermatose Relacionada ao Trabalho;2021;DERMBR21.dbc;0.0;FINAIS
+DERM;Dermatose Relacionada ao Trabalho;2022;DERMBR22.dbc;0.0;FINAIS
+DERM;Dermatose Relacionada ao Trabalho;2023;DERMBR23.dbc;0.0;PRELIM
+DERM;Dermatose Relacionada ao Trabalho;2024;DERMBR24.dbc;0.0;PRELIM
+DERM;Dermatose Relacionada ao Trabalho;2025;DERMBR25.dbc;0.0;PRELIM
+LERD;LER/DORT;2018;LERDBR18.dbc;0.0;FINAIS
+LERD;LER/DORT;2019;LERDBR19.dbc;0.0;FINAIS
+LERD;LER/DORT;2020;LERDBR20.dbc;0.0;FINAIS
+LERD;LER/DORT;2021;LERDBR21.dbc;0.0;FINAIS
+LERD;LER/DORT;2022;LERDBR22.dbc;0.0;FINAIS
+LERD;LER/DORT;2023;LERDBR23.dbc;0.0;PRELIM
+LERD;LER/DORT;2024;LERDBR24.dbc;0.0;PRELIM
+LERD;LER/DORT;2025;LERDBR25.dbc;0.0;PRELIM
+MENT;Transtorno Mental Relacionado ao Trabalho;2018;MENTBR18.dbc;0.0;FINAIS
+MENT;Transtorno Mental Relacionado ao Trabalho;2019;MENTBR19.dbc;0.0;FINAIS
+MENT;Transtorno Mental Relacionado ao Trabalho;2020;MENTBR20.dbc;0.0;FINAIS
+MENT;Transtorno Mental Relacionado ao Trabalho;2021;MENTBR21.dbc;0.0;FINAIS
+MENT;Transtorno Mental Relacionado ao Trabalho;2022;MENTBR22.dbc;0.0;FINAIS
+MENT;Transtorno Mental Relacionado ao Trabalho;2023;MENTBR23.dbc;0.0;PRELIM
+MENT;Transtorno Mental Relacionado ao Trabalho;2024;MENTBR24.dbc;0.0;PRELIM
+MENT;Transtorno Mental Relacionado ao Trabalho;2025;MENTBR25.dbc;0.0;PRELIM
+PAIR;PAIR Relacionado ao Trabalho;2018;PAIRBR18.dbc;0.0;FINAIS
+PAIR;PAIR Relacionado ao Trabalho;2019;PAIRBR19.dbc;0.0;FINAIS
+PAIR;PAIR Relacionado ao Trabalho;2020;PAIRBR20.dbc;0.0;FINAIS
+PAIR;PAIR Relacionado ao Trabalho;2021;PAIRBR21.dbc;0.0;FINAIS
+PAIR;PAIR Relacionado ao Trabalho;2022;PAIRBR22.dbc;0.0;FINAIS
+PAIR;PAIR Relacionado ao Trabalho;2023;PAIRBR23.dbc;0.0;PRELIM
+PAIR;PAIR Relacionado ao Trabalho;2024;PAIRBR24.dbc;0.0;PRELIM
+PAIR;PAIR Relacionado ao Trabalho;2025;PAIRBR25.dbc;0.0;PRELIM
+PNEU;Pneumoconiose Relacionada ao Trabalho;2018;PNEUBR18.dbc;0.0;FINAIS
+PNEU;Pneumoconiose Relacionada ao Trabalho;2019;PNEUBR19.dbc;0.0;FINAIS
+PNEU;Pneumoconiose Relacionada ao Trabalho;2020;PNEUBR20.dbc;0.0;FINAIS
+PNEU;Pneumoconiose Relacionada ao Trabalho;2021;PNEUBR21.dbc;0.0;FINAIS
+PNEU;Pneumoconiose Relacionada ao Trabalho;2022;PNEUBR22.dbc;0.0;FINAIS
+PNEU;Pneumoconiose Relacionada ao Trabalho;2023;PNEUBR23.dbc;0.0;PRELIM
+PNEU;Pneumoconiose Relacionada ao Trabalho;2024;PNEUBR24.dbc;0.0;PRELIM
+PNEU;Pneumoconiose Relacionada ao Trabalho;2025;PNEUBR25.dbc;0.0;PRELIM

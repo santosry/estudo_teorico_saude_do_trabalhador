@@ -10,7 +10,7 @@ import os, sys, csv, hashlib, zipfile
 
 RAIZ = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 os.chdir(RAIZ)
-DESTINO = os.path.join("dados", "brutos", "cat-inss")
+DESTINO = os.path.join("dados", "brutos", "banco de dados/cat-inss")
 MANIFESTO = os.path.join("dados", "manifesto", "manifesto_arquivos.csv")
 
 def sha256(path):
@@ -36,7 +36,7 @@ def main():
     esperados = {}
     with open(MANIFESTO, encoding="utf-8-sig") as f:
         for r in csv.DictReader(f, delimiter=";"):
-            if "cat-inss" in r["caminho_relativo"] and r["nome"].lower().endswith(".csv"):
+            if "banco de dados/cat-inss" in r["caminho_relativo"] and r["nome"].lower().endswith(".csv"):
                 esperados[r["nome"]] = r["sha256"]
     if not esperados:
         sys.exit("BLOQUEIO: manifesto sem entradas cat-inss — verifique o repositório.")

@@ -67,7 +67,7 @@ def main():
         if len(arquivos) == 1:
             mantidos.extend(grupo)          # inclusive duplicatas internas (sinalizadas)
             if len(grupo) > 1:
-                for g in grupo: g["duplicata_interna_mesmo_arquivo"] = "sim"
+                for g in grupo: g["duplicata_interna_mesmo_arquivo"] = "banco de dados/sim"
         else:
             grupo_ord = sorted(grupo, key=lambda g: (chave_ordem(g["arquivo_origem"]), g["id_linha"]))
             # mantém 1 por arquivo mais antigo; remove reocorrências em arquivos posteriores

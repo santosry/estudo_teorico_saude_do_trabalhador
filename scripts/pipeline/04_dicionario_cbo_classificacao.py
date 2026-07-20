@@ -97,14 +97,14 @@ def main():
         r["categoria_profissional"] = cat
         r["nivel_formacao"] = nf
         r["cbo_titulo_oficial"] = OFICIAL.get(cbo, "")
-        r["cnae_saude"] = "sim" if r["cnae_classe"][:2] in ("86", "87") else ("nao" if r["cnae_classe"] else "sem_cnae")
+        r["cnae_saude"] = "banco de dados/sim" if r["cnae_classe"][:2] in ("86", "87") else ("nao" if r["cnae_classe"] else "sem_cnae")
         ch = (cbo, r["cbo_descricao_original"])
         if ch not in dic:
             dic[ch] = {"cbo_codigo": cbo or "(vazio)", "descricao_original_fonte": r["cbo_descricao_original"],
                        "titulo_oficial_cbo2002": OFICIAL.get(cbo, "(não consta na tabela vigente)" if cbo else ""),
                        "grande_grupo": cbo[:1] if cbo else "", "familia_ocupacional": cbo[:4] if cbo else "",
                        "categoria_profissional_agregada": cat, "nivel_formacao": nf, "universo": u,
-                       "incluido_universo_principal": "sim" if u == "principal" else "não",
+                       "incluido_universo_principal": "banco de dados/sim" if u == "principal" else "não",
                        "justificativa": just,
                        "fonte_normativa": "CBO 2002 (MTE) – tabela 'CBO2002-Ocupação' (espelho público; ver referencias/fonte_cbo.txt)",
                        "observacao_ambiguidade": "", "n_registros": 0}

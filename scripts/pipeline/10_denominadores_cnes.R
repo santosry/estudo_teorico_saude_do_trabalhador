@@ -102,7 +102,7 @@ if (length(resultados) > 0) {
   consolidado <- do.call(rbind, resultados)
   
   # Salvar CSV completo
-  dir.create("cnes", showWarnings = FALSE, recursive = TRUE)
+  dir.create("banco de dados/cnes", showWarnings = FALSE, recursive = TRUE)
   write.csv(consolidado, "cnes/cnes_profissionais_campos_microdatasus.csv",
             row.names = FALSE, fileEncoding = "UTF-8")
   

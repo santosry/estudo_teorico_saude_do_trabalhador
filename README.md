@@ -1,4 +1,4 @@
-# Trabalho, saúde e profissão em Campos dos Goytacazes (RJ)
+# Panorama da saúde do trabalhador em Campos dos Goytacazes (RJ)
 
 Estudo descritivo-analítico com pipeline reprodutível e auditado. Analisa as Comunicações de Acidente de Trabalho (CAT) do INSS entre profissões da saúde de Campos dos Goytacazes (2018-2025), com séries temporais, redes de associação e triangulação de denominadores previdenciários.
 
@@ -18,12 +18,20 @@ Estudo descritivo-analítico com pipeline reprodutível e auditado. Analisa as C
 | **Siconfi/STN** | Siconfi (siconfi.tesouro.gov.br) | 2024 | Download CSV | Receitas **R$ 2,95 bi** (71% transferências) |
 | **Portal da Transparência** | Prefeitura de Campos | 2020-2024 | Download CSV (despesas por natureza) | RPPS: **R$ 61,2 mi**; INSS: **R$ 18,3 mi** |
 | **IPS Brasil** | ipsbrasil.org.br | 2024, 2025, 2026 | Download CSV | IPS **62,68**/100; Oportunidades **48,6**; Segurança Pessoal **52,8** |
+| **BEN/INSS** | Portal de Dados Abertos do INSS | 2018-2025 | Download CSV/XLSX mensal (API CKAN) | **48.528** benefícios acidentários (B91-B94) em Campos |
+| **SmartLab** | Observatório do Trabalho Decente (MPT) | 2010-2026 | Playwright (web scraping) | **42 indicadores** em 6 dimensões (oportunidades, jornada, conciliação, estabilidade, igualdade, rendimentos) |
+| **SIH/SUS** | microdatasus (R) | 2018-2025 | Download .dbc + read.dbc | **255.254** internações (5.585 c/ CID trabalho) |
 
 ### Notas
 
+- **Oliveira (2004)** fornece o marco histórico das transformações do mundo do trabalho, da Revolução Industrial aos dias atuais, fundamentando a análise de como cada configuração do processo de trabalho produz padrões específicos de adoecimento.
+
 - **CAT e RAIS** capturam vínculos celetistas. Denominadores **comensuráveis**.
+- **SINAN** 2018-2022 (FINAIS) + 2023-2025 (PRELIM), 9 agravos de notificação relacionados ao trabalho.
 - **CNES-PF** inclui estatutários, autônomos e PJ. Utilizado como **triangulação**.
-- **SINAN** captura agravos de notificação compulsória independentemente do vínculo.
+
+- **SmartLab**: indicadores do Observatório do Trabalho Decente (MPT) extraídos via Playwright para Campos dos Goytacazes. Abrange 6 dimensões: oportunidades de emprego (Novo CAGED), jornada, conciliação trabalho-vida, estabilidade, igualdade de oportunidades e rendimentos. Dados de 2010 (Censo) a 2026 (Novo CAGED).
+- **BEN/INSS**: dados de benefícios concedidos do Portal de Dados Abertos do INSS (dadosabertos.inss.gov.br). Filtraram-se as espécies acidentárias (B91 Auxílio-Doença, B92 Aposentadoria por Invalidez, B93 Pensão por Morte, B94 Auxílio-Acidente) para o município de Campos dos Goytacazes. Sem CBO na base — comparação apenas por volume total.
 - **RPPS municipal (PREVICAMPOS)**: sem base nacional de acidentes/adoecimentos de estatutários.
 - **IPS 2024-2026**: análise trianual da evolução dos indicadores sociais do município.
 
@@ -32,16 +40,18 @@ Estudo descritivo-analítico com pipeline reprodutível e auditado. Analisa as C
 ## Estrutura do repositório
 
 ```
-├── cat-inss/                 # 58 CSVs da CAT (jul/2018 a out/2025)
-├── rais/                     # RAIS 2018-2025 (microdados, 7z)
-├── sim/                      # SIM 2019-2024 (CSVs processados)
-├── cnes/                     # CNES-PF 2018-2025 (microdatasus)
-├── dados/brutos/sinan/       # SINAN 2018-2022 (46 .dbc, 126,5 MB)
-├── sidra-campos/             # IBGE/SIDRA (Censo, PIB, população)
-├── ibge/                     # CEMPRE, Finanças públicas
-├── despesas campos/          # Portal da Transparência (2020-2024)
-├── ips-brasil/               # IPS Brasil 2024, 2025, 2026
-├── artigos-fonte/            # 5 PDFs de referência (ver abaixo)
+├── banco de dados/           # Todos os bancos de dados brutos
+│   ├── cat-inss/             # 58 CSVs da CAT (jul/2018 a out/2025)
+│   ├── rais/                 # RAIS 2018-2025 (microdados, 7z)
+│   ├── sim/                  # SIM 2019-2024 (CSVs processados)
+│   ├── cnes/                 # CNES-PF 2018-2025 (microdatasus)
+│   ├── sidra-campos/         # IBGE/SIDRA (Censo, PIB, população)
+│   ├── ibge/                 # CEMPRE, Finanças públicas
+│   ├── despesas campos/      # Portal da Transparência (2020-2024)
+│   ├── ips-brasil/           # IPS Brasil 2024, 2025, 2026
+│   ├── beneficios-inss/      # INSS - Benefícios Concedidos (2018-2025)
+│   └── smartlab/             # SmartLab/MPT - Trabalho Decente (2010-2026)
+├── artigos-fonte/            # 6 PDFs de referência (ver abaixo)
 ├── dados/processados/        # Dados processados
 ├── dados/manifesto/          # Manifesto de arquivos (hashes)
 ├── documentos/               # Artigo .docx e .pdf
@@ -69,6 +79,7 @@ Estudo descritivo-analítico com pipeline reprodutível e auditado. Analisa as C
 | 5 | SOUZA, D. O.; MELO, A. I. S. C.; VASCONCELLOS, L. C. F. Saúde do(s) trabalhador(es): do 'campo' à 'questão'... **Saúde em Debate**, v. 41, n. 113, 2017. | `Souza et al. - Saude do trabalhador do campo a questao.pdf` |
 | 6 | VEDOVATO, T. G. et al. Trabalhadores(as) da saúde e a COVID-19... **Rev. Bras. Saúde Ocup.**, v. 46, 2021. | `Vedovato et al. - Trabalhadores da saude e a COVID-19.pdf` |
 | 7 | FRANÇA, M. J. P. O pensamento de Antônio Gramsci na luta pela Saúde do Trabalhador. **Em Pauta**, v. 11, n. 32, 2014. | `Franca - O pensamento de Antonio Gramsci na luta pela Saude do Trabalhador.pdf` |
+| 8 | OLIVEIRA, E. M. Transformações no mundo do trabalho, da Revolução Industrial aos nossos dias. **Caminhos de Geografia**, v. 6, n. 11, p. 84-96, 2004. | `Oliveira - Transformacoes no mundo do trabalho.pdf` |
 
 ---
 
@@ -97,9 +108,9 @@ Estudo descritivo-analítico com pipeline reprodutível e auditado. Analisa as C
 
 ## Artigo
 
-- **Título:** Trabalho, saúde e profissão em Campos dos Goytacazes (RJ)
+- **Título:** Panorama da saúde do trabalhador em Campos dos Goytacazes (RJ)
 - **Formato:** A4, Times New Roman 11, espaçamento 1,5, margens 2,5 cm, recuo 1,25 cm
-- **10 páginas**, 7 tabelas, 5 figuras, 7 referências
+- **10 páginas**, 7 tabelas, 5 figuras, 8 referências
 - **Sem resumo**. Sem travessão, meia-risca ou dois-pontos no corpo do texto. Sem projeções.
 - Arquivos: `documentos/artigo.docx` e `documentos/artigo.pdf`
 
@@ -149,4 +160,4 @@ MIT.
 
 ## Citação
 
-SANTOS, Ryan. **Trabalho, saúde e profissão em Campos dos Goytacazes (RJ)**. 2026. `github.com/santosry/estudo_teorico_saude_do_trabalhador`.
+SANTOS, Ryan. **Panorama da saúde do trabalhador em Campos dos Goytacazes (RJ)**. 2026. `github.com/santosry/estudo_teorico_saude_do_trabalhador`.

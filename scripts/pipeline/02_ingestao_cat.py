@@ -17,7 +17,7 @@ from collections import Counter, defaultdict
 
 RAIZ = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 os.chdir(RAIZ)
-DIR_DADOS = os.path.join("dados", "brutos", "cat-inss")
+DIR_DADOS = os.path.join("dados", "brutos", "banco de dados/cat-inss")
 DIR_OUT = os.path.join("dados", "processados")
 DIR_LOG = "logs"
 os.makedirs(DIR_OUT, exist_ok=True); os.makedirs(DIR_LOG, exist_ok=True)
