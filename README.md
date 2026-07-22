@@ -1,9 +1,9 @@
 # Saúde do Trabalhador em Campos dos Goytacazes — Análise Multifonte 2015–2025
 
 Reconstrução integral e auditada do perfil de saúde do trabalhador em Campos dos Goytacazes/RJ
-(código IBGE 330100), 2015–2025, abrangendo **todas as profissões** do município, articulada
-à formação histórico-social e econômica local. A análise **não se restringe às CATs ou ao
-INSS** — integra múltiplas bases do Sistema Único de Saúde e de estatísticas do trabalho:
+(código IBGE 330100), 2015–2025, abrangendo **todas as profissões** do município. A análise
+articula oito fontes independentes — sistemas de notificação, bases previdenciárias, estatísticas
+do trabalho e indicadores territoriais — articuladas à formação histórico-social e econômica local:
 
 | Fonte | Cobertura | Dimensão analisada |
 |---|---|---|
