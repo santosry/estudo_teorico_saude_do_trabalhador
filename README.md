@@ -1,8 +1,8 @@
 # Saúde do Trabalhador em Campos dos Goytacazes — Análise Multifonte 2015–2025
 
 Reconstrução integral e auditada do perfil de saúde do trabalhador em Campos dos Goytacazes/RJ
-(código IBGE 330100), 2015–2025, para **todas as profissões da saúde** (CBO 2002), articulada
-à formação histórico-social e econômica do município. A análise **não se restringe às CATs ou ao
+(código IBGE 330100), 2015–2025, abrangendo **todas as profissões** do município, articulada
+à formação histórico-social e econômica local. A análise **não se restringe às CATs ou ao
 INSS** — integra múltiplas bases do Sistema Único de Saúde e de estatísticas do trabalho:
 
 | Fonte | Cobertura | Dimensão analisada |
@@ -12,7 +12,6 @@ INSS** — integra múltiplas bases do Sistema Único de Saúde e de estatístic
 | **SINAN** | Agravos de notificação compulsória relacionados ao trabalho — 2015 a 2025 | Doenças e agravos ocupacionais de notificação (LER/DORT, intoxicações, transtornos mentais, etc.) |
 | **RAIS** | Vínculos formais de trabalho | Denominadores populacionais, perfil sociodemográfico e setorial da força de trabalho |
 | **CAGED** | Admissões e desligamentos (2018–2019 via PDET/MTE; 2019–2025 via SmartLab/Novo CAGED) | Dinâmica do mercado formal de trabalho em saúde |
-| **CNES/TabNet** | Profissionais de saúde cadastrados (indivíduos) — 2018 a 2025 | Denominadores exploratórios por ocupação CBO 2002 |
 | **SmartLab** | Indicadores sintéticos do Observatório de SST/MPT (inclui Novo CAGED 2019–2025) | Epidemiologia institucional comparada e dinâmica do emprego formal |
 | **SIDRA/IBGE** | Projeções populacionais e PIB municipal | Contexto socioeconômico e demográfico |
 
@@ -65,7 +64,6 @@ python scripts/processar_beneficios_inss.py             # benefícios INSS acide
 python scripts/sih_campos_microdatasus.R                # internações hospitalares relacionadas ao trabalho
 
 # Denominadores e contexto
-python scripts/pipeline/10_denominadores_cnes.R         # CNES/TabNet — profissionais por CBO (rede)
 python scripts/pipeline/11_denominadores_rais.py        # RAIS — vínculos formais, gênero e setor
 python scripts/download_caged_campos.py                 # CAGED — dinâmica de admissões/desligamentos
 python scripts/download_rais_campos.py                  # RAIS — perfil sociodemográfico da força de trabalho
@@ -95,7 +93,6 @@ Caminhos relativos à raiz. Dados versionados via Git LFS. Para restaurar dados 
 - **SIH**: Microdatasus — Sistema de Informações Hospitalares (AIHs com desfecho ocupacional)
 - **RAIS**: Microdatasus/PDET — Relação Anual de Informações Sociais (vínculos formais)
 - **CAGED**: PDET/MTE (2018–2019) + SmartLab/Novo CAGED (2019–2025) — Cadastro Geral de Empregados e Desempregados
-- **CNES**: TabNet/DataSUS — Cadastro Nacional de Estabelecimentos de Saúde
 - **SmartLab**: Observatório Digital de SST/MPT — indicadores sintéticos, inclui dados do Novo CAGED
 - **SIDRA/IBGE**: Projeções populacionais, PIB e contexto socioeconômico
 
@@ -112,14 +109,6 @@ Tabelas completas em `saidas/tabelas/`.
 
 ## Testes e integração contínua
 Workflow `.github/workflows/ci.yml`: reprocessa estágios deriváveis e verifica determinismo dos CSVs versionados.
-
-## Denominadores (CNES) e razões exploratórias
-`10_denominadores_cnes.py` baixa do TabNet/DataSUS os profissionais (indivíduos) por ocupação
-CBO 2002 em Campos (330100), dez/2018–dez/2025, com verificação dupla de totais e brutos em
-`cnes/`. As razões CAT/1.000 profissionais (T22) são EXPLORATÓRIAS: o CNES
-inclui vínculos estatutários/autônomos/PJ, fora da cobertura da CAT — não são incidência.
-RAIS/eSocial permanece como denominador prioritário (bloqueio documentado em
-`logs/log_10_denominadores.json`).
 
 ## Distribuição dos dados brutos
 `python scripts/ferramentas/empacotar_dados_brutos.py` gera ZIPs por ano em `distribuicao/`

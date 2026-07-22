@@ -95,9 +95,8 @@ Silva e Hasenclever (2019): o ciclo petrolífero não superou o subdesenvolvimen
 | **CAT/INSS** (Portal Dados Abertos) | 2015–2025 | CATs de profissões da saúde |
 | **SINAN** (ftp.datasus.gov.br) | 2015–2025 | 100 .dbc, 9 agravos de trabalho |
 | **BEN/INSS** (Portal Dados Abertos INSS) | 2015–2025 | Benefícios acidentários (B91-B94) |
-| **RAIS/PDET** (ftp.mtps.gov.br) | 2018–2025 | Denominadores celetistas comensuráveis |
-| **CNES-PF** (TabNet/DataSUS) | 2018–2025 | Triangulação de denominadores |
-| **CAGED/SmartLab** (PDET/MTE + MPT) | 2018–2025 | Dinâmica do emprego formal (Novo CAGED via SmartLab 2019–2025) |
+| **RAIS/PDET** (ftp.mtps.gov.br) | 2018–2025 | Denominadores celetistas |
+| **CAGED/SmartLab** (PDET/MTE + MPT) | 2018–2025 | Dinâmica do emprego formal |
 | **SmartLab** (MPT) | 2010–2026 | 7.719 indicadores (SST, Trab. Infantil, Trab. Escravo, Trab. Decente) |
 | **IPS Brasil** | 2024–2026 | Evolução trianual de indicadores sociais |
 
