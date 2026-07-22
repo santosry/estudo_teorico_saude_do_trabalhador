@@ -18,6 +18,5 @@ dados/brutos/sinan/*.dbc filter=lfs diff=lfs merge=lfs -text
 "banco de dados/caged/*.zip" filter=lfs diff=lfs merge=lfs -text
 "banco de dados/cat-inss/*.csv" filter=lfs diff=lfs merge=lfs -text
 "banco de dados/beneficios-concedidos-inss/*.csv" filter=lfs diff=lfs merge=lfs -text
-"banco de dados/beneficios-mantidos-inss/*.csv" filter=lfs diff=lfs merge=lfs -text
 
 banco[[:space:]]de[[:space:]]dados/sim/*.csv filter=lfs diff=lfs merge=lfs -text
