@@ -1,19 +1,25 @@
 # Saúde do Trabalhador em Campos dos Goytacazes — Análise Multifonte 2015–2025
 
-Reconstrução integral e auditada do perfil de saúde do trabalhador em Campos dos Goytacazes/RJ
-(código IBGE 330100), 2015–2025, abrangendo **todas as profissões** do município. A análise
-articula oito fontes independentes — sistemas de notificação, bases previdenciárias, estatísticas
-do trabalho e indicadores territoriais — articuladas à formação histórico-social e econômica local:
+Ensaio teórico apoiado na triangulação de oito fontes independentes sobre acidentes
+e agravos relacionados ao trabalho em Campos dos Goytacazes/RJ (IBGE 330100),
+2015–2025, abrangendo **todas as profissões** do município.
+
+A premissa metodológica é que nenhuma fonte isolada oferece retrato completo dos
+agravos ocupacionais. Cada sistema de informação captura uma fração distinta do
+fenômeno, determinada por sua finalidade institucional, cobertura populacional e
+regras de notificação. A justaposição de fontes permite identificar padrões
+convergentes e divergências informativas.
 
 | Fonte | Cobertura | Dimensão analisada |
 |---|---|---|
-| **CAT/INSS** | Acidentes de trabalho comunicados (celetistas) — 2015 a 2025 | Incidência notificada de acidentes típicos, trajeto e doenças ocupacionais |
+| **SINAN** | Agravos de notificação compulsória — 2015 a 2025 | Doenças e agravos ocupacionais (acidente grave, expos. material biológico, LER/DORT, transtorno mental, intoxicações, etc.) |
 | **Benefícios INSS** | Auxílios-doença acidentários (B91) e previdenciários (B31) — 2015 a 2025 | Afastamentos e incapacidade laboral |
-| **SINAN** | Agravos de notificação compulsória relacionados ao trabalho — 2015 a 2025 | Doenças e agravos ocupacionais de notificação (LER/DORT, intoxicações, transtornos mentais, etc.) |
-| **RAIS** | Vínculos formais de trabalho | Denominadores populacionais, perfil sociodemográfico e setorial da força de trabalho |
+| **CAT/INSS** | Acidentes de trabalho comunicados (celetistas) — 2015 a 2025 | Incidência notificada de acidentes típicos, trajeto e doenças ocupacionais |
+| **RAIS** | Vínculos formais de trabalho — 2018 a 2025 | Denominadores populacionais, perfil sociodemográfico e setorial |
 | **CAGED** | Admissões e desligamentos (2018–2019 via PDET/MTE; 2019–2025 via SmartLab/Novo CAGED) | Dinâmica do mercado formal de trabalho |
-| **SmartLab** | Indicadores sintéticos do Observatório de SST/MPT (inclui Novo CAGED 2019–2025) | Epidemiologia institucional comparada e dinâmica do emprego formal |
-| **SIDRA/IBGE** | Projeções populacionais e PIB municipal | Contexto socioeconômico e demográfico |
+| **SmartLab** | Indicadores sintéticos do Observatório de SST/MPT — 2000 a 2026 | Epidemiologia institucional, subnotificação, trabalho infantil, trabalho escravo |
+| **IPS Brasil** | Evolução trianual — 2024 a 2026 | Indicadores sociais e territoriais |
+| **SIDRA/IBGE** | Projeções populacionais, PIB, CEMPRE | Contexto socioeconômico e demográfico |
 
 ## Estrutura do repositório
 ```
@@ -83,14 +89,14 @@ Caminhos relativos à raiz. Dados versionados via Git LFS. Para restaurar dados 
 `bash scripts/restaurar_dados_locais.sh`
 
 ### Fontes e instrumentos de coleta
-- **CAT/INSS**: Portal de Dados Abertos do INSS (dados.gov.br) — CSVs mensais de Comunicações de Acidente de Trabalho, 2015–2025
-- **SINAN**: FTP DATASUS — Agravos de Notificação Compulsória relacionados ao trabalho, 9 agravos, 2015–2025
-- **Benefícios INSS**: Portal de Dados Abertos do INSS — Auxílios-doença acidentários (B91) e previdenciários (B31), 2015–2025
-- **SIH**: Microdatasus — Sistema de Informações Hospitalares (AIHs com desfecho ocupacional)
-- **RAIS**: Microdatasus/PDET — Relação Anual de Informações Sociais (vínculos formais)
-- **CAGED**: PDET/MTE (2018–2019) + SmartLab/Novo CAGED (2019–2025) — Cadastro Geral de Empregados e Desempregados
-- **SmartLab**: Observatório Digital de SST/MPT — indicadores sintéticos, inclui dados do Novo CAGED
-- **SIDRA/IBGE**: Projeções populacionais, PIB e contexto socioeconômico
+- **SINAN**: FTP DATASUS — Agravos de Notificação Compulsória, 9 agravos, 2015–2025
+- **Benefícios INSS**: Portal de Dados Abertos (dados.gov.br) — Auxílios-doença acidentários (B91) e previdenciários (B31), 2015–2025
+- **CAT/INSS**: Portal de Dados Abertos (dados.gov.br) — Comunicações de Acidente de Trabalho, 2015–2025
+- **RAIS**: PDET/MTE — Relação Anual de Informações Sociais (vínculos formais)
+- **CAGED**: PDET/MTE (2018–2019) + SmartLab/Novo CAGED (2019–2025)
+- **SmartLab**: API datahub/MPT — SST, Trabalho Infantil, Trabalho Escravo, Trabalho Decente
+- **IPS Brasil**: ipsbrasil.org.br — evolução trianual 2024–2026
+- **SIDRA/IBGE**: Censo 2022, PIB municipal, CEMPRE
 
 ## Resultados principais
 
@@ -113,18 +119,15 @@ Workflow `.github/workflows/ci.yml`: reprocessa estágios deriváveis e verifica
 contra o manifesto antes de liberar a reprodução.
 
 ## Advertências interpretativas
-- **CAT** = comunicações registradas (emprego formal celetista), não a totalidade dos acidentes.
-  Sem denominadores (RAIS/eSocial-PDET; CNES) não se calculam incidência/risco/taxa.
-- **SINAN** = agravos notificados (subnotificação reconhecida), cobertura heterogênea por
-  unidade de saúde e período. Nexo ocupacional depende da qualidade do preenchimento.
-- **SIH** = internações pelo SUS (AIHs aprovadas); exclui rede privada não conveniada,
-  planos de saúde e desembolso direto.
-- **Benefícios INSS** = apenas auxílios-doença concedidos (B31/B91); não captura
-  subnotificação previdenciária nem indeferimentos.
-- **RAIS** = vínculos formais celetistas + estatutários; exclui trabalhadores informais,
-  autônomos, MEIs e cooperados sem vínculo.
-- **CAGED** = 2018–2019 via PDET/MTE (CAGEDEST); 2019–2025 via SmartLab (Novo CAGED). Apenas movimentações do mercado formal celetista.
-- Coberturas parciais: 2015–2017 (dados semestrais), 2018 (jul–dez), 2022 (carga irregular),
-  2024 (set–dez atípicos) e 2025 (parcial até out.).
-- **Triangulação de fontes** é a estratégia metodológica central para mitigar limitações
-  individuais de cada sistema de informação.
+Cada fonte possui limitações intrínsecas que a triangulação atenua, mas não elimina:
+- **SINAN**: agravos notificados com subnotificação reconhecida; cobertura heterogênea
+  por unidade de saúde e período; nexo ocupacional depende da qualidade do preenchimento.
+- **Benefícios INSS**: apenas concessões (B31/B91); não captura indeferimentos nem
+  subnotificação previdenciária; base sem Classificação Brasileira de Ocupações.
+- **CAT**: exclusiva de celetistas; estatutários (RPPS) estruturalmente excluídos.
+- **RAIS**: vínculos formais celetistas + estatutários; exclui informais, autônomos, MEIs.
+- **CAGED**: cobertura 2018–2019 (CAGEDEST) + 2019–2025 (Novo CAGED via SmartLab).
+- Coberturas parciais em múltiplas fontes: 2015–2017 (semestral), 2018 (jul–dez),
+  2022 (carga irregular), 2024–2025 (parcial até outubro).
+- **Triangulação de fontes** é a estratégia metodológica central para mitigar
+  limitações individuais de cada sistema de informação.
