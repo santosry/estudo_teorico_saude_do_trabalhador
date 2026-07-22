@@ -15,9 +15,6 @@ do trabalho e indicadores territoriais — articuladas à formação histórico-
 | **SmartLab** | Indicadores sintéticos do Observatório de SST/MPT (inclui Novo CAGED 2019–2025) | Epidemiologia institucional comparada e dinâmica do emprego formal |
 | **SIDRA/IBGE** | Projeções populacionais e PIB municipal | Contexto socioeconômico e demográfico |
 
-A análise legada (medicina x enfermagem) foi catalogada e auditada em `scripts/legado/`, sem
-reaproveitamento de resultados.
-
 ## Estrutura do repositório
 ```
 artigos-fonte/        # PDFs teóricos (NÃO versionados — direitos autorais; ver README local)
@@ -32,7 +29,6 @@ metadados/            # dicionários (variáveis, CBO), matriz teórica, fluxo, 
 referencias/          # referências verificadas, dicionário oficial da fonte, espelho CBO
 saidas/tabelas|figuras/
 scripts/pipeline/     # 01–16 (executar em ordem por dependência)
-scripts/legado/       # scripts originais catalogados + cópias auditadas comentadas
 ```
 
 ## SmartLab — Observatórios do MPT
