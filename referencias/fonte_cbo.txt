@@ -1,5 +1,0 @@
-Tabela 'CBO2002 - Ocupação' (estrutura oficial do Ministério do Trabalho e Emprego, CBO 2002).
-Obtida em espelho público: https://github.com/cartaproale/cbo-csv (arquivo 'CBO2002 - Ocupacao.csv', 2.719 títulos).
-Data de consulta: 2026-07-18. Limitação registrada: o portal oficial (www.mtecbo.gov.br) exige cadastro para download;
-o espelho reproduz o arquivo oficial de códigos e títulos e foi usado apenas para VALIDAÇÃO dos títulos;
-a classificação decisória baseou-se em famílias/códigos observados e revisão manual (dicionario_cbo_profissoes_saude.xlsx).

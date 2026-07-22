@@ -23,16 +23,12 @@ convergentes e divergências informativas.
 
 ## Estrutura do repositório
 ```
-artigos-fonte/        # PDFs teóricos (NÃO versionados — direitos autorais; ver README local)
 dados/
   brutos/sinan/       # 100 arquivos SINAN .dbc (2015-2025, 9 agravos, versionados via LFS)
   brutos/sidra-campos/# tabelas SIDRA/IBGE (versionadas)
   manifesto/          # inventário com SHA-256 de todos os arquivos-fonte
   processados/        # bases processadas (CSV/Parquet) de todas as fontes + logs de decisão
-documentos/           # documentos do estudo
 logs/                 # logs de execução, auditoria, qualidade e validação independente
-metadados/            # dicionários (variáveis, CBO), matriz teórica, fluxo, versões
-referencias/          # referências verificadas, dicionário oficial da fonte, espelho CBO
 saidas/tabelas|figuras/
 scripts/pipeline/     # 01–16 (executar em ordem por dependência)
 ```

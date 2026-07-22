@@ -1,14 +1,3 @@
-# Material teórico protegido por direitos autorais — não redistribuir
-artigos-fonte/*.pdf
-
-# Dados brutos de grande porte — versionados via Git LFS (.gitattributes)
-nul
-
-# Processados grandes (>50MB) - regenerar com scripts do pipeline
-dados/processados/sih_campos_2018_2025.csv
-dados/processados/sinan_campos_2018_2025.csv
-dados/processados/caged_campos_2018_2019.csv
-
 # Artefatos locais
 __pycache__/
 *.pyc
