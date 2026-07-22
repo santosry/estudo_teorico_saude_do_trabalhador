@@ -529,7 +529,7 @@ def processar_dataset(nome_dataset, config):
 
     log(f"  Total de recursos: {len(todos_recursos)}")
 
-    # Filtrar recursos pelo período 2015-2025
+    # Filtrar recursos pelo período 2015-2025 (APENAS 2015-2025, sem incluir anteriores)
     recursos_filtrados = []
     for rec in todos_recursos:
         nome = rec.get("name", "") + " " + rec.get("description", "")
@@ -539,18 +539,20 @@ def processar_dataset(nome_dataset, config):
         anos_encontrados = re.findall(r"(20\d{2})", nome + url)
         anos_int = [int(a) for a in anos_encontrados]
 
-        # Se tem anos anteriores a 2015 mas também cobre 2015+, incluir
-        # Se só tem anos < 2015, pular
         if anos_int:
             anos_validos = [a for a in anos_int if 2015 <= a <= 2025]
             anos_fora = [a for a in anos_int if a < 2015]
-            if anos_validos or not anos_fora:
+            # SÓ incluir se tem pelo menos um ano em 2015-2025 E nenhum ano < 2015
+            if anos_validos and not anos_fora:
                 recursos_filtrados.append(rec)
-            elif anos_fora and not anos_validos:
-                log(f"    Pulando (fora do periodo): {nome[:80]}")
+            else:
+                log(f"    Pulando (fora do periodo 2015-2025): {nome[:80]}")
         else:
-            # Sem ano detectado, incluir (pode ser glossário, etc.)
-            recursos_filtrados.append(rec)
+            # Sem ano detectado - incluir só se for dicionário/glossário
+            if "dicion" in nome.lower() or "gloss" in nome.lower() or "dic" in nome.lower():
+                recursos_filtrados.append(rec)
+            else:
+                log(f"    Pulando (sem ano detectado): {nome[:80]}")
 
     log(f"  Recursos no período 2015-2025: {len(recursos_filtrados)}")
 
