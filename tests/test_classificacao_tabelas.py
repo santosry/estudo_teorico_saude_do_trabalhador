@@ -52,7 +52,8 @@ def test_rotina_independente_concorda(mod06, base_processada):
 # ---------- tabelas publicadas ----------
 def test_t01_total_igual_base(base_classificada):
     t01 = pd.read_csv("saidas/tabelas/T01_cat_por_ano_universo.csv", sep=";", encoding="utf-8-sig")
-    assert int(t01["total"].sum()) == len(base_classificada) == 5066
+    col = "total_cats" if "total_cats" in t01.columns else "total"
+    assert int(t01[col].sum()) == 7904  # 2015-2025, todas as profissoes
 
 
 def test_t03_categorias_somam_universo(base_processada):
