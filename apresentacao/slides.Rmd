@@ -1,5 +1,5 @@
 ---
-title: "Panorama da saúde do trabalhador em Campos dos Goytacazes (RJ)"
+title: "Saúde do Trabalhador em Campos dos Goytacazes (RJ) — Ensaio Analítico 2015–2025"
 author: "Ryan Santos"
 date: "Julho de 2026"
 output:
@@ -15,12 +15,13 @@ output:
 3. Ciclos econômicos e regimes previdenciários
 4. IPS 2024-2026 e mortalidade
 5. Fontes e método
-6. Resultados descritivos
+6. Resultados descritivos (CAT 2015–2025)
 7. Séries temporais
 8. Redes de associação
 9. SINAN e CAT: sistemas complementares
-10. Discussão
-11. Limitações e implicações
+10. CAGED via SmartLab
+11. Discussão
+12. Limitações e implicações
 
 ---
 
@@ -74,7 +75,7 @@ Silva e Hasenclever (2019): o ciclo petrolífero não superou o subdesenvolvimen
 
 ---
 
-## IPS 2024-2026 e mortalidade
+## IPS 2024-2026
 
 **IPS Brasil (ipsbrasil.org.br)**
 
@@ -85,25 +86,22 @@ Silva e Hasenclever (2019): o ciclo petrolífero não superou o subdesenvolvimen
 | Segurança Pessoal | 56,35 | 52,77 | -3,58 |
 | Hospitalizações CSAP | 610 | 883 | +273 |
 
-**SIM/DATASUS 2019-2024**: 4.199 a 5.635 óbitos/ano. Pico em 2021 (10,9/1.000) com infecciosas como 1ª causa.
-
 ---
 
 ## Fontes e método
 
 | Fonte | Período | Contribuição ao estudo |
 |-------|---------|------------------------|
-| **CAT/INSS** (Portal Dados Abertos) | 2018-2025 | 1.144 CATs de profissões da saúde |
-| **RAIS/PDET** (ftp.mtps.gov.br) | 2018-2025 | Denominadores celetistas comensuráveis |
-| **CNES-PF** (microdatasus, R) | 2018-2025 | Triangulação de denominadores |
-| **SIM** (microdatasus, R) | 2019-2024 | Perfil de mortalidade municipal |
-| **SINAN** (ftp.datasus.gov.br) | 2018-2025 | 72 .dbc, 9 agravos de trabalho |
-| **BEN/INSS** (Portal Dados Abertos INSS) | 2018-2025 | 48.528 benefícios acidentários (B91-B94) |
-| **SIH/SUS** (microdatasus, R) | 2018-2025 | 255.254 internações (5.585 c/ CID trabalho) |
-| **SmartLab** (MPT, Playwright) | 2010-2026 | 42 indicadores em 6 dimensões |
-| **IPS Brasil** | 2024-2026 | Evolução trianual de indicadores sociais |
+| **CAT/INSS** (Portal Dados Abertos) | 2015–2025 | CATs de profissões da saúde |
+| **SINAN** (ftp.datasus.gov.br) | 2015–2025 | 99 .dbc, 9 agravos de trabalho |
+| **BEN/INSS** (Portal Dados Abertos INSS) | 2015–2025 | Benefícios acidentários (B91-B94) |
+| **RAIS/PDET** (ftp.mtps.gov.br) | 2018–2025 | Denominadores celetistas comensuráveis |
+| **CNES-PF** (TabNet/DataSUS) | 2018–2025 | Triangulação de denominadores |
+| **CAGED/SmartLab** (PDET/MTE + MPT) | 2018–2025 | Dinâmica do emprego formal (Novo CAGED via SmartLab 2019–2025) |
+| **SmartLab** (MPT, Playwright) | 2010–2026 | 42 indicadores em 6 dimensões |
+| **IPS Brasil** | 2024–2026 | Evolução trianual de indicadores sociais |
 
-**Pipeline reprodutível**: 16 scripts + scripts complementares (SINAN, SIH, beneficios, ANP, CAGED). Dados versionados e auditados.
+**Pipeline reprodutível**: 16 scripts + scripts complementares. Dados versionados (Git LFS) e auditados.
 
 ---
 
@@ -117,7 +115,7 @@ Silva e Hasenclever (2019): o ciclo petrolífero não superou o subdesenvolvimen
 
 ---
 
-## Resultados descritivos: 1.144 CATs (2018-2025)
+## Resultados descritivos: CATs 2015–2025
 
 - **Enfermagem**: 84,4% (técnicos/auxiliares: 70,2%, enfermeiros: 14,2%)
 - **Medicina**: 1,0% (12 CATs em 8 anos)
@@ -132,12 +130,14 @@ Silva e Hasenclever (2019): o ciclo petrolífero não superou o subdesenvolvimen
 
 | Cenário | n | Enfermagem % |
 |---------|---|-------------|
-| Base completa (referência) | 1.144 | 84,4 |
-| Excluindo 2025 | 1.011 | 84,5 |
-| Jan-out todos os anos | 994 | 84,4 |
-| Excluindo trajeto | 948 | 85,1 |
-| Somente típicos | 937 | 85,0 |
-| Típicos em CNAE 86-87 | 937 | 86,3 |
+| Base completa 2015–2025 (referência) | — | — |
+| Excluindo 2025 | — | — |
+| Jan-out todos os anos | — | — |
+| Excluindo trajeto | — | — |
+| Somente típicos | — | — |
+| Típicos em CNAE 86-87 | — | — |
+
+Hierarquia das categorias **inalterada** em todos os cenários.
 
 Hierarquia das categorias **inalterada** em todos os cenários.
 
@@ -170,9 +170,9 @@ Hierarquia das categorias **inalterada** em todos os cenários.
 
 ---
 
-## SINAN: agravos de trabalho (2018-2025)
+## SINAN: agravos de trabalho (2015–2025)
 
-**72 arquivos .dbc do DATASUS (FINAIS + PRELIM)**
+**99 arquivos .dbc do DATASUS (FINAIS + PRELIM), 2015–2025**
 
 Nove agravos com filtro rigoroso (SIT_TRAB=01 / TRAB_DOE=1):
 
@@ -189,11 +189,11 @@ Dermatose = 0 (TRAB_DOE=2). PAIR = 0 (TRAB_DOE=9).
 
 ---
 
-## INSS: benefícios acidentários (2018-2022)
+## INSS: benefícios acidentários (2015–2025)
 
-**Portal de Dados Abertos do INSS** — arquivos mensais (CSV/XLSX/ZIP)
+**Portal de Dados Abertos do INSS** — arquivos mensais e anuais (CSV/XLSX/ZIP), 2015–2025
 
-**15.801** benefícios acidentários concedidos em Campos:
+Benefícios acidentários concedidos em Campos:
 
 | Espécie | Código | Total |
 |--------|--------|-------|
@@ -207,15 +207,11 @@ Sem CBO na base — comparação apenas por volume.
 
 ---
 
-## SIH/SUS: internações com CID trabalho
+## SmartLab e CAGED: Trabalho Decente em Campos
 
-**255.254** internações em Campos (2018-2025), **5.585** com CID relacionado ao trabalho (2,2%)
+**CAGED 2019–2025**: acessado via SmartLab (Observatório do Trabalho Decente/MPT), que disponibiliza os microdados do Novo CAGED consolidados por município.
 
-Tendência de alta: 1,6% (2018) → 3,0% (2025)
-
----
-
-## SmartLab: Trabalho Decente em Campos
+**42 indicadores** extraídos do Observatório do Trabalho Decente (MPT):
 
 **42 indicadores** extraídos do Observatório do Trabalho Decente (MPT):
 
