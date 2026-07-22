@@ -4,17 +4,9 @@ banco de dados/cat-inss/*.csv
 # Material teórico protegido por direitos autorais — não redistribuir
 artigos-fonte/*.pdf
 
-# Dados brutos de grande volume — obter conforme documentação de cada fonte
-banco de dados/rais/*.7z
-banco de dados/sim/*.dbc
+# Dados brutos de grande volume — versionados via Git LFS (.gitattributes)
+# (os padrões abaixo que ainda não foram migrados para LFS)
 banco de dados/sim/*.dbf
-banco de dados/sinan/*.dbc
-banco de dados/beneficios-inss/*.csv
-banco de dados/beneficios-mantidos-inss/_raw_*
-banco de dados/anp/*.xlsx
-banco de dados/sih/*.dbc
-banco de dados/caged/*.7z
-banco de dados/caged/*.zip
 nul
 
 # Processados grandes (>50MB) - regenerar com scripts do pipeline

@@ -13,4 +13,13 @@
 *.txt text
 *.json text
 *.cff text
+banco[[:space:]]de[[:space:]]dados/beneficios-inss/*.csv filter=lfs diff=lfs merge=lfs -text
+banco[[:space:]]de[[:space:]]dados/sinan/*.dbc filter=lfs diff=lfs merge=lfs -text
+banco[[:space:]]de[[:space:]]dados/anp/*.xlsx filter=lfs diff=lfs merge=lfs -text
+banco[[:space:]]de[[:space:]]dados/rais/*.7z filter=lfs diff=lfs merge=lfs -text
+banco[[:space:]]de[[:space:]]dados/sim/*.dbc filter=lfs diff=lfs merge=lfs -text
+banco[[:space:]]de[[:space:]]dados/sih/*.dbc filter=lfs diff=lfs merge=lfs -text
+banco[[:space:]]de[[:space:]]dados/caged/*.7z filter=lfs diff=lfs merge=lfs -text
+banco[[:space:]]de[[:space:]]dados/caged/*.zip filter=lfs diff=lfs merge=lfs -text
+banco[[:space:]]de[[:space:]]dados/beneficios-mantidos-inss/_raw_* filter=lfs diff=lfs merge=lfs -text
 banco[[:space:]]de[[:space:]]dados/sim/*.csv filter=lfs diff=lfs merge=lfs -text
