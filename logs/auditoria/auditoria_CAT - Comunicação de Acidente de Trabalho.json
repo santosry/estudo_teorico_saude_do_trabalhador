@@ -1,0 +1,652 @@
+{
+  "dataset": "CAT - Comunicação de Acidente de Trabalho",
+  "inicio": "2026-07-21T18:39:29.055235",
+  "fim": "2026-07-21T18:41:49.507290",
+  "duracao_total_segundos": 140.45,
+  "etapas": [
+    {
+      "etapa": "processar_dataset",
+      "duracao_segundos": 0.0
+    },
+    {
+      "etapa": "api_listar_recursos",
+      "duracao_segundos": 17.29
+    }
+  ],
+  "metricas": {
+    "arquivos_baixados": 37,
+    "arquivos_pulados": 41,
+    "arquivos_erro": 0,
+    "bytes_baixados": 432669047,
+    "bytes_filtrados": 38820402,
+    "registros_campos": 14308,
+    "registros_total_bruto": 1739703,
+    "tempo_download_segundos": 105.7712197303772,
+    "tempo_filtro_segundos": 15.535324335098267,
+    "arquivos_sem_campos": 1
+  },
+  "erros": [
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP"
+  ],
+  "warnings": [
+    "  0 registros em Campos em 205 linhas! Coluna usada: Munic Empr"
+  ],
+  "manifesto": [
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_Julho_a_Dezembro_de_2012.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/CATS+EMITIDAS_JULHO+A+DEZEMBRO_2012.xlsx",
+      "sha256": "f004ca85d6b26db673f606e2d51e0351079a4b3f60855c22ebf4cac4e47d3e2c",
+      "tamanho_bytes": 2339135,
+      "registros_campos": 546
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_Janeiro_a_Março_de_2019.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/cat2018-comp01-02-03-2019.csv",
+      "sha256": "96331929c214d6912d21d00b8c57eb7ed14abd8b4856474fd15ecd5394fecbf7",
+      "tamanho_bytes": 40216,
+      "registros_campos": 137
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_abril_a_junho_de_2019.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/cat-comp04-05-06-2019.csv",
+      "sha256": "9036dfda9899509a950e2f94110124e839609c8cd0a7f1f91e410df2de4a5795",
+      "tamanho_bytes": 53998,
+      "registros_campos": 185
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_julho_a_setembro_de_2019.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/cat-comp07-08-09-2019.csv",
+      "sha256": "e35f6d39ca8ca5cce75654a1e3f2a44f7c310ac25975955bf90a0994155d3b52",
+      "tamanho_bytes": 48291,
+      "registros_campos": 166
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_outubro_a_dezembro_de_2019.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/cat-comp10-11-12-2019.csv",
+      "sha256": "5f956292f4d78bb9cc0f2ccf39d995c204bfdae94b68822fbe15c02add2a4130",
+      "tamanho_bytes": 38740,
+      "registros_campos": 133
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_janeiro_a_março_de_2020.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/cat-comp01-02-03-2020.csv",
+      "sha256": "cf894ca60d3e81625fa40626776424785d28cad964dddc8b28e762db69a1735b",
+      "tamanho_bytes": 30735,
+      "registros_campos": 105
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Cat_abril_a_junho_2020.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/cat-competencia-04-05-06-2020.csv",
+      "sha256": "50d37ac7ea9aa150f80ed6ca343343b0102f5c1141ee89a7f1db6e38666049fa",
+      "tamanho_bytes": 29059,
+      "registros_campos": 97
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_julho_a_setembro_de_2020.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/cat-competencia-07-08-09-2020.csv",
+      "sha256": "3122f082495b92d22546ca888999b0385b315ba07c11c2534edb5aaf45cae8f0",
+      "tamanho_bytes": 47131,
+      "registros_campos": 159
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_outubro_a_dezembro_de_2020.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/cat-comp10-11-12-2020.csv",
+      "sha256": "7a70c6518dc1afac19dc581b06f1f9d2b85597d2e3e3cfe9659860d716f21788",
+      "tamanho_bytes": 44055,
+      "registros_campos": 148
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_janeiro_a_março_de_2021.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/cat-comp-01-02-03-2021.zip",
+      "sha256": "a776db59beba1ef28da3a31300ffe3759d48b906eb9e4441a325c9be18b6b6aa",
+      "tamanho_bytes": 61914,
+      "registros_campos": 164
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_abril_a_junho_de_2021.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/cat-copmp-04-05-06.zip",
+      "sha256": "71d5086e479d098b6676ab0dbd76f83e9ae7172e6c324a5f6914942c9026d4ca",
+      "tamanho_bytes": 66251,
+      "registros_campos": 177
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_julho_a_setembro_de_2021.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/D.SDA.PDA.005.CAT.202107.ZIP",
+      "sha256": "fb41ec5b035f404db789af801f724dfd689e5d20fb71e626af2b009cfa65e6eb",
+      "tamanho_bytes": 63987,
+      "registros_campos": 171
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_outubro_a_dezembro_de_2021.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/D.SDA.PDA.005.CAT.202110.ZIP",
+      "sha256": "3b3e79aee833203591f3ab33fccf72ad337f3c2ad16ccec241e93bbc4560fd20",
+      "tamanho_bytes": 69397,
+      "registros_campos": 185
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_janeiro_a_março_de_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/D.SDA.PDA.005.CAT.202201.ZIP",
+      "sha256": "f8acbe7bc4e9f5139713286b922ce00a9f6ce7e21324e45fa0006644c5384eba",
+      "tamanho_bytes": 48298,
+      "registros_campos": 128
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_abril_a_junho_de_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/D.SDA.PDA.005.CAT.202204.ZIP",
+      "sha256": "8837226f37c5c9d9bafcce610949aedb89e1350876923fead35d70def5bbff9e",
+      "tamanho_bytes": 21315,
+      "registros_campos": 56
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_Julho_de_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/D.SDA.PDA.005.CAT.202207.ZIP",
+      "sha256": "305478aff9f251145c50925b7c2cba812dbb04cfacbb53c6c2bc7e53926d8e77",
+      "tamanho_bytes": 87463,
+      "registros_campos": 231
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_Agosto_de_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/D.SDA.PDA.005.CAT.202208.ZIP",
+      "sha256": "38bab856dcc7a75a466b47b408d171b19d35f5f34bf3487be5c7cfa7bfb857a4",
+      "tamanho_bytes": 63513,
+      "registros_campos": 167
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_Setembro_de_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/D.SDA.PDA.005.CAT.202209.ZIP",
+      "sha256": "0b05464f0f12cc92de44531ef3ab80418ac8d22b6cb2191d474e2e0721c4354d",
+      "tamanho_bytes": 41243,
+      "registros_campos": 108
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_Outubro_de_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/D.SDA.PDA.005.CAT.202210.ZIP",
+      "sha256": "f548f52f0f4eacdc87d3e0b6c7745de35f318994e644907f51af95a6eecca258",
+      "tamanho_bytes": 120,
+      "registros_campos": 0
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_Novembro_de_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/D.SDA.PDA.005.CAT.202211.ZIP",
+      "sha256": "dbff9e25b4686f83103d4dc9023a1bf175f71b9fd4650de24b4566a0c72387b4",
+      "tamanho_bytes": 1518,
+      "registros_campos": 3
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_Dezembro_de_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/D.SDA.PDA.005.CAT.202212.ZIP",
+      "sha256": "54c4c7e8f18877be471bf736485ae5678280d8cce073cc4b94f69853f2710467",
+      "tamanho_bytes": 13743,
+      "registros_campos": 35
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_Janeiro_2023.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/D.SDA.PDA.005.CAT.202301.ZIP",
+      "sha256": "1dc910eee32eb8a3db6772fec9c227168f69b991542277e9085aa2cb10149f3a",
+      "tamanho_bytes": 9436,
+      "registros_campos": 24
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_fevereiro_2023.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/D.SDA.PDA.005.CAT.202302.ZIP",
+      "sha256": "2a38ae33c246bc13aa3d7bab210ffe6f379a68e336e61101fd0a1fe11b3a2469",
+      "tamanho_bytes": 27617,
+      "registros_campos": 72
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_março_2023.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/D.SDA.PDA.005.CAT.202303.ZIP",
+      "sha256": "c1e2e080ec0f372ffab0d6dbfd100b2c51cef45c65595f94dc4590118b2ba3da",
+      "tamanho_bytes": 28662,
+      "registros_campos": 75
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_abril_2023.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/D.SDA.PDA.005.CAT.202304.ZIP",
+      "sha256": "61052b5c3d4e996380353313fee2587500ce2690ac29465327511fb7dc869f66",
+      "tamanho_bytes": 30975,
+      "registros_campos": 83
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_maio_2023.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/D.SDA.PDA.005.CAT.202305.ZIP",
+      "sha256": "ee7b2e2a04dc501af7bdc62c08a8f8dfd6727fe8293c956e960485e3abab6c49",
+      "tamanho_bytes": 36083,
+      "registros_campos": 95
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_Janeiro_a_Junho_de_2013.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/CATS+EMITIDAS_JANEIRO+A+JUNHO_2013.xlsx",
+      "sha256": "bf43390e6432ced8b4d88e494734b9fe22ebbe1e1f5bbaba842bc66e163f89b0",
+      "tamanho_bytes": 2612281,
+      "registros_campos": 610
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_Julho_a_Dezembro_de_2013.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/CATS+EMITIDAS_JULHO+A+DEZEMBRO_2013.xlsx",
+      "sha256": "b703b27dde84af467c55f107d2bd60ec636af6939e2da6300872056fb2bd6843",
+      "tamanho_bytes": 2843529,
+      "registros_campos": 664
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_Janeiro_a_Junho__de_2014.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/CATS+EMITIDAS_JANEIRO+A+JUNHO_2014.xlsx",
+      "sha256": "a0fc2aca043c9fb5612eba19078737badb0776f65145f165cd2e6a2058082ce6",
+      "tamanho_bytes": 2573682,
+      "registros_campos": 601
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_Julho_a_Dezembro_de_2014.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/CATS+EMITIDAS_JULHO+A+DEZEMBRO_2014.xlsx",
+      "sha256": "4e920896c5ba268f7b2cb678ee8fc1d33b9af8a908f30d7fb43c49e63f2c8c94",
+      "tamanho_bytes": 2976783,
+      "registros_campos": 695
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_Janeiro_a_Junho_de_2015.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/CATS+EMITIDAS_JANEIRO+A+JUNHO_2015.xlsx",
+      "sha256": "de3140ad23ad55d6a8bc75823f137c53f5b17d95b1df2a2e0e999309fc809789",
+      "tamanho_bytes": 2300237,
+      "registros_campos": 537
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_Julho_a_Dezembro_de_2015.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/CATS+EMITIDAS_JULHO+A+DEZEMBRO_2015.xlsx",
+      "sha256": "7e47d04ecb39bd39f1ce5e3c5b1f32c7bde47e1c228e2de791d3b5a179eaa085",
+      "tamanho_bytes": 2433757,
+      "registros_campos": 568
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_Janeiro_a_Junho_de_2016.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/CATS+EMITIDAS_JANEIRO+A+JUNHO_2016.xlsx",
+      "sha256": "884676ad959cc450f03c237be24e24278c87c88317b7ef4e76dc20b05a5befa3",
+      "tamanho_bytes": 1953163,
+      "registros_campos": 456
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_Julho_a_Dezembro_de_2016.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/CATS+EMITIDAS_JULHO+A+DEZEMBRO_2016.xlsx",
+      "sha256": "632b25ef1e91345a699a0fa6a4996be4567bbf0ddd8b21399f3441480bf40156",
+      "tamanho_bytes": 2116378,
+      "registros_campos": 494
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_Janeiro_a_Junho_de_2017.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/CATS+EMITIDAS_JANEIRO+A+JUNHO_2017.xlsx",
+      "sha256": "205997ad24e46f54c4d4ae5be0cc3355420f2a78daac7c942da5c03d5b9746f1",
+      "tamanho_bytes": 1627902,
+      "registros_campos": 380
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_Julho_a_Dezembro_de_2017.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/CATS+EMITIDAS_JULHO+A+DEZEMBRO_2017.xlsx",
+      "sha256": "ae456175dc52b95fb6d564cec6d97af5335b17cbcd3e9ffc6fa8d88007628b1e",
+      "tamanho_bytes": 1735176,
+      "registros_campos": 405
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_Janeiro_a_Junho_de_2018.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/CATS+EMITIDAS_JANEIRO+A+JUNHO_2018+(2)+(1).xlsx",
+      "sha256": "9adc8935d4a67e1cbb7a1cc4551e9af9ee35490fdf021767e13bc91976556f4c",
+      "tamanho_bytes": 1615344,
+      "registros_campos": 377
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_Janeiro_a_Junho_de_2011.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/CATS+EMITIDAS_JANEIRO+A+JUNHO_2011.xlsx",
+      "sha256": "ca1e04af89c00cd5837c99999c5c5ab009a6d9ea1c95a7fe9f6173f21b08efff",
+      "tamanho_bytes": 2994802,
+      "registros_campos": 699
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_Julho_a_Dezembro_de_2011.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/CATS+EMITIDAS_JULHO+A+DEZEMBRO_2011.xlsx",
+      "sha256": "1556e9e36f04cda0c2809b9fff2e2ec5a2b2c82a733320b47a7abd5fac48d8e1",
+      "tamanho_bytes": 1777537,
+      "registros_campos": 415
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_Janeiro_a_Junho_de_2012.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/CATS+EMITIDAS_JANEIRO+A+JUNHO_2012.xlsx",
+      "sha256": "8eee1f8104f2abc5c3eec7c4c8a867181fd333589642070e299e2900fd2fe631",
+      "tamanho_bytes": 2862076,
+      "registros_campos": 668
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "CAT_de_Julho__a_Dezembro_de_2018.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Comunica%C3%A7%C3%A3o+de+Acidente+de+Trabalho+-+CAT/CATS+EMITIDAS+NO+PER%C3%8DODO+DE+JULHO+A+DEZEMBRO+DE+2018.xlsx",
+      "sha256": "da787d42f025f464130a18901ab6179c398b5cf89c0848b214a442c323525f33",
+      "tamanho_bytes": 2152201,
+      "registros_campos": 496
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT_-_junho_2023.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202306.ZIP",
+      "sha256": "ea6439110a5e652c1dafb0e858f83ee679bc16cdac0e3740470f1118c7f39e9e",
+      "tamanho_bytes": 23246,
+      "registros_campos": 80
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT_-_julho_2023.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202307.ZIP",
+      "sha256": "030b83304ba7d6775567ede9174e49b63d88aa5a481f6fcb71cf182311177350",
+      "tamanho_bytes": 28698,
+      "registros_campos": 98
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_agosto_2023.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202308.ZIP",
+      "sha256": "7481aa51e02776a2842ebc60d8f5e9e9865b05ed6afcd4b08827ee431e08ad4c",
+      "tamanho_bytes": 24680,
+      "registros_campos": 84
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_setembro_2023.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202309.ZIP",
+      "sha256": "242d6d3294afa3add70583758bdb197c9548d34dc76c7396c8a1f8b4389c67be",
+      "tamanho_bytes": 24651,
+      "registros_campos": 84
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_outubro_2023.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202310.ZIP",
+      "sha256": "a41be6858e706f93addb120bc8dc03571b101ce561ef837012b8c8b97c6ef850",
+      "tamanho_bytes": 25684,
+      "registros_campos": 88
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_novembro_2023.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202311.ZIP",
+      "sha256": "7a4a30bd752a21609e6b6a2f8b8b2db167c320e2a4a819489a78c7713ffa7d92",
+      "tamanho_bytes": 29175,
+      "registros_campos": 89
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_dezembro_2023.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202312.ZIP",
+      "sha256": "5f91f6a8653c226316548b6fec98ba749d6590ee5ccf46250550a039b347e628",
+      "tamanho_bytes": 25775,
+      "registros_campos": 79
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_janeiro_2024.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202401.ZIP",
+      "sha256": "b7faba4fabda0cb73a124c13834927f04d740720ba64003971a94f73e864dc37",
+      "tamanho_bytes": 25867,
+      "registros_campos": 79
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_fevereiro_2024.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202402.ZIP",
+      "sha256": "67adbefc7cf664823e4be144c8083ecea1bf80b7fd0c5317f57d82edf94e0fb6",
+      "tamanho_bytes": 22399,
+      "registros_campos": 68
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_março_2024.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202403.ZIP",
+      "sha256": "f4a5537faaee1a7874baeb601c332a5b4eef1d77cb90bab5e441867d722c23f4",
+      "tamanho_bytes": 34374,
+      "registros_campos": 105
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_abril_2024.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202404.ZIP",
+      "sha256": "48a7df7d8a21e8c8741961751fda616bf200fb2a6cd9d95132a5846f939c79e3",
+      "tamanho_bytes": 67706,
+      "registros_campos": 208
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_maio_2024.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202405.ZIP",
+      "sha256": "971bf9c2639cea05ed5a6188d4a1106e6fc78ae064ed468278658c215adf9671",
+      "tamanho_bytes": 30541,
+      "registros_campos": 93
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_junho_2024.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202406.ZIP",
+      "sha256": "27234c1a3b803835a7992f397edcb092933466ef44d6f157c8c05cd956314a76",
+      "tamanho_bytes": 32764,
+      "registros_campos": 100
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_julho_2024.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202407.ZIP",
+      "sha256": "4b33422ff0cd55a83afafb2d27cfa7ba4fb9cfd862e976b236094ac51831c6ea",
+      "tamanho_bytes": 40054,
+      "registros_campos": 123
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_agosto_2024.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202408.ZIP",
+      "sha256": "02714b98778d96b669f8d208aab75dc2a55dbaa84abe92b94eddfd8892908113",
+      "tamanho_bytes": 18907,
+      "registros_campos": 57
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_setembro_2024.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202409.ZIP",
+      "sha256": "4bc3a6cfecafcb7302368b3dd5eea50d6048d6fed2d1c77a3c15edb9afb63278",
+      "tamanho_bytes": 1725,
+      "registros_campos": 4
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_outubro_2024.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202410.ZIP",
+      "sha256": "bfbed2404804f72787b42eeb54ebb37e6fbc29f1c28a63d8ea8b44cb10f61483",
+      "tamanho_bytes": 3375,
+      "registros_campos": 9
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_novembro_2024.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202411.ZIP",
+      "sha256": "076fe66b9839c8b57fef2d584b1a1b284d6294e39bd3af7200ce1a8a36192e2d",
+      "tamanho_bytes": 7930,
+      "registros_campos": 23
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_dezembro_2024.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202412.ZIP",
+      "sha256": "42d10c0d15289e7c5979d65acbe141838ce37c827f7d5f8896ba5e1ba6aa6876",
+      "tamanho_bytes": 8563,
+      "registros_campos": 25
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_janeiro_2025.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202501.ZIP",
+      "sha256": "aaf8229d7dee6f24124a9eeff91133756b8cdcdb4be116cd0aee7beafb4fea0d",
+      "tamanho_bytes": 3419,
+      "registros_campos": 9
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_fevereiro_2025.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202502.ZIP",
+      "sha256": "01246ae3a857c1e1213a8b500db91eab4e8ec70a65569955bb6ac98644344f1c",
+      "tamanho_bytes": 5645,
+      "registros_campos": 16
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_março_2025.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202503.ZIP",
+      "sha256": "a85122e3d9c7785ece32f3bfd42540c1135ed6be006732f9fddcd6d2286a3b93",
+      "tamanho_bytes": 12349,
+      "registros_campos": 37
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_abril_2025.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202504.ZIP",
+      "sha256": "286343c9d2fcf1f7b0f9bf6e9e1fa1bb5ab84d5a06d3528fef96225292a11ee8",
+      "tamanho_bytes": 7594,
+      "registros_campos": 22
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_Maio_2025.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2023_2025/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202505.ZIP",
+      "sha256": "84b1ea94d77ed5008a59e8da3883a362a9ca23e87efdfefbc8537b86ef8b1310",
+      "tamanho_bytes": 13327,
+      "registros_campos": 40
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_Junho_2025.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2025_2027/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202506.ZIP",
+      "sha256": "45ff955170c61d1e93e5c8ceb093ac4787a017882ecdb3d67bc31775ea73abb2",
+      "tamanho_bytes": 94626,
+      "registros_campos": 292
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_Julho_2025.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2025_2027/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202507.ZIP",
+      "sha256": "1f8e3c6471b0dd000f868e1155a963f052c75ccbcdbe05ada69f0cc3dbf5dc1b",
+      "tamanho_bytes": 30893,
+      "registros_campos": 96
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_Agosto_2025.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2025_2027/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202508.ZIP",
+      "sha256": "3067e77fc957d89bf694ebbbb2a92595f07dc6eecfcef02179c082ea176e7ec9",
+      "tamanho_bytes": 29657,
+      "registros_campos": 90
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_Setembro_2025.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2025_2027/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202509.ZIP",
+      "sha256": "10c0b6fb3abb49671341791faa3d46c26facdcf2ddd86470cf4ad2fea0dfb934",
+      "tamanho_bytes": 35279,
+      "registros_campos": 107
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_Outubro_2025.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2025_2027/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202510.ZIP",
+      "sha256": "b62de2ed6762b245c6b57c9b2a4590a8730bece420ae03d052f5244b049c9a14",
+      "tamanho_bytes": 44929,
+      "registros_campos": 138
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_Novembro_2025.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2025_2027/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202511.ZIP",
+      "sha256": "a7867dffc2489a61973574f27faff8052c8058b5e5983fb343f85dfa753ca5b1",
+      "tamanho_bytes": 465,
+      "registros_campos": 0
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_Dezembro_2025.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2025_2027/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202512.ZIP",
+      "sha256": "7b08c6326451762e6a34a42a5646056683959cce261a0e1e71c72c441161b322",
+      "tamanho_bytes": 787,
+      "registros_campos": 1
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_Janeiro_2026.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2025_2027/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202601.ZIP",
+      "sha256": "e2bf87d2d92e9188ca68315fe996ed0a1c2dcc59bd2e2c3742e27d6e255f0445",
+      "tamanho_bytes": 31066,
+      "registros_campos": 95
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT-_Fevereiro_2026.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2025_2027/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202602.ZIP",
+      "sha256": "9ea4dbf2f56dca1f1d079838af209b6a3d264ba29ebf1dd278f6d165aba7dcd5",
+      "tamanho_bytes": 34198,
+      "registros_campos": 104
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT_-_Março_2026.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2025_2027/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202603.ZIP",
+      "sha256": "7ed2fc583fc2587afbf1f372844a8fb1ed8927932cc37b44e314fea58c9b23ef",
+      "tamanho_bytes": 41555,
+      "registros_campos": 127
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT_-_Abril_2026.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2025_2027/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202604.ZIP",
+      "sha256": "daef6fa4e828aa79b8f093803e3b3fbbef0c533ae967ddc3a41e110cd3a5f12e",
+      "tamanho_bytes": 36127,
+      "registros_campos": 110
+    },
+    {
+      "dataset": "cat",
+      "arquivo": "Comunicações_de_Acidente_de_Trabalho___CAT_-_Maio_2026.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/PDA_2025_2027/Grupos_de_dados/Comunica%C3%A7%C3%B5es+de+Acidente+de+Trabalho+%E2%80%93+CAT/D.SDA.PDA.005.CAT.202605.ZIP",
+      "sha256": "31c8f8a2ddfa1bc9902ad4ea6f9d8e50b3d9674ed0aa247c818ea1e7d3e3071f",
+      "tamanho_bytes": 4629,
+      "registros_campos": 13
+    }
+  ]
+}

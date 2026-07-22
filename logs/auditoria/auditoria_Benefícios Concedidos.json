@@ -1,0 +1,508 @@
+{
+  "dataset": "Benefícios Concedidos",
+  "inicio": "2026-07-21T18:41:49.509058",
+  "fim": "2026-07-21T19:06:03.976299",
+  "duracao_total_segundos": 1454.47,
+  "etapas": [
+    {
+      "etapa": "processar_dataset",
+      "duracao_segundos": 0.0
+    },
+    {
+      "etapa": "api_listar_recursos",
+      "duracao_segundos": 23.32
+    }
+  ],
+  "metricas": {
+    "arquivos_baixados": 97,
+    "arquivos_pulados": 0,
+    "arquivos_erro": 0,
+    "bytes_baixados": 7138381906,
+    "bytes_filtrados": 10469949,
+    "registros_campos": 52400,
+    "registros_total_bruto": 22613307,
+    "tempo_download_segundos": 1284.2143216133118,
+    "tempo_filtro_segundos": 142.6043622493744,
+    "arquivos_sem_campos": 0
+  },
+  "erros": [
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP",
+    "  Nenhum CSV/XLSX encontrado dentro do ZIP"
+  ],
+  "warnings": [],
+  "manifesto": [
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_Dezembro_2018.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-12-2018.csv",
+      "sha256": "389a66638f4c1475f18c94bfac1fc4f24509c578fe01e8c29893cf6f012956c0",
+      "tamanho_bytes": 139923,
+      "registros_campos": 707
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_janeiro_2019.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/concedidos-01-2019.csv",
+      "sha256": "d55107b753bf08b740ca774cd5bd0df5b893d81eae4759236c4657eea3b908ad",
+      "tamanho_bytes": 141996,
+      "registros_campos": 702
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_fevereiro_2019.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/concedidos-02-2019.csv",
+      "sha256": "51cb140e00b4876da212f49b9c5c2703f82aa7eb25844e359316b5bdefaf51ae",
+      "tamanho_bytes": 190556,
+      "registros_campos": 926
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_março_2019.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/concedidos-03-2019.csv",
+      "sha256": "8d0e39435c35b657f1a38c907416fb5ab06407c169ebf1bbd030b24db390da71",
+      "tamanho_bytes": 136961,
+      "registros_campos": 662
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_abril_2019.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/concedidos-04-2019.csv",
+      "sha256": "2c302473b482b12aca08a013d5fbc7f07979f2bb402eb62ed1816395d8983148",
+      "tamanho_bytes": 168597,
+      "registros_campos": 821
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_maio_2019.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/concedidos-05-2019.csv",
+      "sha256": "0aea679ef7562c43b97304c4c0465f27e06eb005cfc6b6d5804175971702c73b",
+      "tamanho_bytes": 226845,
+      "registros_campos": 1226
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_junho_2019.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/concedidos-06-2019.csv",
+      "sha256": "f19af478f66ef24390f6cc232277f8435df62495d289e4df15d6bcc096ea5d48",
+      "tamanho_bytes": 164603,
+      "registros_campos": 871
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_julho_2019.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/concedidos-07-2019.csv",
+      "sha256": "126fd9dc93296ae60c39d4120b131f27443a92fa33c5e5cc17675e4a321ce6ef",
+      "tamanho_bytes": 219740,
+      "registros_campos": 1168
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_agosto_2019.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/concedidos-08-2019.csv",
+      "sha256": "6364497b875b79d22f472b29d3d4af49835c4d85d48ebae53c2346cf70b19d6a",
+      "tamanho_bytes": 271497,
+      "registros_campos": 1495
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_setembro_2019.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/concedidos-09-2019.csv",
+      "sha256": "e80414faaceb781fe0cb807e86864714e4167c31dfd1ba7504af4b2731e5f36c",
+      "tamanho_bytes": 236099,
+      "registros_campos": 1289
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_outubro_2019.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/concedidos-10-2019.csv",
+      "sha256": "a8e0ec8c2a232f71b1c267d481e3923ef3dab99347f4851933bbb9a6dff0b964",
+      "tamanho_bytes": 242687,
+      "registros_campos": 1333
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_novembro_2019.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/concedidos-11-2019.csv",
+      "sha256": "6c54ef542439d2f6227b1fade1f43b87c6b13a5cee3fd5ecbdd2448fd083e382",
+      "tamanho_bytes": 215889,
+      "registros_campos": 1176
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_dezembro_2019.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/concedidos-12-2019.csv",
+      "sha256": "d2130d6ab684cef255eb4a321ea1f33f803cad2fdcb16abf31f8ad951864c4f3",
+      "tamanho_bytes": 181541,
+      "registros_campos": 976
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_janeiro_2020.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-01-2020.csv",
+      "sha256": "7e49ab0f1235a7f08a8a582534179896cde2beed306d170759e9940a6fc63de9",
+      "tamanho_bytes": 148354,
+      "registros_campos": 783
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_fevereiro_2020.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-02-2020.csv",
+      "sha256": "bdd5845271216755e2b778c6c1e591da46cdd234ca4b24650a6bada8ddb7817e",
+      "tamanho_bytes": 160370,
+      "registros_campos": 846
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_março_2020.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-03-2020.csv",
+      "sha256": "eb0e3de870289e9e00099c1343355ed1112f3ddf78316413b2b28952b36e9067",
+      "tamanho_bytes": 137685,
+      "registros_campos": 732
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_abril_2020.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-04-2020.csv",
+      "sha256": "d2c00d8d5b71fd68c4238a6bb88a37678527db287a36c17b050224283091f317",
+      "tamanho_bytes": 193304,
+      "registros_campos": 1125
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_maio_2020.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-05-2020.csv",
+      "sha256": "9de2c60e32ed1103acb856dbdd1d6561fe57e9f162b190a57d1a61a56879d1c7",
+      "tamanho_bytes": 131024,
+      "registros_campos": 718
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_junho_2020.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-06-2020.csv",
+      "sha256": "c528a395d979280e919a476bd95fb05813f94a7bf4f92c1432d8574a319617da",
+      "tamanho_bytes": 175294,
+      "registros_campos": 949
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_julho_2020.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-07-2020.csv",
+      "sha256": "c86ebe79e61d6035443552cf72965eee114af191d3ab46d51285d8259472e371",
+      "tamanho_bytes": 168671,
+      "registros_campos": 902
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_agosto_2020.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-08-2020.csv",
+      "sha256": "f06f981a1da0a8a1e02bf93bb2b2d32629550d8a42869cdcc79aaea2e2c7e1f2",
+      "tamanho_bytes": 165574,
+      "registros_campos": 904
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_setembro_2020.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-09-2020.csv",
+      "sha256": "54dc47f9c94eeee19a44a29d8f45d29448de6ca40382bb3ebf972bac49b2c455",
+      "tamanho_bytes": 169738,
+      "registros_campos": 920
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_outubro_2020.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-10-2020.csv",
+      "sha256": "3dce61057ac9b8cae91ff1b1045feb2296e4eaaba8331955ba9597986ed39c69",
+      "tamanho_bytes": 209305,
+      "registros_campos": 1118
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_novembro_2020.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-11-2020.csv",
+      "sha256": "f6ffa10bbab53fabeab7f52d834ad5024b413d1978abecaa15e10c63f15baeab",
+      "tamanho_bytes": 150440,
+      "registros_campos": 803
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_dezembro_2020.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-12-2020.csv",
+      "sha256": "644493afd9cc0683d305a71b796b6991a2d687e5b05047844e3f6e2646d1b564",
+      "tamanho_bytes": 153572,
+      "registros_campos": 831
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_janeiro_2021.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-01-2021.csv",
+      "sha256": "b332cd3af25a3c533c2b5c08c65400ac1091df38daeb76f91305fd375d86e227",
+      "tamanho_bytes": 111761,
+      "registros_campos": 609
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_fevereiro_2021.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-02-2021.csv",
+      "sha256": "04e45dbd84024b8585bce7a8de3c5526d804e5769d926dbfa23a5e8b54c01297",
+      "tamanho_bytes": 167006,
+      "registros_campos": 889
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_março_2021.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-03-2021.csv",
+      "sha256": "7445577634180733378771660b7e26213d2e47ba00c137964ccc6a6f51c6002d",
+      "tamanho_bytes": 225976,
+      "registros_campos": 1186
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_abril_2021.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-04-2021.csv",
+      "sha256": "64ee99514a4c842b3c218f1b5603d626c3de51138655e58731d37ff1e42ec894",
+      "tamanho_bytes": 228104,
+      "registros_campos": 1195
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_maio_2021.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-05-2021.zip",
+      "sha256": "0101ee2f9aca5f884e7f53e6dc7a7f89d6e421103f01ed24018999d415e02dcd",
+      "tamanho_bytes": 201940,
+      "registros_campos": 957
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_junho_2021.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-06-2021.zip",
+      "sha256": "1c160a87017d7700082dd4b6aaadd8dbfbcb9316df57cc00fa538ca1aca89b08",
+      "tamanho_bytes": 209693,
+      "registros_campos": 989
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_julho_2021.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/beneficios-concedidos-07-2021.zip",
+      "sha256": "aeeae917db88cbad7451e11806536dfa97ebe13e5d90883cefc82b3d2b047ed5",
+      "tamanho_bytes": 199918,
+      "registros_campos": 944
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_Concedidos_agosto_2021.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/d-sda-pda-001-con-202108.zip",
+      "sha256": "15070e787decce3db0a13467c7ce374f268fa3647981554063554a4c3def947f",
+      "tamanho_bytes": 223277,
+      "registros_campos": 1059
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_setembro_2021.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202109.ZIP",
+      "sha256": "d4c59b74ed476533128180f0a8bf2194ab7f2d7b739c9532c132699507b06997",
+      "tamanho_bytes": 223180,
+      "registros_campos": 1044
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_outubro_2021.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202110.ZIP",
+      "sha256": "7011e382d1a32d1115c179b2c1900a0f279d0cf2d6176b1e3f4211584d7b81a2",
+      "tamanho_bytes": 188606,
+      "registros_campos": 884
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_novembro_2021.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202111.ZIP",
+      "sha256": "ab1d54c19ad28a0d23949e8ba81a676f31f896a7814092ffa04d9b55bde7cc07",
+      "tamanho_bytes": 180793,
+      "registros_campos": 851
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_dezembro_2021.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202112.ZIP",
+      "sha256": "afd546b98c2ef9d2d49be3c5e7d14d69804eb38db0b3142899ba5b602167ff30",
+      "tamanho_bytes": 168877,
+      "registros_campos": 796
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_janeiro_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202201.ZIP",
+      "sha256": "4094604c78c07eb64b0d862eecd4708866f8b1ddcd7d815914f2b26a0eb30938",
+      "tamanho_bytes": 201656,
+      "registros_campos": 930
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_fevereiro_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202202.ZIP",
+      "sha256": "418857373edd92e8a2f14cca11e577471073d74c792572ba6d10a517b655b055",
+      "tamanho_bytes": 169243,
+      "registros_campos": 804
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_março_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202203.ZIP",
+      "sha256": "db6089575674442a42af04d48f7311712f2ae6f1aa5657fddd60671c2a026c86",
+      "tamanho_bytes": 187309,
+      "registros_campos": 878
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_abril_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202204.ZIP",
+      "sha256": "dad8bad45aba03005b0ea3ed8b5cec08a05b7e80b98f51cf2323b2f07d16d783",
+      "tamanho_bytes": 124069,
+      "registros_campos": 590
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_maio_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202205.ZIP",
+      "sha256": "475c48aab82425d6e30fe351d3a160ce2c20ffbe74fb07a2308b42700dbc26aa",
+      "tamanho_bytes": 219484,
+      "registros_campos": 1036
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_junho_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202206.ZIP",
+      "sha256": "e5f17017d0b47f32a775ca084b9795d9a9ccdd55c585f526813f15ce1e0bed94",
+      "tamanho_bytes": 274207,
+      "registros_campos": 1292
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_julho_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202207.ZIP",
+      "sha256": "3ecf851d7a2fed9be5a4ebb1ebf245c1493e18cfb3cf13d0e870cdde5d73b7d3",
+      "tamanho_bytes": 216893,
+      "registros_campos": 1037
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_agosto_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202208.ZIP",
+      "sha256": "829e379e13c171283e3d01c74a161e90b5803d4096cffb933e59fb9bcafa7353",
+      "tamanho_bytes": 338444,
+      "registros_campos": 1562
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_setembro_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202209.ZIP",
+      "sha256": "0b0ab46a19b5aba53a667768d5e9be7f4f74e6eb855cee9229aca5f4ff10be98",
+      "tamanho_bytes": 264901,
+      "registros_campos": 1252
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_outubro_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202210.ZIP",
+      "sha256": "3130a6a40dd7de0a5f6338bbdf28f564f9bd7903ee18e1cd9170da24d3835d7c",
+      "tamanho_bytes": 252623,
+      "registros_campos": 1177
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_novembro_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202211.ZIP",
+      "sha256": "00724f72dc5cd3dffa93c461f51f161bfd734aaf2a3e294f47e925c8e7f45824",
+      "tamanho_bytes": 219132,
+      "registros_campos": 1026
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_dezembro_2022.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202212.ZIP",
+      "sha256": "fe86b4eb704d48bfb444d01584863e030a6f120ae7bf50c2f10446c549f4e280",
+      "tamanho_bytes": 203285,
+      "registros_campos": 942
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_janeiro_2023.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202301.ZIP",
+      "sha256": "1a321602938961da55ef24be4e46399a929d2faa8145b6b8a907b6693e860bb7",
+      "tamanho_bytes": 145197,
+      "registros_campos": 674
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_fevereiro_2023.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202302.ZIP",
+      "sha256": "1e7d12bac9ae4f800e2c0bb619ea5006fcf58cdbd0e27cf109c185364339088c",
+      "tamanho_bytes": 162220,
+      "registros_campos": 744
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_março_2023.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202303.ZIP",
+      "sha256": "3276e77effeb7dd876d6b490776752fea5bd6072fba8b27e02b33e675fe54f1c",
+      "tamanho_bytes": 240495,
+      "registros_campos": 1110
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_abril_2023.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202304.ZIP",
+      "sha256": "4321d2614255f9274682dc28ef022a857f6dc1bb81084e6e14abc0e2b3a0d632",
+      "tamanho_bytes": 182004,
+      "registros_campos": 846
+    },
+    {
+      "dataset": "concedidos",
+      "arquivo": "Benefícios_concedidos_maio_2023.csv",
+      "url": "https://armazenamento-dadosabertos.s3.sa-east-1.amazonaws.com/Plano+2016_2018_Grupos+de+dados/INSS+-+Benef%C3%ADcios+Concedidos/D.SDA.PDA.001.CON.202305.ZIP",
+      "sha256": "e0766f356977068f6cf00e516f8edb2cb13660cc1127da089c0221330e4170b2",
+      "tamanho_bytes": 239391,
+      "registros_campos": 1114
+    }
+  ]
+}

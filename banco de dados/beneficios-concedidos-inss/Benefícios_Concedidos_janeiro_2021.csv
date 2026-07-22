@@ -1,0 +1,610 @@
+﻿Competência concessão;Espécie;CID;CID_1;Despacho;Dt Nascimento;Sexo.;Clientela;Mun Resid;Vínculo dependentes;Forma Filiação;UF;Qt SM RMI
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;16/05/1973;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;Bahia;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;20/06/1958;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Bahia;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;16/07/1985;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Bahia;1,028
+202101;Aposentadoria por Tempo de Contribuição;000000;Zerados;Concessao com Conversao Tempo de Servico;02/08/1964;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Bahia;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;22/06/1955;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Bahia;3,371
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;09/09/1943;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Bahia;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;21/06/1995;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Bahia;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;24/04/1997;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Ceará;1
+202101;Auxílio Doenca Previdenciário;m50;M50   Transt dos Discos Cervicais;Concessao Normal;02/09/1952;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Espírito Santo;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;12/03/1992;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Espírito Santo;1
+202101;Aposent. Invalidez Acidente Trabalho;000000;Zerados;Concessao Decorrente de Acao Judicial;28/12/1965;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Espírito Santo;5,724
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;17/06/1952;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Espírito Santo;1
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;13/04/1958;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Espírito Santo;3,674
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;08/11/1992;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Companheiro;Autônomo;Espírito Santo;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;30/04/1976;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Espírito Santo;1,233
+202101;Aposentadoria por Tempo de Contribuição;000000;Zerados;Concessao Decorrente de Acao Judicial;31/07/1965;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Espírito Santo;3,225
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;14/12/1963;Feminino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Segurado Especial;Espírito Santo;1
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;11/08/1960;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Espírito Santo;1,064
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;16/01/1966;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Companheiro;Desempregado;Espírito Santo;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;26/12/1958;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Espírito Santo;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;06/12/1993;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Goiás;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;23/10/1949;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Goiás;2,928
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;20/01/1943;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Maranhão;1
+202101;Aposentadoria por Tempo de Contribuição;000000;Zerados;Concessao Normal;13/12/1961;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;3,021
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;03/06/1955;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;g560;G56.0 Sindr do Tunel do Carpo;Concessao Normal;13/11/1969;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;27/09/1955;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;m545;M54.5 Dor Lombar Baixa;Concessao Normal;27/12/1973;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;20/03/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;s92;S92   Frat do Pe;Concessao Normal;09/08/1980;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;10/06/1949;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;s623;S62.3 Frat de Outr Ossos do Metacarpo;Concessao Normal;17/06/1975;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;s42;S42   Frat do Ombro e do Braco;Concessao Normal;04/10/1985;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;07/08/1958;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Minas Gerais;1,113
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;11/07/1953;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;Minas Gerais;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;12/01/1953;Feminino;Rural;17010-RJ-Campos dos Goytacazes;Cônjuge;Segurado Especial;Minas Gerais;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;01/02/1967;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Minas Gerais;1,397
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;17/02/1954;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Minas Gerais;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;22/12/1986;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Minas Gerais;1,018
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;09/09/1994;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Minas Gerais;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;25/11/1942;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Minas Gerais;1,887
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;07/08/1979;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Companheiro;Autônomo;Minas Gerais;1,346
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;17/12/1957;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Minas Gerais;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;17/07/1960;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1,385
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;18/03/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Minas Gerais;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;21/03/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1,137
+202101;Auxílio Doenca Previdenciário;c47;C47   Neopl Malig Nervos Perif e Sist Nerv Au;Concessao Normal;19/11/1961;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Minas Gerais;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;16/07/1944;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;a15;A15   Tuberc Respirat c/Conf Bacteriol e Hist;Concessao Normal;26/06/1998;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Doméstico;Minas Gerais;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;12/11/1952;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Minas Gerais;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;16/11/1954;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Minas Gerais;1
+202101;Amp. Social Pessoa Portadora Deficiencia;F718;F71.8 Outr Comprometimentos do Comport;Concessao Normal;09/11/2009;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;s52;S52   Frat do Antebraco;Concessao Normal;15/06/1963;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;19/05/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Facultativo;Minas Gerais;1
+202101;Amp. Social Pessoa Portadora Deficiencia;Q02;Q02   Microcefalia;Concessao Normal;17/08/2004;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;m256;M25.6 Rigidez Articular Ncop;Concessao Normal;08/08/1958;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;m511;M51.1 Transt Disco Lombar Outr Intervert Radi;Concessao Normal;08/03/1970;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1
+202101;Amp. Social Pessoa Portadora Deficiencia;F21;F21   Transt Esquizotipico;Concessao Normal;23/06/1995;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Paraíba;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;28/04/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Paraíba;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;20/01/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Paraná;1
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;14/07/1954;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;16/05/1993;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Doméstico;Rio de Janeiro;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;16/04/1950;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;Rio de Janeiro;5,36
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;10/06/1950;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;Rio de Janeiro;4,286
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;09/07/1953;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;22/09/1952;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;02/07/1959;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;3,403
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;23/02/1959;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Segurado Especial;Rio de Janeiro;1
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;01/08/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;14/12/1953;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Companheiro;Desempregado;Rio de Janeiro;2,038
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;07/02/1982;Feminino;Rural;17010-RJ-Campos dos Goytacazes;Companheiro;Segurado Especial;Rio de Janeiro;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;18/04/1966;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Companheiro;Autônomo;Rio de Janeiro;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;28/12/1954;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;08/12/1943;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;07/08/1964;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;25/09/1953;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Companheiro;Desempregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;04/10/1955;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;03/08/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1,047
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;15/10/1965;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;15/02/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;12/12/1973;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Rio de Janeiro;2,141
+202101;Aposentadoria por Tempo de Contribuição;000000;Zerados;Concessao Normal;26/12/1961;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Conc. com Base Artigo 35 da Lei 8213/91;07/10/1995;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Rio de Janeiro;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;15/05/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;29/11/1955;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;19/10/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Doméstico;Rio de Janeiro;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;20/05/1955;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;06/01/1951;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;B34;B34   Doenc p/Virus de Localiz Ne;Concessao Normal;22/04/1983;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;3,796
+202101;Aposentadoria Invalidez Previdenciária;M766;M76.6 Tendinite Aquileana;Concessao Normal;18/04/1959;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Aposentadoria Invalidez Previdenciária;I10;I10   Hipertensao Essencial;Concessao Normal;19/03/1958;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;S923;S92.3 Frat de Ossos do Metatarso;Conc. Base Artigo 27 Inciso Ii do Rbps;25/12/1979;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;2,975
+202101;Auxílio Doenca Previdenciário;J069;J06.9 Infecc Aguda das Vias Aereas Super Ne;Conc. Decorrente Revisao Administrativa;31/08/1981;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,013
+202101;Auxílio Doenca Previdenciário;C25;C25   Neopl Malig do Pancreas;Conc. Base Artigo 27 Inciso Ii do Rbps;19/06/1958;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;08/01/1956;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Aposentadoria Invalidez Previdenciária;I710;I71.0 Aneurisma Dissecante da Aorta;Concessao Normal;23/04/1971;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1,103
+202101;Auxílio Doenca por Acidente do Trabalho;S934;S93.4 Entorse e Distensao do Tornozelo;Concessao Normal;22/04/1997;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,383
+202101;Aposentadoria Invalidez Previdenciária;I69;I69   Sequelas de Doenc Cerebrovasculares;Concessao Normal;05/01/1967;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Segurado Especial;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;N40;N40   Hiperplasia da Prostata;Concessao Normal;15/03/1963;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Aposentadoria Invalidez Previdenciária;I69;I69   Sequelas de Doenc Cerebrovasculares;Concessao Normal;01/11/1957;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;S821;S82.1 Frat da Extremidade Proximal da Tibia;Conc. Base Artigo 27 Inciso Ii do Rbps;24/07/1981;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,039
+202101;Auxílio Doenca Previdenciário;S82;S82   Frat da Perna Incl Tornozelo;Conc. Base Artigo 27 Inciso Ii do Rbps;15/01/1976;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,683
+202101;Auxílio Doenca Previdenciário;I69;I69   Sequelas de Doenc Cerebrovasculares;Concessao Normal;01/03/1971;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,037
+202101;Auxílio Doenca Previdenciário;M626;M62.6 Distensao Muscular;Conc. Base Artigo 27 Inciso Ii do Rbps;13/06/1964;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;I69;I69   Sequelas de Doenc Cerebrovasculares;Concessao Normal;08/09/1960;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Segurado Especial;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;I84;I84   Hemorroidas;Concessao Normal;16/11/1964;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;S920;S92.0 Frat do Calcaneo;Conc. Base Artigo 27 Inciso Ii do Rbps;06/12/1961;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;2,279
+202101;Auxílio Doenca Previdenciário;D487;D48.7 Outr Localiz Espec;Concessao Normal;06/02/1972;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,673
+202101;Auxílio Doenca Previdenciário;M545;M54.5 Dor Lombar Baixa;Concessao Normal;26/04/1984;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;2,664
+202101;Auxílio Doenca Previdenciário;B342;B34.2 Infecc p/Coronavirus Ne;Concessao Normal;27/12/1977;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;3,802
+202101;Auxílio Doenca Previdenciário;S62;S62   Frat ao Nivel do Punho e da Mao;Conc. Base Artigo 27 Inciso Ii do Rbps;05/11/1981;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,031
+202101;Auxílio Doenca Previdenciário;M23;M23   Transt Internos dos Joelhos;Concessao Normal;07/03/1969;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;06/06/1954;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;F33;F33   Transt Depressivo Recorrente;Concessao Normal;30/08/1964;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,934
+202101;Auxílio Doenca Previdenciário;F32;F32   Episodios Depressivos;Concessao Normal;21/09/1969;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,515
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;02/07/1956;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;M86;M86   Osteomielite;Conc. Base Artigo 27 Inciso Ii do Rbps;15/03/1982;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;F209;F20.9 Esquizofrenia Ne;Concessao Normal;16/02/1976;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;M545;M54.5 Dor Lombar Baixa;Concessao Normal;29/10/1973;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;G636;G63.6 Polineuropatia Outr Transt Osteomuscula;Concessao Normal;22/02/1966;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1,046
+202101;Auxílio Doenca Previdenciário;K409;K40.9 Hernia Inguinal Unilat Ne s/Obstr Gangr;Concessao Normal;19/05/1967;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;S823;S82.3 Frat da Extremidade Distal da Tibia;Conc. Base Artigo 27 Inciso Ii do Rbps;14/05/1979;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1,283
+202101;Auxílio Doenca Previdenciário;S528;S52.8 Frat de Outr Partes do Antebraco;Conc. Base Artigo 27 Inciso Ii do Rbps;20/04/1996;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,428
+202101;Auxílio Doenca Previdenciário;D320;D32.0 Meninges Cerebrais;Concessao Normal;22/11/1977;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;4,766
+202101;Auxílio Doenca Previdenciário;M462;M46.2 Osteomielite das Vertebras;Concessao Normal;13/08/1964;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;M238;M23.8 Outr Transt Internos do Joelho;Concessao Normal;12/03/1970;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1,417
+202101;Auxílio Doenca Previdenciário;F32;F32   Episodios Depressivos;Concessao Normal;23/06/1964;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1,028
+202101;Auxílio Doenca por Acidente do Trabalho;K40;K40   Hernia Inguinal;Concessao Normal;05/09/1968;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,346
+202101;Auxílio Doenca Previdenciário;O200;O20.0 Ameaca de Aborto;Concessao Normal;07/09/1988;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1,101
+202101;Auxílio Acidente Previdenciário;T930;T93.0 Sequelas de Ferim do Membro Infer;Concessao Normal;17/12/1980;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;0,5
+202101;Aposent. Invalidez Acidente Trabalho;M545;M54.5 Dor Lombar Baixa;Concessao Normal;13/03/1963;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,964
+202101;Aposentadoria Invalidez Previdenciária;I619;I61.9 Hemorragia Intracerebral Ne;Concessao Normal;23/05/1989;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;S062;S06.2 Traum Cerebral Difuso;Conc. Base Artigo 27 Inciso Ii do Rbps;17/01/1981;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,222
+202101;Auxílio Doenca Previdenciário;F200;F20.0 Esquizofrenia Paranoide;Concessao Normal;05/08/1981;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,152
+202101;Auxílio Doenca Previdenciário;E11;E11   Diabetes Mellitus Nao-Insulino-Dependem;Concessao Normal;10/06/1992;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,102
+202101;Auxílio Doenca Previdenciário;F333;F33.3 Trans Depr Recor Epis Atual Grav c/Sint;Concessao Normal;22/10/1978;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;C50;C50   Neopl Malig da Mama;Conc. Base Artigo 27 Inciso Ii do Rbps;21/03/1959;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;4,526
+202101;Auxílio Doenca Previdenciário;s82;S82   Frat da Perna Incl Tornozelo;Concessao Normal;02/11/1978;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;16/08/1953;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Rio de Janeiro;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;13/10/1944;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Rio de Janeiro;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;26/03/1964;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Companheiro;Autônomo;Rio de Janeiro;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;12/12/1965;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Companheiro;Autônomo;Rio de Janeiro;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;11/12/1969;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Companheiro;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;07/10/1966;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,142
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;31/12/1997;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Rio de Janeiro;1,302
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;15/06/1943;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;09/04/1954;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;d250;D25.0 Leiomioma Submucoso do Utero;Concessao Normal;21/01/1972;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Aposentadoria por Tempo de Contribuição;000000;Zerados;Concessao Normal;26/11/1960;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;2,073
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;13/07/1964;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Amp. Social Pessoa Portadora Deficiencia;000000;Zerados;Concessao Decorrente de Acao Judicial;29/01/1967;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Aposent. Invalidez Acidente Trabalho;000000;Zerados;Concessao Decorrente de Acao Judicial;13/10/1952;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;5,207
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;20/07/1958;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Rio de Janeiro;3,281
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;05/09/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Facultativo;Rio de Janeiro;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;14/07/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;12/04/1954;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,022
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;08/12/1950;Feminino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Segurado Especial;Rio de Janeiro;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;26/05/1952;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Segurado Especial;Rio de Janeiro;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;11/05/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio Grande do Sul;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;15/11/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio Grande do Sul;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;01/04/1953;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Rio Grande do Sul;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;06/09/1993;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;Rio Grande do Sul;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;28/08/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio Grande do Sul;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;12/06/1956;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Rio Grande do Sul;1,514
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;04/05/1952;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Santa Catarina;1
+202101;Aposentadoria por Tempo de Contribuição;000000;Zerados;Concessao Normal;26/05/1960;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;São Paulo;1,716
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;27/09/1947;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;São Paulo;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;03/04/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;São Paulo;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;05/07/1951;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;São Paulo;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;13/08/1958;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;São Paulo;3,206
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;29/07/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;São Paulo;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;10/08/1962;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;São Paulo;1,581
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;22/04/1947;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;São Paulo;4,622
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;19/01/1933;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;São Paulo;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;28/10/1990;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;São Paulo;2,444
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;02/07/1985;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;São Paulo;1,018
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;10/08/1951;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;São Paulo;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;01/09/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;23/07/1959;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;19/09/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;18/04/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;25/04/1953;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Conc. com Base Artigo 35 da Lei 8213/91;30/01/1985;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;01/07/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Distrito Federal;1,354
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;24/02/1952;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1,261
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;24/03/1979;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Distrito Federal;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;10/12/1999;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;18/05/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Doméstico;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;09/11/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;03/05/1993;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;05/02/1950;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;16/05/1987;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Distrito Federal;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;17/01/1988;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Distrito Federal;1,018
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;19/07/1949;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;25/02/1953;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Doméstico;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;13/12/1955;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;11/11/1988;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Distrito Federal;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Conc. com Base Artigo 35 da Lei 8213/91;18/07/1990;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Distrito Federal;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;30/05/1992;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Distrito Federal;1,221
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;27/05/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Distrito Federal;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;21/07/2013;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;28/07/1936;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;Bahia;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;29/07/1975;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Espírito Santo;1
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;16/01/1952;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Espírito Santo;1
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;11/08/1960;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Espírito Santo;1,007
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;16/01/1952;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Espírito Santo;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;06/09/1950;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Espírito Santo;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;15/07/1933;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Goiás;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;01/12/1953;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Goiás;1,382
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;16/02/1964;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;Mato Grosso;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;01/01/2010;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Mato Grosso;1
+202101;Aposentadoria por Tempo de Contribuição;000000;Zerados;Concessao com Conversao Tempo de Servico;07/03/1966;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Minas Gerais;1,227
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;11/02/2000;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Minas Gerais;1,831
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;24/06/1953;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Minas Gerais;1,395
+202101;Auxílio Doenca Previdenciário;m165;M16.5 Outr Coxartroses Pos-Traum;Concessao Normal;02/03/1976;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;14/05/1958;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Doméstico;Minas Gerais;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;09/09/1960;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1,082
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;20/02/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Minas Gerais;1,381
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;27/09/1943;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Minas Gerais;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;06/12/1957;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Minas Gerais;1,917
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;25/12/1943;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Minas Gerais;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;29/03/1958;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Minas Gerais;1,436
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;24/10/1955;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;m233;M23.3 Outr Transt do Menisco;Concessao Normal;07/10/1969;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1
+202101;Aposentadoria por Tempo de Contribuição;000000;Zerados;Concessao com Conversao Tempo de Servico;24/01/1958;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Pará;4,094
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;07/01/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Pará;1,073
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;28/05/1959;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Paraná;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;28/10/1953;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Paraná;1,619
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;04/01/1964;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;22/04/1977;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,106
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;11/04/1958;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;07/02/1962;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;I64;I64   Acid Vasc Cerebr Ne Como Hemorrag Isque;Concessao Normal;05/04/1956;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Aposentadoria Invalidez Previdenciária;I63;I63   Infarto Cerebral;Concessao Normal;12/08/1984;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;C50;C50   Neopl Malig da Mama;Conc. Base Artigo 27 Inciso Ii do Rbps;20/10/1956;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Doméstico;Rio de Janeiro;1,057
+202101;Auxílio Doenca Previdenciário;F312;F31.2 Trans Afet Bip Epis Atual Man c/Sint Ps;Concessao Normal;18/08/1985;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1,131
+202101;Auxílio Doenca Previdenciário;B34;B34   Doenc p/Virus de Localiz Ne;Conc. Decorrente Revisao Administrativa;27/04/1970;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;2,909
+202101;Auxílio Doenca Previdenciário;M165;M16.5 Outr Coxartroses Pos-Traum;Concessao Normal;02/03/1976;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,067
+202101;Auxílio Doenca Previdenciário;S72;S72   Frat do Femur;Conc. Base Artigo 27 Inciso Ii do Rbps;13/06/1995;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,283
+202101;Auxílio Doenca por Acidente do Trabalho;S531;S53.1 Luxacao do Cotovelo Ne;Concessao Normal;23/02/1985;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1,098
+202101;Auxílio Doenca Previdenciário;M232;M23.2 Transt Menisco Dev Ruptura ou Lesao Ant;Concessao Normal;07/10/1970;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;2,359
+202101;Auxílio Doenca Previdenciário;I64;I64   Acid Vasc Cerebr Ne Como Hemorrag Isque;Concessao Normal;20/07/1961;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,275
+202101;Auxílio Doenca por Acidente do Trabalho;H663;H66.3 Outr Otites Medias Supurativas Cronicas;Concessao Normal;04/03/1967;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;3,551
+202101;Auxílio Doenca Previdenciário;M624;M62.4 Contratura de Musculo;Concessao Normal;22/11/1978;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1,179
+202101;Auxílio Doenca Previdenciário;J15;J15   Pneumonia Bacter Ncop;Concessao Normal;05/05/1995;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,264
+202101;Auxílio Doenca Previdenciário;S626;S62.6 Frat de Outr Dedos;Conc. Base Artigo 27 Inciso Ii do Rbps;07/04/1984;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;4,113
+202101;Auxílio Doenca Previdenciário;Q621;Q62.1 Atresia e Estenose do Ureter;Concessao Normal;20/03/1976;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Aposentadoria Invalidez Previdenciária;M259;M25.9 Transt Articular Ne;Concessao Normal;30/10/1965;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;S982;S98.2 Amput Traum de Dois ou Mais Artelhos;Conc. Base Artigo 27 Inciso Ii do Rbps;18/12/1990;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,411
+202101;Auxílio Doenca Previdenciário;I64;I64   Acid Vasc Cerebr Ne Como Hemorrag Isque;Concessao Normal;09/08/1963;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;M23;M23   Transt Internos dos Joelhos;Concessao Normal;06/09/1982;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,009
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;05/05/1966;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;12/03/1965;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,035
+202101;Auxílio Doenca Previdenciário;q74;Q74   Outr Malformacoes Congen dos Membros;Concessao Normal;19/08/1983;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Amp. Social Pessoa Portadora Deficiencia;000000;Zerados;Concessao Decorrente de Acao Judicial;06/08/2001;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;17/10/2014;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Rio de Janeiro;1
+202101;Aposentadoria por Tempo de Contribuição;000000;Zerados;Concessao Decorrente de Acao Judicial;16/04/1961;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1,245
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Decorrente de Acao Judicial;01/03/1948;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;27/10/1957;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Companheiro;Empregado;Rio Grande do Sul;3,476
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;02/05/1937;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Rio Grande do Sul;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;22/05/1972;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Rio Grande do Sul;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;14/11/1962;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Santa Catarina;1,386
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;28/10/1950;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Santa Catarina;3,831
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;15/09/1954;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Santa Catarina;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;21/07/2007;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Santa Catarina;1,012
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;27/12/1947;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;São Paulo;1,296
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;21/06/2007;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;São Paulo;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;04/01/1955;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;São Paulo;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;14/07/1963;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;São Paulo;1,81
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;30/03/1978;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Doméstico;São Paulo;1,206
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;27/02/1970;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;São Paulo;1,685
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;14/02/1949;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;São Paulo;1,187
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;08/07/2019;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;São Paulo;1,579
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;20/11/1947;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;São Paulo;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;08/09/1966;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;São Paulo;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;17/02/2019;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;São Paulo;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;04/05/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Sergipe;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;19/04/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Doméstico;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;15/10/1958;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;23/02/1955;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;29/08/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Conc. com Base Artigo 35 da Lei 8213/91;04/07/1993;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;15/09/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Distrito Federal;1,741
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;17/04/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Facultativo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;05/09/1959;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;30/10/1959;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;16/03/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;06/06/1959;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;4,047
+202101;Auxílio Salario Maternidade;000000;Zerados;Conc. com Base Artigo 35 da Lei 8213/91;26/05/1991;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;03/04/1951;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;2,053
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;19/01/1986;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Doméstico;Distrito Federal;1,184
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;14/01/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;21/06/1956;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Facultativo;Distrito Federal;1
+202101;Aposentadoria por Tempo de Contribuição;000000;Zerados;Concessao Normal;18/01/1964;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Distrito Federal;1,823
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;26/01/1986;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Alagoas;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;29/09/1955;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Amazonas;1,947
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;08/01/1976;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Bahia;1,296
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;12/09/1959;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Espírito Santo;1
+202101;Auxílio Doenca Previdenciário;m658;M65.8 Outr Sinovites e Tenossinovites;Concessao Normal;31/08/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Espírito Santo;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;30/07/1952;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Espírito Santo;1
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;17/06/1952;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Espírito Santo;1
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;13/04/1958;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Espírito Santo;2,034
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;06/12/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Espírito Santo;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;03/10/1946;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Companheiro;Empregado;Espírito Santo;1,305
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;21/12/1957;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Espírito Santo;1,057
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;24/06/1947;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Espírito Santo;1
+202101;Amp. Social Pessoa Portadora Deficiencia;F840;F84.0 Autismo Infantil;Concessao Normal;03/02/2017;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Maranhão;1
+202101;Aposentadoria por Tempo de Contribuição;000000;Zerados;Concessao Normal;11/05/1970;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;02/07/1958;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Minas Gerais;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;12/11/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Minas Gerais;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;26/09/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Minas Gerais;1,485
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;19/08/1954;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Minas Gerais;1
+202101;Pensão por Morte Acidente do Trabalho;000000;Zerados;Concessao Normal;13/09/2002;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Minas Gerais;3,517
+202101;Auxílio Doenca Previdenciário;m751;M75.1 Sindr do Manguito Rotador;Concessao Normal;06/10/1963;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;f322;F32.2 Episodio Depressivo Grave s/Sint Psicot;Concessao Normal;30/08/1966;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Facultativo;Minas Gerais;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;22/11/1957;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Minas Gerais;4,152
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;16/04/1939;Feminino;Rural;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Minas Gerais;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;25/10/1974;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;g56;G56   Mononeuropatias dos Membros Super;Concessao Normal;09/04/1972;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Minas Gerais;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;15/10/1946;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Minas Gerais;1
+202101;Aposent. Tempo de Serviço de Professor;000000;Zerados;Concessao Normal;31/01/1967;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Minas Gerais;1,508
+202101;Auxílio Doenca Previdenciário;s42;S42   Frat do Ombro e do Braco;Concessao Normal;03/07/1995;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;09/09/1956;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1,473
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;02/07/1955;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Minas Gerais;1
+202101;Auxilio União;000000;Zerados;Concessao Normal;27/09/2006;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Minas Gerais;0,574
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;08/12/1957;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Minas Gerais;1
+202101;Auxilio União;000000;Zerados;Concessao Normal;02/04/2014;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Minas Gerais;0,574
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;08/12/2014;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Minas Gerais;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;07/03/1951;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Minas Gerais;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;28/02/1988;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho Adotivo;Autônomo;Minas Gerais;1,009
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;11/01/1944;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Minas Gerais;1,206
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;09/07/1960;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Minas Gerais;1,133
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;08/09/1955;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Segurado Especial;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;m75;M75   Lesoes do Ombro;Concessao Normal;25/01/1972;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;m541;M54.1 Radiculopatia;Concessao Normal;26/10/1972;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Minas Gerais;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;30/04/1996;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Paraná;1
+202101;Auxílio Doenca Previdenciário;M179;M17.9 Gonartrose Ne;Concessao Normal;07/01/1961;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Paraná;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;02/12/1949;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Piauí;1
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;29/12/1957;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Aposentadoria por Tempo de Contribuição;000000;Zerados;Concessao Decorrente de Acao Judicial;08/09/1962;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,043
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;20/02/1955;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Companheiro;Desempregado;Rio de Janeiro;1
+202101;Aposentadoria Especial;000000;Zerados;Concessao Decorrente de Acao Judicial;28/12/1967;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;06/11/1953;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;29/12/1957;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Aposentadoria por Tempo de Contribuição;000000;Zerados;Concessao Normal;02/04/1965;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;5,364
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;10/08/1955;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;c218;C21.8 Lesao Invasiva do Reto Anus e do Canal;Concessao Normal;19/11/1960;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;22/03/1954;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empresário;Rio de Janeiro;1
+202101;Auxílio Doenca por Acidente do Trabalho;C920;C92.0 Leucemia Mieloide Aguda;Concessao Normal;16/11/1979;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,978
+202101;Auxílio Doenca Previdenciário;S936;S93.6 Entorse Distensao Outr Partes e Partes;Conc. Base Artigo 27 Inciso Ii do Rbps;03/11/1981;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;2,874
+202101;Auxílio Doenca Previdenciário;S430;S43.0 Luxacao da Articulacao do Ombro;Concessao Normal;20/10/1986;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1,716
+202101;Auxílio Doenca por Acidente do Trabalho;S930;S93.0 Luxacao da Articulacao do Tornozelo;Concessao Normal;15/09/1973;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,659
+202101;Auxílio Doenca Previdenciário;T07;T07   Traum Mult Ne;Conc. Base Artigo 27 Inciso Ii do Rbps;01/05/1972;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,381
+202101;Auxílio Doenca por Acidente do Trabalho;S800;S80.0 Contusao do Joelho;Concessao Normal;10/12/1992;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1,178
+202101;Auxílio Doenca Previdenciário;S063;S06.3 Traum Cerebral Focal;Conc. Base Artigo 27 Inciso Ii do Rbps;25/05/1996;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,405
+202101;Auxílio Doenca Previdenciário;M160;M16.0 Coxartrose Prim Bilateral;Concessao Normal;03/06/1970;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;3,938
+202101;Auxílio Doenca Previdenciário;F333;F33.3 Trans Depr Recor Epis Atual Grav c/Sint;Concessao Normal;19/11/1968;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;G20;G20   Doenc de Parkinson;Conc. Base Artigo 27 Inciso Ii do Rbps;24/01/1973;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,586
+202101;Auxílio Doenca Previdenciário;D259;D25.9 Leiomioma do Utero Ne;Concessao Normal;25/07/1977;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;S52;S52   Frat do Antebraco;Conc. Base Artigo 27 Inciso Ii do Rbps;20/05/1995;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1,202
+202101;Auxílio Doenca Previdenciário;S431;S43.1 Luxacao da Articulacao Acromioclavicula;Conc. Base Artigo 27 Inciso Ii do Rbps;14/05/1966;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1
+202101;Auxílio Doenca por Acidente do Trabalho;G560;G56.0 Sindr do Tunel do Carpo;Concessao Normal;22/06/1966;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;I10;I10   Hipertensao Essencial;Concessao Normal;19/08/1968;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;3,145
+202101;Auxílio Doenca por Acidente do Trabalho;F431;F43.1 Estado de Stress Pos-Traum;Concessao Normal;18/09/1993;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1,182
+202101;Auxílio Doenca Previdenciário;C72;C72   Neop Mal Med Esp Nerv Cran Out Sist Ner;Conc. Base Artigo 27 Inciso Ii do Rbps;16/04/1968;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Doméstico;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;B342;B34.2 Infecc p/Coronavirus Ne;Concessao Normal;20/04/1973;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;2,488
+202101;Aposentadoria Invalidez Previdenciária;I69;I69   Sequelas de Doenc Cerebrovasculares;Concessao Normal;08/09/1960;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Segurado Especial;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;B342;B34.2 Infecc p/Coronavirus Ne;Concessao Normal;13/04/1976;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Rio de Janeiro;1,444
+202101;Auxílio Doenca Previdenciário;S618;S61.8 Ferim de Outr Partes do Punho e da Mao;Conc. Base Artigo 27 Inciso Ii do Rbps;11/09/1963;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,14
+202101;Auxílio Doenca Previdenciário;S424;S42.4 Frat da Extremidade Infer do Umero;Conc. Base Artigo 27 Inciso Ii do Rbps;06/08/1988;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,594
+202101;Auxílio Doenca Previdenciário;I64;I64   Acid Vasc Cerebr Ne Como Hemorrag Isque;Concessao Normal;11/04/1962;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,13
+202101;Auxílio Doenca Previdenciário;S626;S62.6 Frat de Outr Dedos;Conc. Base Artigo 27 Inciso Ii do Rbps;20/04/1977;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;M23;M23   Transt Internos dos Joelhos;Concessao Normal;18/09/1958;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;m51;M51   Outr Transt de Discos Intervertebrais;Concessao Normal;02/11/1953;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;19/12/1957;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;02/08/1955;Feminino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Segurado Especial;Rio de Janeiro;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;10/07/1985;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Rio de Janeiro;1,026
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;27/08/1952;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;03/05/1959;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;23/01/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;14/09/1953;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Amp. Social Pessoa Portadora Deficiencia;000000;Zerados;Concessao Decorrente de Acao Judicial;22/04/2015;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;26/07/1958;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Segurado Especial;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;05/11/1965;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1,248
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;29/09/1954;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;06/11/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio Grande do Sul;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;30/06/2005;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio Grande do Sul;1,05
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;16/08/1966;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Companheiro;Desempregado;Rio Grande do Sul;1,346
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;29/03/1993;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Rio Grande do Sul;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;16/07/1944;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Rio Grande do Sul;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;24/01/1962;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;Rio Grande do Sul;1,255
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;12/07/1938;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Santa Catarina;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;07/10/1967;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Santa Catarina;2,27
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;23/12/1962;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Santa Catarina;1,19
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;01/01/1983;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;São Paulo;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;21/03/1952;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;São Paulo;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;25/12/1936;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;São Paulo;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;07/04/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;São Paulo;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;18/03/1948;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;São Paulo;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;04/01/1968;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;São Paulo;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;16/03/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;07/09/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1,349
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;12/08/1984;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Distrito Federal;1,491
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;10/10/1951;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;19/01/1983;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Facultativo;Distrito Federal;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;08/01/1981;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Doméstico;Distrito Federal;1,184
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;23/05/1995;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;22/03/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Distrito Federal;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;11/02/1988;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Distrito Federal;1
+202101;Auxílio Doenca Previdenciário;t93;T93   Sequelas de Traum do Membro Infer;Concessao Normal;26/01/1966;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Distrito Federal;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;13/07/1989;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;05/04/1949;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;21/09/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;29/09/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;3,416
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;25/12/1946;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;12/09/1948;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;19/12/2000;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;16/08/1958;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Doméstico;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;31/08/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;02/08/1953;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1,001
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;26/10/1956;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;15/11/1948;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Segurado Especial;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;30/04/1954;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Bahia;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;11/05/1948;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Espírito Santo;1
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;20/08/1955;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Espírito Santo;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;02/06/1979;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Doméstico;Espírito Santo;1,184
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;17/06/1968;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;Espírito Santo;1
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;06/12/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Espírito Santo;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;15/08/1957;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Espírito Santo;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;10/07/1959;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Segurado Especial;Espírito Santo;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;12/02/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Goiás;2,641
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;02/10/1979;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Goiás;1,477
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;25/03/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Maranhão;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;04/01/1952;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Maranhão;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;13/07/1986;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;f312;F31.2 Trans Afet Bip Epis Atual Man c/Sint Ps;Concessao Normal;17/07/1987;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;k508;K50.8 Outr Form de Doenc de Crohn;Concessao Normal;01/04/1979;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;31/05/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;Minas Gerais;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Conc. com Base Artigo 35 da Lei 8213/91;23/04/1990;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;m17;M17   Gonartrose;Concessao Normal;06/03/1967;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;s420;S42.0 Frat da Clavicula;Concessao Normal;25/09/1980;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;09/03/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Minas Gerais;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Conc. com Base Artigo 35 da Lei 8213/91;02/03/1980;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Minas Gerais;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;20/03/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Minas Gerais;1,579
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;11/06/1953;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;h401;H40.1 Glaucoma Prim de Angulo Aberto;Concessao Normal;22/07/1965;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Minas Gerais;1
+202101;Amp. Social Pessoa Portadora Deficiencia;F323;F32.3 Episodio Depressivo Grave c/Sint Psicot;Concessao Normal;08/04/1999;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Minas Gerais;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;18/06/1924;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;Minas Gerais;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;01/11/1999;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Minas Gerais;1
+202101;Amp. Social Pessoa Portadora Deficiencia;I25;I25   Doenc Isquemica Cronica do Coracao;Concessao Normal;26/09/1965;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;j342;J34.2 Desvio do Septo Nasal;Concessao Normal;04/02/1995;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;24/01/1957;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;Minas Gerais;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;08/11/1984;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;Minas Gerais;1,011
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;04/06/1942;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;Minas Gerais;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Conc. com Base Artigo 35 da Lei 8213/91;13/09/1979;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;m541;M54.1 Radiculopatia;Concessao Normal;12/07/1978;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;20/08/1991;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Minas Gerais;1
+202101;Amp. Social Pessoa Portadora Deficiencia;F700;F70.0 Mencao Ausencia de ou Compr Minimo Comp;Concessao Normal;17/07/2008;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Pará;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;08/10/1960;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Paraná;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;06/11/1932;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Paraná;3,696
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;23/01/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Pernambuco;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;16/05/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Piauí;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;12/09/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;07/09/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;3,414
+202101;Amp. Social Pessoa Portadora Deficiencia;000000;Zerados;Concessao Decorrente de Acao Judicial;01/08/2010;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Optante Pela Lei 6.184/74;Rio de Janeiro;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;08/11/1982;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;0,611
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;29/07/1959;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;10/03/1954;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;26/09/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;m94;M94   Outr Transt das Cartilagens;Concessao Normal;06/05/1975;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;M712;M71.2 Cisto Sinovial do Espaco Popliteo;Concessao Normal;21/08/1994;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,102
+202101;Aposentadoria Invalidez Previdenciária;I11;I11   Doenc Cardiaca Hipertensiva;Concessao Normal;10/03/1959;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca por Acidente do Trabalho;M751;M75.1 Sindr do Manguito Rotador;Concessao Normal;27/08/1969;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,051
+202101;Auxílio Doenca Previdenciário;S82;S82   Frat da Perna Incl Tornozelo;Conc. Base Artigo 27 Inciso Ii do Rbps;11/12/1975;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;S829;S82.9 Frat da Perna Parte Ne;Conc. Base Artigo 27 Inciso Ii do Rbps;19/11/1983;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,481
+202101;Auxílio Doenca Previdenciário;M23;M23   Transt Internos dos Joelhos;Concessao Normal;23/07/1971;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;S06;S06   Traum Intracraniano;Conc. Base Artigo 27 Inciso Ii do Rbps;02/04/1994;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,325
+202101;Auxílio Doenca Previdenciário;I64;I64   Acid Vasc Cerebr Ne Como Hemorrag Isque;Concessao Normal;13/06/1959;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1,115
+202101;Auxílio Doenca Previdenciário;C04;C04   Neopl Malig do Assoalho da Boca;Conc. Base Artigo 27 Inciso Ii do Rbps;21/06/1977;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;O343;O34.3 Assist Prest Mae p/Incompetencia Cervic;Concessao Normal;11/11/1991;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;2,448
+202101;Auxílio Doenca Previdenciário;S82;S82   Frat da Perna Incl Tornozelo;Conc. Base Artigo 27 Inciso Ii do Rbps;06/05/1996;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;S320;S32.0 Frat de Vertebra Lombar;Conc. Base Artigo 27 Inciso Ii do Rbps;20/04/1989;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1,978
+202101;Auxílio Doenca Previdenciário;S223;S22.3 Frat de Costela;Conc. Base Artigo 27 Inciso Ii do Rbps;20/05/1965;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;20/01/1949;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;F340;F34.0 Ciclotimia;Concessao Normal;10/12/1985;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,819
+202101;Auxílio Doenca Previdenciário;K35;K35   Apendicite Aguda;Concessao Normal;01/08/1977;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,15
+202101;Auxílio Doenca por Acidente do Trabalho;M758;M75.8 Outr Lesoes do Ombro;Concessao Normal;07/09/1964;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;C349;C34.9 Bronquios ou Pulmoes Ne;Conc. Base Artigo 27 Inciso Ii do Rbps;30/09/1968;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,656
+202101;Auxílio Doenca Previdenciário;M541;M54.1 Radiculopatia;Concessao Normal;04/04/1988;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;2,516
+202101;Auxílio Doenca Previdenciário;E050;E05.0 Tireotoxicose c/Bocio Difuso;Concessao Normal;22/05/1978;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,278
+202101;Auxílio Doenca Previdenciário;H544;H54.4 Cegueira em Um Olho;Concessao Normal;10/11/1964;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,183
+202101;Auxílio Doenca por Acidente do Trabalho;S069;S06.9 Traum Intracraniano Ne;Concessao Normal;12/05/1977;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,58
+202101;Auxílio Doenca Previdenciário;B342;B34.2 Infecc p/Coronavirus Ne;Concessao Normal;13/04/1968;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;3,853
+202101;Auxílio Doenca Previdenciário;F312;F31.2 Trans Afet Bip Epis Atual Man c/Sint Ps;Concessao Normal;24/01/1985;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,112
+202101;Auxílio Doenca Previdenciário;M545;M54.5 Dor Lombar Baixa;Concessao Normal;02/08/1989;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;3,77
+202101;Auxílio Doenca Previdenciário;H259;H25.9 Catarata Senil Ne;Concessao Normal;17/08/1959;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Facultativo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;K40;K40   Hernia Inguinal;Concessao Normal;23/11/1979;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,477
+202101;Auxílio Doenca Previdenciário;F41;F41   Outr Transt Ansiosos;Concessao Normal;02/11/1975;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1,091
+202101;Auxílio Doenca Previdenciário;S925;S92.5 Frat de Outr Artelho;Conc. Base Artigo 27 Inciso Ii do Rbps;25/02/1993;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1,223
+202101;Auxílio Doenca Previdenciário;S630;S63.0 Luxacao do Punho;Conc. Base Artigo 27 Inciso Ii do Rbps;11/07/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1,539
+202101;Auxílio Doenca por Acidente do Trabalho;S623;S62.3 Frat de Outr Ossos do Metacarpo;Concessao Normal;30/07/1977;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,963
+202101;Auxílio Doenca Previdenciário;S83;S83   Luxacao Entorse Distensao Art Lig Joelh;Conc. Base Artigo 27 Inciso Ii do Rbps;10/01/1983;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,317
+202101;Auxílio Doenca Previdenciário;O20;O20   Hemorragia do Inicio da Gravidez;Concessao Normal;27/05/1984;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;2,713
+202101;Auxílio Doenca Previdenciário;S82;S82   Frat da Perna Incl Tornozelo;Conc. Base Artigo 27 Inciso Ii do Rbps;31/08/1966;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,355
+202101;Auxílio Doenca Previdenciário;G560;G56.0 Sindr do Tunel do Carpo;Concessao Normal;16/05/1988;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1,92
+202101;Auxílio Doenca Previdenciário;C50;C50   Neopl Malig da Mama;Conc. Base Artigo 27 Inciso Ii do Rbps;07/01/1983;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1,044
+202101;Auxílio Doenca Previdenciário;S899;S89.9 Traum Ne da Perna;Conc. Base Artigo 27 Inciso Ii do Rbps;27/06/1977;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,019
+202101;Auxílio Doenca Previdenciário;M236;M23.6 Outr Rupturas Espontaneas Ligamentos Jo;Conc. Base Artigo 27 Inciso Ii do Rbps;26/05/2000;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,55
+202101;Auxílio Doenca Previdenciário;C61;C61   Neopl Malig da Prostata;Conc. Base Artigo 27 Inciso Ii do Rbps;19/04/1968;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,383
+202101;Auxílio Doenca Previdenciário;C50;C50   Neopl Malig da Mama;Conc. Base Artigo 27 Inciso Ii do Rbps;26/08/1986;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1
+202101;Auxílio Doenca por Acidente do Trabalho;M75;M75   Lesoes do Ombro;Concessao Normal;29/03/1965;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;4,117
+202101;Auxílio Doenca Previdenciário;S208;S20.8 Traum Superf de Outr Partes Espec Torax;Conc. Base Artigo 27 Inciso Ii do Rbps;04/03/1993;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,167
+202101;Auxílio Doenca Previdenciário;C509;C50.9 Mama Ne;Conc. Base Artigo 27 Inciso Ii do Rbps;02/10/1992;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;2,834
+202101;Aposentadoria Invalidez Previdenciária;D473;D47.3 Trombocitemia Essencial;Concessao Normal;28/07/1962;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;M542;M54.2 Cervicalgia;Concessao Normal;02/06/1980;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1,175
+202101;Auxílio Doenca Previdenciário;S82;S82   Frat da Perna Incl Tornozelo;Conc. Base Artigo 27 Inciso Ii do Rbps;27/02/1992;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1,673
+202101;Auxílio Doenca Previdenciário;S422;S42.2 Frat da Extremidade Super do Umero;Conc. Base Artigo 27 Inciso Ii do Rbps;13/06/1974;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,826
+202101;Auxílio Doenca Previdenciário;E147;E14.7 c/Complic Mult;Concessao Normal;16/06/1964;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1,016
+202101;Auxílio Doenca Previdenciário;S723;S72.3 Frat da Diafise do Femur;Conc. Base Artigo 27 Inciso Ii do Rbps;01/05/1994;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,431
+202101;Auxílio Doenca Previdenciário;T07;T07   Traum Mult Ne;Conc. Base Artigo 27 Inciso Ii do Rbps;07/08/1982;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;S062;S06.2 Traum Cerebral Difuso;Conc. Base Artigo 27 Inciso Ii do Rbps;23/03/1996;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,678
+202101;Auxílio Doenca Previdenciário;S52;S52   Frat do Antebraco;Conc. Base Artigo 27 Inciso Ii do Rbps;17/09/1985;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1,272
+202101;Auxílio Doenca Previdenciário;S81;S81   Ferim da Perna;Conc. Base Artigo 27 Inciso Ii do Rbps;21/09/1996;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;C509;C50.9 Mama Ne;Conc. Base Artigo 27 Inciso Ii do Rbps;10/09/1959;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;H360;H36.0 Retinopatia Diabetica;Conc. Base Artigo 27 Inciso Ii do Rbps;22/03/1982;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,024
+202101;Auxílio Doenca Previdenciário;C25;C25   Neopl Malig do Pancreas;Conc. Base Artigo 27 Inciso Ii do Rbps;02/08/1978;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Empregado;Rio de Janeiro;1,156
+202101;Auxílio Doenca Previdenciário;F31;F31   Transt Afetivo Bipolar;Concessao Normal;11/11/1971;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;05/09/1962;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Decorrente de Acao Judicial;26/12/1953;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;19/07/1965;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;09/08/1957;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;23/10/1959;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;03/01/1956;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;24/01/1940;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Companheiro;Empregado;Rio de Janeiro;4,236
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;26/02/1990;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Rio de Janeiro;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;18/03/1988;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Rio de Janeiro;1,318
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;25/06/1984;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Rio de Janeiro;1,018
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;10/09/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,224
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;24/03/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;08/02/1992;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1,082
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;17/08/1987;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,311
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;30/07/1956;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;08/04/1955;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Decorrente de Acao Judicial;22/06/1952;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;18/12/1943;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;28/11/1958;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Aposentadoria Invalidez Previdenciária;000000;Zerados;Concessao Decorrente de Acao Judicial;28/11/1958;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;14/03/1950;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;Rio de Janeiro;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;24/08/1985;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Companheiro;Empregado;Rio de Janeiro;1
+202101;Amparo Social ao Idoso;000000;Zerados;Concessao Normal;16/09/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio de Janeiro;1
+202101;Amp. Social Pessoa Portadora Deficiencia;000000;Zerados;Concessao Decorrente de Acao Judicial;26/04/1967;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1
+202101;Auxílio Doenca Previdenciário;;Em Branco;Concessao Decorrente de Acao Judicial;20/09/1981;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio de Janeiro;1,534
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;12/07/1952;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Doméstico;Rio Grande do Norte;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;18/03/1955;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Rio Grande do Sul;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;16/08/2004;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Rio Grande do Sul;1,282
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;18/02/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Rio Grande do Sul;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;06/10/1930;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Desempregado;Rio Grande do Sul;3,567
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;12/10/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Santa Catarina;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;12/05/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;São Paulo;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;12/07/1984;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Doméstico;São Paulo;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;02/09/1973;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Companheiro;Autônomo;São Paulo;2,142
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;25/10/1958;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;São Paulo;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;16/09/1949;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;São Paulo;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;30/05/1962;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Empregado;São Paulo;2,885
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;25/01/1993;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;São Paulo;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;12/10/1960;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Segurado Especial;São Paulo;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;22/05/1983;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;São Paulo;1,005
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;22/09/1982;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Companheiro;Autônomo;São Paulo;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;15/02/1957;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;São Paulo;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;20/05/1946;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;São Paulo;1,725
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;08/09/1975;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Companheiro;Empregado;São Paulo;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;28/03/1950;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;São Paulo;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;01/09/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Sergipe;1
+202101;Aposentadoria por Tempo de Contribuição;000000;Zerados;Concessao Normal;19/12/1961;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Distrito Federal;1,941
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;06/11/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;2,044
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;16/06/1954;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;22/03/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;20/01/1950;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;16/10/1958;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;05/04/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;13/04/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Distrito Federal;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;31/07/1975;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Doméstico;Distrito Federal;1,148
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;08/06/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Distrito Federal;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Conc. com Base Artigo 35 da Lei 8213/91;28/09/1982;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Distrito Federal;1
+202101;Amp. Social Pessoa Portadora Deficiencia;00M058;{ñ class};Concessao Normal;29/03/1972;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Doméstico;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;28/08/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Distrito Federal;3,367
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;26/05/1958;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;16/05/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;22/04/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Distrito Federal;1,271
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;05/09/1984;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Distrito Federal;3,571
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;19/10/1985;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Distrito Federal;3,315
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;25/11/1995;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;13/07/1952;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;19/09/1955;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Distrito Federal;1,101
+202101;Auxílio Salario Maternidade;000000;Zerados;Conc. com Base Artigo 35 da Lei 8213/91;11/04/1993;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Distrito Federal;1
+202101;Aposentadoria por Tempo de Contribuição;000000;Zerados;Concessao Normal;27/12/1962;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Distrito Federal;1,056
+202101;Aposentadoria por Tempo de Contribuição;000000;Zerados;Concessao Normal;04/03/1957;Masculino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Desempregado;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;19/03/1960;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;18/02/1955;Masculino;Rural;17010-RJ-Campos dos Goytacazes;Não Informado;Segurado Especial;Rondônia;1
+202101;Auxílio Doenca Previdenciário;s821;S82.1 Frat da Extremidade Proximal da Tibia;Concessao Normal;20/09/1994;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Minas Gerais;1
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;05/02/2000;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Minas Gerais;1
+202101;Auxílio Doenca Previdenciário;M23;M23   Transt Internos dos Joelhos;Conc. Base Artigo 27 Inciso Ii do Rbps;28/12/1984;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Empregado;Rio de Janeiro;1,431
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;02/10/1952;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;09/11/1957;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Aposentadoria por Idade;000000;Zerados;Concessao Normal;08/01/1944;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Não Informado;Autônomo;Distrito Federal;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;27/04/1982;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Desempregado;Distrito Federal;1,503
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;07/12/1982;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Distrito Federal;1
+202101;Auxílio Salario Maternidade;000000;Zerados;Concessao Normal;19/11/1987;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Filho;Autônomo;Distrito Federal;1,003
+202101;Pensão por Morte Previdenciária;000000;Zerados;Concessao Normal;25/11/1957;Feminino;Urbano;17010-RJ-Campos dos Goytacazes;Cônjuge;Autônomo;Distrito Federal;3,206
