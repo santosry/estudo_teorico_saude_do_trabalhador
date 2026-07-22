@@ -23,13 +23,11 @@ reaproveitamento de resultados.
 ```
 artigos-fonte/        # PDFs teóricos (NÃO versionados — direitos autorais; ver README local)
 dados/
-  brutos/cat-inss/    # 58 CSV CAT/INSS (NÃO versionados — 1,8 GB; ver README local p/ download)
-  brutos/sinan/       # arquivos SINAN brutos (NÃO versionados)
-  brutos/rais/        # arquivos RAIS brutos (NÃO versionados)
+  brutos/sinan/       # 100 arquivos SINAN .dbc (2015-2025, 9 agravos, versionados via LFS)
   brutos/sidra-campos/# tabelas SIDRA/IBGE (versionadas)
   manifesto/          # inventário com SHA-256 de todos os arquivos-fonte
   processados/        # bases processadas (CSV/Parquet) de todas as fontes + logs de decisão
-documentos/           # ensaio.docx/pdf (≤5 págs)
+documentos/           # documentos do estudo
 logs/                 # logs de execução, auditoria, qualidade e validação independente
 metadados/            # dicionários (variáveis, CBO-saúde), matriz teórica, fluxo, versões
 referencias/          # referências verificadas, dicionário oficial da fonte, espelho CBO
@@ -38,15 +36,26 @@ scripts/pipeline/     # 01–16 (executar em ordem por dependência)
 scripts/legado/       # scripts originais catalogados + cópias auditadas comentadas
 ```
 
+## SmartLab — Observatórios do MPT
+Dados extraídos para Campos dos Goytacazes (3301009) via API `datahub`:
+
+| Módulo | Indicadores | Conteúdo |
+|---|---|---|
+| **SST** (Saúde e Segurança) | 3.785 | CAT 2002–2023, benefícios B91-B94, SINAN, subnotificação, acidentalidade, atuação do MPT |
+| **Trabalho Infantil** | 3.659 | Ocupação infantil, Prova Brasil, aprendizagem, fiscalização, piores formas |
+| **Trabalho Escravo** | 233 | Operações de combate, CATs/SINAN adolescentes |
+| **Trabalho Decente** | 42 | Oportunidades, jornada, conciliação, estabilidade, igualdade, CAGED |
+
+Scripts: `scripts/smartlab_completo.py`, `scripts/download_smartlab_sst.py`, `scripts/explorar_smartlab.py`
+
 ## Reprodução
 ```bash
 pip install -r metadados/requirements.txt
 
-# Preparação: inventário e ingestão de bases
-python scripts/pipeline/01_inventario.py                # inventário SHA-256 de todos os arquivos-fonte
-python scripts/pipeline/02_ingestao_cat.py              # ingestão CAT/INSS (58 CSVs, 1,8 GB)
-python scripts/pipeline/16_sinan_download.py            # download e validação SINAN (Microdatasus)
-python scripts/download_sih_sim_ben.R                   # download SIH + Benefícios INSS
+# Download de dados
+python scripts/download_inss_completo.py --dataset cat  # CAT/INSS (48 CSVs, 2015-2025)
+python scripts/download_sinan_2015_2017.py               # SINAN 2015-2017 (27 .dbc)
+python scripts/pipeline/16_sinan_download.py            # SINAN 2018-2025 (72 .dbc)
 
 # Processamento
 python scripts/pipeline/03_processamento_campos.py      # filtro municipal (330100), deduplicação e tipificação
@@ -76,10 +85,8 @@ python scripts/pipeline/08_relatorios_docx.py           # relatórios metodológ
 python scripts/pipeline/09_artigo_docx.py               # ensaio final (requer LibreOffice p/ conferir páginas)
 ```
 
-Caminhos relativos à raiz; sem procedimentos aleatórios; logs em `logs/`.
-Os dados brutos não versionados (CAT, SINAN, RAIS) devem ser obtidos conforme
-os respectivos READMEs em cada subpasta e conferidos pelos hashes de
-`dados/manifesto/manifesto_arquivos.csv`.
+Caminhos relativos à raiz. Dados versionados via Git LFS. Para restaurar dados localmente:
+`bash scripts/restaurar_dados_locais.sh`
 
 ### Fontes e instrumentos de coleta
 - **CAT/INSS**: Portal de Dados Abertos do INSS (dados.gov.br) — CSVs mensais de Comunicações de Acidente de Trabalho, 2015–2025
@@ -92,14 +99,19 @@ os respectivos READMEs em cada subpasta e conferidos pelos hashes de
 - **SmartLab**: Observatório Digital de SST/MPT — indicadores sintéticos, inclui dados do Novo CAGED
 - **SIDRA/IBGE**: Projeções populacionais, PIB e contexto socioeconômico
 
+## Resultados principais
+
+| Indicador | Total | Período |
+|---|---|---|
+| CATs de profissionais da saúde | **7.904** | 2015–2025 |
+| Benefícios acidentários (B91-B94) | **4.149** | 2015–2025 |
+| Arquivos SINAN (9 agravos) | **100 .dbc** | 2015–2025 |
+| Indicadores SmartLab | **7.719** | 2000–2026 |
+
+Tabelas completas em `saidas/tabelas/`.
+
 ## Testes e integração contínua
-`python -m pytest tests -q` — 38+ testes sobre os DADOS REAIS versionados (filtro municipal,
-deduplicação, classificação CBO, consistência entre fontes: CAT × SINAN × SIH,
-integridade referencial de códigos IBGE e CBO, supressão de células <3, denominadores,
-limite de páginas do artigo). Testes que exigem os brutos (não versionados) são pulados
-automaticamente — nunca simulados. O workflow `.github/workflows/ci.yml` roda os testes,
-reprocessa os estágios deriváveis e exige que os CSVs regenerados sejam idênticos aos
-versionados (determinismo).
+Workflow `.github/workflows/ci.yml`: reprocessa estágios deriváveis e verifica determinismo dos CSVs versionados.
 
 ## Denominadores (CNES) e razões exploratórias
 `10_denominadores_cnes.py` baixa do TabNet/DataSUS os profissionais (indivíduos) por ocupação
@@ -127,7 +139,7 @@ contra o manifesto antes de liberar a reprodução.
 - **RAIS** = vínculos formais celetistas + estatutários; exclui trabalhadores informais,
   autônomos, MEIs e cooperados sem vínculo.
 - **CAGED** = 2018–2019 via PDET/MTE (CAGEDEST); 2019–2025 via SmartLab (Novo CAGED). Apenas movimentações do mercado formal celetista.
-- Coberturas parciais: 2018 (competências desde jul.), 2022 (carga irregular em múltiplas
-  fontes), 2024 (set–dez atípicos) e 2025 (parcial até out.).
+- Coberturas parciais: 2015–2017 (dados semestrais), 2018 (jul–dez), 2022 (carga irregular),
+  2024 (set–dez atípicos) e 2025 (parcial até out.).
 - **Triangulação de fontes** é a estratégia metodológica central para mitigar limitações
   individuais de cada sistema de informação.
