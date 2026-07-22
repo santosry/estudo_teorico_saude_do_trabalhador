@@ -92,7 +92,7 @@ Silva e Hasenclever (2019): o ciclo petrolífero não superou o subdesenvolvimen
 
 | Fonte | Período | Contribuição ao estudo |
 |-------|---------|------------------------|
-| **CAT/INSS** (Portal Dados Abertos) | 2015–2025 | CATs de profissões da saúde |
+| **CAT/INSS** (Portal Dados Abertos) | 2015–2025 | CATs do município (todas as ocupações) |
 | **SINAN** (ftp.datasus.gov.br) | 2015–2025 | 100 .dbc, 9 agravos de trabalho |
 | **BEN/INSS** (Portal Dados Abertos INSS) | 2015–2025 | Benefícios acidentários (B91-B94) |
 | **RAIS/PDET** (ftp.mtps.gov.br) | 2018–2025 | Denominadores celetistas |
@@ -257,7 +257,7 @@ A vigilância baseada exclusivamente em registros administrativos opera na hegem
 1. **Proteger a enfermagem técnica**: dispositivos de segurança para perfurocortantes e EPI contínuo
 2. **Integrar registros**: CAT + SINAN + RAIS + CNES + PREVICAMPOS
 3. **Vigilância baseada em evidências**: cadeias de acidentes específicas orientam intervenções dirigidas
-4. **Planejamento da força de trabalho**: reconhecer que 71% das receitas são transferências — emprego em saúde vulnerável à volatilidade do petróleo
+4. **Planejamento da força de trabalho**: reconhecer que 71% das receitas são transferências — emprego municipal vulnerável à volatilidade do petróleo
 
 ---
 

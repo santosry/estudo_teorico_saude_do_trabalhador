@@ -11,7 +11,7 @@ INSS** — integra múltiplas bases do Sistema Único de Saúde e de estatístic
 | **Benefícios INSS** | Auxílios-doença acidentários (B91) e previdenciários (B31) — 2015 a 2025 | Afastamentos e incapacidade laboral |
 | **SINAN** | Agravos de notificação compulsória relacionados ao trabalho — 2015 a 2025 | Doenças e agravos ocupacionais de notificação (LER/DORT, intoxicações, transtornos mentais, etc.) |
 | **RAIS** | Vínculos formais de trabalho | Denominadores populacionais, perfil sociodemográfico e setorial da força de trabalho |
-| **CAGED** | Admissões e desligamentos (2018–2019 via PDET/MTE; 2019–2025 via SmartLab/Novo CAGED) | Dinâmica do mercado formal de trabalho em saúde |
+| **CAGED** | Admissões e desligamentos (2018–2019 via PDET/MTE; 2019–2025 via SmartLab/Novo CAGED) | Dinâmica do mercado formal de trabalho |
 | **SmartLab** | Indicadores sintéticos do Observatório de SST/MPT (inclui Novo CAGED 2019–2025) | Epidemiologia institucional comparada e dinâmica do emprego formal |
 | **SIDRA/IBGE** | Projeções populacionais e PIB municipal | Contexto socioeconômico e demográfico |
 
@@ -28,7 +28,7 @@ dados/
   processados/        # bases processadas (CSV/Parquet) de todas as fontes + logs de decisão
 documentos/           # documentos do estudo
 logs/                 # logs de execução, auditoria, qualidade e validação independente
-metadados/            # dicionários (variáveis, CBO-saúde), matriz teórica, fluxo, versões
+metadados/            # dicionários (variáveis, CBO), matriz teórica, fluxo, versões
 referencias/          # referências verificadas, dicionário oficial da fonte, espelho CBO
 saidas/tabelas|figuras/
 scripts/pipeline/     # 01–16 (executar em ordem por dependência)
@@ -58,7 +58,7 @@ python scripts/pipeline/16_sinan_download.py            # SINAN 2018-2025 (72 .d
 
 # Processamento
 python scripts/pipeline/03_processamento_campos.py      # filtro municipal (330100), deduplicação e tipificação
-python scripts/pipeline/04_dicionario_cbo_classificacao.py  # classificação CBO 2002 — profissões da saúde
+python scripts/pipeline/04_dicionario_cbo_classificacao.py  # classificação CBO 2002
 python scripts/processar_sinan.py                       # processamento SINAN — agravos ocupacionais
 python scripts/processar_beneficios_inss.py             # benefícios INSS acidentários e previdenciários
 python scripts/sih_campos_microdatasus.R                # internações hospitalares relacionadas ao trabalho
@@ -100,7 +100,7 @@ Caminhos relativos à raiz. Dados versionados via Git LFS. Para restaurar dados 
 
 | Indicador | Total | Período |
 |---|---|---|
-| CATs de profissionais da saúde | **7.904** | 2015–2025 |
+| CATs registradas no município | **7.904** | 2015–2025 |
 | Benefícios acidentários (B91-B94) | **4.149** | 2015–2025 |
 | Arquivos SINAN (9 agravos) | **100 .dbc** | 2015–2025 |
 | Indicadores SmartLab | **7.719** | 2000–2026 |
